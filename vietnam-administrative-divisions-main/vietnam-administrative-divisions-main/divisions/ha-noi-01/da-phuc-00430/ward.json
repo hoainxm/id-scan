@@ -1,0 +1,45 @@
+{
+  "id": "00430",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đa Phúc",
+    "en": "Da Phuc",
+    "slug": "da-phuc-00430"
+  },
+  "code": {
+    "id": "00430",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Hà Nội",
+      "en": "Hanoi",
+      "slug": "ha-noi-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.233",
+    "lon": "105.861"
+  },
+  "metadata": {},
+  "source": {}
+}

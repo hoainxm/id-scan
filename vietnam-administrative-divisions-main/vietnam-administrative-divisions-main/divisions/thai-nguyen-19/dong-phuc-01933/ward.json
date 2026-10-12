@@ -1,0 +1,45 @@
+{
+  "id": "01933",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đồng Phúc",
+    "en": "Dong Phuc",
+    "slug": "dong-phuc-01933"
+  },
+  "code": {
+    "id": "01933",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Thái Nguyên",
+      "en": "Thai Nguyen",
+      "slug": "thai-nguyen-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Thái Nguyên",
+        "en": "Thai Nguyen",
+        "slug": "thai-nguyen-19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.32",
+    "lon": "105.723"
+  },
+  "metadata": {},
+  "source": {}
+}

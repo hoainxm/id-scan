@@ -1,0 +1,45 @@
+{
+  "id": "19093",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nam Gianh",
+    "en": "Nam Gianh",
+    "slug": "nam-gianh-19093"
+  },
+  "code": {
+    "id": "19093",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "Quảng Trị",
+      "en": "Quang Tri",
+      "slug": "quang-tri-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.735",
+    "lon": "106.383"
+  },
+  "metadata": {},
+  "source": {}
+}

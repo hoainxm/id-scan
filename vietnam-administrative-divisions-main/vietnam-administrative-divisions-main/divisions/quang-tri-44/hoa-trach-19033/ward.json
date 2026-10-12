@@ -1,0 +1,45 @@
+{
+  "id": "19033",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hòa Trạch",
+    "en": "Hoa Trach",
+    "slug": "hoa-trach-19033"
+  },
+  "code": {
+    "id": "19033",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "Quảng Trị",
+      "en": "Quang Tri",
+      "slug": "quang-tri-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.868",
+    "lon": "106.428"
+  },
+  "metadata": {},
+  "source": {}
+}

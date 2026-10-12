@@ -1,0 +1,45 @@
+{
+  "id": "01537",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lý Quốc",
+    "en": "Ly Quoc",
+    "slug": "ly-quoc-01537"
+  },
+  "code": {
+    "id": "01537",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.794",
+    "lon": "106.758"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tây Xuân, Huyện Tây Sơn, Tỉnh Bình Định",
+  "ellapsedInMs": 16301,
+  "estimatedCost": 0.0034347,
+  "thought": "**Finding the New Administrative Unit**\n\nOkay, let's break this down. The user's requesting the new administrative unit for \"Xã Tây Xuân, Huyện Tây Sơn, Tỉnh Bình Định.\" My first thought is to analyze the input: old ward, district, and province. Straightforward.\n\nNext, I need to account for any province mergers. Given the user's focus, I'm checking for changes to \"Tỉnh Bình Định.\" Aha! Resolution \"60-NQ/TW\" says \"12. Hợp nhất tỉnh Gia Lai và tỉnh Bình Định, lấy tên là tỉnh Gia Lai.\" So, \"Tỉnh Bình Định\" becomes \"Tỉnh Gia Lai.\"\n\nNow, the crucial part: ward-level changes.  Since the province is now Gia Lai, I'm searching resolutions related to that area. I'll need to scrutinize the provided resolutions for any mentions of \"Xã Tây Xuân.\" Let's see...  \"1660/NQ-UBTVQH15\" is in the wrong province, so I'm skipping that. The next one, \"1664/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Gia Lai,\" looks promising! Line 20, specifically, confirms it: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phú Phong, xã Tây Xuân và xã Bình Nghi thành xã mới có tên gọi là **xã Tây Sơn**.\" Excellent, the merging information and the correct province are here!\n\nBased on that, I can deduce that the new ward is \"Xã Tây Sơn\" in \"Tỉnh Gia Lai.\" To provide a complete answer, I need the ward code. I'm cross-referencing this against the provided `New wards` list. Ah, there it is:  `{\"ward_code\":\"21808\",\"ward_name\":\"Xã Tây Sơn\",\"province_name\":\"Tỉnh Gia Lai\"}`. Perfect match. The other entries are from a different province, so I'm sure of my selection.\n\nMy final step is constructing the JSON response. My confidence level is high because the resolution explicitly merges the old ward to form the new unit, in the new province. The citation will be `header`: \"1664/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Gia Lai\" and the `line`: \"20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phú Phong, xã Tây Xuân và xã Bình Nghi thành xã mới có tên gọi là **xã Tây Sơn**.\"  This JSON data will be a precise result of the province change and the merger of the ward. I will return a single JSON object in an array to the user, reflecting the definitive answer: it's Xã Tây Sơn with the code, 21808, in the province of Gia Lai.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1664/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Gia Lai",
+        "line": "20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phú Phong, xã Tây Xuân và xã Bình Nghi thành xã mới có tên gọi là **xã Tây Sơn**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Gia Lai",
+      "ward_code": "21808",
+      "ward_name": "Xã Tây Sơn"
+    }
+  ]
+}

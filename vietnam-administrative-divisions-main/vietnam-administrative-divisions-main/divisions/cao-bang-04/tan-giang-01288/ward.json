@@ -1,0 +1,45 @@
+{
+  "id": "01288",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Giang",
+    "en": "Tan Giang",
+    "slug": "tan-giang-01288"
+  },
+  "code": {
+    "id": "01288",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.622",
+    "lon": "106.268"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "03256",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mường Ảng",
+    "en": "Muong Ang",
+    "slug": "muong-ang-03256"
+  },
+  "code": {
+    "id": "03256",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Điện Biên",
+      "en": "Dien Bien",
+      "slug": "dien-bien-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.527",
+    "lon": "103.259"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "24538",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Krông Ana",
+    "en": "Krong Ana",
+    "slug": "krong-ana-24538"
+  },
+  "code": {
+    "id": "24538",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "Đắk Lắk",
+      "en": "Dak Lak",
+      "slug": "dak-lak-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.495",
+    "lon": "108.077"
+  },
+  "metadata": {},
+  "source": {}
+}

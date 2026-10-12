@@ -1,0 +1,45 @@
+{
+  "id": "07114",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hoàng Quế",
+    "en": "Hoang Que",
+    "slug": "hoang-que-07114"
+  },
+  "code": {
+    "id": "07114",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ninh",
+      "en": "Quang Ninh",
+      "slug": "quang-ninh-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.055",
+    "lon": "106.642"
+  },
+  "metadata": {},
+  "source": {}
+}

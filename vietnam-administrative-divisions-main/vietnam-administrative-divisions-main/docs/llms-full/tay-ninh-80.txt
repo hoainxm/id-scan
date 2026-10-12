@@ -1,0 +1,489 @@
+# Tay Ninh — Vietnam Administrative Divisions
+
+> 96 commune/wards
+> Code: 80
+> Coordinates: 10.694, 106.123
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Lục Long (An Luc Long)
+
+Code: 28243, Coordinates: 10.423, 106.462
+
+
+### An Ninh
+
+Code: 27943, Coordinates: 10.976, 106.315
+
+
+### An Tịnh (An Tinh)
+
+Code: 25732, Coordinates: 10.712, 106.126
+
+
+### Bến Cầu (Ben Cau)
+
+Code: 25681, Coordinates: 11.116, 106.178
+
+
+### Bến Lức (Ben Luc)
+
+Code: 27991, Coordinates: 10.694, 106.454
+
+
+### Bình Đức (Binh Duc)
+
+Code: 28015, Coordinates: 10.642, 106.444
+
+
+### Bình Hiệp (Binh Hiep)
+
+Code: 27793, Coordinates: 10.843, 105.981
+
+
+### Bình Hòa (Binh Hoa)
+
+Code: 27811, Coordinates: 10.775, 106.014
+
+
+### Bình Minh (Binh Minh)
+
+Code: 25480, Coordinates: 10.538, 106.414
+
+
+### Bình Thành (Binh Thanh)
+
+Code: 27868, Coordinates: 10.762, 106.176
+
+
+### Cần Đước (Can Duoc)
+
+Code: 28108, Coordinates: 10.503, 106.604
+
+
+### Cần Giuộc (Can Giuoc)
+
+Code: 28159, Coordinates: 10.608, 106.671
+
+
+### Cầu Khởi (Cau Khoi)
+
+Code: 25573, Coordinates: 11.27, 106.221
+
+
+### Châu Thành (Chau Thanh)
+
+Code: 25585, Coordinates: 10.452, 106.497
+
+
+### Đông Thành (Dong Thanh)
+
+Code: 27898, Coordinates: 11.67, 106.242
+
+
+### Đức Hòa (Duc Hoa)
+
+Code: 27937, Coordinates: 10.883, 106.434
+
+
+### Đức Huệ (Duc Hue)
+
+Code: 27925, Coordinates: 10.866, 106.256
+
+
+### Đức Lập (Duc Lap)
+
+Code: 27964, Coordinates: 10.905, 106.474
+
+
+### Dương Minh Châu (Duong Minh Chau)
+
+Code: 25552, Coordinates: 11.329, 106.248
+
+
+### Gia Lộc (Gia Loc)
+
+Code: 25672, Coordinates: 11.098, 106.338
+
+
+### Gò Dầu (Go Dau)
+
+Code: 25654, Coordinates: 11.085, 106.267
+
+
+### Hảo Đước (Hao Duoc)
+
+Code: 25588, Coordinates: 11.364, 105.99
+
+
+### Hậu Nghĩa (Hau Nghia)
+
+Code: 27931, Coordinates: 10.895, 106.393
+
+
+### Hậu Thạnh (Hau Thanh)
+
+Code: 27841, Coordinates: 10.651, 105.858
+
+
+### Hiệp Hòa (Hiep Hoa)
+
+Code: 27952, Coordinates: 10.915, 106.317
+
+
+### Hòa Hội (Hoa Hoi)
+
+Code: 25606, Coordinates: 11.04, 106.322
+
+
+### Hòa Khánh (Hoa Khanh)
+
+Code: 27979, Coordinates: 10.854, 106.387
+
+
+### Hòa Thành (Hoa Thanh)
+
+Code: 25645, Coordinates: 11.258, 106.15
+
+
+### Hưng Điền (Hung Dien)
+
+Code: 27727, Coordinates: 10.927, 105.604
+
+
+### Hưng Thuận (Hung Thuan)
+
+Code: 25711, Coordinates: 11.165, 106.385
+
+
+### Khánh Hậu (Khanh Hau)
+
+Code: 27715, Coordinates: 10.518, 106.379
+
+
+### Khánh Hưng (Khanh Hung)
+
+Code: 27763, Coordinates: 10.97, 105.726
+
+
+### Kiến Tường (Kien Tuong)
+
+Code: 27787, Coordinates: 10.802, 105.913
+
+
+### Lộc Ninh (Loc Ninh)
+
+Code: 25579, Coordinates: 11.28, 106.316
+
+
+### Long An
+
+Code: 27694, Coordinates: 11.112, 106.133
+
+
+### Long Cang
+
+Code: 28126, Coordinates: 10.597, 106.519
+
+
+### Long Chữ (Long Chu)
+
+Code: 25684, Coordinates: 11.184, 106.108
+
+
+### Long Hoa
+
+Code: 25630, Coordinates: 11.258, 106.171
+
+
+### Long Hựu (Long Huu)
+
+Code: 28144, Coordinates: 10.485, 106.687
+
+
+### Long Thuận (Long Thuan)
+
+Code: 25702, Coordinates: 11.124, 106.097
+
+
+### Lương Hòa (Luong Hoa)
+
+Code: 28003, Coordinates: 10.701, 106.453
+
+
+### Mộc Hóa (Moc Hoa)
+
+Code: 27823, Coordinates: 10.758, 106.041
+
+
+### Mỹ An (My An)
+
+Code: 28066, Coordinates: 10.58, 106.324
+
+
+### Mỹ Hạnh (My Hanh)
+
+Code: 27976, Coordinates: 10.883, 106.467
+
+
+### Mỹ Lệ (My Le)
+
+Code: 28132, Coordinates: 10.56, 106.576
+
+
+### Mỹ Lộc (My Loc)
+
+Code: 28177, Coordinates: 10.595, 106.623
+
+
+### Mỹ Quý (My Quy)
+
+Code: 27907, Coordinates: 10.936, 106.226
+
+
+### Mỹ Thạnh (My Thanh)
+
+Code: 28051, Coordinates: 10.639, 106.337
+
+
+### Mỹ Yên (My Yen)
+
+Code: 28018, Coordinates: 10.641, 106.535
+
+
+### Nhơn Hòa Lập (Nhon Hoa Lap)
+
+Code: 27838, Coordinates: 10.639, 105.959
+
+
+### Nhơn Ninh (Nhon Ninh)
+
+Code: 27856, Coordinates: 10.57, 105.948
+
+
+### Nhựt Tảo (Nhut Tao)
+
+Code: 28087, Coordinates: 10.569, 106.479
+
+
+### Ninh Điền (Ninh Dien)
+
+Code: 25621, Coordinates: 11.237, 105.987
+
+
+### Ninh Thạnh (Ninh Thanh)
+
+Code: 25567, Coordinates: 11.366, 106.13
+
+
+### Phước Chỉ (Phuoc Chi)
+
+Code: 25729, Coordinates: 11.012, 106.233
+
+
+### Phước Lý (Phuoc Ly)
+
+Code: 28165, Coordinates: 10.641, 106.6
+
+
+### Phước Thạnh (Phuoc Thanh)
+
+Code: 25663, Coordinates: 10.7, 106.15
+
+
+### Phước Vinh (Phuoc Vinh)
+
+Code: 25591, Coordinates: 11.447, 105.935
+
+
+### Phước Vĩnh Tây (Phuoc Vinh Tay)
+
+Code: 28201, Coordinates: 10.554, 106.656
+
+
+### Rạch Kiến (Rach Kien)
+
+Code: 28114, Coordinates: 10.605, 106.574
+
+
+### Tầm Vu (Tam Vu)
+
+Code: 28210, Coordinates: 10.446, 106.468
+
+
+### Tân An (Tan An)
+
+Code: 27712, Coordinates: 10.526, 106.399
+
+
+### Tân Biên (Tan Bien)
+
+Code: 25486, Coordinates: 11.54, 106.01
+
+
+### Tân Châu (Tan Chau)
+
+Code: 25516, Coordinates: 11.552, 106.174
+
+
+### Tân Đông (Tan Dong)
+
+Code: 25522, Coordinates: 11.514, 106.301
+
+
+### Tân Hòa (Tan Hoa)
+
+Code: 25531, Coordinates: 11.488, 106.259
+
+
+### Tân Hội (Tan Hoi)
+
+Code: 25525, Coordinates: 10.918, 106.405
+
+
+### Tân Hưng (Tan Hung)
+
+Code: 27721, Coordinates: 10.892, 105.8
+
+
+### Tân Lân (Tan Lan)
+
+Code: 28138, Coordinates: 10.51, 106.635
+
+
+### Tân Lập (Tan Lap)
+
+Code: 25489, Coordinates: 11.686, 106.046
+
+
+### Tân Long (Tan Long)
+
+Code: 28072, Coordinates: 10.698, 106.521
+
+
+### Tân Ninh (Tan Ninh)
+
+Code: 25459, Coordinates: 11.314, 106.097
+
+
+### Tân Phú (Tan Phu)
+
+Code: 25549, Coordinates: 11.468, 106.166
+
+
+### Tân Tập (Tan Tap)
+
+Code: 28207, Coordinates: 10.538, 106.714
+
+
+### Tân Tây (Tan Tay)
+
+Code: 27889, Coordinates: 11.471, 106.163
+
+
+### Tân Thành (Tan Thanh)
+
+Code: 25534, Coordinates: 10.628, 105.965
+
+
+### Tân Thạnh (Tan Thanh)
+
+Code: 27826, Coordinates: 10.628, 105.965
+
+
+### Tân Trụ (Tan Tru)
+
+Code: 28075, Coordinates: 10.515, 106.51
+
+
+### Thạnh Bình (Thanh Binh)
+
+Code: 25498, Coordinates: 10.536, 106.414
+
+
+### Thanh Điền (Thanh Dien)
+
+Code: 25633, Coordinates: 11.268, 106.08
+
+
+### Thạnh Đức (Thanh Duc)
+
+Code: 25657, Coordinates: 11.212, 106.209
+
+
+### Thạnh Hóa (Thanh Hoa)
+
+Code: 27865, Coordinates: 10.694, 106.139
+
+
+### Thạnh Lợi (Thanh Loi)
+
+Code: 27994, Coordinates: 10.742, 106.406
+
+
+### Thạnh Phước (Thanh Phuoc)
+
+Code: 27877, Coordinates: 10.7, 106.15
+
+
+### Thủ Thừa (Thu Thua)
+
+Code: 28036, Coordinates: 10.602, 106.403
+
+
+### Thuận Mỹ (Thuan My)
+
+Code: 28225, Coordinates: 10.457, 106.549
+
+
+### Trà Vong (Tra Vong)
+
+Code: 25510, Coordinates: 11.437, 106.054
+
+
+### Trảng Bàng (Trang Bang)
+
+Code: 25708, Coordinates: 11.105, 106.388
+
+
+### Truông Mít (Truong Mit)
+
+Code: 25666, Coordinates: 11.203, 106.309
+
+
+### Tuyên Bình (Tuyen Binh)
+
+Code: 27775, Coordinates: 10.89, 105.792
+
+
+### Tuyên Thạnh (Tuyen Thanh)
+
+Code: 27817, Coordinates: 10.751, 105.866
+
+
+### Vàm Cỏ (Vam Co)
+
+Code: 28093, Coordinates: 10.507, 106.54
+
+
+### Vĩnh Châu (Vinh Chau)
+
+Code: 27748, Coordinates: 10.81, 105.648
+
+
+### Vĩnh Công (Vinh Cong)
+
+Code: 28222, Coordinates: 10.499, 106.444
+
+
+### Vĩnh Hưng (Vinh Hung)
+
+Code: 27757, Coordinates: 10.816, 105.695
+
+
+### Vĩnh Thạnh (Vinh Thanh)
+
+Code: 27736, Coordinates: 10.844, 105.629
+
+

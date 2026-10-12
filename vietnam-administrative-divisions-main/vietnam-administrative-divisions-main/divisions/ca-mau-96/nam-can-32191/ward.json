@@ -1,0 +1,45 @@
+{
+  "id": "32191",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Năm Căn",
+    "en": "Nam Can",
+    "slug": "nam-can-32191"
+  },
+  "code": {
+    "id": "32191",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "Cà Mau",
+      "en": "Ca Mau",
+      "slug": "ca-mau-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.76",
+    "lon": "104.994"
+  },
+  "metadata": {},
+  "source": {}
+}

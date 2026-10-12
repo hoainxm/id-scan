@@ -1,0 +1,45 @@
+{
+  "id": "00700",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Ngọc Đường",
+    "en": "Ngoc Duong",
+    "slug": "ngoc-duong-00700"
+  },
+  "code": {
+    "id": "00700",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Tuyên Quang",
+      "en": "Tuyen Quang",
+      "slug": "tuyen-quang-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.844",
+    "lon": "105.016"
+  },
+  "metadata": {},
+  "source": {}
+}

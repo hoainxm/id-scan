@@ -1,0 +1,45 @@
+{
+  "id": "03781",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Co Mạ",
+    "en": "Co Ma",
+    "slug": "co-ma-03781"
+  },
+  "code": {
+    "id": "03781",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.383",
+    "lon": "103.511"
+  },
+  "metadata": {},
+  "source": {}
+}

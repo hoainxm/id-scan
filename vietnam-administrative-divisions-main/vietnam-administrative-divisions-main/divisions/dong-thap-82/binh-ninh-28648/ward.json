@@ -1,0 +1,45 @@
+{
+  "id": "28648",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bình Ninh",
+    "en": "Binh Ninh",
+    "slug": "binh-ninh-28648"
+  },
+  "code": {
+    "id": "28648",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Đồng Tháp",
+      "en": "Dong Thap",
+      "slug": "dong-thap-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.323",
+    "lon": "106.456"
+  },
+  "metadata": {},
+  "source": {}
+}

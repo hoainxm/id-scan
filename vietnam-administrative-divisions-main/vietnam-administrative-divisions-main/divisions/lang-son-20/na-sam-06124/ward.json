@@ -1,0 +1,45 @@
+{
+  "id": "06124",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Na Sầm",
+    "en": "Na Sam",
+    "slug": "na-sam-06124"
+  },
+  "code": {
+    "id": "06124",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "Lạng Sơn",
+      "en": "Lang Son",
+      "slug": "lang-son-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.057",
+    "lon": "106.616"
+  },
+  "metadata": {},
+  "source": {}
+}

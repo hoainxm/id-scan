@@ -1,0 +1,45 @@
+{
+  "id": "01351",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hưng Đạo",
+    "en": "Hung Dao",
+    "slug": "hung-dao-01351"
+  },
+  "code": {
+    "id": "01351",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.839",
+    "lon": "105.676"
+  },
+  "metadata": {},
+  "source": {}
+}

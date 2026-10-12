@@ -1,0 +1,45 @@
+{
+  "id": "15250",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Ngọc Trạo",
+    "en": "Ngoc Trao",
+    "slug": "ngoc-trao-15250"
+  },
+  "code": {
+    "id": "15250",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "Thanh Hóa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.795",
+    "lon": "105.776"
+  },
+  "metadata": {},
+  "source": {}
+}

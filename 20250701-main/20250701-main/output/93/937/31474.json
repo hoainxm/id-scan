@@ -1,0 +1,18 @@
+{
+  "address": "Xã Long Bình, Thị xã Long Mỹ, Tỉnh Hậu Giang",
+  "ellapsedInMs": 23019,
+  "estimatedCost": 0.0061687,
+  "thought": "**The Transformation of Xã Long Bình: A Cautious Identification**\n\nAlright, let's break down this administrative puzzle. My initial goal is to pinpoint the new administrative unit corresponding to the old \"Xã Long Bình, Thị xã Long Mỹ, Tỉnh Hậu Giang.\"\n\nFirst, I established the lay of the land: \"Xã Long Bình\" nestled within \"Thị xã Long Mỹ\" of \"Tỉnh Hậu Giang.\" The pivotal piece of information here is that \"Tỉnh Hậu Giang\" is no more, having merged into the new \"Thành phố Cần Thơ\" according to Resolution 60-NQ/TW.\n\nNow, I'm scouring resolutions for the fate of \"Xã Long Bình\" within this new context. My primary focus is Resolution 1668/NQ-UBTVQH15, concerning \"Thành phố Cần Thơ.\" Several lines hold promise, but also present a challenge.\n\n*   Line 18: talks about merging a \"xã Long Bình\" into \"phường Long Bình.\" This is a contender. However, it doesn't specify which district this \"xã Long Bình\" originates from.\n*   Line 85: involves merging another \"Long Bình\" into \"xã Tân Long\", but again, the specific district is unclear.\n\nThe problem? While the input specifies \"Thị xã Long Mỹ,\" the resolution doesn't definitively link my target \"Xã Long Bình\" to either the new \"Phường Long Bình\" or the new \"Xã Tân Long.\" The text hints at restructurings within \"Thị xã Long Mỹ,\" but doesn't explicitly mention my target.\n\nTherefore, because the data source does not clearly link the target \"Xã Long Bình\" with any new unit. Both new administrative units have to be set as candidates to the `New wards` list, each with low confidence, as I can't guarantee either.\n\nMy final output will be two JSON objects, each with a low-confidence rating. One will be for \"Phường Long Bình\" and the other for \"Xã Tân Long.\" They'll both reference Resolution 1668/NQ-UBTVQH15 as the source, highlighting the respective lines that are relevant, alongside ward codes and province names which are in Thành phố Cần Thơ.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "18. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Bình Thạnh, phường Vĩnh Tường và xã Long Bình thành phường mới có tên gọi là **phường Long Bình**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31473",
+      "ward_name": "Phường Long Bình"
+    }
+  ]
+}

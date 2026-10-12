@@ -1,0 +1,45 @@
+{
+  "id": "25633",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thanh Điền",
+    "en": "Thanh Dien",
+    "slug": "thanh-dien-25633"
+  },
+  "code": {
+    "id": "25633",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "Tây Ninh",
+      "en": "Tay Ninh",
+      "slug": "tay-ninh-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.268",
+    "lon": "106.08"
+  },
+  "metadata": {},
+  "source": {}
+}

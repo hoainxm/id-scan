@@ -1,0 +1,45 @@
+{
+  "id": "14221",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hải Thịnh",
+    "en": "Hai Thinh",
+    "slug": "hai-thinh-14221"
+  },
+  "code": {
+    "id": "14221",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "Ninh Bình",
+      "en": "Ninh Binh",
+      "slug": "ninh-binh-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.037",
+    "lon": "106.223"
+  },
+  "metadata": {},
+  "source": {}
+}

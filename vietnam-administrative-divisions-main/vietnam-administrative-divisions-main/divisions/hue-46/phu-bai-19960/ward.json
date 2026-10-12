@@ -1,0 +1,45 @@
+{
+  "id": "19960",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phú Bài",
+    "en": "Phu Bai",
+    "slug": "phu-bai-19960"
+  },
+  "code": {
+    "id": "19960",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.409",
+    "lon": "107.678"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "05533",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bá Xuyên",
+    "en": "Ba Xuyen",
+    "slug": "ba-xuyen-05533"
+  },
+  "code": {
+    "id": "05533",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Thái Nguyên",
+      "en": "Thai Nguyen",
+      "slug": "thai-nguyen-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Thái Nguyên",
+        "en": "Thai Nguyen",
+        "slug": "thai-nguyen-19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.49",
+    "lon": "105.837"
+  },
+  "metadata": {},
+  "source": {}
+}

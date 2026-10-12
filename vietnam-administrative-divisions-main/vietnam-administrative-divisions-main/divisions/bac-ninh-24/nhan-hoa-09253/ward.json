@@ -1,0 +1,45 @@
+{
+  "id": "09253",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nhân Hòa",
+    "en": "Nhan Hoa",
+    "slug": "nhan-hoa-09253"
+  },
+  "code": {
+    "id": "09253",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "Bắc Ninh",
+      "en": "Bac Ninh",
+      "slug": "bac-ninh-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.195",
+    "lon": "106.127"
+  },
+  "metadata": {},
+  "source": {}
+}

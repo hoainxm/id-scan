@@ -1,0 +1,45 @@
+{
+  "id": "17878",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đông Lộc",
+    "en": "Dong Loc",
+    "slug": "dong-loc-17878"
+  },
+  "code": {
+    "id": "17878",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "Nghệ An",
+      "en": "Nghe An",
+      "slug": "nghe-an-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.779",
+    "lon": "105.695"
+  },
+  "metadata": {},
+  "source": {}
+}

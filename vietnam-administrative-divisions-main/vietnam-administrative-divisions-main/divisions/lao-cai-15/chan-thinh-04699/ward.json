@@ -1,0 +1,45 @@
+{
+  "id": "04699",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Chấn Thịnh",
+    "en": "Chan Thinh",
+    "slug": "chan-thinh-04699"
+  },
+  "code": {
+    "id": "04699",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.504",
+    "lon": "104.814"
+  },
+  "metadata": {},
+  "source": {}
+}

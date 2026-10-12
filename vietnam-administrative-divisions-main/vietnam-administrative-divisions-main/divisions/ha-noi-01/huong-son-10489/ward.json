@@ -1,0 +1,45 @@
+{
+  "id": "10489",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hương Sơn",
+    "en": "Huong Son",
+    "slug": "huong-son-10489"
+  },
+  "code": {
+    "id": "10489",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Hà Nội",
+      "en": "Hanoi",
+      "slug": "ha-noi-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.62",
+    "lon": "105.752"
+  },
+  "metadata": {},
+  "source": {}
+}

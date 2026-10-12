@@ -1,0 +1,45 @@
+{
+  "id": "07330",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phúc Hòa",
+    "en": "Phuc Hoa",
+    "slug": "phuc-hoa-07330"
+  },
+  "code": {
+    "id": "07330",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "Bắc Ninh",
+      "en": "Bac Ninh",
+      "slug": "bac-ninh-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.385",
+    "lon": "106.164"
+  },
+  "metadata": {},
+  "source": {}
+}

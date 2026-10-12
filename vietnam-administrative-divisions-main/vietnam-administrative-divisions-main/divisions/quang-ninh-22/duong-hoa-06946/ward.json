@@ -1,0 +1,45 @@
+{
+  "id": "06946",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đường Hoa",
+    "en": "Duong Hoa",
+    "slug": "duong-hoa-06946"
+  },
+  "code": {
+    "id": "06946",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ninh",
+      "en": "Quang Ninh",
+      "slug": "quang-ninh-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.454",
+    "lon": "107.707"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "16138",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hồ Vương",
+    "en": "Ho Vuong",
+    "slug": "ho-vuong-16138"
+  },
+  "code": {
+    "id": "16138",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "Thanh Hóa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.019",
+    "lon": "106.007"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "31975",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đông Hải",
+    "en": "Dong Hai",
+    "slug": "dong-hai-31975"
+  },
+  "code": {
+    "id": "31975",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "Cà Mau",
+      "en": "Ca Mau",
+      "slug": "ca-mau-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.179",
+    "lon": "105.532"
+  },
+  "metadata": {},
+  "source": {}
+}

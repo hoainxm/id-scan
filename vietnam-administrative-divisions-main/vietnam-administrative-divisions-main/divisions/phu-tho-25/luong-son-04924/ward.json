@@ -1,0 +1,45 @@
+{
+  "id": "04924",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lương Sơn",
+    "en": "Luong Son",
+    "slug": "luong-son-04924"
+  },
+  "code": {
+    "id": "04924",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "Phú Thọ",
+      "en": "Phu Tho",
+      "slug": "phu-tho-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.781",
+    "lon": "105.603"
+  },
+  "metadata": {},
+  "source": {}
+}

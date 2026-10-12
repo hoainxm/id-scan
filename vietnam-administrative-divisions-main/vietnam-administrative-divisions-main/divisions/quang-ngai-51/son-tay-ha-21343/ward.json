@@ -1,0 +1,45 @@
+{
+  "id": "21343",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Sơn Tây Hạ",
+    "en": "Son Tay Ha",
+    "slug": "son-tay-ha-21343"
+  },
+  "code": {
+    "id": "21343",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ngãi",
+      "en": "Quang Ngai",
+      "slug": "quang-ngai-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.97",
+    "lon": "108.355"
+  },
+  "metadata": {},
+  "source": {}
+}

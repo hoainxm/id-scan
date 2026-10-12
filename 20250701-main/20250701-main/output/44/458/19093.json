@@ -1,0 +1,18 @@
+{
+  "address": "Xã Quảng Lộc, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+  "ellapsedInMs": 12792,
+  "estimatedCost": 0.0064336,
+  "thought": "**Determining the New Administrative Unit for \"Xã Quảng Lộc, Thị xã Ba Đồn, Tỉnh Quảng Bình\"**\n\nAlright, let's break this down. First, I know that \"Tỉnh Quảng Bình\" has merged into \"Tỉnh Quảng Trị\" according to resolution 60-NQ/TW. Now, I need to find where \"Xã Quảng Lộc\" ended up within the new province.\n\nI dove into resolution 1680/NQ-UBTVQH15, the one dealing with local administrative restructuring in Quảng Trị.  Line 1 jumped out at me immediately: it clearly states that \"Quảng Lộc\" (along with a few other wards) is reorganized into the new \"Xã Nam Gianh\". Bingo! That's my answer.\n\nI double-checked the \"New wards\" data, and the information lines up perfectly.  The province is now \"Tỉnh Quảng Trị\", and \"Xã Nam Gianh\" has the expected code (19093).  The confidence here is sky-high.  The wording in that resolution line is as clear as day.  No ambiguity, no room for error.\n\nI ruled out the other possibilities. There's no way \"Xã Quảng Lộc\" became \"phường Ba Đồn\" or \"xã Nam Ba Đồn\" because the relevant resolution lines are clearly about different ward combinations.\n\nSo, the new administrative unit for \"Xã Quảng Lộc, Thị xã Ba Đồn, Tỉnh Quảng Bình\" is **Xã Nam Gianh, Tỉnh Quảng Trị**. The evidence is solid and direct. I'm confident in this conclusion.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1680/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Trị",
+        "line": "1. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Quảng Hòa, Quảng Lộc, Quảng Văn và Quảng Minh thành xã mới có tên gọi là **xã Nam Gianh**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Quảng Trị",
+      "ward_code": "19093",
+      "ward_name": "Xã Nam Gianh"
+    }
+  ]
+}

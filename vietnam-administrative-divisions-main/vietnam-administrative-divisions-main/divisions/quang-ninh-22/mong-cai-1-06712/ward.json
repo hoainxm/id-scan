@@ -1,0 +1,45 @@
+{
+  "id": "06712",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Móng Cái 1",
+    "en": "Mong Cai 1",
+    "slug": "mong-cai-1-06712"
+  },
+  "code": {
+    "id": "06712",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ninh",
+      "en": "Quang Ninh",
+      "slug": "quang-ninh-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.525",
+    "lon": "107.966"
+  },
+  "metadata": {},
+  "source": {}
+}

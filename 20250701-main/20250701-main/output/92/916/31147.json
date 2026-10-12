@@ -1,0 +1,18 @@
+{
+  "address": "Phường Hưng Lợi, Quận Ninh Kiều, Thành phố Cần Thơ",
+  "ellapsedInMs": 23193,
+  "estimatedCost": 0.005140700000000001,
+  "thought": "**Analysis of \"Phường Hưng Lợi\" Transformation**\n\nOkay, here's how I'm approaching this.  First, I've got to figure out what happened to \"Phường Hưng Lợi\" in \"Quận Ninh Kiều\", \"Thành phố Cần Thơ.\"  I know the province is still Cần Thơ, but I've got to confirm that.  I've got the input: \"Phường Hưng Lợi, Quận Ninh Kiều, Thành phố Cần Thơ.\"\n\nStep one, I'm checking the Province Resolution (60-NQ/TW) to confirm the new province name. It looks like \"Thành phố Cần Thơ\" is still valid, even with some territorial changes.  The resolution also states all districts are gone.  So, \"Quận Ninh Kiều\" is history.  Got it.\n\nNext, I'm diving into the resolutions, focusing on anything mentioning \"Hưng Lợi\".  I've got two interesting possibilities.\n\nResolution 1668/NQ-UBTVQH15 looks promising. Line 3 in the Cần Thơ resolution specifically states that \"phường Hưng Lợi\" and \"phường An Khánh\" are merged to form \"phường Tân An\". That's a direct hit! I've confirmed that \"phường Tân An\" is indeed in the \"New wards\" database.  This is a high-confidence match.\n\nNow, there's another line in the same resolution (line 86) about a \"thị trấn Hưng Lợi\" being merged into \"xã Phú Lộc.\"  Hold on, it's a *thị trấn*, not a *phường*! Different administrative unit.  Given that all districts are gone, it's possible the data is incorrect, or that it might be a different place with a similar name.  But I'm less confident, because those are typically different types.  It's a low-confidence match for now.  If the input data is wrong, then Phú Lộc is where it has gone.\n\nIn summary, my high-confidence candidate for the new ward is **Phường Tân An**, which came about from the merger of Hưng Lợi and An Khánh, as per Resolution 1668/NQ-UBTVQH15, line 3.  I will list Phú Lộc as the second candidate, but with low confidence.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "3. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường An Khánh và phường Hưng Lợi thành phường mới có tên gọi là **phường Tân An**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31147",
+      "ward_name": "Phường Tân An"
+    }
+  ]
+}

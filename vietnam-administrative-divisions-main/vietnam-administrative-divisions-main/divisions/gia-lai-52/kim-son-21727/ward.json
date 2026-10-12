@@ -1,0 +1,45 @@
+{
+  "id": "21727",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Kim Sơn",
+    "en": "Kim Son",
+    "slug": "kim-son-21727"
+  },
+  "code": {
+    "id": "21727",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.248",
+    "lon": "108.87"
+  },
+  "metadata": {},
+  "source": {}
+}

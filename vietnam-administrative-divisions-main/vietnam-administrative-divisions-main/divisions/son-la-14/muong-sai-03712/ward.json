@@ -1,0 +1,45 @@
+{
+  "id": "03712",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mường Sại",
+    "en": "Muong Sai",
+    "slug": "muong-sai-03712"
+  },
+  "code": {
+    "id": "03712",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.598",
+    "lon": "103.735"
+  },
+  "metadata": {},
+  "source": {}
+}

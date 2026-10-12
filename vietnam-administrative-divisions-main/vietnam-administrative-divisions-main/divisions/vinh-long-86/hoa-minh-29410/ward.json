@@ -1,0 +1,45 @@
+{
+  "id": "29410",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hòa Minh",
+    "en": "Hoa Minh",
+    "slug": "hoa-minh-29410"
+  },
+  "code": {
+    "id": "29410",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "Vĩnh Long",
+      "en": "Vinh Long",
+      "slug": "vinh-long-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "Vĩnh Long",
+        "en": "Vinh Long",
+        "slug": "vinh-long-86"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.925",
+    "lon": "106.442"
+  },
+  "metadata": {},
+  "source": {}
+}

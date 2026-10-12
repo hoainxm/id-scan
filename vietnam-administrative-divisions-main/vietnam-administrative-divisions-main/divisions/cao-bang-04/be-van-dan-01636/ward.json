@@ -1,0 +1,45 @@
+{
+  "id": "01636",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bế Văn Đàn",
+    "en": "Be Van Dan",
+    "slug": "be-van-dan-01636"
+  },
+  "code": {
+    "id": "01636",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.607",
+    "lon": "106.549"
+  },
+  "metadata": {},
+  "source": {}
+}

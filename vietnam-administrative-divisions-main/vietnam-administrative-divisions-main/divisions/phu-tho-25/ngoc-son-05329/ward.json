@@ -1,0 +1,45 @@
+{
+  "id": "05329",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Ngọc Sơn",
+    "en": "Ngoc Son",
+    "slug": "ngoc-son-05329"
+  },
+  "code": {
+    "id": "05329",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "Phú Thọ",
+      "en": "Phu Tho",
+      "slug": "phu-tho-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.425",
+    "lon": "105.361"
+  },
+  "metadata": {},
+  "source": {}
+}

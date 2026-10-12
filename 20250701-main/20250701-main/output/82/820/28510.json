@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tân Phong, Huyện Cai Lậy, Tỉnh Tiền Giang",
+  "ellapsedInMs": 22594,
+  "estimatedCost": 0.006026500000000001,
+  "thought": "**Determining the New Administrative Unit for Xã Tân Phong**\n\nOkay, here's the breakdown of my thinking. My primary goal is to find the current administrative unit corresponding to the old ward \"Xã Tân Phong, Huyện Cai Lậy, Tỉnh Tiền Giang\". First, I need to analyze the information given: \"Xã Tân Phong\" is the ward, \"Huyện Cai Lậy\" is the district, and \"Tỉnh Tiền Giang\" is the province. The tricky part is the province merger history. I recall the `60-NQ/TW` resolution stating the merger of Tiền Giang with Đồng Tháp into \"Tỉnh Đồng Tháp\". This is key!\n\nWith the new province identified, I focused my search on resolutions related to the restructuring of administrative units within Đồng Tháp. I methodically checked resolutions, specifically looking for \"Xã Tân Phong\".\n\nWhile scanning resolutions like `1663/NQ-UBTVQH15` (for Đồng Tháp) was promising. Line 51 immediately caught my attention: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Phong, Hội Xuân và Hiệp Đức thành xã mới có tên gọi là xã Hiệp Đức.\" Bingo! The old ward \"Xã Tân Phong\" is explicitly mentioned as being merged into the new \"xã Hiệp Đức\". This resolution is exactly what I was looking for.\n\nTo confirm and complete the information, I then looked at a list of new wards and found \"Xã Hiệp Đức\" with the ward code \"28501\" in \"Tỉnh Đồng Tháp\". This confirmed the match.\n\nThe output will be structured as JSON with high confidence, providing the new ward name (\"Xã Hiệp Đức\"), the ward code, the new province, a high confidence level, and a citation to the relevant resolution line within `1663/NQ-UBTVQH15`. Based on that research the final output will be:\n\n```json\n[\n  {\n    \"province_name\": \"Tỉnh Đồng Tháp\",\n    \"ward_name\": \"Xã Hiệp Đức\",\n    \"ward_code\": \"28501\",\n    \"confidence\": \"high\",\n    \"citation\": {\n      \"header\": \"1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp\",\n      \"line\": \"51. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Phong, Hội Xuân và Hiệp Đức thành xã mới có tên gọi là xã Hiệp Đức.\"\n    }\n  }\n]\n```\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "51. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Phong, Hội Xuân và Hiệp Đức thành xã mới có tên gọi là xã Hiệp Đức."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "28501",
+      "ward_name": "Xã Hiệp Đức"
+    }
+  ]
+}

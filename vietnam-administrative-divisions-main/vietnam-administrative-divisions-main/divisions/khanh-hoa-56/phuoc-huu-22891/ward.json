@@ -1,0 +1,45 @@
+{
+  "id": "22891",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phước Hữu",
+    "en": "Phuoc Huu",
+    "slug": "phuoc-huu-22891"
+  },
+  "code": {
+    "id": "22891",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.524",
+    "lon": "108.911"
+  },
+  "metadata": {},
+  "source": {}
+}

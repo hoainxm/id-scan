@@ -1,0 +1,18 @@
+{
+  "address": "Xã Mỹ Quý, Huyện Tháp Mười, Tỉnh Đồng Tháp",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Láng Biển, Mỹ Đông và Mỹ Quí thành xã mới có tên gọi là xã Mỹ Quí."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "30055",
+      "ward_name": "Xã Mỹ Quí"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "18823",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vũng Áng",
+    "en": "Vung Ang",
+    "slug": "vung-ang-18823"
+  },
+  "code": {
+    "id": "18823",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "Hà Tĩnh",
+      "en": "Ha Tinh",
+      "slug": "ha-tinh-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.037",
+    "lon": "106.376"
+  },
+  "metadata": {},
+  "source": {}
+}

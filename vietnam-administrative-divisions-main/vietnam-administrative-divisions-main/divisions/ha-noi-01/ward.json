@@ -1,0 +1,5672 @@
+[
+  {
+    "id": "09877",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Khánh",
+      "en": "An Khanh",
+      "slug": "an-khanh-09877"
+    },
+    "code": {
+      "id": "09877",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.002",
+      "lon": "105.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00004",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Đình",
+      "en": "Ba Dinh",
+      "slug": "ba-dinh-00004"
+    },
+    "code": {
+      "id": "00004",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.04",
+      "lon": "105.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09700",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Vì",
+      "en": "Ba Vi",
+      "slug": "ba-vi-09700"
+    },
+    "code": {
+      "id": "09700",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.018",
+      "lon": "105.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00292",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Mai",
+      "en": "Bach Mai",
+      "slug": "bach-mai-00292"
+    },
+    "code": {
+      "id": "00292",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.003",
+      "lon": "105.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09676",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bất Bạt",
+      "en": "Bat Bat",
+      "slug": "bat-bat-09676"
+    },
+    "code": {
+      "id": "09676",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.969",
+      "lon": "105.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00577",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bát Tràng",
+      "en": "Bat Trang",
+      "slug": "bat-trang-00577"
+    },
+    "code": {
+      "id": "00577",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.98",
+      "lon": "105.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10126",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Minh",
+      "en": "Binh Minh",
+      "slug": "binh-minh-10126"
+    },
+    "code": {
+      "id": "10126",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.021",
+      "lon": "105.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00118",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bồ Đề",
+      "en": "Bo De",
+      "slug": "bo-de-00118"
+    },
+    "code": {
+      "id": "00118",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.057",
+      "lon": "105.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00166",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cầu Giấy",
+      "en": "Cau Giay",
+      "slug": "cau-giay-00166"
+    },
+    "code": {
+      "id": "00166",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.029",
+      "lon": "105.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10237",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chương Dương",
+      "en": "Chuong Duong",
+      "slug": "chuong-duong-10237"
+    },
+    "code": {
+      "id": "10237",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.038",
+      "lon": "105.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10015",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chương Mỹ",
+      "en": "Chuong My",
+      "slug": "chuong-my-10015"
+    },
+    "code": {
+      "id": "10015",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.923",
+      "lon": "105.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10330",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chuyên Mỹ",
+      "en": "Chuyen My",
+      "slug": "chuyen-my-10330"
+    },
+    "code": {
+      "id": "10330",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.739",
+      "lon": "105.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09634",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cổ Đô",
+      "en": "Co Do",
+      "slug": "co-do-09634"
+    },
+    "code": {
+      "id": "09634",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.284",
+      "lon": "105.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00082",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cửa Nam",
+      "en": "Cua Nam",
+      "slug": "cua-nam-00082"
+    },
+    "code": {
+      "id": "00082",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.023",
+      "lon": "105.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00430",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đa Phúc",
+      "en": "Da Phuc",
+      "slug": "da-phuc-00430"
+    },
+    "code": {
+      "id": "00430",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.233",
+      "lon": "105.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00637",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Mỗ",
+      "en": "Dai Mo",
+      "slug": "dai-mo-00637"
+    },
+    "code": {
+      "id": "00637",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.993",
+      "lon": "105.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Thanh",
+      "en": "Dai Thanh",
+      "slug": "dai-thanh-00664"
+    },
+    "code": {
+      "id": "00664",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.934",
+      "lon": "105.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10342",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Xuyên",
+      "en": "Dai Xuyen",
+      "slug": "dai-xuyen-10342"
+    },
+    "code": {
+      "id": "10342",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.697",
+      "lon": "105.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10180",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dân Hòa",
+      "en": "Dan Hoa",
+      "slug": "dan-hoa-10180"
+    },
+    "code": {
+      "id": "10180",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.022",
+      "lon": "105.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09784",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đan Phượng",
+      "en": "Dan Phuong",
+      "slug": "dan-phuong-09784"
+    },
+    "code": {
+      "id": "09784",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.09",
+      "lon": "105.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00316",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Công",
+      "en": "Dinh Cong",
+      "slug": "dinh-cong-00316"
+    },
+    "code": {
+      "id": "00316",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.978",
+      "lon": "105.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09616",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đoài Phương",
+      "en": "Doai Phuong",
+      "slug": "doai-phuong-09616"
+    },
+    "code": {
+      "id": "09616",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.039",
+      "lon": "105.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00454",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Anh",
+      "en": "Dong Anh",
+      "slug": "dong-anh-00454"
+    },
+    "code": {
+      "id": "00454",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.154",
+      "lon": "105.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00235",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đống Đa",
+      "en": "Dong Da",
+      "slug": "dong-da-00235"
+    },
+    "code": {
+      "id": "00235",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.011",
+      "lon": "105.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00602",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Ngạc",
+      "en": "Dong Ngac",
+      "slug": "dong-ngac-00602"
+    },
+    "code": {
+      "id": "00602",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.076",
+      "lon": "105.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09856",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dương Hòa",
+      "en": "Duong Hoa",
+      "slug": "duong-hoa-09856"
+    },
+    "code": {
+      "id": "09856",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.071",
+      "lon": "105.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09886",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dương Nội",
+      "en": "Duong Noi",
+      "slug": "duong-noi-09886"
+    },
+    "code": {
+      "id": "09886",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.975",
+      "lon": "105.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00565",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Lâm",
+      "en": "Gia Lam",
+      "slug": "gia-lam-00565"
+    },
+    "code": {
+      "id": "00565",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.052",
+      "lon": "105.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00025",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giảng Võ",
+      "en": "Giang Vo",
+      "slug": "giang-vo-00025"
+    },
+    "code": {
+      "id": "00025",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.027",
+      "lon": "105.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09982",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạ Bằng",
+      "en": "Ha Bang",
+      "slug": "ha-bang-09982"
+    },
+    "code": {
+      "id": "09982",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.01",
+      "lon": "105.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09556",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Đông",
+      "en": "Ha Dong",
+      "slug": "ha-dong-09556"
+    },
+    "code": {
+      "id": "09556",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.97",
+      "lon": "105.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00256",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hai Bà Trưng",
+      "en": "Hai Ba Trung",
+      "slug": "hai-ba-trung-00256"
+    },
+    "code": {
+      "id": "00256",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.015",
+      "lon": "105.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09772",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hát Môn",
+      "en": "Hat Mon",
+      "slug": "hat-mon-09772"
+    },
+    "code": {
+      "id": "09772",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.128",
+      "lon": "105.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09988",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Lạc",
+      "en": "Hoa Lac",
+      "slug": "hoa-lac-09988"
+    },
+    "code": {
+      "id": "09988",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.99",
+      "lon": "105.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10096",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Phú",
+      "en": "Hoa Phu",
+      "slug": "hoa-phu-10096"
+    },
+    "code": {
+      "id": "10096",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.81",
+      "lon": "105.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10417",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Xá",
+      "en": "Hoa Xa",
+      "slug": "hoa-xa-10417"
+    },
+    "code": {
+      "id": "10417",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.011",
+      "lon": "105.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09832",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Đức",
+      "en": "Hoai Duc",
+      "slug": "hoai-duc-09832"
+    },
+    "code": {
+      "id": "09832",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.023",
+      "lon": "105.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00070",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàn Kiếm",
+      "en": "Hoan Kiem",
+      "slug": "hoan-kiem-00070"
+    },
+    "code": {
+      "id": "00070",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.032",
+      "lon": "105.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00337",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Liệt",
+      "en": "Hoang Liet",
+      "slug": "hoang-liet-00337"
+    },
+    "code": {
+      "id": "00337",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.961",
+      "lon": "105.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00331",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Mai",
+      "en": "Hoang Mai",
+      "slug": "hoang-mai-00331"
+    },
+    "code": {
+      "id": "00331",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.974",
+      "lon": "105.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00097",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Hà",
+      "en": "Hong Ha",
+      "slug": "hong-ha-00097"
+    },
+    "code": {
+      "id": "00097",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.049",
+      "lon": "105.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10465",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Sơn",
+      "en": "Hong Son",
+      "slug": "hong-son-10465"
+    },
+    "code": {
+      "id": "10465",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.726",
+      "lon": "105.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10210",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Vân",
+      "en": "Hong Van",
+      "slug": "hong-van-10210"
+    },
+    "code": {
+      "id": "10210",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.876",
+      "lon": "105.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09931",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Đạo",
+      "en": "Hung Dao",
+      "slug": "hung-dao-09931"
+    },
+    "code": {
+      "id": "09931",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.201",
+      "lon": "105.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Sơn",
+      "en": "Huong Son",
+      "slug": "huong-son-10489"
+    },
+    "code": {
+      "id": "10489",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.62",
+      "lon": "105.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khương Đình",
+      "en": "Khuong Dinh",
+      "slug": "khuong-dinh-00364"
+    },
+    "code": {
+      "id": "00364",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.991",
+      "lon": "105.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09552",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Hưng",
+      "en": "Kien Hung",
+      "slug": "kien-hung-09552"
+    },
+    "code": {
+      "id": "09552",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.954",
+      "lon": "105.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09910",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiều Phú",
+      "en": "Kieu Phu",
+      "slug": "kieu-phu-09910"
+    },
+    "code": {
+      "id": "09910",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.973",
+      "lon": "105.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00382",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Anh",
+      "en": "Kim Anh",
+      "slug": "kim-anh-00382"
+    },
+    "code": {
+      "id": "00382",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.295",
+      "lon": "105.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00229",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Liên",
+      "en": "Kim Lien",
+      "slug": "kim-lien-00229"
+    },
+    "code": {
+      "id": "00229",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.006",
+      "lon": "105.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00199",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Láng",
+      "en": "Lang",
+      "slug": "lang-00199"
+    },
+    "code": {
+      "id": "00199",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.006",
+      "lon": "105.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09787",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Minh",
+      "en": "Lien Minh",
+      "slug": "lien-minh-09787"
+    },
+    "code": {
+      "id": "09787",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.159",
+      "lon": "105.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00328",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lĩnh Nam",
+      "en": "Linh Nam",
+      "slug": "linh-nam-00328"
+    },
+    "code": {
+      "id": "00328",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.976",
+      "lon": "105.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00145",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Biên",
+      "en": "Long Bien",
+      "slug": "long-bien-00145"
+    },
+    "code": {
+      "id": "00145",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.023",
+      "lon": "105.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09022",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mê Linh",
+      "en": "Me Linh",
+      "slug": "me-linh-09022"
+    },
+    "code": {
+      "id": "09022",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.157",
+      "lon": "105.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09661",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Châu",
+      "en": "Minh Chau",
+      "slug": "minh-chau-09661"
+    },
+    "code": {
+      "id": "09661",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.201",
+      "lon": "105.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10441",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Đức",
+      "en": "My Duc",
+      "slug": "my-duc-10441"
+    },
+    "code": {
+      "id": "10441",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.017",
+      "lon": "105.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00685",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Phù",
+      "en": "Nam Phu",
+      "slug": "nam-phu-00685"
+    },
+    "code": {
+      "id": "00685",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.023",
+      "lon": "105.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00160",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Đô",
+      "en": "Nghia Do",
+      "slug": "nghia-do-00160"
+    },
+    "code": {
+      "id": "00160",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.043",
+      "lon": "105.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00008",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Hà",
+      "en": "Ngoc Ha",
+      "slug": "ngoc-ha-00008"
+    },
+    "code": {
+      "id": "00008",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.039",
+      "lon": "105.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00679",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Hồi",
+      "en": "Ngoc Hoi",
+      "slug": "ngoc-hoi-00679"
+    },
+    "code": {
+      "id": "00679",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.923",
+      "lon": "105.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00433",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nội Bài",
+      "en": "Noi Bai",
+      "slug": "noi-bai-00433"
+    },
+    "code": {
+      "id": "00433",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.205",
+      "lon": "105.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00190",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ô Chợ Dừa",
+      "en": "O Cho Dua",
+      "slug": "o-cho-dua-00190"
+    },
+    "code": {
+      "id": "00190",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.023",
+      "lon": "105.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09817",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ô Diên",
+      "en": "O Dien",
+      "slug": "o-dien-09817"
+    },
+    "code": {
+      "id": "09817",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.093",
+      "lon": "105.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09952",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Cát",
+      "en": "Phu Cat",
+      "slug": "phu-cat-09952"
+    },
+    "code": {
+      "id": "09952",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.949",
+      "lon": "105.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00619",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Diễn",
+      "en": "Phu Dien",
+      "slug": "phu-dien-00619"
+    },
+    "code": {
+      "id": "00619",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.049",
+      "lon": "105.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00541",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Đổng",
+      "en": "Phu Dong",
+      "slug": "phu-dong-00541"
+    },
+    "code": {
+      "id": "00541",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.056",
+      "lon": "105.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09568",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lương",
+      "en": "Phu Luong",
+      "slug": "phu-luong-09568"
+    },
+    "code": {
+      "id": "09568",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.939",
+      "lon": "105.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10030",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Nghĩa",
+      "en": "Phu Nghia",
+      "slug": "phu-nghia-10030"
+    },
+    "code": {
+      "id": "10030",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.93",
+      "lon": "105.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00091",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thượng",
+      "en": "Phu Thuong",
+      "slug": "phu-thuong-00091"
+    },
+    "code": {
+      "id": "00091",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.084",
+      "lon": "105.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10273",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Xuyên",
+      "en": "Phu Xuyen",
+      "slug": "phu-xuyen-10273"
+    },
+    "code": {
+      "id": "10273",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.737",
+      "lon": "105.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09739",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Lộc",
+      "en": "Phuc Loc",
+      "slug": "phuc-loc-09739"
+    },
+    "code": {
+      "id": "09739",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.149",
+      "lon": "105.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00136",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Lợi",
+      "en": "Phuc Loi",
+      "slug": "phuc-loi-00136"
+    },
+    "code": {
+      "id": "00136",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.041",
+      "lon": "105.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10459",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Sơn",
+      "en": "Phuc Son",
+      "slug": "phuc-son-10459"
+    },
+    "code": {
+      "id": "10459",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.781",
+      "lon": "105.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00466",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Thịnh",
+      "en": "Phuc Thinh",
+      "slug": "phuc-thinh-00466"
+    },
+    "code": {
+      "id": "00466",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.159",
+      "lon": "105.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09715",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Thọ",
+      "en": "Phuc Tho",
+      "slug": "phuc-tho-09715"
+    },
+    "code": {
+      "id": "09715",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.11",
+      "lon": "105.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10279",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phượng Dực",
+      "en": "Phuong Duc",
+      "slug": "phuong-duc-10279"
+    },
+    "code": {
+      "id": "10279",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.795",
+      "lon": "105.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00352",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phương Liệt",
+      "en": "Phuong Liet",
+      "slug": "phuong-liet-00352"
+    },
+    "code": {
+      "id": "00352",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.994",
+      "lon": "105.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10072",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Bị",
+      "en": "Quang Bi",
+      "slug": "quang-bi-10072"
+    },
+    "code": {
+      "id": "10072",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.863",
+      "lon": "105.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08974",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Minh",
+      "en": "Quang Minh",
+      "slug": "quang-minh-08974"
+    },
+    "code": {
+      "id": "08974",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.027",
+      "lon": "105.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09619",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Oai",
+      "en": "Quang Oai",
+      "slug": "quang-oai-09619"
+    },
+    "code": {
+      "id": "09619",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.198",
+      "lon": "105.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09895",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quốc Oai",
+      "en": "Quoc Oai",
+      "slug": "quoc-oai-09895"
+    },
+    "code": {
+      "id": "09895",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.992",
+      "lon": "105.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00376",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sóc Sơn",
+      "en": "Soc Son",
+      "slug": "soc-son-00376"
+    },
+    "code": {
+      "id": "00376",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.26",
+      "lon": "105.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09871",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Đồng",
+      "en": "Son Dong",
+      "slug": "son-dong-09871"
+    },
+    "code": {
+      "id": "09871",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.044",
+      "lon": "105.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09574",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Tây",
+      "en": "Son Tay",
+      "slug": "son-tay-09574"
+    },
+    "code": {
+      "id": "09574",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.139",
+      "lon": "105.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09694",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Suối Hai",
+      "en": "Suoi Hai",
+      "slug": "suoi-hai-09694"
+    },
+    "code": {
+      "id": "09694",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.125",
+      "lon": "105.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10144",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Hưng",
+      "en": "Tam Hung",
+      "slug": "tam-hung-10144"
+    },
+    "code": {
+      "id": "10144",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.879",
+      "lon": "105.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00103",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Hồ",
+      "en": "Tay Ho",
+      "slug": "tay-ho-00103"
+    },
+    "code": {
+      "id": "00103",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.063",
+      "lon": "105.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00634",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Mỗ",
+      "en": "Tay Mo",
+      "slug": "tay-mo-00634"
+    },
+    "code": {
+      "id": "00634",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21",
+      "lon": "105.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10003",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Phương",
+      "en": "Tay Phuong",
+      "slug": "tay-phuong-10003"
+    },
+    "code": {
+      "id": "10003",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.026",
+      "lon": "105.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00613",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Tựu",
+      "en": "Tay Tuu",
+      "slug": "tay-tuu-00613"
+    },
+    "code": {
+      "id": "00613",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.065",
+      "lon": "105.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09955",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Thất",
+      "en": "Thach That",
+      "slug": "thach-that-09955"
+    },
+    "code": {
+      "id": "09955",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.067",
+      "lon": "105.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00643",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Liệt",
+      "en": "Thanh Liet",
+      "slug": "thanh-liet-00643"
+    },
+    "code": {
+      "id": "00643",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.97",
+      "lon": "105.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10114",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Oai",
+      "en": "Thanh Oai",
+      "slug": "thanh-oai-10114"
+    },
+    "code": {
+      "id": "10114",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.844",
+      "lon": "105.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00640",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Trì",
+      "en": "Thanh Tri",
+      "slug": "thanh-tri-00640"
+    },
+    "code": {
+      "id": "00640",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.942",
+      "lon": "105.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00367",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Xuân",
+      "en": "Thanh Xuan",
+      "slug": "thanh-xuan-00367"
+    },
+    "code": {
+      "id": "00367",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.998",
+      "lon": "105.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00493",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiên Lộc",
+      "en": "Thien Loc",
+      "slug": "thien-loc-00493"
+    },
+    "code": {
+      "id": "00493",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.126",
+      "lon": "105.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00475",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thư Lâm",
+      "en": "Thu Lam",
+      "slug": "thu-lam-00475"
+    },
+    "code": {
+      "id": "00475",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.163",
+      "lon": "105.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00562",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận An",
+      "en": "Thuan An",
+      "slug": "thuan-an-00562"
+    },
+    "code": {
+      "id": "00562",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.236",
+      "lon": "105.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00598",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Cát",
+      "en": "Thuong Cat",
+      "slug": "thuong-cat-00598"
+    },
+    "code": {
+      "id": "00598",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.086",
+      "lon": "105.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10231",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Phúc",
+      "en": "Thuong Phuc",
+      "slug": "thuong-phuc-10231"
+    },
+    "code": {
+      "id": "10231",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.837",
+      "lon": "105.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10183",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thường Tín",
+      "en": "Thuong Tin",
+      "slug": "thuong-tin-10183"
+    },
+    "code": {
+      "id": "10183",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.872",
+      "lon": "105.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08995",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiến Thắng",
+      "en": "Tien Thang",
+      "slug": "tien-thang-08995"
+    },
+    "code": {
+      "id": "08995",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.233",
+      "lon": "105.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10081",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Phú",
+      "en": "Tran Phu",
+      "slug": "tran-phu-10081"
+    },
+    "code": {
+      "id": "10081",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.833",
+      "lon": "105.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00385",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Giã",
+      "en": "Trung Gia",
+      "slug": "trung-gia-00385"
+    },
+    "code": {
+      "id": "00385",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.313",
+      "lon": "105.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00592",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Từ Liêm",
+      "en": "Tu Liem",
+      "slug": "tu-liem-00592"
+    },
+    "code": {
+      "id": "00592",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.022",
+      "lon": "105.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09604",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tùng Thiện",
+      "en": "Tung Thien",
+      "slug": "tung-thien-09604"
+    },
+    "code": {
+      "id": "09604",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.122",
+      "lon": "105.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00322",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tương Mai",
+      "en": "Tuong Mai",
+      "slug": "tuong-mai-00322"
+    },
+    "code": {
+      "id": "00322",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.99",
+      "lon": "105.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10402",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ứng Hòa",
+      "en": "Ung Hoa",
+      "slug": "ung-hoa-10402"
+    },
+    "code": {
+      "id": "10402",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.692",
+      "lon": "105.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10369",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ứng Thiên",
+      "en": "Ung Thien",
+      "slug": "ung-thien-10369"
+    },
+    "code": {
+      "id": "10369",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.773",
+      "lon": "105.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10354",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Đình",
+      "en": "Van Dinh",
+      "slug": "van-dinh-10354"
+    },
+    "code": {
+      "id": "10354",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.732",
+      "lon": "105.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00226",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Miếu - Quốc Tử Giám",
+      "en": "Van Mieu - Quoc Tu Giam",
+      "slug": "van-mieu-quoc-tu-giam-00226"
+    },
+    "code": {
+      "id": "00226",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.029",
+      "lon": "105.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vật Lại",
+      "en": "Vat Lai",
+      "slug": "vat-lai-09664"
+    },
+    "code": {
+      "id": "09664",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.196",
+      "lon": "105.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00127",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Hưng",
+      "en": "Viet Hung",
+      "slug": "viet-hung-00127"
+    },
+    "code": {
+      "id": "00127",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.064",
+      "lon": "105.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00301",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hưng",
+      "en": "Vinh Hung",
+      "slug": "vinh-hung-00301"
+    },
+    "code": {
+      "id": "00301",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.991",
+      "lon": "105.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00508",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thanh",
+      "en": "Vinh Thanh",
+      "slug": "vinh-thanh-00508"
+    },
+    "code": {
+      "id": "00508",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.103",
+      "lon": "105.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00283",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tuy",
+      "en": "Vinh Tuy",
+      "slug": "vinh-tuy-00283"
+    },
+    "code": {
+      "id": "00283",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.998",
+      "lon": "105.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Đỉnh",
+      "en": "Xuan Dinh",
+      "slug": "xuan-dinh-00611"
+    },
+    "code": {
+      "id": "00611",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.067",
+      "lon": "105.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10045",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Mai",
+      "en": "Xuan Mai",
+      "slug": "xuan-mai-10045"
+    },
+    "code": {
+      "id": "10045",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.884",
+      "lon": "105.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00622",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Phương",
+      "en": "Xuan Phuong",
+      "slug": "xuan-phuong-00622"
+    },
+    "code": {
+      "id": "00622",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.052",
+      "lon": "105.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09706",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Bài",
+      "en": "Yen Bai",
+      "slug": "yen-bai-09706"
+    },
+    "code": {
+      "id": "09706",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.044",
+      "lon": "105.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00175",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Hòa",
+      "en": "Yen Hoa",
+      "slug": "yen-hoa-00175"
+    },
+    "code": {
+      "id": "00175",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.014",
+      "lon": "105.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08980",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Lãng",
+      "en": "Yen Lang",
+      "slug": "yen-lang-08980"
+    },
+    "code": {
+      "id": "08980",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.019",
+      "lon": "105.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09562",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Nghĩa",
+      "en": "Yen Nghia",
+      "slug": "yen-nghia-09562"
+    },
+    "code": {
+      "id": "09562",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.95",
+      "lon": "105.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00340",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Sở",
+      "en": "Yen So",
+      "slug": "yen-so-00340"
+    },
+    "code": {
+      "id": "00340",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "105.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04930",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Xuân",
+      "en": "Yen Xuan",
+      "slug": "yen-xuan-04930"
+    },
+    "code": {
+      "id": "04930",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "Hà Nội",
+          "en": "Hanoi",
+          "slug": "ha-noi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.974",
+      "lon": "105.479"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "02578",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Thanh",
+    "en": "Tan Thanh",
+    "slug": "tan-thanh-02578"
+  },
+  "code": {
+    "id": "02578",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Tuyên Quang",
+      "en": "Tuyen Quang",
+      "slug": "tuyen-quang-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.626",
+    "lon": "105.41"
+  },
+  "metadata": {},
+  "source": {}
+}

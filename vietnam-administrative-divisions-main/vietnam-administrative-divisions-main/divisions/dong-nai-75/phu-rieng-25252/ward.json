@@ -1,0 +1,45 @@
+{
+  "id": "25252",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phú Riềng",
+    "en": "Phu Rieng",
+    "slug": "phu-rieng-25252"
+  },
+  "code": {
+    "id": "25252",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Đồng Nai",
+      "en": "Dong Nai",
+      "slug": "dong-nai-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.696",
+    "lon": "106.931"
+  },
+  "metadata": {},
+  "source": {}
+}

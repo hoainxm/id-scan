@@ -1,0 +1,33 @@
+{
+  "id": "56",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Khánh Hòa",
+    "en": "Khanh Hoa",
+    "slug": "khanh-hoa-56"
+  },
+  "code": {
+    "id": "56",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 65
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.069",
+    "lon": "108.961"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/khanh-hoa-56/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

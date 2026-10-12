@@ -1,0 +1,45 @@
+{
+  "id": "00475",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thư Lâm",
+    "en": "Thu Lam",
+    "slug": "thu-lam-00475"
+  },
+  "code": {
+    "id": "00475",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Hà Nội",
+      "en": "Hanoi",
+      "slug": "ha-noi-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.163",
+    "lon": "105.884"
+  },
+  "metadata": {},
+  "source": {}
+}

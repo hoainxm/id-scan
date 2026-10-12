@@ -1,0 +1,33 @@
+{
+  "id": "31",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Hải Phòng",
+    "en": "Hai Phong",
+    "slug": "hai-phong-31"
+  },
+  "code": {
+    "id": "31",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 114
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.876",
+    "lon": "106.47"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/hai-phong-31/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

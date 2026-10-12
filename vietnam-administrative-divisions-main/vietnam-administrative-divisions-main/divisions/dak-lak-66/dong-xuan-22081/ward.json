@@ -1,0 +1,45 @@
+{
+  "id": "22081",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đồng Xuân",
+    "en": "Dong Xuan",
+    "slug": "dong-xuan-22081"
+  },
+  "code": {
+    "id": "22081",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "Đắk Lắk",
+      "en": "Dak Lak",
+      "slug": "dak-lak-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.905",
+    "lon": "108.292"
+  },
+  "metadata": {},
+  "source": {}
+}

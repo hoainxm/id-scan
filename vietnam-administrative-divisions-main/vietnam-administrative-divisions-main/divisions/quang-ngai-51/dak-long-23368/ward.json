@@ -1,0 +1,45 @@
+{
+  "id": "23368",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đăk Long",
+    "en": "Dak Long",
+    "slug": "dak-long-23368"
+  },
+  "code": {
+    "id": "23368",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ngãi",
+      "en": "Quang Ngai",
+      "slug": "quang-ngai-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.63",
+    "lon": "107.926"
+  },
+  "metadata": {},
+  "source": {}
+}

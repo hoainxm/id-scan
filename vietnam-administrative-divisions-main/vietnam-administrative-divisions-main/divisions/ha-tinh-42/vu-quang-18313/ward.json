@@ -1,0 +1,45 @@
+{
+  "id": "18313",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vũ Quang",
+    "en": "Vu Quang",
+    "slug": "vu-quang-18313"
+  },
+  "code": {
+    "id": "18313",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "Hà Tĩnh",
+      "en": "Ha Tinh",
+      "slug": "ha-tinh-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.324",
+    "lon": "105.455"
+  },
+  "metadata": {},
+  "source": {}
+}

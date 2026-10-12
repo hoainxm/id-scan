@@ -1,0 +1,45 @@
+{
+  "id": "31432",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Phước Hưng",
+    "en": "Tan Phuoc Hung",
+    "slug": "tan-phuoc-hung-31432"
+  },
+  "code": {
+    "id": "31432",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "Cần Thơ",
+      "en": "Can Tho",
+      "slug": "can-tho-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.747",
+    "lon": "105.807"
+  },
+  "metadata": {},
+  "source": {}
+}

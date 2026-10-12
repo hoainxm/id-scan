@@ -1,0 +1,45 @@
+{
+  "id": "27775",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tuyên Bình",
+    "en": "Tuyen Binh",
+    "slug": "tuyen-binh-27775"
+  },
+  "code": {
+    "id": "27775",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "Tây Ninh",
+      "en": "Tay Ninh",
+      "slug": "tay-ninh-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.89",
+    "lon": "105.792"
+  },
+  "metadata": {},
+  "source": {}
+}

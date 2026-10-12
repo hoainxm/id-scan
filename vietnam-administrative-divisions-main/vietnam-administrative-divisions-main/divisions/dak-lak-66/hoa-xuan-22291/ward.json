@@ -1,0 +1,45 @@
+{
+  "id": "22291",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hòa Xuân",
+    "en": "Hoa Xuan",
+    "slug": "hoa-xuan-22291"
+  },
+  "code": {
+    "id": "22291",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "Đắk Lắk",
+      "en": "Dak Lak",
+      "slug": "dak-lak-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.501",
+    "lon": "108.324"
+  },
+  "metadata": {},
+  "source": {}
+}

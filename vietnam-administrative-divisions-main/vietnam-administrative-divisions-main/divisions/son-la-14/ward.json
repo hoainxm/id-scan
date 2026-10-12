@@ -1,0 +1,3377 @@
+[
+  {
+    "id": "03856",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Yên",
+      "en": "Bac Yen",
+      "slug": "bac-yen-03856"
+    },
+    "code": {
+      "id": "03856",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.222",
+      "lon": "104.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03724",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thuận",
+      "en": "Binh Thuan",
+      "slug": "binh-thuan-03724"
+    },
+    "code": {
+      "id": "03724",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.555",
+      "lon": "103.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04171",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bó Sinh",
+      "en": "Bo Sinh",
+      "slug": "bo-sinh-04171"
+    },
+    "code": {
+      "id": "04171",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.259",
+      "lon": "103.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng An",
+      "en": "Chieng An",
+      "slug": "chieng-an-03664"
+    },
+    "code": {
+      "id": "03664",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.378",
+      "lon": "103.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03670",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Cơi",
+      "en": "Chieng Coi",
+      "slug": "chieng-coi-03670"
+    },
+    "code": {
+      "id": "03670",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.319",
+      "lon": "103.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04078",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Hặc",
+      "en": "Chieng Hac",
+      "slug": "chieng-hac-04078"
+    },
+    "code": {
+      "id": "04078",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.979",
+      "lon": "104.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03850",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Hoa",
+      "en": "Chieng Hoa",
+      "slug": "chieng-hoa-03850"
+    },
+    "code": {
+      "id": "03850",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.464",
+      "lon": "104.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04204",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Khoong",
+      "en": "Chieng Khoong",
+      "slug": "chieng-khoong-04204"
+    },
+    "code": {
+      "id": "04204",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.964",
+      "lon": "103.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04222",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Khương",
+      "en": "Chieng Khuong",
+      "slug": "chieng-khuong-04222"
+    },
+    "code": {
+      "id": "04222",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.962",
+      "lon": "104.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03754",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng La",
+      "en": "Chieng La",
+      "slug": "chieng-la-03754"
+    },
+    "code": {
+      "id": "03754",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.467",
+      "lon": "103.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03814",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Lao",
+      "en": "Chieng Lao",
+      "slug": "chieng-lao-03814"
+    },
+    "code": {
+      "id": "03814",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.642",
+      "lon": "103.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04132",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Mai",
+      "en": "Chieng Mai",
+      "slug": "chieng-mai-04132"
+    },
+    "code": {
+      "id": "04132",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.19",
+      "lon": "103.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04123",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Mung",
+      "en": "Chieng Mung",
+      "slug": "chieng-mung-04123"
+    },
+    "code": {
+      "id": "04123",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.278",
+      "lon": "104.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03892",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Sại",
+      "en": "Chieng Sai",
+      "slug": "chieng-sai-03892"
+    },
+    "code": {
+      "id": "03892",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.071",
+      "lon": "104.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03679",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Sinh",
+      "en": "Chieng Sinh",
+      "slug": "chieng-sinh-03679"
+    },
+    "code": {
+      "id": "03679",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.288",
+      "lon": "103.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04195",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Sơ",
+      "en": "Chieng So",
+      "slug": "chieng-so-04195"
+    },
+    "code": {
+      "id": "04195",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.132",
+      "lon": "103.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Sơn",
+      "en": "Chieng Son",
+      "slug": "chieng-son-03985"
+    },
+    "code": {
+      "id": "03985",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.741",
+      "lon": "104.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04108",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Sung",
+      "en": "Chieng Sung",
+      "slug": "chieng-sung-04108"
+    },
+    "code": {
+      "id": "04108",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.309",
+      "lon": "104.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03781",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Co Mạ",
+      "en": "Co Ma",
+      "slug": "co-ma-03781"
+    },
+    "code": {
+      "id": "03781",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.383",
+      "lon": "103.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04000",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đoàn Kết",
+      "en": "Doan Ket",
+      "slug": "doan-ket-04000"
+    },
+    "code": {
+      "id": "04000",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.966",
+      "lon": "104.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03922",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Phù",
+      "en": "Gia Phu",
+      "slug": "gia-phu-03922"
+    },
+    "code": {
+      "id": "03922",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.179",
+      "lon": "104.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04210",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Huổi Một",
+      "en": "Huoi Mot",
+      "slug": "huoi-mot-04210"
+    },
+    "code": {
+      "id": "04210",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.033",
+      "lon": "103.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03961",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Bon",
+      "en": "Kim Bon",
+      "slug": "kim-bon-03961"
+    },
+    "code": {
+      "id": "03961",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.11",
+      "lon": "104.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03763",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hẹ",
+      "en": "Long He",
+      "slug": "long-he-03763"
+    },
+    "code": {
+      "id": "03763",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.447",
+      "lon": "103.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04096",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lóng Phiêng",
+      "en": "Long Phieng",
+      "slug": "long-phieng-04096"
+    },
+    "code": {
+      "id": "04096",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.883",
+      "lon": "104.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04045",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lóng Sập",
+      "en": "Long Sap",
+      "slug": "long-sap-04045"
+    },
+    "code": {
+      "id": "04045",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.792",
+      "lon": "104.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04105",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mai Sơn",
+      "en": "Mai Son",
+      "slug": "mai-son-04105"
+    },
+    "code": {
+      "id": "04105",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.169",
+      "lon": "103.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03980",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mộc Châu",
+      "en": "Moc Chau",
+      "slug": "moc-chau-03980"
+    },
+    "code": {
+      "id": "03980",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.871",
+      "lon": "104.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03979",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mộc Sơn",
+      "en": "Moc Son",
+      "slug": "moc-son-03979"
+    },
+    "code": {
+      "id": "03979",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.843",
+      "lon": "104.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03799",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Muổi Nọi",
+      "en": "Muoi Noi",
+      "slug": "muoi-noi-03799"
+    },
+    "code": {
+      "id": "03799",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.3",
+      "lon": "103.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03760",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Bám",
+      "en": "Muong Bam",
+      "slug": "muong-bam-03760"
+    },
+    "code": {
+      "id": "03760",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.376",
+      "lon": "103.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03943",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Bang",
+      "en": "Muong Bang",
+      "slug": "muong-bang-03943"
+    },
+    "code": {
+      "id": "03943",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.167",
+      "lon": "104.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03847",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Bú",
+      "en": "Muong Bu",
+      "slug": "muong-bu-03847"
+    },
+    "code": {
+      "id": "03847",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.402",
+      "lon": "104.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04117",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Chanh",
+      "en": "Muong Chanh",
+      "slug": "muong-chanh-04117"
+    },
+    "code": {
+      "id": "04117",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.22",
+      "lon": "103.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03688",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Chiên",
+      "en": "Muong Chien",
+      "slug": "muong-chien-03688"
+    },
+    "code": {
+      "id": "03688",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.919",
+      "lon": "103.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03907",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Cơi",
+      "en": "Muong Coi",
+      "slug": "muong-coi-03907"
+    },
+    "code": {
+      "id": "03907",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.306",
+      "lon": "104.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03727",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường É",
+      "en": "Muong E",
+      "slug": "muong-e-03727"
+    },
+    "code": {
+      "id": "03727",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.499",
+      "lon": "103.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03694",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Giôn",
+      "en": "Muong Gion",
+      "slug": "muong-gion-03694"
+    },
+    "code": {
+      "id": "03694",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.749",
+      "lon": "103.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04219",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Hung",
+      "en": "Muong Hung",
+      "slug": "muong-hung-04219"
+    },
+    "code": {
+      "id": "04219",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.961",
+      "lon": "103.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03757",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Khiêng",
+      "en": "Muong Khieng",
+      "slug": "muong-khieng-03757"
+    },
+    "code": {
+      "id": "03757",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.49",
+      "lon": "103.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03808",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường La",
+      "en": "Muong La",
+      "slug": "muong-la-03808"
+    },
+    "code": {
+      "id": "03808",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.527",
+      "lon": "104.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04183",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lầm",
+      "en": "Muong Lam",
+      "slug": "muong-lam-04183"
+    },
+    "code": {
+      "id": "04183",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.14",
+      "lon": "103.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lạn",
+      "en": "Muong Lan",
+      "slug": "muong-lan-04246"
+    },
+    "code": {
+      "id": "04246",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.768",
+      "lon": "103.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04240",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lèo",
+      "en": "Muong Leo",
+      "slug": "muong-leo-04240"
+    },
+    "code": {
+      "id": "04240",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.899",
+      "lon": "103.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03712",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Sại",
+      "en": "Muong Sai",
+      "slug": "muong-sai-03712"
+    },
+    "code": {
+      "id": "03712",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.598",
+      "lon": "103.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03784",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Lầu",
+      "en": "Nam Lau",
+      "slug": "nam-lau-03784"
+    },
+    "code": {
+      "id": "03784",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.325",
+      "lon": "103.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04186",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Ty",
+      "en": "Nam Ty",
+      "slug": "nam-ty-04186"
+    },
+    "code": {
+      "id": "04186",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.223",
+      "lon": "103.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03820",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Chiến",
+      "en": "Ngoc Chien",
+      "slug": "ngoc-chien-03820"
+    },
+    "code": {
+      "id": "03820",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.611",
+      "lon": "104.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03871",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pắc Ngà",
+      "en": "Pac Nga",
+      "slug": "pac-nga-03871"
+    },
+    "code": {
+      "id": "03871",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.3",
+      "lon": "104.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04144",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phiêng Cằm",
+      "en": "Phieng Cam",
+      "slug": "phieng-cam-04144"
+    },
+    "code": {
+      "id": "04144",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.152",
+      "lon": "103.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04099",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phiêng Khoài",
+      "en": "Phieng Khoai",
+      "slug": "phieng-khoai-04099"
+    },
+    "code": {
+      "id": "04099",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.957",
+      "lon": "104.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04159",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phiêng Pằn",
+      "en": "Phieng Pan",
+      "slug": "phieng-pan-04159"
+    },
+    "code": {
+      "id": "04159",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.054",
+      "lon": "104.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03910",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Yên",
+      "en": "Phu Yen",
+      "slug": "phu-yen-03910"
+    },
+    "code": {
+      "id": "03910",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.225",
+      "lon": "104.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04228",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Púng Bánh",
+      "en": "Pung Banh",
+      "slug": "pung-banh-04228"
+    },
+    "code": {
+      "id": "04228",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.004",
+      "lon": "103.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03703",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Nhai",
+      "en": "Quynh Nhai",
+      "slug": "quynh-nhai-03703"
+    },
+    "code": {
+      "id": "03703",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.777",
+      "lon": "103.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04006",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Song Khủa",
+      "en": "Song Khua",
+      "slug": "song-khua-04006"
+    },
+    "code": {
+      "id": "04006",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.922",
+      "lon": "104.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04168",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Mã",
+      "en": "Song Ma",
+      "slug": "song-ma-04168"
+    },
+    "code": {
+      "id": "04168",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.052",
+      "lon": "103.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04231",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sốp Cộp",
+      "en": "Sop Cop",
+      "slug": "sop-cop-04231"
+    },
+    "code": {
+      "id": "04231",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.939",
+      "lon": "103.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03901",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Suối Tọ",
+      "en": "Suoi To",
+      "slug": "suoi-to-03901"
+    },
+    "code": {
+      "id": "03901",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.322",
+      "lon": "104.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04136",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Hộc",
+      "en": "Ta Hoc",
+      "slug": "ta-hoc-04136"
+    },
+    "code": {
+      "id": "04136",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.245",
+      "lon": "104.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03880",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tạ Khoa",
+      "en": "Ta Khoa",
+      "slug": "ta-khoa-03880"
+    },
+    "code": {
+      "id": "03880",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.164",
+      "lon": "104.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03868",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Xùa",
+      "en": "Ta Xua",
+      "slug": "ta-xua-03868"
+    },
+    "code": {
+      "id": "03868",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.28",
+      "lon": "104.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03970",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phong",
+      "en": "Tan Phong",
+      "slug": "tan-phong-03970"
+    },
+    "code": {
+      "id": "03970",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.077",
+      "lon": "104.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03997",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Yên",
+      "en": "Tan Yen",
+      "slug": "tan-yen-03997"
+    },
+    "code": {
+      "id": "03997",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.979",
+      "lon": "104.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03982",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thảo Nguyên",
+      "en": "Thao Nguyen",
+      "slug": "thao-nguyen-03982"
+    },
+    "code": {
+      "id": "03982",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.838",
+      "lon": "104.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03721",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Châu",
+      "en": "Thuan Chau",
+      "slug": "thuan-chau-03721"
+    },
+    "code": {
+      "id": "03721",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.435",
+      "lon": "103.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03646",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tô Hiệu",
+      "en": "To Hieu",
+      "slug": "to-hieu-03646"
+    },
+    "code": {
+      "id": "03646",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.344",
+      "lon": "103.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04018",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tô Múa",
+      "en": "To Mua",
+      "slug": "to-mua-04018"
+    },
+    "code": {
+      "id": "04018",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.925",
+      "lon": "104.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03958",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tường Hạ",
+      "en": "Tuong Ha",
+      "slug": "tuong-ha-03958"
+    },
+    "code": {
+      "id": "03958",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.141",
+      "lon": "104.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04048",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Hồ",
+      "en": "Van Ho",
+      "slug": "van-ho-04048"
+    },
+    "code": {
+      "id": "04048",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.81",
+      "lon": "104.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04033",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Sơn",
+      "en": "Van Son",
+      "slug": "van-son-04033"
+    },
+    "code": {
+      "id": "04033",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.824",
+      "lon": "104.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03862",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xím Vàng",
+      "en": "Xim Vang",
+      "slug": "xim-vang-03862"
+    },
+    "code": {
+      "id": "03862",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.356",
+      "lon": "104.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04057",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Nha",
+      "en": "Xuan Nha",
+      "slug": "xuan-nha-04057"
+    },
+    "code": {
+      "id": "04057",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.667",
+      "lon": "104.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04075",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Châu",
+      "en": "Yen Chau",
+      "slug": "yen-chau-04075"
+    },
+    "code": {
+      "id": "04075",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.992",
+      "lon": "104.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04087",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Sơn",
+      "en": "Yen Son",
+      "slug": "yen-son-04087"
+    },
+    "code": {
+      "id": "04087",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Sơn La",
+          "en": "Son La",
+          "slug": "son-la-14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.009",
+      "lon": "104.186"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

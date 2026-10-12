@@ -1,0 +1,45 @@
+{
+  "id": "20710",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bến Giằng",
+    "en": "Ben Giang",
+    "slug": "ben-giang-20710"
+  },
+  "code": {
+    "id": "20710",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.69",
+    "lon": "107.766"
+  },
+  "metadata": {},
+  "source": {}
+}

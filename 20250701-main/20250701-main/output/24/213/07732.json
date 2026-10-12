@@ -1,0 +1,18 @@
+{
+  "address": "Xã Nham Sơn, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: this commune is not mentioned in any of the documents",
+  "result": [
+    {
+      "citation": {
+        "header": "1658/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Bắc Ninh",
+        "line": "92. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Thọ Xương, Ngô Quyền, Xương Giang, Hoàng Văn Thụ, Trần Phú, Dĩnh Kế và Dĩnh Trì thành phường mới có tên gọi là phường Bắc Giang."
+      },
+      "confidence": "manual:low",
+      "province_name": "Tỉnh Bắc Ninh",
+      "ward_code": "07210",
+      "ward_name": "Phường Bắc Giang"
+    }
+  ]
+}

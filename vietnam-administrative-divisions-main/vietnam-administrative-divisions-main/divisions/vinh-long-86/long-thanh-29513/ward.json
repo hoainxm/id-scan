@@ -1,0 +1,45 @@
+{
+  "id": "29513",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Long Thành",
+    "en": "Long Thanh",
+    "slug": "long-thanh-29513"
+  },
+  "code": {
+    "id": "29513",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "Vĩnh Long",
+      "en": "Vinh Long",
+      "slug": "vinh-long-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "Vĩnh Long",
+        "en": "Vinh Long",
+        "slug": "vinh-long-86"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.609",
+    "lon": "106.447"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "05362",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lạc Lương",
+    "en": "Lac Luong",
+    "slug": "lac-luong-05362"
+  },
+  "code": {
+    "id": "05362",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "Phú Thọ",
+      "en": "Phu Tho",
+      "slug": "phu-tho-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.479",
+    "lon": "105.628"
+  },
+  "metadata": {},
+  "source": {}
+}

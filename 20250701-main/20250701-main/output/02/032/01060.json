@@ -1,0 +1,18 @@
+{
+  "address": "Xã Sán Xả Hồ, Huyện Hoàng Su Phì, Tỉnh Hà Giang",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1684/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tuyên Quang",
+        "line": "99. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sán Sả Hồ, Nàng Đôn và Pờ Ly Ngài thành xã mới có tên gọi là xã Pờ Ly Ngài."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Tuyên Quang",
+      "ward_code": "01057",
+      "ward_name": "Xã Pờ Ly Ngài"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "23866",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Ia Krêl",
+    "en": "Ia Krel",
+    "slug": "ia-krel-23866"
+  },
+  "code": {
+    "id": "23866",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.809",
+    "lon": "107.786"
+  },
+  "metadata": {},
+  "source": {}
+}

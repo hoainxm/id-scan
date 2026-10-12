@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "01708",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Đằng",
+      "en": "Bach Dang",
+      "slug": "bach-dang-01708"
+    },
+    "code": {
+      "id": "01708",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.597",
+      "lon": "106.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01321",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Lạc",
+      "en": "Bao Lac",
+      "slug": "bao-lac-01321"
+    },
+    "code": {
+      "id": "01321",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.951",
+      "lon": "105.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01290",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Lâm",
+      "en": "Bao Lam",
+      "slug": "bao-lam-01290"
+    },
+    "code": {
+      "id": "01290",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.832",
+      "lon": "105.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01636",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bế Văn Đàn",
+      "en": "Be Van Dan",
+      "slug": "be-van-dan-01636"
+    },
+    "code": {
+      "id": "01636",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.607",
+      "lon": "106.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01738",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ca Thành",
+      "en": "Ca Thanh",
+      "slug": "ca-thanh-01738"
+    },
+    "code": {
+      "id": "01738",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.726",
+      "lon": "105.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01366",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cần Yên",
+      "en": "Can Yen",
+      "slug": "can-yen-01366"
+    },
+    "code": {
+      "id": "01366",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.884",
+      "lon": "105.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01789",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Canh Tân",
+      "en": "Canh Tan",
+      "slug": "canh-tan-01789"
+    },
+    "code": {
+      "id": "01789",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.515",
+      "lon": "106.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01327",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cô Ba",
+      "en": "Co Ba",
+      "slug": "co-ba-01327"
+    },
+    "code": {
+      "id": "01327",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23",
+      "lon": "105.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01324",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cốc Pàng",
+      "en": "Coc Pang",
+      "slug": "coc-pang-01324"
+    },
+    "code": {
+      "id": "01324",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.043",
+      "lon": "105.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01501",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đàm Thủy",
+      "en": "Dam Thuy",
+      "slug": "dam-thuy-01501"
+    },
+    "code": {
+      "id": "01501",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.834",
+      "lon": "106.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đình Phong",
+      "en": "Dinh Phong",
+      "slug": "dinh-phong-01489"
+    },
+    "code": {
+      "id": "01489",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.897",
+      "lon": "106.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01525",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đoài Dương",
+      "en": "Doai Duong",
+      "slug": "doai-duong-01525"
+    },
+    "code": {
+      "id": "01525",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.761",
+      "lon": "106.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01594",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Độc Lập",
+      "en": "Doc Lap",
+      "slug": "doc-lap-01594"
+    },
+    "code": {
+      "id": "01594",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.711",
+      "lon": "106.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01786",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Khê",
+      "en": "Dong Khe",
+      "slug": "dong-khe-01786"
+    },
+    "code": {
+      "id": "01786",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.43",
+      "lon": "106.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01822",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Long",
+      "en": "Duc Long",
+      "slug": "duc-long-01822"
+    },
+    "code": {
+      "id": "01822",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.444",
+      "lon": "106.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01558",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạ Lang",
+      "en": "Ha Lang",
+      "slug": "ha-lang-01558"
+    },
+    "code": {
+      "id": "01558",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.65",
+      "lon": "106.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01438",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Quảng",
+      "en": "Ha Quang",
+      "slug": "ha-quang-01438"
+    },
+    "code": {
+      "id": "01438",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.856",
+      "lon": "106.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01618",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạnh Phúc",
+      "en": "Hanh Phuc",
+      "slug": "hanh-phuc-01618"
+    },
+    "code": {
+      "id": "01618",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.625",
+      "lon": "106.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01654",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa An",
+      "en": "Hoa An",
+      "slug": "hoa-an-01654"
+    },
+    "code": {
+      "id": "01654",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.746",
+      "lon": "106.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01351",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Đạo",
+      "en": "Hung Dao",
+      "slug": "hung-dao-01351"
+    },
+    "code": {
+      "id": "01351",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.839",
+      "lon": "105.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01354",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Huy Giáp",
+      "en": "Huy Giap",
+      "slug": "huy-giap-01354"
+    },
+    "code": {
+      "id": "01354",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.796",
+      "lon": "105.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01336",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Xuân",
+      "en": "Khanh Xuan",
+      "slug": "khanh-xuan-01336"
+    },
+    "code": {
+      "id": "01336",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.933",
+      "lon": "105.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01792",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Đồng",
+      "en": "Kim Dong",
+      "slug": "kim-dong-01792"
+    },
+    "code": {
+      "id": "01792",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.541",
+      "lon": "106.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01393",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lũng Nặm",
+      "en": "Lung Nam",
+      "slug": "lung-nam-01393"
+    },
+    "code": {
+      "id": "01393",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.935",
+      "lon": "106.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01294",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lý Bôn",
+      "en": "Ly Bon",
+      "slug": "ly-bon-01294"
+    },
+    "code": {
+      "id": "01294",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.938",
+      "lon": "105.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01537",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lý Quốc",
+      "en": "Ly Quoc",
+      "slug": "ly-quoc-01537"
+    },
+    "code": {
+      "id": "01537",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.794",
+      "lon": "106.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01795",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Khai",
+      "en": "Minh Khai",
+      "slug": "minh-khai-01795"
+    },
+    "code": {
+      "id": "01795",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.473",
+      "lon": "106.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01747",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Tâm",
+      "en": "Minh Tam",
+      "slug": "minh-tam-01747"
+    },
+    "code": {
+      "id": "01747",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.699",
+      "lon": "106.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01297",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Quang",
+      "en": "Nam Quang",
+      "slug": "nam-quang-01297"
+    },
+    "code": {
+      "id": "01297",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.92",
+      "lon": "105.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01660",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Tuấn",
+      "en": "Nam Tuan",
+      "slug": "nam-tuan-01660"
+    },
+    "code": {
+      "id": "01660",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.784",
+      "lon": "106.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01726",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyên Bình",
+      "en": "Nguyen Binh",
+      "slug": "nguyen-binh-01726"
+    },
+    "code": {
+      "id": "01726",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.65",
+      "lon": "105.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01699",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Huệ",
+      "en": "Nguyen Hue",
+      "slug": "nguyen-hue-01699"
+    },
+    "code": {
+      "id": "01699",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.7",
+      "lon": "106.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01279",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nùng Trí Cao",
+      "en": "Nung Tri Cao",
+      "slug": "nung-tri-cao-01279"
+    },
+    "code": {
+      "id": "01279",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.688",
+      "lon": "106.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01768",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phan Thanh",
+      "en": "Phan Thanh",
+      "slug": "phan-thanh-01768"
+    },
+    "code": {
+      "id": "01768",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.616",
+      "lon": "105.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01648",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phục Hòa",
+      "en": "Phuc Hoa",
+      "slug": "phuc-hoa-01648"
+    },
+    "code": {
+      "id": "01648",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.53",
+      "lon": "106.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01456",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Hán",
+      "en": "Quang Han",
+      "slug": "quang-han-01456"
+    },
+    "code": {
+      "id": "01456",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.83",
+      "lon": "106.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01304",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Lâm",
+      "en": "Quang Lam",
+      "slug": "quang-lam-01304"
+    },
+    "code": {
+      "id": "01304",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.856",
+      "lon": "105.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01552",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Long",
+      "en": "Quang Long",
+      "slug": "quang-long-01552"
+    },
+    "code": {
+      "id": "01552",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.735",
+      "lon": "106.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01465",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Trung",
+      "en": "Quang Trung",
+      "slug": "quang-trung-01465"
+    },
+    "code": {
+      "id": "01465",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.839",
+      "lon": "106.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01576",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Uyên",
+      "en": "Quang Uyen",
+      "slug": "quang-uyen-01576"
+    },
+    "code": {
+      "id": "01576",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.693",
+      "lon": "106.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01360",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Lộ",
+      "en": "Son Lo",
+      "slug": "son-lo-01360"
+    },
+    "code": {
+      "id": "01360",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.741",
+      "lon": "105.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01774",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Kim",
+      "en": "Tam Kim",
+      "slug": "tam-kim-01774"
+    },
+    "code": {
+      "id": "01774",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.606",
+      "lon": "106.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01288",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Giang",
+      "en": "Tan Giang",
+      "slug": "tan-giang-01288"
+    },
+    "code": {
+      "id": "01288",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.622",
+      "lon": "106.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01807",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch An",
+      "en": "Thach An",
+      "slug": "thach-an-01807"
+    },
+    "code": {
+      "id": "01807",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.507",
+      "lon": "106.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01777",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Công",
+      "en": "Thanh Cong",
+      "slug": "thanh-cong-01777"
+    },
+    "code": {
+      "id": "01777",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.54",
+      "lon": "105.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01387",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Long",
+      "en": "Thanh Long",
+      "slug": "thanh-long-01387"
+    },
+    "code": {
+      "id": "01387",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.762",
+      "lon": "105.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01363",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thông Nông",
+      "en": "Thong Nong",
+      "slug": "thong-nong-01363"
+    },
+    "code": {
+      "id": "01363",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.782",
+      "lon": "105.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01273",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thục Phán",
+      "en": "Thuc Phan",
+      "slug": "thuc-phan-01273"
+    },
+    "code": {
+      "id": "01273",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.676",
+      "lon": "106.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01729",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tĩnh Túc",
+      "en": "Tinh Tuc",
+      "slug": "tinh-tuc-01729"
+    },
+    "code": {
+      "id": "01729",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.649",
+      "lon": "105.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01414",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tổng Cọt",
+      "en": "Tong Cot",
+      "slug": "tong-cot-01414"
+    },
+    "code": {
+      "id": "01414",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.944",
+      "lon": "106.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01447",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Lĩnh",
+      "en": "Tra Linh",
+      "slug": "tra-linh-01447"
+    },
+    "code": {
+      "id": "01447",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.829",
+      "lon": "106.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01477",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trùng Khánh",
+      "en": "Trung Khanh",
+      "slug": "trung-khanh-01477"
+    },
+    "code": {
+      "id": "01477",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.837",
+      "lon": "106.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01392",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Hà",
+      "en": "Truong Ha",
+      "slug": "truong-ha-01392"
+    },
+    "code": {
+      "id": "01392",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.904",
+      "lon": "106.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01561",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vinh Quý",
+      "en": "Vinh Quy",
+      "slug": "vinh-quy-01561"
+    },
+    "code": {
+      "id": "01561",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.681",
+      "lon": "106.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01339",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Trường",
+      "en": "Xuan Truong",
+      "slug": "xuan-truong-01339"
+    },
+    "code": {
+      "id": "01339",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.91",
+      "lon": "105.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01318",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thổ",
+      "en": "Yen Tho",
+      "slug": "yen-tho-01318"
+    },
+    "code": {
+      "id": "01318",
+      "iso": null
+    },
+    "parent": {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "Cao Bằng",
+          "en": "Cao Bang",
+          "slug": "cao-bang-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.733",
+      "lon": "105.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

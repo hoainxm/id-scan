@@ -1,0 +1,45 @@
+{
+  "id": "11737",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nam Đồ Sơn",
+    "en": "Nam Do Son",
+    "slug": "nam-do-son-11737"
+  },
+  "code": {
+    "id": "11737",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Hải Phòng",
+      "en": "Hai Phong",
+      "slug": "hai-phong-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.744",
+    "lon": "106.754"
+  },
+  "metadata": {},
+  "source": {}
+}

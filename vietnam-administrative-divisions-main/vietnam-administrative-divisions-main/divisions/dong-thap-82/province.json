@@ -1,0 +1,33 @@
+{
+  "id": "82",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Đồng Tháp",
+    "en": "Dong Thap",
+    "slug": "dong-thap-82"
+  },
+  "code": {
+    "id": "82",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 102
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.429",
+    "lon": "105.999"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/dong-thap-82/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "16348",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Trường Văn",
+    "en": "Truong Van",
+    "slug": "truong-van-16348"
+  },
+  "code": {
+    "id": "16348",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "Thanh Hóa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.614",
+    "lon": "105.745"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hòa Phú, Huyện Tây Hoà, Tỉnh Phú Yên",
+  "ellapsedInMs": 12495,
+  "estimatedCost": 0.0078619,
+  "thought": "**Analyzing the Restructuring of \"Xã Hòa Phú, Huyện Tây Hoà, Tỉnh Phú Yên\"**\n\nAs an expert in these matters, my analysis focuses on pinpointing the new administrative unit for \"Xã Hòa Phú, Huyện Tây Hoà, Tỉnh Phú Yên\" following the province merger of Phú Yên into Đắk Lắk. The core of my investigation involves cross-referencing resolutions with a keen eye for mentions of \"Hòa Phú\" and \"Tây Hòa\" within the context of the evolving provincial landscape.\n\nFirst, I confirmed the province's merger from \"60-NQ/TW,\" establishing Đắk Lắk as the relevant province. Next, I meticulously reviewed the \"Other resolutions,\" scrutinizing each for mentions of \"Hòa Phú\" and \"Tây Hòa.\"\n\nResolution **1660/NQ-UBTVQH15**, focused on Đắk Lắk, proved crucial. It clearly states, in line 69, that \"Xã Hòa Phú (huyện Tây Hòa)\" merged to form \"Xã Sơn Thành.\" This is a definitive match, directly addressing the original query.\n\nWhile resolution 1660/NQ-UBTVQH15 also mentions \"huyện Tây Hòa,\" it creates a new \"xã Tây Hòa\" but doesn't list \"Xã Hòa Phú\" as a component. So, while this resolution involves \"Tây Hòa,\" it doesn't clarify the final status of \"Xã Hòa Phú.\"\n\nTo solidify this finding, I checked the \"New wards\" list and found \"Xã Sơn Thành\" with the associated province as \"Tỉnh Đắk Lắk,\" confirming the accuracy. The confidence is very high.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1660/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đắk Lắk",
+        "line": "69. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hòa Phú (huyện Tây Hòa), Sơn Thành Đông và Sơn Thành Tây thành xã mới có tên gọi là xã Sơn Thành."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đắk Lắk",
+      "ward_code": "22250",
+      "ward_name": "Xã Sơn Thành"
+    }
+  ]
+}

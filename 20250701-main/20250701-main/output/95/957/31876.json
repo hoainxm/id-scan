@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phước Long, Huyện Phước Long, Tỉnh Bạc Liêu",
+  "ellapsedInMs": 18076,
+  "estimatedCost": 0.0097059,
+  "thought": "**Administrative Restructuring in Cà Mau: A Deep Dive**\n\nMy analysis indicates that the old administrative unit \"Xã Phước Long, Huyện Phước Long, Tỉnh Bạc Liêu\" has been re-designated due to the merger of Bạc Liêu into Cà Mau province.  The key resolution governing this change is `1655/NQ-UBTVQH15`, specifically Line 49, which states: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phước Long và xã Vĩnh Phú Tây thành xã mới có tên gọi là xã Vĩnh Phước.\"\n\nGiven the precise name match, I strongly believe the \"xã Phước Long\" referenced here is the old \"Xã Phước Long, Huyện Phước Long, Tỉnh Bạc Liêu\".  The phrasing implies that \"xã Phước Long\" is an existing unit, now merged with \"xã Vĩnh Phú Tây\" to create the new \"Xã Vĩnh Phước\". I have high confidence in this determination because it is the most logical interpretation given the available data, and the merging process directly mentioned in the resolution.  This suggests that the new ward code and name are `31876` and \"Xã Vĩnh Phước\", respectively. The province will be Cà Mau.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1655/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Cà Mau",
+        "line": "49. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phước Long và xã Vĩnh Phú Tây thành xã mới có tên gọi là xã Vĩnh Phước."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Cà Mau",
+      "ward_code": "31876",
+      "ward_name": "Xã Vĩnh Phước"
+    }
+  ]
+}

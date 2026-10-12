@@ -1,0 +1,45 @@
+{
+  "id": "17212",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Quỳnh Phú",
+    "en": "Quynh Phu",
+    "slug": "quynh-phu-17212"
+  },
+  "code": {
+    "id": "17212",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "Nghệ An",
+      "en": "Nghe An",
+      "slug": "nghe-an-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.104",
+    "lon": "105.676"
+  },
+  "metadata": {},
+  "source": {}
+}

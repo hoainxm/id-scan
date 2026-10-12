@@ -1,0 +1,45 @@
+{
+  "id": "05569",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Định Hóa",
+    "en": "Dinh Hoa",
+    "slug": "dinh-hoa-05569"
+  },
+  "code": {
+    "id": "05569",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Thái Nguyên",
+      "en": "Thai Nguyen",
+      "slug": "thai-nguyen-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Thái Nguyên",
+        "en": "Thai Nguyen",
+        "slug": "thai-nguyen-19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.896",
+    "lon": "105.628"
+  },
+  "metadata": {},
+  "source": {}
+}

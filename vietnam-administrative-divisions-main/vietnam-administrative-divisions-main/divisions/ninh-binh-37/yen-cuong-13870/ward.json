@@ -1,0 +1,45 @@
+{
+  "id": "13870",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Yên Cường",
+    "en": "Yen Cuong",
+    "slug": "yen-cuong-13870"
+  },
+  "code": {
+    "id": "13870",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "Ninh Bình",
+      "en": "Ninh Binh",
+      "slug": "ninh-binh-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.277",
+    "lon": "106.108"
+  },
+  "metadata": {},
+  "source": {}
+}

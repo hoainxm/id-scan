@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tân Định, Huyện Bắc Tân Uyên, Tỉnh Bình Dương",
+  "ellapsedInMs": 10937,
+  "estimatedCost": 0.0053733999999999995,
+  "thought": "**Identifying the New Administrative Unit for \"Xã Tân Định, Huyện Bắc Tân Uyên, Tỉnh Bình Dương\"**\n\nOkay, let's break this down systematically. My first thought is to tackle the province change. Based on the provided data, \"Tỉnh Bình Dương\" has become part of \"Thành phố Hồ Chí Minh.\" Now, the focus shifts to locating the old ward, specifically \"Tân Định,\" within resolutions related to administrative adjustments in the region.\n\nI've examined several resolutions. I initially encountered some false positives. For instance, resolutions referencing \"Tân Định\" in contexts like An Giang or Khánh Hòa are clearly irrelevant, as they're geographically misaligned. There are also mentions of Tân Định in Ho Chi Minh City, but those are phường rather than xã. These are not a direct match to the ward I am seeking.\n\nThen, I focused on resolutions concerning Ho Chi Minh City (HCM), given the recent province merger. Resolution 1685/NQ-UBTVQH15 stands out. It mentions \"xã Tân Định\" in the context of Bắc Tân Uyên and the newly formed \"xã Bắc Tân Uyên.\" Crucially, line 137 of this resolution states that the old wards \"thị trấn Tân Thành, xã Đất Cuốc và xã Tân Định\" are combined to form the new unit \"xã Bắc Tân Uyên.\" This is the direct mapping I was looking for.\n\nI've cross-referenced this with the \"New wards\" list, confirming that \"xã Bắc Tân Uyên\" maps to the provided data. The province change is consistent and the resolution explicitly mentions the old ward name.\n\nThe context of the merge and the explicit mention make this a high-confidence match. The old \"xã Tân Định, Huyện Bắc Tân Uyên, Tỉnh Bình Dương\" is now part of the new \"xã Bắc Tân Uyên,\" within Thành phố Hồ Chí Minh. There are no other ambiguous or conflicting matches based on the prompt's provided data.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "137. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Tân Thành, xã Đất Cuốc và xã Tân Định thành xã mới có tên gọi là xã Bắc Tân Uyên."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "25906",
+      "ward_name": "Xã Bắc Tân Uyên"
+    }
+  ]
+}

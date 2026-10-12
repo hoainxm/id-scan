@@ -1,0 +1,45 @@
+{
+  "id": "16941",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nghĩa Đàn",
+    "en": "Nghia Dan",
+    "slug": "nghia-dan-16941"
+  },
+  "code": {
+    "id": "16941",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "Nghệ An",
+      "en": "Nghe An",
+      "slug": "nghe-an-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.355",
+    "lon": "105.51"
+  },
+  "metadata": {},
+  "source": {}
+}

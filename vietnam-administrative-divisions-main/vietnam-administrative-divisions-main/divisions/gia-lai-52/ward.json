@@ -1,0 +1,6077 @@
+[
+  {
+    "id": "23954",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Al Bá",
+      "en": "Al Ba",
+      "slug": "al-ba-23954"
+    },
+    "code": {
+      "id": "23954",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.702",
+      "lon": "108.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23614",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Bình",
+      "en": "An Binh",
+      "slug": "an-binh-23614"
+    },
+    "code": {
+      "id": "23614",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.961",
+      "lon": "108.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21697",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ân Hảo",
+      "en": "An Hao",
+      "slug": "an-hao-21697"
+    },
+    "code": {
+      "id": "21697",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.482",
+      "lon": "108.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21628",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hòa",
+      "en": "An Hoa",
+      "slug": "an-hoa-21628"
+    },
+    "code": {
+      "id": "21628",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.539",
+      "lon": "108.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23617",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Khê",
+      "en": "An Khe",
+      "slug": "an-khe-23617"
+    },
+    "code": {
+      "id": "23617",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.022",
+      "lon": "108.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21609",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lão",
+      "en": "An Lao",
+      "slug": "an-lao-21609"
+    },
+    "code": {
+      "id": "21609",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.533",
+      "lon": "108.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21769",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lương",
+      "en": "An Luong",
+      "slug": "an-luong-21769"
+    },
+    "code": {
+      "id": "21769",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.171",
+      "lon": "109.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21910",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nhơn",
+      "en": "An Nhon",
+      "slug": "an-nhon-21910"
+    },
+    "code": {
+      "id": "21910",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.857",
+      "lon": "109.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21925",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nhơn Bắc",
+      "en": "An Nhon Bac",
+      "slug": "an-nhon-bac-21925"
+    },
+    "code": {
+      "id": "21925",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.933",
+      "lon": "109.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21934",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nhơn Đông",
+      "en": "An Nhon Dong",
+      "slug": "an-nhon-dong-21934"
+    },
+    "code": {
+      "id": "21934",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.902",
+      "lon": "109.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21943",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nhơn Nam",
+      "en": "An Nhon Nam",
+      "slug": "an-nhon-nam-21943"
+    },
+    "code": {
+      "id": "21943",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.863",
+      "lon": "109.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21940",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nhơn Tây",
+      "en": "An Nhon Tay",
+      "slug": "an-nhon-tay-21940"
+    },
+    "code": {
+      "id": "21940",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.823",
+      "lon": "109.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23602",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phú",
+      "en": "An Phu",
+      "slug": "an-phu-23602"
+    },
+    "code": {
+      "id": "23602",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.984",
+      "lon": "108.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21622",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Toàn",
+      "en": "An Toan",
+      "slug": "an-toan-21622"
+    },
+    "code": {
+      "id": "21622",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.489",
+      "lon": "108.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21715",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ân Tường",
+      "en": "An Tuong",
+      "slug": "an-tuong-21715"
+    },
+    "code": {
+      "id": "21715",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.353",
+      "lon": "108.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21616",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Vinh",
+      "en": "An Vinh",
+      "slug": "an-vinh-21616"
+    },
+    "code": {
+      "id": "21616",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.612",
+      "lon": "108.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23798",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ayun",
+      "en": "Ayun",
+      "slug": "ayun-23798"
+    },
+    "code": {
+      "id": "23798",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.31",
+      "lon": "108.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24044",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ayun Pa",
+      "en": "Ayun Pa",
+      "slug": "ayun-pa-24044"
+    },
+    "code": {
+      "id": "24044",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.31",
+      "lon": "108.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23896",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bàu Cạn",
+      "en": "Bau Can",
+      "slug": "bau-can-23896"
+    },
+    "code": {
+      "id": "23896",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.828",
+      "lon": "107.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23590",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Biển Hồ",
+      "en": "Bien Ho",
+      "slug": "bien-ho-23590"
+    },
+    "code": {
+      "id": "23590",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.045",
+      "lon": "107.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21829",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình An",
+      "en": "Binh An",
+      "slug": "binh-an-21829"
+    },
+    "code": {
+      "id": "21829",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.961",
+      "lon": "108.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21907",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Định",
+      "en": "Binh Dinh",
+      "slug": "binh-dinh-21907"
+    },
+    "code": {
+      "id": "21907",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.109",
+      "lon": "109.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21733",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Dương",
+      "en": "Binh Duong",
+      "slug": "binh-duong-21733"
+    },
+    "code": {
+      "id": "21733",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.297",
+      "lon": "109.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21817",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hiệp",
+      "en": "Binh Hiep",
+      "slug": "binh-hiep-21817"
+    },
+    "code": {
+      "id": "21817",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.946",
+      "lon": "109.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21820",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Khê",
+      "en": "Binh Khe",
+      "slug": "binh-khe-21820"
+    },
+    "code": {
+      "id": "21820",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.908",
+      "lon": "108.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21835",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Phú",
+      "en": "Binh Phu",
+      "slug": "binh-phu-21835"
+    },
+    "code": {
+      "id": "21835",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.522",
+      "lon": "109.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23947",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bờ Ngoong",
+      "en": "Bo Ngoong",
+      "slug": "bo-ngoong-23947"
+    },
+    "code": {
+      "id": "23947",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.805",
+      "lon": "108.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21640",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bồng Sơn",
+      "en": "Bong Son",
+      "slug": "bong-son-21640"
+    },
+    "code": {
+      "id": "21640",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.438",
+      "lon": "109.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21997",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Canh Liên",
+      "en": "Canh Lien",
+      "slug": "canh-lien-21997"
+    },
+    "code": {
+      "id": "21997",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.682",
+      "lon": "108.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22006",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Canh Vinh",
+      "en": "Canh Vinh",
+      "slug": "canh-vinh-22006"
+    },
+    "code": {
+      "id": "22006",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.734",
+      "lon": "109.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21880",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Tiến",
+      "en": "Cat Tien",
+      "slug": "cat-tien-21880"
+    },
+    "code": {
+      "id": "21880",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.012",
+      "lon": "109.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23851",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chơ Long",
+      "en": "Cho Long",
+      "slug": "cho-long-23851"
+    },
+    "code": {
+      "id": "23851",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.749",
+      "lon": "108.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24049",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chư A Thai",
+      "en": "Chu A Thai",
+      "slug": "chu-a-thai-24049"
+    },
+    "code": {
+      "id": "24049",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.57",
+      "lon": "108.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23830",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chư Krey",
+      "en": "Chu Krey",
+      "slug": "chu-krey-23830"
+    },
+    "code": {
+      "id": "23830",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.89",
+      "lon": "108.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23722",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chư Păh",
+      "en": "Chu Pah",
+      "slug": "chu-pah-23722"
+    },
+    "code": {
+      "id": "23722",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.222",
+      "lon": "107.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23887",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chư Prông",
+      "en": "Chu Prong",
+      "slug": "chu-prong-23887"
+    },
+    "code": {
+      "id": "23887",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.593",
+      "lon": "107.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23942",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chư Pưh",
+      "en": "Chu Puh",
+      "slug": "chu-puh-23942"
+    },
+    "code": {
+      "id": "23942",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.509",
+      "lon": "108.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23941",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chư Sê",
+      "en": "Chu Se",
+      "slug": "chu-se-23941"
+    },
+    "code": {
+      "id": "23941",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.698",
+      "lon": "108.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23629",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cửu An",
+      "en": "Cuu An",
+      "slug": "cuu-an-23629"
+    },
+    "code": {
+      "id": "23629",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.022",
+      "lon": "108.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23677",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đak Đoa",
+      "en": "Dak Doa",
+      "slug": "dak-doa-23677"
+    },
+    "code": {
+      "id": "23677",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.116",
+      "lon": "108.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23995",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đak Pơ",
+      "en": "Dak Po",
+      "slug": "dak-po-23995"
+    },
+    "code": {
+      "id": "23995",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.928",
+      "lon": "108.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23644",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đak Rong",
+      "en": "Dak Rong",
+      "slug": "dak-rong-23644"
+    },
+    "code": {
+      "id": "23644",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.514",
+      "lon": "108.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23683",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đak Sơmei",
+      "en": "Dak Somei",
+      "slug": "dak-somei-23683"
+    },
+    "code": {
+      "id": "23683",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.265",
+      "lon": "108.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23842",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Song",
+      "en": "Dak Song",
+      "slug": "dak-song-23842"
+    },
+    "code": {
+      "id": "23842",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.669",
+      "lon": "108.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21859",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đề Gi",
+      "en": "De Gi",
+      "slug": "de-gi-21859"
+    },
+    "code": {
+      "id": "21859",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.104",
+      "lon": "109.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23563",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Hồng",
+      "en": "Dien Hong",
+      "slug": "dien-hong-23563"
+    },
+    "code": {
+      "id": "23563",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.973",
+      "lon": "107.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23857",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Cơ",
+      "en": "Duc Co",
+      "slug": "duc-co-23857"
+    },
+    "code": {
+      "id": "23857",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.771",
+      "lon": "107.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gào",
+      "en": "Gao",
+      "slug": "gao-23611"
+    },
+    "code": {
+      "id": "23611",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.773",
+      "lon": "109.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21871",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Hội",
+      "en": "Hoa Hoi",
+      "slug": "hoa-hoi-21871"
+    },
+    "code": {
+      "id": "21871",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.049",
+      "lon": "109.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21688",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Ân",
+      "en": "Hoai An",
+      "slug": "hoai-an-21688"
+    },
+    "code": {
+      "id": "21688",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.347",
+      "lon": "108.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Nhơn",
+      "en": "Hoai Nhon",
+      "slug": "hoai-nhon-21664"
+    },
+    "code": {
+      "id": "21664",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.515",
+      "lon": "109.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21655",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Nhơn Bắc",
+      "en": "Hoai Nhon Bac",
+      "slug": "hoai-nhon-bac-21655"
+    },
+    "code": {
+      "id": "21655",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.558",
+      "lon": "109.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21670",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Nhơn Đông",
+      "en": "Hoai Nhon Dong",
+      "slug": "hoai-nhon-dong-21670"
+    },
+    "code": {
+      "id": "21670",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.487",
+      "lon": "109.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21673",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Nhơn Nam",
+      "en": "Hoai Nhon Nam",
+      "slug": "hoai-nhon-nam-21673"
+    },
+    "code": {
+      "id": "21673",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "109.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21661",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Nhơn Tây",
+      "en": "Hoai Nhon Tay",
+      "slug": "hoai-nhon-tay-21661"
+    },
+    "code": {
+      "id": "21661",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.531",
+      "lon": "109.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23586",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội Phú",
+      "en": "Hoi Phu",
+      "slug": "hoi-phu-23586"
+    },
+    "code": {
+      "id": "23586",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.958",
+      "lon": "108.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21868",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội Sơn",
+      "en": "Hoi Son",
+      "slug": "hoi-son-21868"
+    },
+    "code": {
+      "id": "21868",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.002",
+      "lon": "109.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23799",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hra",
+      "en": "Hra",
+      "slug": "hra-23799"
+    },
+    "code": {
+      "id": "23799",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.053",
+      "lon": "108.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23710",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Băng",
+      "en": "Ia Bang",
+      "slug": "ia-bang-23710"
+    },
+    "code": {
+      "id": "23710",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.915",
+      "lon": "108.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23911",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Boòng",
+      "en": "Ia Boong",
+      "slug": "ia-boong-23911"
+    },
+    "code": {
+      "id": "23911",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.671",
+      "lon": "107.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23788",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Chia",
+      "en": "Ia Chia",
+      "slug": "ia-chia-23788"
+    },
+    "code": {
+      "id": "23788",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.89",
+      "lon": "107.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23869",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Dơk",
+      "en": "Ia Dok",
+      "slug": "ia-dok-23869"
+    },
+    "code": {
+      "id": "23869",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.855",
+      "lon": "107.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23872",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Dom",
+      "en": "Ia Dom",
+      "slug": "ia-dom-23872"
+    },
+    "code": {
+      "id": "23872",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.809",
+      "lon": "107.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24100",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Dreh",
+      "en": "Ia Dreh",
+      "slug": "ia-dreh-24100"
+    },
+    "code": {
+      "id": "24100",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.088",
+      "lon": "108.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23764",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Grai",
+      "en": "Ia Grai",
+      "slug": "ia-grai-23764"
+    },
+    "code": {
+      "id": "23764",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.991",
+      "lon": "107.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24061",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Hiao",
+      "en": "Ia Hiao",
+      "slug": "ia-hiao-24061"
+    },
+    "code": {
+      "id": "24061",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.417",
+      "lon": "108.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23971",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Hrú",
+      "en": "Ia Hru",
+      "slug": "ia-hru-23971"
+    },
+    "code": {
+      "id": "23971",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.62",
+      "lon": "108.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23767",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Hrung",
+      "en": "Ia Hrung",
+      "slug": "ia-hrung-23767"
+    },
+    "code": {
+      "id": "23767",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.023",
+      "lon": "107.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23728",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Khươl",
+      "en": "Ia Khuol",
+      "slug": "ia-khuol-23728"
+    },
+    "code": {
+      "id": "23728",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.268",
+      "lon": "108.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23977",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Ko",
+      "en": "Ia Ko",
+      "slug": "ia-ko-23977"
+    },
+    "code": {
+      "id": "23977",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.595",
+      "lon": "108.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23776",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Krái",
+      "en": "Ia Krai",
+      "slug": "ia-krai-23776"
+    },
+    "code": {
+      "id": "23776",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.009",
+      "lon": "107.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23866",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Krêl",
+      "en": "Ia Krel",
+      "slug": "ia-krel-23866"
+    },
+    "code": {
+      "id": "23866",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.809",
+      "lon": "107.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23935",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Lâu",
+      "en": "Ia Lau",
+      "slug": "ia-lau-23935"
+    },
+    "code": {
+      "id": "23935",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.47",
+      "lon": "107.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23986",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Le",
+      "en": "Ia Le",
+      "slug": "ia-le-23986"
+    },
+    "code": {
+      "id": "23986",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.442",
+      "lon": "108.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23734",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Ly",
+      "en": "Ia Ly",
+      "slug": "ia-ly-23734"
+    },
+    "code": {
+      "id": "23734",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.21",
+      "lon": "107.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23938",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Mơ",
+      "en": "Ia Mo",
+      "slug": "ia-mo-23938"
+    },
+    "code": {
+      "id": "23938",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "107.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23884",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Nan",
+      "en": "Ia Nan",
+      "slug": "ia-nan-23884"
+    },
+    "code": {
+      "id": "23884",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.726",
+      "lon": "107.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23782",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia O",
+      "en": "Ia O",
+      "slug": "ia-o-23782"
+    },
+    "code": {
+      "id": "23782",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.991",
+      "lon": "107.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24022",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Pa",
+      "en": "Ia Pa",
+      "slug": "ia-pa-24022"
+    },
+    "code": {
+      "id": "24022",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.527",
+      "lon": "108.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23749",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Phí",
+      "en": "Ia Phi",
+      "slug": "ia-phi-23749"
+    },
+    "code": {
+      "id": "23749",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.177",
+      "lon": "107.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23926",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Pia",
+      "en": "Ia Pia",
+      "slug": "ia-pia-23926"
+    },
+    "code": {
+      "id": "23926",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.599",
+      "lon": "107.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23881",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Pnôn",
+      "en": "Ia Pnon",
+      "slug": "ia-pnon-23881"
+    },
+    "code": {
+      "id": "23881",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "107.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23917",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Púch",
+      "en": "Ia Puch",
+      "slug": "ia-puch-23917"
+    },
+    "code": {
+      "id": "23917",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.623",
+      "lon": "107.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24065",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Rbol",
+      "en": "Ia Rbol",
+      "slug": "ia-rbol-24065"
+    },
+    "code": {
+      "id": "24065",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.339",
+      "lon": "108.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24112",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Rsai",
+      "en": "Ia Rsai",
+      "slug": "ia-rsai-24112"
+    },
+    "code": {
+      "id": "24112",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.342",
+      "lon": "108.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24073",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Sao",
+      "en": "Ia Sao",
+      "slug": "ia-sao-24073"
+    },
+    "code": {
+      "id": "24073",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.283",
+      "lon": "108.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23908",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Tôr",
+      "en": "Ia Tor",
+      "slug": "ia-tor-23908"
+    },
+    "code": {
+      "id": "23908",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.779",
+      "lon": "107.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24028",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Tul",
+      "en": "Ia Tul",
+      "slug": "ia-tul-24028"
+    },
+    "code": {
+      "id": "24028",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.495",
+      "lon": "108.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23638",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kbang",
+      "en": "Kbang",
+      "slug": "kbang-23638"
+    },
+    "code": {
+      "id": "23638",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.301",
+      "lon": "108.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23714",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "KDang",
+      "en": "KDang",
+      "slug": "kdang-23714"
+    },
+    "code": {
+      "id": "23714",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.958",
+      "lon": "108.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21727",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Sơn",
+      "en": "Kim Son",
+      "slug": "kim-son-21727"
+    },
+    "code": {
+      "id": "21727",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.248",
+      "lon": "108.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23818",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kon Chiêng",
+      "en": "Kon Chieng",
+      "slug": "kon-chieng-23818"
+    },
+    "code": {
+      "id": "23818",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.771",
+      "lon": "108.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23701",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kon Gang",
+      "en": "Kon Gang",
+      "slug": "kon-gang-23701"
+    },
+    "code": {
+      "id": "23701",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.079",
+      "lon": "108.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23674",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kông Bơ La",
+      "en": "Kong Bo La",
+      "slug": "kong-bo-la-23674"
+    },
+    "code": {
+      "id": "23674",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.096",
+      "lon": "108.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23824",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kông Chro",
+      "en": "Kong Chro",
+      "slug": "kong-chro-23824"
+    },
+    "code": {
+      "id": "23824",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.763",
+      "lon": "108.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23650",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krong",
+      "en": "Krong",
+      "slug": "krong-23650"
+    },
+    "code": {
+      "id": "23650",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.235",
+      "lon": "108.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23812",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lơ Pang",
+      "en": "Lo Pang",
+      "slug": "lo-pang-23812"
+    },
+    "code": {
+      "id": "23812",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.547",
+      "lon": "109.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23794",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mang Yang",
+      "en": "Mang Yang",
+      "slug": "mang-yang-23794"
+    },
+    "code": {
+      "id": "23794",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.956",
+      "lon": "108.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21901",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngô Mây",
+      "en": "Ngo May",
+      "slug": "ngo-may-21901"
+    },
+    "code": {
+      "id": "21901",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.768",
+      "lon": "109.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21607",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Châu",
+      "en": "Nhon Chau",
+      "slug": "nhon-chau-21607"
+    },
+    "code": {
+      "id": "21607",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.62",
+      "lon": "109.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21853",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Cát",
+      "en": "Phu Cat",
+      "slug": "phu-cat-21853"
+    },
+    "code": {
+      "id": "21853",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.061",
+      "lon": "109.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21730",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Mỹ",
+      "en": "Phu My",
+      "slug": "phu-my-21730"
+    },
+    "code": {
+      "id": "21730",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.244",
+      "lon": "109.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21739",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Mỹ Bắc",
+      "en": "Phu My Bac",
+      "slug": "phu-my-bac-21739"
+    },
+    "code": {
+      "id": "21739",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.323",
+      "lon": "109.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21751",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Mỹ Đông",
+      "en": "Phu My Dong",
+      "slug": "phu-my-dong-21751"
+    },
+    "code": {
+      "id": "21751",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.273",
+      "lon": "109.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21775",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Mỹ Nam",
+      "en": "Phu My Nam",
+      "slug": "phu-my-nam-21775"
+    },
+    "code": {
+      "id": "21775",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.12",
+      "lon": "109.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21757",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Mỹ Tây",
+      "en": "Phu My Tay",
+      "slug": "phu-my-tay-21757"
+    },
+    "code": {
+      "id": "21757",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.216",
+      "lon": "109.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24043",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thiện",
+      "en": "Phu Thien",
+      "slug": "phu-thien-24043"
+    },
+    "code": {
+      "id": "24043",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.507",
+      "lon": "108.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24076",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Túc",
+      "en": "Phu Tuc",
+      "slug": "phu-tuc-24076"
+    },
+    "code": {
+      "id": "24076",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.198",
+      "lon": "108.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23575",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pleiku",
+      "en": "Pleiku",
+      "slug": "pleiku-23575"
+    },
+    "code": {
+      "id": "23575",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.977",
+      "lon": "108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24013",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pờ Tó",
+      "en": "Po To",
+      "slug": "po-to-24013"
+    },
+    "code": {
+      "id": "24013",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.625",
+      "lon": "108.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21583",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quy Nhơn",
+      "en": "Quy Nhon",
+      "slug": "quy-nhon-21583"
+    },
+    "code": {
+      "id": "21583",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.755",
+      "lon": "109.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21553",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quy Nhơn Bắc",
+      "en": "Quy Nhon Bac",
+      "slug": "quy-nhon-bac-21553"
+    },
+    "code": {
+      "id": "21553",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.795",
+      "lon": "109.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21601",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quy Nhơn Đông",
+      "en": "Quy Nhon Dong",
+      "slug": "quy-nhon-dong-21601"
+    },
+    "code": {
+      "id": "21601",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.817",
+      "lon": "109.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21592",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quy Nhơn Nam",
+      "en": "Quy Nhon Nam",
+      "slug": "quy-nhon-nam-21592"
+    },
+    "code": {
+      "id": "21592",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.756",
+      "lon": "109.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21589",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quy Nhơn Tây",
+      "en": "Quy Nhon Tay",
+      "slug": "quy-nhon-tay-21589"
+    },
+    "code": {
+      "id": "21589",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.764",
+      "lon": "109.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23647",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Lang",
+      "en": "Son Lang",
+      "slug": "son-lang-23647"
+    },
+    "code": {
+      "id": "23647",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.44",
+      "lon": "108.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23839",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "SRó",
+      "en": "SRo",
+      "slug": "sro-23839"
+    },
+    "code": {
+      "id": "23839",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.715",
+      "lon": "108.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21637",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Quan",
+      "en": "Tam Quan",
+      "slug": "tam-quan-21637"
+    },
+    "code": {
+      "id": "21637",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.548",
+      "lon": "109.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21808",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Sơn",
+      "en": "Tay Son",
+      "slug": "tay-son-21808"
+    },
+    "code": {
+      "id": "21808",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.945",
+      "lon": "108.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23584",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thống Nhất",
+      "en": "Thong Nhat",
+      "slug": "thong-nhat-23584"
+    },
+    "code": {
+      "id": "23584",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.03",
+      "lon": "107.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23668",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tơ Tung",
+      "en": "To Tung",
+      "slug": "to-tung-23668"
+    },
+    "code": {
+      "id": "23668",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.065",
+      "lon": "108.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21952",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy Phước",
+      "en": "Tuy Phuoc",
+      "slug": "tuy-phuoc-21952"
+    },
+    "code": {
+      "id": "21952",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.84",
+      "lon": "109.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21964",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy Phước Bắc",
+      "en": "Tuy Phuoc Bac",
+      "slug": "tuy-phuoc-bac-21964"
+    },
+    "code": {
+      "id": "21964",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.89",
+      "lon": "109.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21970",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy Phước Đông",
+      "en": "Tuy Phuoc Dong",
+      "slug": "tuy-phuoc-dong-21970"
+    },
+    "code": {
+      "id": "21970",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.861",
+      "lon": "109.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy Phước Tây",
+      "en": "Tuy Phuoc Tay",
+      "slug": "tuy-phuoc-tay-21985"
+    },
+    "code": {
+      "id": "21985",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.812",
+      "lon": "109.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24109",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Uar",
+      "en": "Uar",
+      "slug": "uar-24109"
+    },
+    "code": {
+      "id": "24109",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.236",
+      "lon": "108.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21994",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Canh",
+      "en": "Van Canh",
+      "slug": "van-canh-21994"
+    },
+    "code": {
+      "id": "21994",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.677",
+      "lon": "108.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21703",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Đức",
+      "en": "Van Duc",
+      "slug": "van-duc-21703"
+    },
+    "code": {
+      "id": "21703",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.425",
+      "lon": "108.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21805",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Quang",
+      "en": "Vinh Quang",
+      "slug": "vinh-quang-21805"
+    },
+    "code": {
+      "id": "21805",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.068",
+      "lon": "108.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21787",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Sơn",
+      "en": "Vinh Son",
+      "slug": "vinh-son-21787"
+    },
+    "code": {
+      "id": "21787",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.338",
+      "lon": "108.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21786",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thạnh",
+      "en": "Vinh Thanh",
+      "slug": "vinh-thanh-21786"
+    },
+    "code": {
+      "id": "21786",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.238",
+      "lon": "108.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21796",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thịnh",
+      "en": "Vinh Thinh",
+      "slug": "vinh-thinh-21796"
+    },
+    "code": {
+      "id": "21796",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.142",
+      "lon": "108.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21892",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân An",
+      "en": "Xuan An",
+      "slug": "xuan-an-21892"
+    },
+    "code": {
+      "id": "21892",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.992",
+      "lon": "109.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24007",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ya Hội",
+      "en": "Ya Hoi",
+      "slug": "ya-hoi-24007"
+    },
+    "code": {
+      "id": "24007",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.877",
+      "lon": "108.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23833",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ya Ma",
+      "en": "Ya Ma",
+      "slug": "ya-ma-23833"
+    },
+    "code": {
+      "id": "23833",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Gia Lai",
+          "en": "Gia Lai",
+          "slug": "gia-lai-52"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.809",
+      "lon": "108.598"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

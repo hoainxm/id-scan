@@ -1,0 +1,45 @@
+{
+  "id": "06091",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thiện Thuật",
+    "en": "Thien Thuat",
+    "slug": "thien-thuat-06091"
+  },
+  "code": {
+    "id": "06091",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "Lạng Sơn",
+      "en": "Lang Son",
+      "slug": "lang-son-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.051",
+    "lon": "106.308"
+  },
+  "metadata": {},
+  "source": {}
+}

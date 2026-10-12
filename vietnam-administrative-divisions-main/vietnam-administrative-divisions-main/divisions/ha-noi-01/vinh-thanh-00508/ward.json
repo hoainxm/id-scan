@@ -1,0 +1,45 @@
+{
+  "id": "00508",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vĩnh Thanh",
+    "en": "Vinh Thanh",
+    "slug": "vinh-thanh-00508"
+  },
+  "code": {
+    "id": "00508",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Hà Nội",
+      "en": "Hanoi",
+      "slug": "ha-noi-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.103",
+    "lon": "105.818"
+  },
+  "metadata": {},
+  "source": {}
+}

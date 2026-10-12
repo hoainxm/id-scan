@@ -1,0 +1,45 @@
+{
+  "id": "27658",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hiệp Phước",
+    "en": "Hiep Phuoc",
+    "slug": "hiep-phuoc-27658"
+  },
+  "code": {
+    "id": "27658",
+    "iso": null
+  },
+  "parent": {
+    "id": "79",
+    "level": 1,
+    "name": {
+      "local": "Hồ Chí Minh",
+      "en": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-79"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.308",
+    "lon": "106.425"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "06832",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Yên Tử",
+    "en": "Yen Tu",
+    "slug": "yen-tu-06832"
+  },
+  "code": {
+    "id": "06832",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ninh",
+      "en": "Quang Ninh",
+      "slug": "quang-ninh-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.044",
+    "lon": "106.711"
+  },
+  "metadata": {},
+  "source": {}
+}

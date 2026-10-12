@@ -1,0 +1,18 @@
+{
+  "address": "Xã Quang Trung, Huyện Tứ Kỳ, Tỉnh Hải Dương",
+  "ellapsedInMs": 11049,
+  "estimatedCost": 0.0065168,
+  "thought": "**Identifying the New Administrative Unit for Xã Quang Trung, Huyện Tứ Kỳ, Tỉnh Hải Dương**\n\nOkay, let's break this down systematically. First, I need to figure out the province name after the merging. Resolution 60-NQ/TW tells me that \"Tỉnh Hải Dương\" becomes \"Thành phố Hải Phòng\". Now, I'm going to scan the relevant resolutions, specifically looking for mentions of \"Quang Trung\" within \"Huyện Tứ Kỳ\" or \"Tứ Kỳ\" in the area that is now \"Thành phố Hải Phòng\".\n\nMy first instinct is to check resolutions regarding Hải Phòng, since that's where the old Hải Dương ended up. I found `1669/NQ-UBTVQH15`, which seems promising. I carefully went through the lines of text in that resolution. After reading through, I zeroed in on the lines mentioning the merging and restructuring of administrative units. I found a definitive match: Line 97, which clearly states that \"xã Quang Trung (huyện Tứ Kỳ)\" merges with others to become \"xã Lạc Phượng\".\n\nNow I need to cross-reference this information with the 'New wards' list to get the code and province name. Bingo! I find \"Xã Lạc Phượng\" with the code and confirm that it belongs to \"Thành phố Hải Phòng\". Since the resolution clearly stated this is a direct match, I can be confident in the conclusion. Therefore, \"Xã Quang Trung, Huyện Tứ Kỳ, Tỉnh Hải Dương\" is now part of \"Xã Lạc Phượng\" in \"Thành phố Hải Phòng\".\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1669/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng",
+        "line": "97. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số củaxã Quang Trung (huyện Tứ Kỳ), xã Lạc Phượng và một phần diện tích tự nhiên, quy mô dân số của xã Tiên Động thành xã mới có tên gọi là **xã Lạc Phượng**."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hải Phòng",
+      "ward_code": "11140",
+      "ward_name": "Xã Lạc Phượng"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "22114",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tuy An Bắc",
+    "en": "Tuy An Bac",
+    "slug": "tuy-an-bac-22114"
+  },
+  "code": {
+    "id": "22114",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "Đắk Lắk",
+      "en": "Dak Lak",
+      "slug": "dak-lak-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.306",
+    "lon": "109.213"
+  },
+  "metadata": {},
+  "source": {}
+}

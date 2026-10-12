@@ -1,0 +1,45 @@
+{
+  "id": "22285",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hòa Mỹ",
+    "en": "Hoa My",
+    "slug": "hoa-my-22285"
+  },
+  "code": {
+    "id": "22285",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "Đắk Lắk",
+      "en": "Dak Lak",
+      "slug": "dak-lak-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.546",
+    "lon": "109.252"
+  },
+  "metadata": {},
+  "source": {}
+}

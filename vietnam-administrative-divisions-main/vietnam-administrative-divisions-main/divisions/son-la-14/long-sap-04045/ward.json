@@ -1,0 +1,45 @@
+{
+  "id": "04045",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lóng Sập",
+    "en": "Long Sap",
+    "slug": "long-sap-04045"
+  },
+  "code": {
+    "id": "04045",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.792",
+    "lon": "104.508"
+  },
+  "metadata": {},
+  "source": {}
+}

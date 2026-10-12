@@ -1,0 +1,45 @@
+{
+  "id": "16297",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Trung Chính",
+    "en": "Trung Chinh",
+    "slug": "trung-chinh-16297"
+  },
+  "code": {
+    "id": "16297",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "Thanh Hóa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.727",
+    "lon": "105.656"
+  },
+  "metadata": {},
+  "source": {}
+}

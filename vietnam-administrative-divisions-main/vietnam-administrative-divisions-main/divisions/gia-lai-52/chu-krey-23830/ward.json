@@ -1,0 +1,45 @@
+{
+  "id": "23830",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Chư Krey",
+    "en": "Chu Krey",
+    "slug": "chu-krey-23830"
+  },
+  "code": {
+    "id": "23830",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.89",
+    "lon": "108.437"
+  },
+  "metadata": {},
+  "source": {}
+}

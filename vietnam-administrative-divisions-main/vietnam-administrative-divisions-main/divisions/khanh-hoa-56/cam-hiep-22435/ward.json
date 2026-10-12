@@ -1,0 +1,45 @@
+{
+  "id": "22435",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Cam Hiệp",
+    "en": "Cam Hiep",
+    "slug": "cam-hiep-22435"
+  },
+  "code": {
+    "id": "22435",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.07",
+    "lon": "109.046"
+  },
+  "metadata": {},
+  "source": {}
+}

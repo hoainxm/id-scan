@@ -1,0 +1,45 @@
+{
+  "id": "27655",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nhà Bè",
+    "en": "Nha Be",
+    "slug": "nha-be-27655"
+  },
+  "code": {
+    "id": "27655",
+    "iso": null
+  },
+  "parent": {
+    "id": "79",
+    "level": 1,
+    "name": {
+      "local": "Hồ Chí Minh",
+      "en": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-79"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.696",
+    "lon": "106.74"
+  },
+  "metadata": {},
+  "source": {}
+}

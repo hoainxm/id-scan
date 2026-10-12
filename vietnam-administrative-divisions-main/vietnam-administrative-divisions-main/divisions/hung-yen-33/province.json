@@ -1,0 +1,33 @@
+{
+  "id": "33",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Hưng Yên",
+    "en": "Hung Yen",
+    "slug": "hung-yen-33"
+  },
+  "code": {
+    "id": "33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 104
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.453",
+    "lon": "106.463"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/hung-yen-33/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "28225",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thuận Mỹ",
+    "en": "Thuan My",
+    "slug": "thuan-my-28225"
+  },
+  "code": {
+    "id": "28225",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "Tây Ninh",
+      "en": "Tay Ninh",
+      "slug": "tay-ninh-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.457",
+    "lon": "106.549"
+  },
+  "metadata": {},
+  "source": {}
+}

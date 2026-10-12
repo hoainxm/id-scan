@@ -1,0 +1,45 @@
+{
+  "id": "32167",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Thuận",
+    "en": "Tan Thuan",
+    "slug": "tan-thuan-32167"
+  },
+  "code": {
+    "id": "32167",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "Cà Mau",
+      "en": "Ca Mau",
+      "slug": "ca-mau-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.014",
+    "lon": "105.33"
+  },
+  "metadata": {},
+  "source": {}
+}

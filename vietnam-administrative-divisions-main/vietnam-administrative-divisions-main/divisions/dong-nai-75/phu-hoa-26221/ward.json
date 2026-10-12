@@ -1,0 +1,45 @@
+{
+  "id": "26221",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phú Hòa",
+    "en": "Phu Hoa",
+    "slug": "phu-hoa-26221"
+  },
+  "code": {
+    "id": "26221",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Đồng Nai",
+      "en": "Dong Nai",
+      "slug": "dong-nai-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.67",
+    "lon": "106.962"
+  },
+  "metadata": {},
+  "source": {}
+}

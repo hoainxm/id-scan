@@ -1,0 +1,45 @@
+{
+  "id": "05680",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Văn Hán",
+    "en": "Van Han",
+    "slug": "van-han-05680"
+  },
+  "code": {
+    "id": "05680",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Thái Nguyên",
+      "en": "Thai Nguyen",
+      "slug": "thai-nguyen-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Thái Nguyên",
+        "en": "Thai Nguyen",
+        "slug": "thai-nguyen-19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.669",
+    "lon": "105.936"
+  },
+  "metadata": {},
+  "source": {}
+}

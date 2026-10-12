@@ -1,0 +1,45 @@
+{
+  "id": "24109",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Uar",
+    "en": "Uar",
+    "slug": "uar-24109"
+  },
+  "code": {
+    "id": "24109",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.236",
+    "lon": "108.548"
+  },
+  "metadata": {},
+  "source": {}
+}

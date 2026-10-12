@@ -1,0 +1,484 @@
+# Dong Nai — Vietnam Administrative Divisions
+
+> 95 commune/wards
+> Code: 75
+> Coordinates: 11.437, 107.034
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Lộc (An Loc)
+
+Code: 25333, Coordinates: 11.687, 106.597
+
+
+### An Phước (An Phuoc)
+
+Code: 26383, Coordinates: 11.532, 106.898
+
+
+### An Viễn (An Vien)
+
+Code: 26296, Coordinates: 10.908, 107.012
+
+
+### Bảo Vinh (Bao Vinh)
+
+Code: 26098, Coordinates: 10.971, 107.282
+
+
+### Bàu Hàm (Bau Ham)
+
+Code: 26254, Coordinates: 11.026, 107.078
+
+
+### Biên Hòa (Bien Hoa)
+
+Code: 26068, Coordinates: 10.914, 106.892
+
+
+### Bình An (Binh An)
+
+Code: 26389, Coordinates: 10.927, 106.853
+
+
+### Bình Lộc (Binh Loc)
+
+Code: 26089, Coordinates: 10.983, 107.236
+
+
+### Bình Long (Binh Long)
+
+Code: 25326, Coordinates: 11.673, 106.6
+
+
+### Bình Minh (Binh Minh)
+
+Code: 26278, Coordinates: 11.679, 107.152
+
+
+### Bình Phước (Binh Phuoc)
+
+Code: 25195, Coordinates: 11.551, 106.902
+
+
+### Bình Tân (Binh Tan)
+
+Code: 25246, Coordinates: 11.938, 106.85
+
+
+### Bom Bo
+
+Code: 25405, Coordinates: 11.831, 107.19
+
+
+### Bù Đăng (Bu Dang)
+
+Code: 25396, Coordinates: 11.77, 107.223
+
+
+### Bù Gia Mập (Bu Gia Map)
+
+Code: 25222, Coordinates: 12.144, 107.173
+
+
+### Cẩm Mỹ (Cam My)
+
+Code: 26341, Coordinates: 10.86, 107.113
+
+
+### Chơn Thành (Chon Thanh)
+
+Code: 25432, Coordinates: 11.429, 106.639
+
+
+### Đa Kia (Da Kia)
+
+Code: 25231, Coordinates: 11.904, 106.874
+
+
+### Đại Phước (Dai Phuoc)
+
+Code: 26491, Coordinates: 10.94, 106.829
+
+
+### Đak Lua (Dak Lua)
+
+Code: 26119, Coordinates: 11.458, 107.324
+
+
+### Đak Nhau (Dak Nhau)
+
+Code: 25399, Coordinates: 11.968, 107.211
+
+
+### Đăk Ơ (Dak O)
+
+Code: 25225, Coordinates: 12.074, 107.055
+
+
+### Dầu Giây (Dau Giay)
+
+Code: 26326, Coordinates: 10.952, 107.147
+
+
+### Định Quán (Dinh Quan)
+
+Code: 26206, Coordinates: 11.2, 107.357
+
+
+### Đồng Phú (Dong Phu)
+
+Code: 25363, Coordinates: 11.454, 106.867
+
+
+### Đồng Tâm (Dong Tam)
+
+Code: 25390, Coordinates: 10.929, 106.861
+
+
+### Đồng Xoài (Dong Xoai)
+
+Code: 25210, Coordinates: 11.525, 106.854
+
+
+### Gia Kiệm (Gia Kiem)
+
+Code: 26311, Coordinates: 11.016, 107.164
+
+
+### Hàng Gòn (Hang Gon)
+
+Code: 26113, Coordinates: 10.87, 107.228
+
+
+### Hố Nai (Ho Nai)
+
+Code: 26005, Coordinates: 10.959, 106.906
+
+
+### Hưng Phước (Hung Phuoc)
+
+Code: 25309, Coordinates: 12.034, 106.868
+
+
+### Hưng Thịnh (Hung Thinh)
+
+Code: 26281, Coordinates: 11.742, 106.573
+
+
+### La Ngà (La Nga)
+
+Code: 26227, Coordinates: 11.149, 107.223
+
+
+### Lộc Hưng (Loc Hung)
+
+Code: 25303, Coordinates: 11.783, 106.655
+
+
+### Lộc Ninh (Loc Ninh)
+
+Code: 25270, Coordinates: 11.842, 106.59
+
+
+### Lộc Quang (Loc Quang)
+
+Code: 25292, Coordinates: 11.844, 106.721
+
+
+### Lộc Tấn (Loc Tan)
+
+Code: 25279, Coordinates: 11.894, 106.524
+
+
+### Lộc Thạnh (Loc Thanh)
+
+Code: 25280, Coordinates: 11.939, 106.556
+
+
+### Lộc Thành (Loc Thanh)
+
+Code: 25294, Coordinates: 11.939, 106.556
+
+
+### Long Bình (Long Binh)
+
+Code: 26020, Coordinates: 11.567, 106.672
+
+
+### Long Hà (Long Ha)
+
+Code: 25255, Coordinates: 11.694, 106.811
+
+
+### Long Hưng (Long Hung)
+
+Code: 26380, Coordinates: 10.874, 106.866
+
+
+### Long Khánh (Long Khanh)
+
+Code: 26080, Coordinates: 10.926, 107.248
+
+
+### Long Phước (Long Phuoc)
+
+Code: 26413, Coordinates: 10.718, 107.02
+
+
+### Long Thành (Long Thanh)
+
+Code: 26368, Coordinates: 10.761, 107.021
+
+
+### Minh Đức (Minh Duc)
+
+Code: 25349, Coordinates: 11.622, 106.521
+
+
+### Minh Hưng (Minh Hung)
+
+Code: 25441, Coordinates: 11.475, 106.615
+
+
+### Nam Cát Tiên (Nam Cat Tien)
+
+Code: 26122, Coordinates: 11.421, 107.428
+
+
+### Nghĩa Trung (Nghia Trung)
+
+Code: 25417, Coordinates: 11.685, 107.116
+
+
+### Nha Bích (Nha Bich)
+
+Code: 25450, Coordinates: 11.513, 106.716
+
+
+### Nhơn Trạch (Nhon Trach)
+
+Code: 26485, Coordinates: 10.777, 106.92
+
+
+### Phú Hòa (Phu Hoa)
+
+Code: 26221, Coordinates: 11.67, 106.962
+
+
+### Phú Lâm (Phu Lam)
+
+Code: 26158, Coordinates: 11.67, 107.02
+
+
+### Phú Lý (Phu Ly)
+
+Code: 26173, Coordinates: 11.376, 107.135
+
+
+### Phú Nghĩa (Phu Nghia)
+
+Code: 25267, Coordinates: 11.654, 107.05
+
+
+### Phú Riềng (Phu Rieng)
+
+Code: 25252, Coordinates: 11.696, 106.931
+
+
+### Phú Trung (Phu Trung)
+
+Code: 25261, Coordinates: 11.646, 106.605
+
+
+### Phú Vinh (Phu Vinh)
+
+Code: 26215, Coordinates: 11.663, 106.933
+
+
+### Phước An (Phuoc An)
+
+Code: 26503, Coordinates: 11.526, 106.924
+
+
+### Phước Bình (Phuoc Binh)
+
+Code: 25220, Coordinates: 11.824, 106.962
+
+
+### Phước Long (Phuoc Long)
+
+Code: 25217, Coordinates: 11.825, 106.994
+
+
+### Phước Sơn (Phuoc Son)
+
+Code: 25420, Coordinates: 11.862, 107.028
+
+
+### Phước Tân (Phuoc Tan)
+
+Code: 26377, Coordinates: 11.528, 106.916
+
+
+### Phước Thái (Phuoc Thai)
+
+Code: 26422, Coordinates: 10.674, 107.024
+
+
+### Sông Ray (Song Ray)
+
+Code: 26362, Coordinates: 10.717, 107.329
+
+
+### Tà Lài (Ta Lai)
+
+Code: 26134, Coordinates: 11.313, 107.399
+
+
+### Tam Hiệp (Tam Hiep)
+
+Code: 26017, Coordinates: 10.907, 107.389
+
+
+### Tam Phước (Tam Phuoc)
+
+Code: 26374, Coordinates: 10.863, 106.936
+
+
+### Tân An (Tan An)
+
+Code: 26179, Coordinates: 11.925, 106.756
+
+
+### Tân Hưng (Tan Hung)
+
+Code: 25345, Coordinates: 12.006, 106.815
+
+
+### Tân Khai (Tan Khai)
+
+Code: 25357, Coordinates: 11.565, 106.612
+
+
+### Tân Lợi (Tan Loi)
+
+Code: 25378, Coordinates: 11.86, 106.695
+
+
+### Tân Phú (Tan Phu)
+
+Code: 26116, Coordinates: 11.379, 107.429
+
+
+### Tân Quan (Tan Quan)
+
+Code: 25351, Coordinates: 10.855, 106.799
+
+
+### Tân Tiến (Tan Tien)
+
+Code: 25318, Coordinates: 11.528, 106.897
+
+
+### Tân Triều (Tan Trieu)
+
+Code: 26188, Coordinates: 10.999, 106.803
+
+
+### Thanh Sơn (Thanh Son)
+
+Code: 26209, Coordinates: 11.7, 106.59
+
+
+### Thiện Hưng (Thien Hung)
+
+Code: 25308, Coordinates: 11.967, 106.8
+
+
+### Thọ Sơn (Tho Son)
+
+Code: 25402, Coordinates: 11.873, 107.328
+
+
+### Thống Nhất (Thong Nhat)
+
+Code: 26299, Coordinates: 10.953, 106.841
+
+
+### Thuận Lợi (Thuan Loi)
+
+Code: 25387, Coordinates: 11.603, 106.861
+
+
+### Trấn Biên (Tran Bien)
+
+Code: 26041, Coordinates: 10.939, 106.837
+
+
+### Trảng Bom (Trang Bom)
+
+Code: 26248, Coordinates: 10.953, 107.004
+
+
+### Trảng Dài (Trang Dai)
+
+Code: 25993, Coordinates: 11.001, 106.897
+
+
+### Trị An (Tri An)
+
+Code: 26170, Coordinates: 11.092, 107.037
+
+
+### Xuân Bắc (Xuan Bac)
+
+Code: 26428, Coordinates: 11.045, 107.299
+
+
+### Xuân Định (Xuan Dinh)
+
+Code: 26461, Coordinates: 10.879, 107.289
+
+
+### Xuân Đông (Xuan Dong)
+
+Code: 26359, Coordinates: 11.539, 106.917
+
+
+### Xuân Đường (Xuan Duong)
+
+Code: 26347, Coordinates: 10.81, 107.188
+
+
+### Xuân Hòa (Xuan Hoa)
+
+Code: 26446, Coordinates: 10.876, 107.486
+
+
+### Xuân Lập (Xuan Lap)
+
+Code: 26104, Coordinates: 10.927, 107.184
+
+
+### Xuân Lộc (Xuan Loc)
+
+Code: 26425, Coordinates: 11.527, 106.908
+
+
+### Xuân Phú (Xuan Phu)
+
+Code: 26458, Coordinates: 10.891, 107.329
+
+
+### Xuân Quế (Xuan Que)
+
+Code: 26332, Coordinates: 10.85, 107.141
+
+
+### Xuân Thành (Xuan Thanh)
+
+Code: 26434, Coordinates: 11.01, 107.412
+
+

@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "21034",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phú",
+      "en": "An Phu",
+      "slug": "an-phu-21034"
+    },
+    "code": {
+      "id": "21034",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.121",
+      "lon": "108.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21499",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Dinh",
+      "en": "Ba Dinh",
+      "slug": "ba-dinh-21499"
+    },
+    "code": {
+      "id": "21499",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.302",
+      "lon": "108.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21496",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Động",
+      "en": "Ba Dong",
+      "slug": "ba-dong-21496"
+    },
+    "code": {
+      "id": "21496",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.823",
+      "lon": "108.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21205",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Gia",
+      "en": "Ba Gia",
+      "slug": "ba-gia-21205"
+    },
+    "code": {
+      "id": "21205",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.212",
+      "lon": "108.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21484",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Tơ",
+      "en": "Ba To",
+      "slug": "ba-to-21484"
+    },
+    "code": {
+      "id": "21484",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.716",
+      "lon": "108.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21523",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Tô",
+      "en": "Ba To",
+      "slug": "ba-to-21523"
+    },
+    "code": {
+      "id": "21523",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.716",
+      "lon": "108.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21529",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Vì",
+      "en": "Ba Vi",
+      "slug": "ba-vi-21529"
+    },
+    "code": {
+      "id": "21529",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.742",
+      "lon": "108.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21490",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Vinh",
+      "en": "Ba Vinh",
+      "slug": "ba-vinh-21490"
+    },
+    "code": {
+      "id": "21490",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.844",
+      "lon": "108.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21538",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Xa",
+      "en": "Ba Xa",
+      "slug": "ba-xa-21538"
+    },
+    "code": {
+      "id": "21538",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.742",
+      "lon": "108.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21100",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Chương",
+      "en": "Binh Chuong",
+      "slug": "binh-chuong-21100"
+    },
+    "code": {
+      "id": "21100",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.27",
+      "lon": "108.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21085",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Minh",
+      "en": "Binh Minh",
+      "slug": "binh-minh-21085"
+    },
+    "code": {
+      "id": "21085",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.277",
+      "lon": "108.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21040",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Sơn",
+      "en": "Binh Son",
+      "slug": "binh-son-21040"
+    },
+    "code": {
+      "id": "21040",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.287",
+      "lon": "108.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23377",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bờ Y",
+      "en": "Bo Y",
+      "slug": "bo-y-23377"
+    },
+    "code": {
+      "id": "23377",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.705",
+      "lon": "107.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21136",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cà Đam",
+      "en": "Ca Dam",
+      "slug": "ca-dam-21136"
+    },
+    "code": {
+      "id": "21136",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.165",
+      "lon": "108.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21025",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Thành",
+      "en": "Cam Thanh",
+      "slug": "cam-thanh-21025"
+    },
+    "code": {
+      "id": "21025",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.121",
+      "lon": "108.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23302",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Bla",
+      "en": "Dak Bla",
+      "slug": "dak-bla-23302"
+    },
+    "code": {
+      "id": "23302",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.178",
+      "lon": "107.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23284",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Cấm",
+      "en": "Dak Cam",
+      "slug": "dak-cam-23284"
+    },
+    "code": {
+      "id": "23284",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.369",
+      "lon": "108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23500",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Hà",
+      "en": "Dak Ha",
+      "slug": "dak-ha-23500"
+    },
+    "code": {
+      "id": "23500",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.513",
+      "lon": "107.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23485",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Kôi",
+      "en": "Dak Koi",
+      "slug": "dak-koi-23485"
+    },
+    "code": {
+      "id": "23485",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.654",
+      "lon": "108.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23368",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Long",
+      "en": "Dak Long",
+      "slug": "dak-long-23368"
+    },
+    "code": {
+      "id": "23368",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.63",
+      "lon": "107.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23512",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Mar",
+      "en": "Dak Mar",
+      "slug": "dak-mar-23512"
+    },
+    "code": {
+      "id": "23512",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.538",
+      "lon": "107.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23374",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Môn",
+      "en": "Dak Mon",
+      "slug": "dak-mon-23374"
+    },
+    "code": {
+      "id": "23374",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.889",
+      "lon": "107.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23341",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Pék",
+      "en": "Dak Pek",
+      "slug": "dak-pek-23341"
+    },
+    "code": {
+      "id": "23341",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.079",
+      "lon": "107.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23344",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Plô",
+      "en": "Dak Plo",
+      "slug": "dak-plo-23344"
+    },
+    "code": {
+      "id": "23344",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.249",
+      "lon": "107.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23504",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Pxi",
+      "en": "Dak Pxi",
+      "slug": "dak-pxi-23504"
+    },
+    "code": {
+      "id": "23504",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.67",
+      "lon": "107.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23332",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Rơ Wa",
+      "en": "Dak Ro Wa",
+      "slug": "dak-ro-wa-23332"
+    },
+    "code": {
+      "id": "23332",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.318",
+      "lon": "108.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23479",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Rve",
+      "en": "Dak Rve",
+      "slug": "dak-rve-23479"
+    },
+    "code": {
+      "id": "23479",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.507",
+      "lon": "108.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23416",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Sao",
+      "en": "Dak Sao",
+      "slug": "dak-sao-23416"
+    },
+    "code": {
+      "id": "23416",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.927",
+      "lon": "107.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23401",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Tô",
+      "en": "Dak To",
+      "slug": "dak-to-23401"
+    },
+    "code": {
+      "id": "23401",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.661",
+      "lon": "107.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23419",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Tờ Kan",
+      "en": "Dak To Kan",
+      "slug": "dak-to-kan-23419"
+    },
+    "code": {
+      "id": "23419",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.795",
+      "lon": "107.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23510",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Ui",
+      "en": "Dak Ui",
+      "slug": "dak-ui-23510"
+    },
+    "code": {
+      "id": "23510",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.564",
+      "lon": "108.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21520",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đặng Thùy Trâm",
+      "en": "Dang Thuy Tram",
+      "slug": "dang-thuy-tram-21520"
+    },
+    "code": {
+      "id": "21520",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.739",
+      "lon": "108.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21385",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đình Cương",
+      "en": "Dinh Cuong",
+      "slug": "dinh-cuong-21385"
+    },
+    "code": {
+      "id": "21385",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.986",
+      "lon": "108.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21109",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Sơn",
+      "en": "Dong Son",
+      "slug": "dong-son-21109"
+    },
+    "code": {
+      "id": "21109",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.241",
+      "lon": "108.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21127",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Trà Bồng",
+      "en": "Dong Tra Bong",
+      "slug": "dong-tra-bong-21127"
+    },
+    "code": {
+      "id": "21127",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.277",
+      "lon": "108.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23383",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dục Nông",
+      "en": "Duc Nong",
+      "slug": "duc-nong-23383"
+    },
+    "code": {
+      "id": "23383",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.853",
+      "lon": "107.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21439",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Phổ",
+      "en": "Duc Pho",
+      "slug": "duc-pho-21439"
+    },
+    "code": {
+      "id": "21439",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.809",
+      "lon": "108.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23326",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Chim",
+      "en": "Ia Chim",
+      "slug": "ia-chim-23326"
+    },
+    "code": {
+      "id": "23326",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "107.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23535",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Đal",
+      "en": "Ia Dal",
+      "slug": "ia-dal-23535"
+    },
+    "code": {
+      "id": "23535",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.144",
+      "lon": "107.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23538",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Tơi",
+      "en": "Ia Toi",
+      "slug": "ia-toi-23538"
+    },
+    "code": {
+      "id": "23538",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.093",
+      "lon": "107.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21472",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Cường",
+      "en": "Khanh Cuong",
+      "slug": "khanh-cuong-21472"
+    },
+    "code": {
+      "id": "21472",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.727",
+      "lon": "109.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23497",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kon Braih",
+      "en": "Kon Braih",
+      "slug": "kon-braih-23497"
+    },
+    "code": {
+      "id": "23497",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.43",
+      "lon": "108.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23430",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kon Đào",
+      "en": "Kon Dao",
+      "slug": "kon-dao-23430"
+    },
+    "code": {
+      "id": "23430",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.7",
+      "lon": "107.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23476",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kon Plông",
+      "en": "Kon Plong",
+      "slug": "kon-plong-23476"
+    },
+    "code": {
+      "id": "23476",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.601",
+      "lon": "108.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23293",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kon Tum",
+      "en": "Kon Tum",
+      "slug": "kon-tum-23293"
+    },
+    "code": {
+      "id": "23293",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.342",
+      "lon": "107.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21433",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lân Phong",
+      "en": "Lan Phong",
+      "slug": "lan-phong-21433"
+    },
+    "code": {
+      "id": "21433",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.889",
+      "lon": "108.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21409",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Phụng",
+      "en": "Long Phung",
+      "slug": "long-phung-21409"
+    },
+    "code": {
+      "id": "21409",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.04",
+      "lon": "108.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21548",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lý Sơn",
+      "en": "Ly Son",
+      "slug": "ly-son-21548"
+    },
+    "code": {
+      "id": "21548",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.381",
+      "lon": "109.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23455",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Măng Bút",
+      "en": "Mang But",
+      "slug": "mang-but-23455"
+    },
+    "code": {
+      "id": "23455",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.834",
+      "lon": "108.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23473",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Măng Đen",
+      "en": "Mang Den",
+      "slug": "mang-den-23473"
+    },
+    "code": {
+      "id": "23473",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.601",
+      "lon": "108.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23446",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Măng Ri",
+      "en": "Mang Ri",
+      "slug": "mang-ri-23446"
+    },
+    "code": {
+      "id": "23446",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.957",
+      "lon": "107.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21361",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Long",
+      "en": "Minh Long",
+      "slug": "minh-long-21361"
+    },
+    "code": {
+      "id": "21361",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.946",
+      "lon": "108.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21421",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỏ Cày",
+      "en": "Mo Cay",
+      "slug": "mo-cay-21421"
+    },
+    "code": {
+      "id": "21421",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.991",
+      "lon": "108.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21400",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mộ Đức",
+      "en": "Mo Duc",
+      "slug": "mo-duc-21400"
+    },
+    "code": {
+      "id": "21400",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.988",
+      "lon": "108.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23536",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mô Rai",
+      "en": "Mo Rai",
+      "slug": "mo-rai-23536"
+    },
+    "code": {
+      "id": "23536",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.378",
+      "lon": "107.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21250",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Giang",
+      "en": "Nghia Giang",
+      "slug": "nghia-giang-21250"
+    },
+    "code": {
+      "id": "21250",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.114",
+      "lon": "108.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Hành",
+      "en": "Nghia Hanh",
+      "slug": "nghia-hanh-21364"
+    },
+    "code": {
+      "id": "21364",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.969",
+      "lon": "108.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21028",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Lộ",
+      "en": "Nghia Lo",
+      "slug": "nghia-lo-21028"
+    },
+    "code": {
+      "id": "21028",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.106",
+      "lon": "108.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23365",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Linh",
+      "en": "Ngoc Linh",
+      "slug": "ngoc-linh-23365"
+    },
+    "code": {
+      "id": "23365",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.088",
+      "lon": "107.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23317",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọk Bay",
+      "en": "Ngok Bay",
+      "slug": "ngok-bay-23317"
+    },
+    "code": {
+      "id": "23317",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.395",
+      "lon": "107.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23515",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọk Réo",
+      "en": "Ngok Reo",
+      "slug": "ngok-reo-23515"
+    },
+    "code": {
+      "id": "23515",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.486",
+      "lon": "108.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23428",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọk Tụ",
+      "en": "Ngok Tu",
+      "slug": "ngok-tu-23428"
+    },
+    "code": {
+      "id": "23428",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.764",
+      "lon": "107.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21457",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Nghiêm",
+      "en": "Nguyen Nghiem",
+      "slug": "nguyen-nghiem-21457"
+    },
+    "code": {
+      "id": "21457",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.121",
+      "lon": "108.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21370",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Giang",
+      "en": "Phuoc Giang",
+      "slug": "phuoc-giang-21370"
+    },
+    "code": {
+      "id": "21370",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.04",
+      "lon": "108.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23530",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Rờ Kơi",
+      "en": "Ro Koi",
+      "slug": "ro-koi-23530"
+    },
+    "code": {
+      "id": "23530",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.52",
+      "lon": "107.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23534",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sa Bình",
+      "en": "Sa Binh",
+      "slug": "sa-binh-23534"
+    },
+    "code": {
+      "id": "23534",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.38",
+      "lon": "107.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21478",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sa Huỳnh",
+      "en": "Sa Huynh",
+      "slug": "sa-huynh-21478"
+    },
+    "code": {
+      "id": "21478",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.677",
+      "lon": "109.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23392",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sa Loong",
+      "en": "Sa Loong",
+      "slug": "sa-loong-23392"
+    },
+    "code": {
+      "id": "23392",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.618",
+      "lon": "107.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23527",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sa Thầy",
+      "en": "Sa Thay",
+      "slug": "sa-thay-23527"
+    },
+    "code": {
+      "id": "23527",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.41",
+      "lon": "107.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21289",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Hà",
+      "en": "Son Ha",
+      "slug": "son-ha-21289"
+    },
+    "code": {
+      "id": "21289",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.975",
+      "lon": "108.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21292",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Hạ",
+      "en": "Son Ha",
+      "slug": "son-ha-21292"
+    },
+    "code": {
+      "id": "21292",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.975",
+      "lon": "108.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21325",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Kỳ",
+      "en": "Son Ky",
+      "slug": "son-ky-21325"
+    },
+    "code": {
+      "id": "21325",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.863",
+      "lon": "108.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21307",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Linh",
+      "en": "Son Linh",
+      "slug": "son-linh-21307"
+    },
+    "code": {
+      "id": "21307",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.003",
+      "lon": "108.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21349",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Mai",
+      "en": "Son Mai",
+      "slug": "son-mai-21349"
+    },
+    "code": {
+      "id": "21349",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.988",
+      "lon": "108.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21340",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Tây",
+      "en": "Son Tay",
+      "slug": "son-tay-21340"
+    },
+    "code": {
+      "id": "21340",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.97",
+      "lon": "108.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21343",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Tây Hạ",
+      "en": "Son Tay Ha",
+      "slug": "son-tay-ha-21343"
+    },
+    "code": {
+      "id": "21343",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.97",
+      "lon": "108.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21334",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Tây Thượng",
+      "en": "Son Tay Thuong",
+      "slug": "son-tay-thuong-21334"
+    },
+    "code": {
+      "id": "21334",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.97",
+      "lon": "108.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21319",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Thủy",
+      "en": "Son Thuy",
+      "slug": "son-thuy-21319"
+    },
+    "code": {
+      "id": "21319",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.968",
+      "lon": "108.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21220",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Tịnh",
+      "en": "Son Tinh",
+      "slug": "son-tinh-21220"
+    },
+    "code": {
+      "id": "21220",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.199",
+      "lon": "108.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21154",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Trà",
+      "en": "Tay Tra",
+      "slug": "tay-tra-21154"
+    },
+    "code": {
+      "id": "21154",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.161",
+      "lon": "108.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21157",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Trà Bồng",
+      "en": "Tay Tra Bong",
+      "slug": "tay-tra-bong-21157"
+    },
+    "code": {
+      "id": "21157",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.148",
+      "lon": "108.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21124",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Bồng",
+      "en": "Thanh Bong",
+      "slug": "thanh-bong-21124"
+    },
+    "code": {
+      "id": "21124",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.256",
+      "lon": "108.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21388",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiện Tín",
+      "en": "Thien Tin",
+      "slug": "thien-tin-21388"
+    },
+    "code": {
+      "id": "21388",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.923",
+      "lon": "108.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21181",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Phong",
+      "en": "Tho Phong",
+      "slug": "tho-phong-21181"
+    },
+    "code": {
+      "id": "21181",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.22",
+      "lon": "108.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21211",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tịnh Khê",
+      "en": "Tinh Khe",
+      "slug": "tinh-khe-21211"
+    },
+    "code": {
+      "id": "21211",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.18",
+      "lon": "108.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21115",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Bồng",
+      "en": "Tra Bong",
+      "slug": "tra-bong-21115"
+    },
+    "code": {
+      "id": "21115",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.209",
+      "lon": "108.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21451",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Câu",
+      "en": "Tra Cau",
+      "slug": "tra-cau-21451"
+    },
+    "code": {
+      "id": "21451",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.873",
+      "lon": "108.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21244",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Giang",
+      "en": "Tra Giang",
+      "slug": "tra-giang-21244"
+    },
+    "code": {
+      "id": "21244",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.092",
+      "lon": "108.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21196",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Giang",
+      "en": "Truong Giang",
+      "slug": "truong-giang-21196"
+    },
+    "code": {
+      "id": "21196",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.17",
+      "lon": "108.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21172",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trương Quang Trọng",
+      "en": "Truong Quang Trong",
+      "slug": "truong-quang-trong-21172"
+    },
+    "code": {
+      "id": "21172",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.148",
+      "lon": "108.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23425",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tu Mơ Rông",
+      "en": "Tu Mo Rong",
+      "slug": "tu-mo-rong-23425"
+    },
+    "code": {
+      "id": "23425",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.888",
+      "lon": "107.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21235",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tư Nghĩa",
+      "en": "Tu Nghia",
+      "slug": "tu-nghia-21235"
+    },
+    "code": {
+      "id": "21235",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.091",
+      "lon": "108.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21061",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Tường",
+      "en": "Van Tuong",
+      "slug": "van-tuong-21061"
+    },
+    "code": {
+      "id": "21061",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.121",
+      "lon": "108.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21238",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vệ Giang",
+      "en": "Ve Giang",
+      "slug": "ve-giang-21238"
+    },
+    "code": {
+      "id": "21238",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.042",
+      "lon": "108.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23356",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xốp",
+      "en": "Xop",
+      "slug": "xop-23356"
+    },
+    "code": {
+      "id": "23356",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.114",
+      "lon": "107.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23548",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ya Ly",
+      "en": "Ya Ly",
+      "slug": "ya-ly-23548"
+    },
+    "code": {
+      "id": "23548",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ngãi",
+          "en": "Quang Ngai",
+          "slug": "quang-ngai-51"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.316",
+      "lon": "107.834"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

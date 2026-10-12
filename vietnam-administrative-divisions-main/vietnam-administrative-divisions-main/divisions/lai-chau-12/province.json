@@ -1,0 +1,33 @@
+{
+  "id": "12",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Lai Châu",
+    "en": "Lai Chau",
+    "slug": "lai-chau-12"
+  },
+  "code": {
+    "id": "12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.318",
+    "lon": "103.185"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/lai-chau-12/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

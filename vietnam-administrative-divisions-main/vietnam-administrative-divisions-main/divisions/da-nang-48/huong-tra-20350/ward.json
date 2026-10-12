@@ -1,0 +1,45 @@
+{
+  "id": "20350",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hương Trà",
+    "en": "Huong Tra",
+    "slug": "huong-tra-20350"
+  },
+  "code": {
+    "id": "20350",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.559",
+    "lon": "108.51"
+  },
+  "metadata": {},
+  "source": {}
+}

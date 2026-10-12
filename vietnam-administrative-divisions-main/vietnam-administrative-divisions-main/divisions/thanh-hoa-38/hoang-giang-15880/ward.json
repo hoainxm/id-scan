@@ -1,0 +1,45 @@
+{
+  "id": "15880",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hoằng Giang",
+    "en": "Hoang Giang",
+    "slug": "hoang-giang-15880"
+  },
+  "code": {
+    "id": "15880",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "Thanh Hóa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.888",
+    "lon": "105.771"
+  },
+  "metadata": {},
+  "source": {}
+}

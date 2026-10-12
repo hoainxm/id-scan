@@ -1,0 +1,45 @@
+{
+  "id": "27937",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đức Hòa",
+    "en": "Duc Hoa",
+    "slug": "duc-hoa-27937"
+  },
+  "code": {
+    "id": "27937",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "Tây Ninh",
+      "en": "Tay Ninh",
+      "slug": "tay-ninh-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.883",
+    "lon": "106.434"
+  },
+  "metadata": {},
+  "source": {}
+}

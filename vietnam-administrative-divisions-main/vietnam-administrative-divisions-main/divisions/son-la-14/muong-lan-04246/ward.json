@@ -1,0 +1,45 @@
+{
+  "id": "04246",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mường Lạn",
+    "en": "Muong Lan",
+    "slug": "muong-lan-04246"
+  },
+  "code": {
+    "id": "04246",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.768",
+    "lon": "103.708"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "05692",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đồng Hỷ",
+    "en": "Dong Hy",
+    "slug": "dong-hy-05692"
+  },
+  "code": {
+    "id": "05692",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Thái Nguyên",
+      "en": "Thai Nguyen",
+      "slug": "thai-nguyen-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Thái Nguyên",
+        "en": "Thai Nguyen",
+        "slug": "thai-nguyen-19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.66",
+    "lon": "105.83"
+  },
+  "metadata": {},
+  "source": {}
+}

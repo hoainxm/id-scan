@@ -1,0 +1,45 @@
+{
+  "id": "32059",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Khánh An",
+    "en": "Khanh An",
+    "slug": "khanh-an-32059"
+  },
+  "code": {
+    "id": "32059",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "Cà Mau",
+      "en": "Ca Mau",
+      "slug": "ca-mau-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.257",
+    "lon": "105.007"
+  },
+  "metadata": {},
+  "source": {}
+}

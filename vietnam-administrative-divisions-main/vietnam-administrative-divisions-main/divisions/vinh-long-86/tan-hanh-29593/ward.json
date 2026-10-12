@@ -1,0 +1,45 @@
+{
+  "id": "29593",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Hạnh",
+    "en": "Tan Hanh",
+    "slug": "tan-hanh-29593"
+  },
+  "code": {
+    "id": "29593",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "Vĩnh Long",
+      "en": "Vinh Long",
+      "slug": "vinh-long-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "Vĩnh Long",
+        "en": "Vinh Long",
+        "slug": "vinh-long-86"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.221",
+    "lon": "105.933"
+  },
+  "metadata": {},
+  "source": {}
+}

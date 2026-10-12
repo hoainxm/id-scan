@@ -1,0 +1,45 @@
+{
+  "id": "32182",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Quách Phẩm",
+    "en": "Quach Pham",
+    "slug": "quach-pham-32182"
+  },
+  "code": {
+    "id": "32182",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "Cà Mau",
+      "en": "Ca Mau",
+      "slug": "ca-mau-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.898",
+    "lon": "105.119"
+  },
+  "metadata": {},
+  "source": {}
+}

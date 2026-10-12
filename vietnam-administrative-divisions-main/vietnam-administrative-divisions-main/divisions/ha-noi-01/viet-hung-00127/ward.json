@@ -1,0 +1,45 @@
+{
+  "id": "00127",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Việt Hưng",
+    "en": "Viet Hung",
+    "slug": "viet-hung-00127"
+  },
+  "code": {
+    "id": "00127",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Hà Nội",
+      "en": "Hanoi",
+      "slug": "ha-noi-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.064",
+    "lon": "105.906"
+  },
+  "metadata": {},
+  "source": {}
+}

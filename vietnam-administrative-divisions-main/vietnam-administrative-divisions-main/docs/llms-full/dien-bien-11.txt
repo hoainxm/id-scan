@@ -1,0 +1,234 @@
+# Dien Bien — Vietnam Administrative Divisions
+
+> 45 commune/wards
+> Code: 11
+> Coordinates: 21.477, 103.232
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Búng Lao (Bung Lao)
+
+Code: 03301, Coordinates: 21.546, 103.289
+
+
+### Chà Tở (Cha To)
+
+Code: 03175, Coordinates: 21.99, 102.938
+
+
+### Chiềng Sinh (Chieng Sinh)
+
+Code: 03283, Coordinates: 21.61, 103.336
+
+
+### Điện Biên Phủ (Dien Bien Phu)
+
+Code: 03127, Coordinates: 21.49, 103.105
+
+
+### Mường Ảng (Muong Ang)
+
+Code: 03256, Coordinates: 21.527, 103.259
+
+
+### Mường Chà (Muong Cha)
+
+Code: 03166, Coordinates: 21.827, 103.143
+
+
+### Mường Lạn (Muong Lan)
+
+Code: 03313, Coordinates: 21.451, 103.318
+
+
+### Mường Lay (Muong Lay)
+
+Code: 03151, Coordinates: 22.031, 103.127
+
+
+### Mường Luân (Muong Luan)
+
+Code: 03214, Coordinates: 21.247, 103.38
+
+
+### Mường Mùn (Muong Mun)
+
+Code: 03268, Coordinates: 21.725, 103.318
+
+
+### Mường Nhà (Muong Nha)
+
+Code: 03368, Coordinates: 21.127, 103.1
+
+
+### Mường Nhé (Muong Nhe)
+
+Code: 03160, Coordinates: 22.264, 102.373
+
+
+### Mường Phăng (Muong Phang)
+
+Code: 03325, Coordinates: 21.449, 103.135
+
+
+### Mường Pồn (Muong Pon)
+
+Code: 03202, Coordinates: 21.587, 103.03
+
+
+### Mường Thanh (Muong Thanh)
+
+Code: 03334, Coordinates: 21.387, 103.017
+
+
+### Mường Toong (Muong Toong)
+
+Code: 03163, Coordinates: 22.157, 102.572
+
+
+### Mường Tùng (Muong Tung)
+
+Code: 03181, Coordinates: 21.952, 103.093
+
+
+### Nà Bủng (Na Bung)
+
+Code: 03176, Coordinates: 21.726, 102.716
+
+
+### Nà Hỳ (Na Hy)
+
+Code: 03169, Coordinates: 21.833, 102.733
+
+
+### Na Sang
+
+Code: 03172, Coordinates: 21.759, 103.09
+
+
+### Na Son
+
+Code: 03203, Coordinates: 21.297, 103.22
+
+
+### Nà Tấu (Na Tau)
+
+Code: 03316, Coordinates: 21.562, 103.144
+
+
+### Nậm Kè (Nam Ke)
+
+Code: 03162, Coordinates: 22.062, 102.514
+
+
+### Nậm Nèn (Nam Nen)
+
+Code: 03194, Coordinates: 21.804, 103.226
+
+
+### Núa Ngam (Nua Ngam)
+
+Code: 03358, Coordinates: 21.179, 103.053
+
+
+### Pa Ham
+
+Code: 03193, Coordinates: 21.931, 103.238
+
+
+### Phình Giàng (Phinh Giang)
+
+Code: 03382, Coordinates: 21.125, 103.224
+
+
+### Pu Nhi
+
+Code: 03370, Coordinates: 21.346, 103.134
+
+
+### Pú Nhung (Pu Nhung)
+
+Code: 03260, Coordinates: 21.723, 103.49
+
+
+### Quài Tở (Quai To)
+
+Code: 03295, Coordinates: 21.542, 103.457
+
+
+### Quảng Lâm (Quang Lam)
+
+Code: 03164, Coordinates: 21.986, 102.603
+
+
+### Sam Mứn (Sam Mun)
+
+Code: 03356, Coordinates: 21.207, 102.949
+
+
+### Sáng Nhè (Sang Nhe)
+
+Code: 03244, Coordinates: 21.847, 103.459
+
+
+### Si Pa Phìn (Si Pa Phin)
+
+Code: 03199, Coordinates: 21.81, 102.92
+
+
+### Sín Chải (Sin Chai)
+
+Code: 03226, Coordinates: 22.054, 103.348
+
+
+### Sín Thầu (Sin Thau)
+
+Code: 03158, Coordinates: 22.376, 102.254
+
+
+### Sính Phình (Sinh Phinh)
+
+Code: 03241, Coordinates: 21.944, 103.327
+
+
+### Thanh An
+
+Code: 03352, Coordinates: 21.302, 103.046
+
+
+### Thanh Nưa (Thanh Nua)
+
+Code: 03328, Coordinates: 21.42, 103.006
+
+
+### Thanh Yên (Thanh Yen)
+
+Code: 03349, Coordinates: 21.306, 102.947
+
+
+### Tìa Dình (Tia Dinh)
+
+Code: 03385, Coordinates: 21.141, 103.338
+
+
+### Tủa Chùa (Tua Chua)
+
+Code: 03217, Coordinates: 21.971, 103.377
+
+
+### Tủa Thàng (Tua Thang)
+
+Code: 03220, Coordinates: 22.032, 103.439
+
+
+### Tuần Giáo (Tuan Giao)
+
+Code: 03253, Coordinates: 21.646, 103.371
+
+
+### Xa Dung
+
+Code: 03208, Coordinates: 21.318, 103.3
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "28285",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Trung An",
+    "en": "Trung An",
+    "slug": "trung-an-28285"
+  },
+  "code": {
+    "id": "28285",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Đồng Tháp",
+      "en": "Dong Thap",
+      "slug": "dong-thap-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.37",
+    "lon": "106.324"
+  },
+  "metadata": {},
+  "source": {}
+}

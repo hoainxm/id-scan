@@ -1,0 +1,5807 @@
+[
+  {
+    "id": "13579",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Lý",
+      "en": "Bac Ly",
+      "slug": "bac-ly-13579"
+    },
+    "code": {
+      "id": "13579",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.588",
+      "lon": "106.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13540",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình An",
+      "en": "Binh An",
+      "slug": "binh-an-13540"
+    },
+    "code": {
+      "id": "13540",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.49",
+      "lon": "106.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13531",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Giang",
+      "en": "Binh Giang",
+      "slug": "binh-giang-13531"
+    },
+    "code": {
+      "id": "13531",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.495",
+      "lon": "106.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13504",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Lục",
+      "en": "Binh Luc",
+      "slug": "binh-luc-13504"
+    },
+    "code": {
+      "id": "13504",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.489",
+      "lon": "106.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14623",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Minh",
+      "en": "Binh Minh",
+      "slug": "binh-minh-14623"
+    },
+    "code": {
+      "id": "14623",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.991",
+      "lon": "106.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13501",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Mỹ",
+      "en": "Binh My",
+      "slug": "binh-my-13501"
+    },
+    "code": {
+      "id": "13501",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.491",
+      "lon": "106.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13558",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Sơn",
+      "en": "Binh Son",
+      "slug": "binh-son-13558"
+    },
+    "code": {
+      "id": "13558",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.441",
+      "lon": "106.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14056",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Thành",
+      "en": "Cat Thanh",
+      "slug": "cat-thanh-14056"
+    },
+    "code": {
+      "id": "14056",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.258",
+      "lon": "106.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14653",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chất Bình",
+      "en": "Chat Binh",
+      "slug": "chat-binh-14653"
+    },
+    "code": {
+      "id": "14653",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.132",
+      "lon": "106.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13318",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Sơn",
+      "en": "Chau Son",
+      "slug": "chau-son-13318"
+    },
+    "code": {
+      "id": "13318",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.508",
+      "lon": "105.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14026",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cổ Lễ",
+      "en": "Co Le",
+      "slug": "co-le-14026"
+    },
+    "code": {
+      "id": "14026",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.314",
+      "lon": "106.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14404",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cúc Phương",
+      "en": "Cuc Phuong",
+      "slug": "cuc-phuong-14404"
+    },
+    "code": {
+      "id": "14404",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.24",
+      "lon": "105.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14500",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Hoàng",
+      "en": "Dai Hoang",
+      "slug": "dai-hoang-14500"
+    },
+    "code": {
+      "id": "14500",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.314",
+      "lon": "105.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14677",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Hóa",
+      "en": "Dinh Hoa",
+      "slug": "dinh-hoa-14677"
+    },
+    "code": {
+      "id": "14677",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.054",
+      "lon": "106.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13693",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông A",
+      "en": "Dong A",
+      "slug": "dong-a-13693"
+    },
+    "code": {
+      "id": "13693",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.461",
+      "lon": "106.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14566",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hoa Lư",
+      "en": "Dong Hoa Lu",
+      "slug": "dong-hoa-lu-14566"
+    },
+    "code": {
+      "id": "14566",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.224",
+      "lon": "106.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14746",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Thái",
+      "en": "Dong Thai",
+      "slug": "dong-thai-14746"
+    },
+    "code": {
+      "id": "14746",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.097",
+      "lon": "105.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13900",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Thịnh",
+      "en": "Dong Thinh",
+      "slug": "dong-thinh-13900"
+    },
+    "code": {
+      "id": "13900",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.268",
+      "lon": "106.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13348",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Văn",
+      "en": "Dong Van",
+      "slug": "dong-van-13348"
+    },
+    "code": {
+      "id": "13348",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.639",
+      "lon": "105.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13336",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Duy Hà",
+      "en": "Duy Ha",
+      "slug": "duy-ha-13336"
+    },
+    "code": {
+      "id": "13336",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.641",
+      "lon": "105.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13330",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Duy Tân",
+      "en": "Duy Tan",
+      "slug": "duy-tan-13330"
+    },
+    "code": {
+      "id": "13330",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.666",
+      "lon": "106.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13324",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Duy Tiên",
+      "en": "Duy Tien",
+      "slug": "duy-tien-13324"
+    },
+    "code": {
+      "id": "13324",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.631",
+      "lon": "105.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14482",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Hưng",
+      "en": "Gia Hung",
+      "slug": "gia-hung-14482"
+    },
+    "code": {
+      "id": "14482",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.376",
+      "lon": "105.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14389",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Lâm",
+      "en": "Gia Lam",
+      "slug": "gia-lam-14389"
+    },
+    "code": {
+      "id": "14389",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.409",
+      "lon": "105.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14524",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Phong",
+      "en": "Gia Phong",
+      "slug": "gia-phong-14524"
+    },
+    "code": {
+      "id": "14524",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3",
+      "lon": "105.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14494",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Trấn",
+      "en": "Gia Tran",
+      "slug": "gia-tran-14494"
+    },
+    "code": {
+      "id": "14494",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.357",
+      "lon": "105.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14401",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Tường",
+      "en": "Gia Tuong",
+      "slug": "gia-tuong-14401"
+    },
+    "code": {
+      "id": "14401",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.352",
+      "lon": "105.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14488",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Vân",
+      "en": "Gia Van",
+      "slug": "gia-van-14488"
+    },
+    "code": {
+      "id": "14488",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.347",
+      "lon": "105.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14464",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Viễn",
+      "en": "Gia Vien",
+      "slug": "gia-vien-14464"
+    },
+    "code": {
+      "id": "14464",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.33",
+      "lon": "105.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14194",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao Bình",
+      "en": "Giao Binh",
+      "slug": "giao-binh-14194"
+    },
+    "code": {
+      "id": "14194",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.242",
+      "lon": "106.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14182",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao Hòa",
+      "en": "Giao Hoa",
+      "slug": "giao-hoa-14182"
+    },
+    "code": {
+      "id": "14182",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.251",
+      "lon": "106.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14179",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao Hưng",
+      "en": "Giao Hung",
+      "slug": "giao-hung-14179"
+    },
+    "code": {
+      "id": "14179",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.226",
+      "lon": "106.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14161",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao Minh",
+      "en": "Giao Minh",
+      "slug": "giao-minh-14161"
+    },
+    "code": {
+      "id": "14161",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.282",
+      "lon": "106.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14212",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao Ninh",
+      "en": "Giao Ninh",
+      "slug": "giao-ninh-14212"
+    },
+    "code": {
+      "id": "14212",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.213",
+      "lon": "106.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14203",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao Phúc",
+      "en": "Giao Phuc",
+      "slug": "giao-phuc-14203"
+    },
+    "code": {
+      "id": "14203",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.231",
+      "lon": "106.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14167",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao Thủy",
+      "en": "Giao Thuy",
+      "slug": "giao-thuy-14167"
+    },
+    "code": {
+      "id": "14167",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.285",
+      "lon": "106.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13366",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Nam",
+      "en": "Ha Nam",
+      "slug": "ha-nam-13366"
+    },
+    "code": {
+      "id": "13366",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.534",
+      "lon": "105.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14281",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải An",
+      "en": "Hai An",
+      "slug": "hai-an-14281"
+    },
+    "code": {
+      "id": "14281",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.143",
+      "lon": "106.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14236",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Anh",
+      "en": "Hai Anh",
+      "slug": "hai-anh-14236"
+    },
+    "code": {
+      "id": "14236",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.193",
+      "lon": "106.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14215",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Hậu",
+      "en": "Hai Hau",
+      "slug": "hai-hau-14215"
+    },
+    "code": {
+      "id": "14215",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.204",
+      "lon": "106.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14248",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Hưng",
+      "en": "Hai Hung",
+      "slug": "hai-hung-14248"
+    },
+    "code": {
+      "id": "14248",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.195",
+      "lon": "106.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14287",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Quang",
+      "en": "Hai Quang",
+      "slug": "hai-quang-14287"
+    },
+    "code": {
+      "id": "14287",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.17",
+      "lon": "106.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14221",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Thịnh",
+      "en": "Hai Thinh",
+      "slug": "hai-thinh-14221"
+    },
+    "code": {
+      "id": "14221",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.037",
+      "lon": "106.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14218",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Tiến",
+      "en": "Hai Tien",
+      "slug": "hai-tien-14218"
+    },
+    "code": {
+      "id": "14218",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.118",
+      "lon": "106.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14308",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Xuân",
+      "en": "Hai Xuan",
+      "slug": "hai-xuan-14308"
+    },
+    "code": {
+      "id": "14308",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.086",
+      "lon": "106.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13753",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiển Khánh",
+      "en": "Hien Khanh",
+      "slug": "hien-khanh-13753"
+    },
+    "code": {
+      "id": "13753",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.407",
+      "lon": "106.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14329",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoa Lư",
+      "en": "Hoa Lu",
+      "slug": "hoa-lu-14329"
+    },
+    "code": {
+      "id": "14329",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "108.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13927",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Phong",
+      "en": "Hong Phong",
+      "slug": "hong-phong-13927"
+    },
+    "code": {
+      "id": "13927",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.085",
+      "lon": "106.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13984",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Quang",
+      "en": "Hong Quang",
+      "slug": "hong-quang-13984"
+    },
+    "code": {
+      "id": "13984",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.372",
+      "lon": "106.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14614",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Hội",
+      "en": "Khanh Hoi",
+      "slug": "khanh-hoi-14614"
+    },
+    "code": {
+      "id": "14614",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.19",
+      "lon": "106.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Nhạc",
+      "en": "Khanh Nhac",
+      "slug": "khanh-nhac-14611"
+    },
+    "code": {
+      "id": "14611",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.165",
+      "lon": "106.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14563",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Thiện",
+      "en": "Khanh Thien",
+      "slug": "khanh-thien-14563"
+    },
+    "code": {
+      "id": "14563",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.212",
+      "lon": "106.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14608",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Trung",
+      "en": "Khanh Trung",
+      "slug": "khanh-trung-14608"
+    },
+    "code": {
+      "id": "14608",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.161",
+      "lon": "106.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13384",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Bảng",
+      "en": "Kim Bang",
+      "slug": "kim-bang-13384"
+    },
+    "code": {
+      "id": "13384",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.571",
+      "lon": "105.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14698",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Đông",
+      "en": "Kim Dong",
+      "slug": "kim-dong-14698"
+    },
+    "code": {
+      "id": "14698",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.942",
+      "lon": "106.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14638",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Sơn",
+      "en": "Kim Son",
+      "slug": "kim-son-14638"
+    },
+    "code": {
+      "id": "14638",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.024",
+      "lon": "106.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13402",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Thanh",
+      "en": "Kim Thanh",
+      "slug": "kim-thanh-13402"
+    },
+    "code": {
+      "id": "13402",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.613",
+      "lon": "105.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14674",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lai Thành",
+      "en": "Lai Thanh",
+      "slug": "lai-thanh-14674"
+    },
+    "code": {
+      "id": "14674",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.076",
+      "lon": "106.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13393",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Hồ",
+      "en": "Le Ho",
+      "slug": "le-ho-13393"
+    },
+    "code": {
+      "id": "13393",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.606",
+      "lon": "105.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13456",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liêm Hà",
+      "en": "Liem Ha",
+      "slug": "liem-ha-13456"
+    },
+    "code": {
+      "id": "13456",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.505",
+      "lon": "105.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13444",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liêm Tuyền",
+      "en": "Liem Tuyen",
+      "slug": "liem-tuyen-13444"
+    },
+    "code": {
+      "id": "13444",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.538",
+      "lon": "105.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13786",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Minh",
+      "en": "Lien Minh",
+      "slug": "lien-minh-13786"
+    },
+    "code": {
+      "id": "13786",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.319",
+      "lon": "106.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13573",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lý Nhân",
+      "en": "Ly Nhan",
+      "slug": "ly-nhan-13573"
+    },
+    "code": {
+      "id": "13573",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.547",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13435",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lý Thường Kiệt",
+      "en": "Ly Thuong Kiet",
+      "slug": "ly-thuong-kiet-13435"
+    },
+    "code": {
+      "id": "13435",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.523",
+      "lon": "105.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13750",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Tân",
+      "en": "Minh Tan",
+      "slug": "minh-tan-13750"
+    },
+    "code": {
+      "id": "13750",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.409",
+      "lon": "106.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14071",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Thái",
+      "en": "Minh Thai",
+      "slug": "minh-thai-14071"
+    },
+    "code": {
+      "id": "14071",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.198",
+      "lon": "106.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13708",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Lộc",
+      "en": "My Loc",
+      "slug": "my-loc-13708"
+    },
+    "code": {
+      "id": "13708",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.442",
+      "lon": "106.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13669",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Định",
+      "en": "Nam Dinh",
+      "slug": "nam-dinh-13669"
+    },
+    "code": {
+      "id": "13669",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.995",
+      "lon": "106.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14014",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đồng",
+      "en": "Nam Dong",
+      "slug": "nam-dong-14014"
+    },
+    "code": {
+      "id": "14014",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.295",
+      "lon": "106.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14359",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Hoa Lư",
+      "en": "Nam Hoa Lu",
+      "slug": "nam-hoa-lu-14359"
+    },
+    "code": {
+      "id": "14359",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.214",
+      "lon": "105.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13987",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Hồng",
+      "en": "Nam Hong",
+      "slug": "nam-hong-13987"
+    },
+    "code": {
+      "id": "13987",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.345",
+      "lon": "106.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13627",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Lý",
+      "en": "Nam Ly",
+      "slug": "nam-ly-13627"
+    },
+    "code": {
+      "id": "13627",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.509",
+      "lon": "106.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14011",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Minh",
+      "en": "Nam Minh",
+      "slug": "nam-minh-14011"
+    },
+    "code": {
+      "id": "14011",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.297",
+      "lon": "106.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14005",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Ninh",
+      "en": "Nam Ninh",
+      "slug": "nam-ninh-14005"
+    },
+    "code": {
+      "id": "14005",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3",
+      "lon": "106.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13966",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Trực",
+      "en": "Nam Truc",
+      "slug": "nam-truc-13966"
+    },
+    "code": {
+      "id": "13966",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.334",
+      "lon": "106.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13591",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Xang",
+      "en": "Nam Xang",
+      "slug": "nam-xang-13591"
+    },
+    "code": {
+      "id": "13591",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.601",
+      "lon": "106.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13891",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Hưng",
+      "en": "Nghia Hung",
+      "slug": "nghia-hung-13891"
+    },
+    "code": {
+      "id": "13891",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.221",
+      "lon": "106.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13957",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Lâm",
+      "en": "Nghia Lam",
+      "slug": "nghia-lam-13957"
+    },
+    "code": {
+      "id": "13957",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.012",
+      "lon": "106.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13918",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Sơn",
+      "en": "Nghia Son",
+      "slug": "nghia-son-13918"
+    },
+    "code": {
+      "id": "13918",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.189",
+      "lon": "106.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13396",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Úy",
+      "en": "Nguyen Uy",
+      "slug": "nguyen-uy-13396"
+    },
+    "code": {
+      "id": "13396",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.624",
+      "lon": "105.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13609",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhân Hà",
+      "en": "Nhan Ha",
+      "slug": "nhan-ha-13609"
+    },
+    "code": {
+      "id": "13609",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.548",
+      "lon": "106.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14428",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nho Quan",
+      "en": "Nho Quan",
+      "slug": "nho-quan-14428"
+    },
+    "code": {
+      "id": "14428",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.312",
+      "lon": "105.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14077",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Cường",
+      "en": "Ninh Cuong",
+      "slug": "ninh-cuong-14077"
+    },
+    "code": {
+      "id": "14077",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.199",
+      "lon": "106.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14038",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Giang",
+      "en": "Ninh Giang",
+      "slug": "ninh-giang-14038"
+    },
+    "code": {
+      "id": "14038",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.309",
+      "lon": "106.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14620",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phát Diệm",
+      "en": "Phat Diem",
+      "slug": "phat-diem-14620"
+    },
+    "code": {
+      "id": "14620",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.09",
+      "lon": "106.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13822",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Doanh",
+      "en": "Phong Doanh",
+      "slug": "phong-doanh-13822"
+    },
+    "code": {
+      "id": "13822",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.36",
+      "lon": "105.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14458",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Long",
+      "en": "Phu Long",
+      "slug": "phu-long-14458"
+    },
+    "code": {
+      "id": "14458",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.2",
+      "lon": "105.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13285",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phủ Lý",
+      "en": "Phu Ly",
+      "slug": "phu-ly-13285"
+    },
+    "code": {
+      "id": "13285",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.545",
+      "lon": "105.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14407",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Sơn",
+      "en": "Phu Son",
+      "slug": "phu-son-14407"
+    },
+    "code": {
+      "id": "14407",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.363",
+      "lon": "105.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13291",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Vân",
+      "en": "Phu Van",
+      "slug": "phu-van-13291"
+    },
+    "code": {
+      "id": "13291",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.555",
+      "lon": "105.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14062",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Hưng",
+      "en": "Quang Hung",
+      "slug": "quang-hung-14062"
+    },
+    "code": {
+      "id": "14062",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.235",
+      "lon": "106.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14647",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Thiện",
+      "en": "Quang Thien",
+      "slug": "quang-thien-14647"
+    },
+    "code": {
+      "id": "14647",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.102",
+      "lon": "106.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13939",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỹ Nhất",
+      "en": "Quy Nhat",
+      "slug": "quy-nhat-13939"
+    },
+    "code": {
+      "id": "13939",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.056",
+      "lon": "106.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14452",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Lưu",
+      "en": "Quynh Luu",
+      "slug": "quynh-luu-14452"
+    },
+    "code": {
+      "id": "14452",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.237",
+      "lon": "105.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13894",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Rạng Đông",
+      "en": "Rang Dong",
+      "slug": "rang-dong-13894"
+    },
+    "code": {
+      "id": "13894",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.975",
+      "lon": "106.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13420",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Chúc",
+      "en": "Tam Chuc",
+      "slug": "tam-chuc-13420"
+    },
+    "code": {
+      "id": "13420",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.55",
+      "lon": "105.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14362",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Điệp",
+      "en": "Tam Diep",
+      "slug": "tam-diep-14362"
+    },
+    "code": {
+      "id": "14362",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.161",
+      "lon": "105.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13807",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Minh",
+      "en": "Tan Minh",
+      "slug": "tan-minh-13807"
+    },
+    "code": {
+      "id": "13807",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.385",
+      "lon": "106.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13474",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thanh",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-13474"
+    },
+    "code": {
+      "id": "13474",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.262",
+      "lon": "105.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14533",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Hoa Lư",
+      "en": "Tay Hoa Lu",
+      "slug": "tay-hoa-lu-14533"
+    },
+    "code": {
+      "id": "14533",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.277",
+      "lon": "105.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13483",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Bình",
+      "en": "Thanh Binh",
+      "slug": "thanh-binh-13483"
+    },
+    "code": {
+      "id": "13483",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.257",
+      "lon": "105.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Lâm",
+      "en": "Thanh Lam",
+      "slug": "thanh-lam-13489"
+    },
+    "code": {
+      "id": "13489",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.42",
+      "lon": "105.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13495",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Liêm",
+      "en": "Thanh Liem",
+      "slug": "thanh-liem-13495"
+    },
+    "code": {
+      "id": "13495",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.445",
+      "lon": "105.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13699",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Nam",
+      "en": "Thanh Nam",
+      "slug": "thanh-nam-13699"
+    },
+    "code": {
+      "id": "13699",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.246",
+      "lon": "105.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14434",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Sơn",
+      "en": "Thanh Son",
+      "slug": "thanh-son-14434"
+    },
+    "code": {
+      "id": "14434",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.28",
+      "lon": "105.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13684",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiên Trường",
+      "en": "Thien Truong",
+      "slug": "thien-truong-13684"
+    },
+    "code": {
+      "id": "13684",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.452",
+      "lon": "106.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13363",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Sơn",
+      "en": "Tien Son",
+      "slug": "tien-son-13363"
+    },
+    "code": {
+      "id": "13363",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.586",
+      "lon": "105.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13594",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Thương",
+      "en": "Tran Thuong",
+      "slug": "tran-thuong-13594"
+    },
+    "code": {
+      "id": "13594",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.547",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14053",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trực Ninh",
+      "en": "Truc Ninh",
+      "slug": "truc-ninh-14053"
+    },
+    "code": {
+      "id": "14053",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.244",
+      "lon": "106.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14365",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Sơn",
+      "en": "Trung Son",
+      "slug": "trung-son-14365"
+    },
+    "code": {
+      "id": "14365",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.143",
+      "lon": "105.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13777",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Thi",
+      "en": "Truong Thi",
+      "slug": "truong-thi-13777"
+    },
+    "code": {
+      "id": "13777",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.366",
+      "lon": "106.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13864",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Thắng",
+      "en": "Van Thang",
+      "slug": "van-thang-13864"
+    },
+    "code": {
+      "id": "13864",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.297",
+      "lon": "106.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13972",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vị Khê",
+      "en": "Vi Khe",
+      "slug": "vi-khe-13972"
+    },
+    "code": {
+      "id": "13972",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.401",
+      "lon": "106.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13597",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Trụ",
+      "en": "Vinh Tru",
+      "slug": "vinh-tru-13597"
+    },
+    "code": {
+      "id": "13597",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.553",
+      "lon": "106.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13741",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vụ Bản",
+      "en": "Vu Ban",
+      "slug": "vu-ban-13741"
+    },
+    "code": {
+      "id": "13741",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13834",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Dương",
+      "en": "Vu Duong",
+      "slug": "vu-duong-13834"
+    },
+    "code": {
+      "id": "13834",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.335",
+      "lon": "106.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14104",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Giang",
+      "en": "Xuan Giang",
+      "slug": "xuan-giang-14104"
+    },
+    "code": {
+      "id": "14104",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.326",
+      "lon": "106.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14095",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hồng",
+      "en": "Xuan Hong",
+      "slug": "xuan-hong-14095"
+    },
+    "code": {
+      "id": "14095",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.326",
+      "lon": "106.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14122",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hưng",
+      "en": "Xuan Hung",
+      "slug": "xuan-hung-14122"
+    },
+    "code": {
+      "id": "14122",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.292",
+      "lon": "106.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14089",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Trường",
+      "en": "Xuan Truong",
+      "slug": "xuan-truong-14089"
+    },
+    "code": {
+      "id": "14089",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.292",
+      "lon": "106.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13795",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ý Yên",
+      "en": "Y Yen",
+      "slug": "y-yen-13795"
+    },
+    "code": {
+      "id": "13795",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.329",
+      "lon": "105.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13870",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Cường",
+      "en": "Yen Cuong",
+      "slug": "yen-cuong-13870"
+    },
+    "code": {
+      "id": "13870",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.277",
+      "lon": "106.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13879",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Đồng",
+      "en": "Yen Dong",
+      "slug": "yen-dong-13879"
+    },
+    "code": {
+      "id": "13879",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.256",
+      "lon": "106.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14560",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Khánh",
+      "en": "Yen Khanh",
+      "slug": "yen-khanh-14560"
+    },
+    "code": {
+      "id": "14560",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.19",
+      "lon": "106.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14743",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Mạc",
+      "en": "Yen Mac",
+      "slug": "yen-mac-14743"
+    },
+    "code": {
+      "id": "14743",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.104",
+      "lon": "106.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14701",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Mô",
+      "en": "Yen Mo",
+      "slug": "yen-mo-14701"
+    },
+    "code": {
+      "id": "14701",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.128",
+      "lon": "106.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14371",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Sơn",
+      "en": "Yen Son",
+      "slug": "yen-son-14371"
+    },
+    "code": {
+      "id": "14371",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.19",
+      "lon": "105.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14725",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thắng",
+      "en": "Yen Thang",
+      "slug": "yen-thang-14725"
+    },
+    "code": {
+      "id": "14725",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.165",
+      "lon": "105.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14728",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Từ",
+      "en": "Yen Tu",
+      "slug": "yen-tu-14728"
+    },
+    "code": {
+      "id": "14728",
+      "iso": null
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "Ninh Bình",
+          "en": "Ninh Binh",
+          "slug": "ninh-binh-37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.13",
+      "lon": "106.046"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

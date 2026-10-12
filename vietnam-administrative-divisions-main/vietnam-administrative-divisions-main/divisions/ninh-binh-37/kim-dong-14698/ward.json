@@ -1,0 +1,45 @@
+{
+  "id": "14698",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Kim Đông",
+    "en": "Kim Dong",
+    "slug": "kim-dong-14698"
+  },
+  "code": {
+    "id": "14698",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "Ninh Bình",
+      "en": "Ninh Binh",
+      "slug": "ninh-binh-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.942",
+    "lon": "106.077"
+  },
+  "metadata": {},
+  "source": {}
+}

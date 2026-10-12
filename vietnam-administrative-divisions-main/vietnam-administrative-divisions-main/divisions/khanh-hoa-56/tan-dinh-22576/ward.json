@@ -1,0 +1,45 @@
+{
+  "id": "22576",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Định",
+    "en": "Tan Dinh",
+    "slug": "tan-dinh-22576"
+  },
+  "code": {
+    "id": "22576",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.707",
+    "lon": "108.752"
+  },
+  "metadata": {},
+  "source": {}
+}

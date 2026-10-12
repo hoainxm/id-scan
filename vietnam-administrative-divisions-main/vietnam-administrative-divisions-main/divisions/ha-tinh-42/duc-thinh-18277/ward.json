@@ -1,0 +1,45 @@
+{
+  "id": "18277",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đức Thịnh",
+    "en": "Duc Thinh",
+    "slug": "duc-thinh-18277"
+  },
+  "code": {
+    "id": "18277",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "Hà Tĩnh",
+      "en": "Ha Tinh",
+      "slug": "ha-tinh-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.478",
+    "lon": "105.644"
+  },
+  "metadata": {},
+  "source": {}
+}

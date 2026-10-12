@@ -1,0 +1,45 @@
+{
+  "id": "28870",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Chợ Lách",
+    "en": "Cho Lach",
+    "slug": "cho-lach-28870"
+  },
+  "code": {
+    "id": "28870",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "Vĩnh Long",
+      "en": "Vinh Long",
+      "slug": "vinh-long-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "Vĩnh Long",
+        "en": "Vinh Long",
+        "slug": "vinh-long-86"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.261",
+    "lon": "106.121"
+  },
+  "metadata": {},
+  "source": {}
+}

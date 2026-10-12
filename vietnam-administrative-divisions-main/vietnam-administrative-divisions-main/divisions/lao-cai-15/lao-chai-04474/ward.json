@@ -1,0 +1,45 @@
+{
+  "id": "04474",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lao Chải",
+    "en": "Lao Chai",
+    "slug": "lao-chai-04474"
+  },
+  "code": {
+    "id": "04474",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.31",
+    "lon": "103.876"
+  },
+  "metadata": {},
+  "source": {}
+}

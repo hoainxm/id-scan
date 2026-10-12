@@ -1,0 +1,45 @@
+{
+  "id": "01525",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đoài Dương",
+    "en": "Doai Duong",
+    "slug": "doai-duong-01525"
+  },
+  "code": {
+    "id": "01525",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.761",
+    "lon": "106.512"
+  },
+  "metadata": {},
+  "source": {}
+}

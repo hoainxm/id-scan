@@ -1,0 +1,45 @@
+{
+  "id": "19735",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nam Hải Lăng",
+    "en": "Nam Hai Lang",
+    "slug": "nam-hai-lang-19735"
+  },
+  "code": {
+    "id": "19735",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "Quảng Trị",
+      "en": "Quang Tri",
+      "slug": "quang-tri-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.638",
+    "lon": "107.299"
+  },
+  "metadata": {},
+  "source": {}
+}

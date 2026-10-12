@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phước Tân, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu",
+  "ellapsedInMs": 20387,
+  "estimatedCost": 0.0047029,
+  "thought": "**The Analysis and Determination of the New Administrative Unit**\n\nOkay, let's break this down. First, I had to identify the new administrative unit for \"Xã Phước Tân, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu.\" A straightforward, yet crucial, task.\n\nInitial Steps: I started with the obvious: analyzing the old ward name, district, and province. This provided the necessary context: Xã Phước Tân in Huyện Xuyên Mộc, Bà Rịa - Vũng Tàu. Next, I considered the province resolutions (60-NQ/TW). Since \"Tỉnh Bà Rịa - Vũng Tàu\" was involved in a merger, I knew it would become part of \"Thành phố Hồ Chí Minh.\"\n\nCrucial Examination: This meant I needed to focus on resolutions affecting Thành phố Hồ Chí Minh. My approach was systematic: I scrutinized various resolutions, meticulously searching for any mention of \"Xã Phước Tân,\" always keeping the district (Huyện Xuyên Mộc) and the former province (Bà Rịa - Vũng Tàu) in mind. I quickly eliminated resolutions related to other provinces like Đắk Lắk, Đồng Nai, Khánh Hòa, and Tây Ninh, where \"Xã Phước Tân\" was not the relevant entity.\n\nThe Turning Point: Then, resolution 1685/NQ-UBTVQH15, concerning Thành phố Hồ Chí Minh, caught my attention. Line 159 mentioned \"xã Phước Tân\" being merged into a new ward called \"xã Hồ Tràm.\" The context was promising: it specifically mentioned \"Huyện Xuyên Mộc\" via other merged entities. Looking closely at the context, this resolution perfectly aligned with the required information. Bingo!\n\nVerification and Validation: I then validated this finding by checking the existing ward data. Sure enough, there it was: \"Xã Hồ Tràm\" in Thành phố Hồ Chí Minh with the corresponding code. This confirmed the solution, and I was confident in the high confidence level due to the specific nature of the resolution. I can now provide the final JSON output.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "159. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phước Bửu, xã Phước Tân và xã Phước Thuận thành xã mới có tên gọi là xã Hồ Tràm."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "26620",
+      "ward_name": "Xã Hồ Tràm"
+    }
+  ]
+}

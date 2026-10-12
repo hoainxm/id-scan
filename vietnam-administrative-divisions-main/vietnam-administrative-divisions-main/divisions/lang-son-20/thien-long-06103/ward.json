@@ -1,0 +1,45 @@
+{
+  "id": "06103",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thiện Long",
+    "en": "Thien Long",
+    "slug": "thien-long-06103"
+  },
+  "code": {
+    "id": "06103",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "Lạng Sơn",
+      "en": "Lang Son",
+      "slug": "lang-son-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.981",
+    "lon": "106.193"
+  },
+  "metadata": {},
+  "source": {}
+}

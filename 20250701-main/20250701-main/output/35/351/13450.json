@@ -1,0 +1,18 @@
+{
+  "address": "Xã Liêm Phong, Huyện Thanh Liêm, Tỉnh Hà Nam",
+  "ellapsedInMs": 10377,
+  "estimatedCost": 0.0040804,
+  "thought": "**My Reasoning for Mapping \"Xã Liêm Phong\" to \"Xã Liêm Hà\"**\n\nMy analysis begins by understanding that the user is requesting a mapping of an old Vietnamese ward to its corresponding new administrative unit. My process involves several key steps:\n\n1.  **Province Identification:** First, I identify the old ward's province, \"Tỉnh Hà Nam\".\n2.  **Province Change Verification:** Then, I consult provincial resolutions and find that \"Tỉnh Hà Nam\" no longer exists as a standalone entity. It was merged, via resolution 60-NQ/TW, into \"Tỉnh Ninh Bình.\" This tells me the relevant province is now Ninh Bình.\n3.  **Ward Name Retrieval:** Next, I identify the specific old ward name: \"Xã Liêm Phong\".\n4.  **Specific Resolution Check:** I scrutinize other resolutions, paying close attention to 1674/NQ-UBTVQH15, to determine the ward's fate. I locate a direct reference to \"Xã Liêm Phong\" being merged with other wards (\"Liêm Cần\" and \"Thanh Hà\") to form the new ward, \"Xã Liêm Hà.\"\n5.  **New Ward Data Examination:** I cross-reference this information with the provided \"new wards\" data.  I search for \"Xã Liêm Hà\" and confirm its corresponding code (\"13456\") and province (\"Tỉnh Ninh Bình\").\n6.  **Output Construction:** Based on this thorough analysis, I determine the output should be:\n    *   `province_name`: \"Tỉnh Ninh Bình\" (reflecting the province merger).\n    *   `ward_name`: \"Xã Liêm Hà\" (from resolution 1674/NQ-UBTVQH15).\n    *   `ward_code`: \"13456\" (as found in the new ward data).\n    *   `confidence`: \"high\" (due to the clear and direct mapping derived from the resolutions).\n    *   `citation`: \"1674/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình\" (This resolution provides the crucial mapping information for the ward-specific change.)\n    *   `line`: \"6. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Liêm Phong, Liêm Cần và Thanh Hà thành xã mới có tên gọi là xã Liêm Hà.\" (Direct quote from the resolution, confirming the ward transformation).\n\nThe key here is that the resolution 1674/NQ-UBTVQH15 directly addresses the specific transformation of the ward \"Xã Liêm Phong\" into \"Xã Liêm Hà,\" and is thus the most relevant citation to include. The province change, while important context, is reflected in the province name field. My assessment gives a high degree of confidence due to the direct correspondence between the old and new administrative units within the documented resolutions and the data.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1674/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình",
+        "line": "6. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Liêm Phong, Liêm Cần và Thanh Hà thành xã mới có tên gọi là xã Liêm Hà."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Ninh Bình",
+      "ward_code": "13456",
+      "ward_name": "Xã Liêm Hà"
+    }
+  ]
+}

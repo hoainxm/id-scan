@@ -1,0 +1,45 @@
+{
+  "id": "20131",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hưng Lộc",
+    "en": "Hung Loc",
+    "slug": "hung-loc-20131"
+  },
+  "code": {
+    "id": "20131",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.356",
+    "lon": "107.738"
+  },
+  "metadata": {},
+  "source": {}
+}

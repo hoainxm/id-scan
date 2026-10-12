@@ -1,0 +1,45 @@
+{
+  "id": "31840",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hiệp Thành",
+    "en": "Hiep Thanh",
+    "slug": "hiep-thanh-31840"
+  },
+  "code": {
+    "id": "31840",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "Cà Mau",
+      "en": "Ca Mau",
+      "slug": "ca-mau-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.249",
+    "lon": "105.771"
+  },
+  "metadata": {},
+  "source": {}
+}

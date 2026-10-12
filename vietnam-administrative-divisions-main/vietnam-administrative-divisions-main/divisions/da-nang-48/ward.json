@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "20275",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hải",
+      "en": "An Hai",
+      "slug": "an-hai-20275"
+    },
+    "code": {
+      "id": "20275",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.07",
+      "lon": "108.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20305",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Khê",
+      "en": "An Khe",
+      "slug": "an-khe-20305"
+    },
+    "code": {
+      "id": "20305",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.05",
+      "lon": "108.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20575",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Thắng",
+      "en": "An Thang",
+      "slug": "an-thang-20575"
+    },
+    "code": {
+      "id": "20575",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.906",
+      "lon": "108.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20458",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Avương",
+      "en": "Avuong",
+      "slug": "avuong-20458"
+    },
+    "code": {
+      "id": "20458",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.97",
+      "lon": "107.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20308",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bà Nà",
+      "en": "Ba Na",
+      "slug": "ba-na-20308"
+    },
+    "code": {
+      "id": "20308",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.998",
+      "lon": "107.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20335",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bàn Thạch",
+      "en": "Ban Thach",
+      "slug": "ban-thach-20335"
+    },
+    "code": {
+      "id": "20335",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.585",
+      "lon": "108.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20710",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Giằng",
+      "en": "Ben Giang",
+      "slug": "ben-giang-20710"
+    },
+    "code": {
+      "id": "20710",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.69",
+      "lon": "107.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20494",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Hiên",
+      "en": "Ben Hien",
+      "slug": "ben-hien-20494"
+    },
+    "code": {
+      "id": "20494",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.847",
+      "lon": "107.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20260",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Lệ",
+      "en": "Cam Le",
+      "slug": "cam-le-20260"
+    },
+    "code": {
+      "id": "20260",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.015",
+      "lon": "108.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiên Đàn",
+      "en": "Chien Dan",
+      "slug": "chien-dan-20364"
+    },
+    "code": {
+      "id": "20364",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.564",
+      "lon": "108.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20716",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đắc Pring",
+      "en": "Dac Pring",
+      "slug": "dac-pring-20716"
+    },
+    "code": {
+      "id": "20716",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.5",
+      "lon": "107.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20500",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Lộc",
+      "en": "Dai Loc",
+      "slug": "dai-loc-20500"
+    },
+    "code": {
+      "id": "20500",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.895",
+      "lon": "108.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20551",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điện Bàn",
+      "en": "Dien Ban",
+      "slug": "dien-ban-20551"
+    },
+    "code": {
+      "id": "20551",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.889",
+      "lon": "108.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20557",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điện Bàn Bắc",
+      "en": "Dien Ban Bac",
+      "slug": "dien-ban-bac-20557"
+    },
+    "code": {
+      "id": "20557",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.932",
+      "lon": "108.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20579",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điện Bàn Đông",
+      "en": "Dien Ban Dong",
+      "slug": "dien-ban-dong-20579"
+    },
+    "code": {
+      "id": "20579",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.932",
+      "lon": "108.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20569",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điện Bàn Tây",
+      "en": "Dien Ban Tay",
+      "slug": "dien-ban-tay-20569"
+    },
+    "code": {
+      "id": "20569",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.889",
+      "lon": "108.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20818",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Dương",
+      "en": "Dong Duong",
+      "slug": "dong-duong-20818"
+    },
+    "code": {
+      "id": "20818",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.647",
+      "lon": "108.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20467",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Giang",
+      "en": "Dong Giang",
+      "slug": "dong-giang-20467"
+    },
+    "code": {
+      "id": "20467",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.06",
+      "lon": "108.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20977",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Phú",
+      "en": "Duc Phu",
+      "slug": "duc-phu-20977"
+    },
+    "code": {
+      "id": "20977",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.449",
+      "lon": "108.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20635",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Duy Nghĩa",
+      "en": "Duy Nghia",
+      "slug": "duy-nghia-20635"
+    },
+    "code": {
+      "id": "20635",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.842",
+      "lon": "108.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20623",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Duy Xuyên",
+      "en": "Duy Xuyen",
+      "slug": "duy-xuyen-20623"
+    },
+    "code": {
+      "id": "20623",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.782",
+      "lon": "108.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20587",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gò Nổi",
+      "en": "Go Noi",
+      "slug": "go-noi-20587"
+    },
+    "code": {
+      "id": "20587",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.855",
+      "lon": "108.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20515",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Nha",
+      "en": "Ha Nha",
+      "slug": "ha-nha-20515"
+    },
+    "code": {
+      "id": "20515",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.86",
+      "lon": "108.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20242",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Châu",
+      "en": "Hai Chau",
+      "slug": "hai-chau-20242"
+    },
+    "code": {
+      "id": "20242",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.059",
+      "lon": "108.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20194",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Vân",
+      "en": "Hai Van",
+      "slug": "hai-van-20194"
+    },
+    "code": {
+      "id": "20194",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.135",
+      "lon": "108.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20779",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Đức",
+      "en": "Hiep Duc",
+      "slug": "hiep-duc-20779"
+    },
+    "code": {
+      "id": "20779",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.571",
+      "lon": "108.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20257",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Cường",
+      "en": "Hoa Cuong",
+      "slug": "hoa-cuong-20257"
+    },
+    "code": {
+      "id": "20257",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.042",
+      "lon": "108.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20200",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Khánh",
+      "en": "Hoa Khanh",
+      "slug": "hoa-khanh-20200"
+    },
+    "code": {
+      "id": "20200",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.05",
+      "lon": "108.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20332",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Tiến",
+      "en": "Hoa Tien",
+      "slug": "hoa-tien-20332"
+    },
+    "code": {
+      "id": "20332",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.96",
+      "lon": "108.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20320",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Vang",
+      "en": "Hoa Vang",
+      "slug": "hoa-vang-20320"
+    },
+    "code": {
+      "id": "20320",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.97",
+      "lon": "108.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20314",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Xuân",
+      "en": "Hoa Xuan",
+      "slug": "hoa-xuan-20314"
+    },
+    "code": {
+      "id": "20314",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.005",
+      "lon": "108.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20333",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Sa",
+      "en": "Hoang Sa",
+      "slug": "hoang-sa-20333"
+    },
+    "code": {
+      "id": "20333",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.095",
+      "lon": "108.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20410",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội An",
+      "en": "Hoi An",
+      "slug": "hoi-an-20410"
+    },
+    "code": {
+      "id": "20410",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.888",
+      "lon": "108.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20413",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội An Đông",
+      "en": "Hoi An Dong",
+      "slug": "hoi-an-dong-20413"
+    },
+    "code": {
+      "id": "20413",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.879",
+      "lon": "108.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20401",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội An Tây",
+      "en": "Hoi An Tay",
+      "slug": "hoi-an-tay-20401"
+    },
+    "code": {
+      "id": "20401",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.897",
+      "lon": "108.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20443",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng Sơn",
+      "en": "Hung Son",
+      "slug": "hung-son-20443"
+    },
+    "code": {
+      "id": "20443",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.809",
+      "lon": "107.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20350",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Trà",
+      "en": "Huong Tra",
+      "slug": "huong-tra-20350"
+    },
+    "code": {
+      "id": "20350",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.559",
+      "lon": "108.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20722",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khâm Đức",
+      "en": "Kham Duc",
+      "slug": "kham-duc-20722"
+    },
+    "code": {
+      "id": "20722",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.44",
+      "lon": "107.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20704",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "La Dêê",
+      "en": "La Dee",
+      "slug": "la-dee-20704"
+    },
+    "code": {
+      "id": "20704",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.553",
+      "lon": "107.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20698",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "La Êê",
+      "en": "La Ee",
+      "slug": "la-ee-20698"
+    },
+    "code": {
+      "id": "20698",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.66",
+      "lon": "107.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20875",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lãnh Ngọc",
+      "en": "Lanh Ngoc",
+      "slug": "lanh-ngoc-20875"
+    },
+    "code": {
+      "id": "20875",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.444",
+      "lon": "108.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20197",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Chiểu",
+      "en": "Lien Chieu",
+      "slug": "lien-chieu-20197"
+    },
+    "code": {
+      "id": "20197",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.077",
+      "lon": "108.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20707",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Giang",
+      "en": "Nam Giang",
+      "slug": "nam-giang-20707"
+    },
+    "code": {
+      "id": "20707",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.675",
+      "lon": "107.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20599",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Phước",
+      "en": "Nam Phuoc",
+      "slug": "nam-phuoc-20599"
+    },
+    "code": {
+      "id": "20599",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.828",
+      "lon": "108.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20944",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Trà My",
+      "en": "Nam Tra My",
+      "slug": "nam-tra-my-20944"
+    },
+    "code": {
+      "id": "20944",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.125",
+      "lon": "108.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20285",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngũ Hành Sơn",
+      "en": "Ngu Hanh Son",
+      "slug": "ngu-hanh-son-20285"
+    },
+    "code": {
+      "id": "20285",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.004",
+      "lon": "108.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20656",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nông Sơn",
+      "en": "Nong Son",
+      "slug": "nong-son-20656"
+    },
+    "code": {
+      "id": "20656",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.887",
+      "lon": "108.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20965",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Núi Thành",
+      "en": "Nui Thanh",
+      "slug": "nui-thanh-20965"
+    },
+    "code": {
+      "id": "20965",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.434",
+      "lon": "108.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20392",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Ninh",
+      "en": "Phu Ninh",
+      "slug": "phu-ninh-20392"
+    },
+    "code": {
+      "id": "20392",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.526",
+      "lon": "108.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20542",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thuận",
+      "en": "Phu Thuan",
+      "slug": "phu-thuan-20542"
+    },
+    "code": {
+      "id": "20542",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.783",
+      "lon": "107.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20740",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Chánh",
+      "en": "Phuoc Chanh",
+      "slug": "phuoc-chanh-20740"
+    },
+    "code": {
+      "id": "20740",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.322",
+      "lon": "107.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20728",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Hiệp",
+      "en": "Phuoc Hiep",
+      "slug": "phuoc-hiep-20728"
+    },
+    "code": {
+      "id": "20728",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.469",
+      "lon": "107.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20734",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Năng",
+      "en": "Phuoc Nang",
+      "slug": "phuoc-nang-20734"
+    },
+    "code": {
+      "id": "20734",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.061",
+      "lon": "108.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20752",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Thành",
+      "en": "Phuoc Thanh",
+      "slug": "phuoc-thanh-20752"
+    },
+    "code": {
+      "id": "20752",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.314",
+      "lon": "107.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20770",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Trà",
+      "en": "Phuoc Tra",
+      "slug": "phuoc-tra-20770"
+    },
+    "code": {
+      "id": "20770",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.482",
+      "lon": "108.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20356",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Phú",
+      "en": "Quang Phu",
+      "slug": "quang-phu-20356"
+    },
+    "code": {
+      "id": "20356",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.598",
+      "lon": "108.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20669",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quế Phước",
+      "en": "Que Phuoc",
+      "slug": "que-phuoc-20669"
+    },
+    "code": {
+      "id": "20669",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.642",
+      "lon": "107.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20641",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quế Sơn",
+      "en": "Que Son",
+      "slug": "que-son-20641"
+    },
+    "code": {
+      "id": "20641",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.713",
+      "lon": "108.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20662",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quế Sơn Trung",
+      "en": "Que Son Trung",
+      "slug": "que-son-trung-20662"
+    },
+    "code": {
+      "id": "20662",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.713",
+      "lon": "108.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20857",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Cẩm Hà",
+      "en": "Son Cam Ha",
+      "slug": "son-cam-ha-20857"
+    },
+    "code": {
+      "id": "20857",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.538",
+      "lon": "108.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20263",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Trà",
+      "en": "Son Tra",
+      "slug": "son-tra-20263"
+    },
+    "code": {
+      "id": "20263",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.102",
+      "lon": "108.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20476",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Kôn",
+      "en": "Song Kon",
+      "slug": "song-kon-20476"
+    },
+    "code": {
+      "id": "20476",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.867",
+      "lon": "107.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20485",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Vàng",
+      "en": "Song Vang",
+      "slug": "song-vang-20485"
+    },
+    "code": {
+      "id": "20485",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.886",
+      "lon": "107.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20984",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Anh",
+      "en": "Tam Anh",
+      "slug": "tam-anh-20984"
+    },
+    "code": {
+      "id": "20984",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.483",
+      "lon": "108.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20992",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Hải",
+      "en": "Tam Hai",
+      "slug": "tam-hai-20992"
+    },
+    "code": {
+      "id": "20992",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.494",
+      "lon": "108.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20341",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Kỳ",
+      "en": "Tam Ky",
+      "slug": "tam-ky-20341"
+    },
+    "code": {
+      "id": "20341",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.576",
+      "lon": "108.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21004",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Mỹ",
+      "en": "Tam My",
+      "slug": "tam-my-21004"
+    },
+    "code": {
+      "id": "21004",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.367",
+      "lon": "108.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20971",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Xuân",
+      "en": "Tam Xuan",
+      "slug": "tam-xuan-20971"
+    },
+    "code": {
+      "id": "20971",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.561",
+      "lon": "108.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20434",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hiệp",
+      "en": "Tan Hiep",
+      "slug": "tan-hiep-20434"
+    },
+    "code": {
+      "id": "20434",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.958",
+      "lon": "108.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20455",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Giang",
+      "en": "Tay Giang",
+      "slug": "tay-giang-20455"
+    },
+    "code": {
+      "id": "20455",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.876",
+      "lon": "107.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20380",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Hồ",
+      "en": "Tay Ho",
+      "slug": "tay-ho-20380"
+    },
+    "code": {
+      "id": "20380",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.589",
+      "lon": "108.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20794",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thăng An",
+      "en": "Thang An",
+      "slug": "thang-an-20794"
+    },
+    "code": {
+      "id": "20794",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.772",
+      "lon": "108.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20791",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thăng Bình",
+      "en": "Thang Binh",
+      "slug": "thang-binh-20791"
+    },
+    "code": {
+      "id": "20791",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.723",
+      "lon": "108.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20848",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thăng Điền",
+      "en": "Thang Dien",
+      "slug": "thang-dien-20848"
+    },
+    "code": {
+      "id": "20848",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.672",
+      "lon": "108.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20827",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thăng Phú",
+      "en": "Thang Phu",
+      "slug": "thang-phu-20827"
+    },
+    "code": {
+      "id": "20827",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.637",
+      "lon": "108.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20836",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thăng Trường",
+      "en": "Thang Truong",
+      "slug": "thang-truong-20836"
+    },
+    "code": {
+      "id": "20836",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.684",
+      "lon": "108.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20878",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Bình",
+      "en": "Thanh Binh",
+      "slug": "thanh-binh-20878"
+    },
+    "code": {
+      "id": "20878",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.079",
+      "lon": "108.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20209",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Khê",
+      "en": "Thanh Khe",
+      "slug": "thanh-khe-20209"
+    },
+    "code": {
+      "id": "20209",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.066",
+      "lon": "108.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20695",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Mỹ",
+      "en": "Thanh My",
+      "slug": "thanh-my-20695"
+    },
+    "code": {
+      "id": "20695",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.75",
+      "lon": "107.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thu Bồn",
+      "en": "Thu Bon",
+      "slug": "thu-bon-20611"
+    },
+    "code": {
+      "id": "20611",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.868",
+      "lon": "108.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20506",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Đức",
+      "en": "Thuong Duc",
+      "slug": "thuong-duc-20506"
+    },
+    "code": {
+      "id": "20506",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.993",
+      "lon": "108.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20854",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Phước",
+      "en": "Tien Phuoc",
+      "slug": "tien-phuoc-20854"
+    },
+    "code": {
+      "id": "20854",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.489",
+      "lon": "108.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20920",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Đốc",
+      "en": "Tra Doc",
+      "slug": "tra-doc-20920"
+    },
+    "code": {
+      "id": "20920",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.352",
+      "lon": "108.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20929",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Giáp",
+      "en": "Tra Giap",
+      "slug": "tra-giap-20929"
+    },
+    "code": {
+      "id": "20929",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.199",
+      "lon": "108.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20938",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Leng",
+      "en": "Tra Leng",
+      "slug": "tra-leng-20938"
+    },
+    "code": {
+      "id": "20938",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.229",
+      "lon": "108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20908",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Liên",
+      "en": "Tra Lien",
+      "slug": "tra-lien-20908"
+    },
+    "code": {
+      "id": "20908",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.34",
+      "lon": "108.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20950",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Linh",
+      "en": "Tra Linh",
+      "slug": "tra-linh-20950"
+    },
+    "code": {
+      "id": "20950",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.024",
+      "lon": "108.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20900",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà My",
+      "en": "Tra My",
+      "slug": "tra-my-20900"
+    },
+    "code": {
+      "id": "20900",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.339",
+      "lon": "108.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20923",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Tân",
+      "en": "Tra Tan",
+      "slug": "tra-tan-20923"
+    },
+    "code": {
+      "id": "20923",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.257",
+      "lon": "108.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20941",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Tập",
+      "en": "Tra Tap",
+      "slug": "tra-tap-20941"
+    },
+    "code": {
+      "id": "20941",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.181",
+      "lon": "108.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20959",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Vân",
+      "en": "Tra Van",
+      "slug": "tra-van-20959"
+    },
+    "code": {
+      "id": "20959",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.109",
+      "lon": "108.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20767",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt An",
+      "en": "Viet An",
+      "slug": "viet-an-20767"
+    },
+    "code": {
+      "id": "20767",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.568",
+      "lon": "108.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20539",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vu Gia",
+      "en": "Vu Gia",
+      "slug": "vu-gia-20539"
+    },
+    "code": {
+      "id": "20539",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.854",
+      "lon": "108.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20650",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Phú",
+      "en": "Xuan Phu",
+      "slug": "xuan-phu-20650"
+    },
+    "code": {
+      "id": "20650",
+      "iso": null
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "Đà Nẵng",
+          "en": "Da Nang",
+          "slug": "da-nang-48"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.082",
+      "lon": "108.163"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Bình Phú, Huyện Thăng Bình, Tỉnh Quảng Nam",
+  "ellapsedInMs": 19488,
+  "estimatedCost": 0.0048502,
+  "thought": "**Identifying the New Administrative Unit for \"Xã Bình Phú\"**\n\nOkay, here's my thought process. I need to figure out where \"Xã Bình Phú, Huyện Thăng Bình, Tỉnh Quảng Nam\" is now. First, I analyzed the old ward and its district and province. Then, I remembered that Quảng Nam province had some adjustments, so I looked into the relevant resolutions regarding province mergers, specifically `60-NQ/TW`. This led me to understand that \"Tỉnh Quảng Nam\" is now part of \"Thành phố Đà Nẵng\".\n\nSince the old province is now part of Đà Nẵng, I shifted my focus to ward-level resolutions for Đà Nẵng. I specifically looked at `1659/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Đà Nẵng`.  Within this resolution, I combed through the details, and lines 49 and 53 caught my eye. Line 53 directly mentions \"Xã Bình Phú\", stating that it merges with \"Xã Bình Quế\" to form the new ward \"Xã Thăng Phú\".\n\nI then verified the context. The old ward was in Thăng Bình district, Quảng Nam. The resolution is for Đà Nẵng, the new province. The resolution doesn't explicitly mention Thăng Bình, but the fact that \"Xã Bình Phú\" is being merged into \"Xã Thăng Phú\" within Đà Nẵng, plus the other wards mentioned, is a strong indicator of the accurate context. The other wards mentioned in that resolution, are all historically from Thăng Bình district, Quảng Nam. This confirms that it's the correct match.\n\nNext, I looked at the new ward information. I found \"Xã Thăng Phú\" in the list, with the code \"20827\" and province name \"Thành phố Đà Nẵng\". Bingo! This is the new administrative unit.\n\nFinally, I checked for alternative possibilities. I reviewed other resolutions that might mention \"Xã Bình Phú\", but they were all in different provinces and irrelevant to this specific case. I'm very confident about this.  The matching is definitive. This is a solid, clean result. My final output is a JSON with high confidence, citing the relevant line from resolution `1659/NQ-UBTVQH15`.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1659/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Đà Nẵng",
+        "line": "53. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Bình Phú và xã Bình Quế thành xã mới có tên gọi là **xã Thăng Phú**."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Đà Nẵng",
+      "ward_code": "20827",
+      "ward_name": "Xã Thăng Phú"
+    }
+  ]
+}

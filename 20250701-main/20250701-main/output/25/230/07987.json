@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phú Lâm, Huyện Đoan Hùng, Tỉnh Phú Thọ",
+  "ellapsedInMs": 15407,
+  "estimatedCost": 0.027762500000000002,
+  "thought": "**My Analysis of the Administrative Unit Change**\n\nOkay, let's break this down. The request is for the new administrative unit of \"Xã Phú Lâm, Huyện Đoan Hùng, Tỉnh Phú Thọ\".  My first step, as always, is to analyze the input: we have the old unit (\"Xã Phú Lâm\"), the district (\"Huyện Đoan Hùng\"), and the province (\"Tỉnh Phú Thọ\").\n\nNext, I need to consult the relevant resolutions. Since the request is for Phú Thọ, I'll start with those.  Resolution `60-NQ/TW` isn't helpful for this *specific* commune level, as it deals with provincial-level mergers. However, it *does* confirm that Phú Thọ remains its name. Then, I zeroed in on Resolution `1676/NQ-UBTVQH15`, which is focused on administrative rearrangements *within* Phú Thọ at the commune level – that's the sweet spot!\n\nAnalyzing that resolution, lines 17 and 18 are crucial. Line 18 explicitly mentions \"xã Phú Lâm\" and states it's being merged to form a new commune named \"xã Tây Cốc,\" along with other communes.  The context is clearly \"Tỉnh Phú Thọ,\" so this has to be the correct \"Xã Phú Lâm.\" The preceding line's mention of \"thị trấn Đoan Hùng\" in the same resolution reinforces that this is the correct location.\n\nNow, I need to confirm the new unit's details.  I search the provided list for \"Xã Tây Cốc\" in \"Tỉnh Phú Thọ\" and find a perfect match: code \"08023.\"  Bingo!\n\nWith that, I can construct the JSON response: the province is confirmed as \"Tỉnh Phú Thọ,\" the new ward is \"Xã Tây Cốc,\" with code \"08023.\" The confidence level is \"high\" because the resolution is very specific, citing the exact commune name within the correct province and with the implied district context. The citation for this is, of course, the relevant line from `1676/NQ-UBTVQH15`.\n\nI re-checked everything to make sure I had it right: the input \"Xã Phú Lâm\" is indeed confirmed to become \"Xã Tây Cốc\" by this particular resolution. The new code and province name are correct. The data is consistent and complete, which means the JSON output is ready to go!\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1676/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ",
+        "line": "18. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Phú Lâm, Ca Đình và Tây Cốc thành xã mới có tên gọi là xã Tây Cốc."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Phú Thọ",
+      "ward_code": "08023",
+      "ward_name": "Xã Tây Cốc"
+    }
+  ]
+}

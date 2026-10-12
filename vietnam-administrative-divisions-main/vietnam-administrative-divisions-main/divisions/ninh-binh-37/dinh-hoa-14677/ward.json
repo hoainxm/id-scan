@@ -1,0 +1,45 @@
+{
+  "id": "14677",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Định Hóa",
+    "en": "Dinh Hoa",
+    "slug": "dinh-hoa-14677"
+  },
+  "code": {
+    "id": "14677",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "Ninh Bình",
+      "en": "Ninh Binh",
+      "slug": "ninh-binh-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.054",
+    "lon": "106.083"
+  },
+  "metadata": {},
+  "source": {}
+}

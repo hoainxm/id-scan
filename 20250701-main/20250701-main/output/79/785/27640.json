@@ -1,0 +1,18 @@
+{
+  "address": "Xã Quy Đức, Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "118. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đa Phước, Qui Đức và Hưng Long thành xã mới có tên gọi là xã Hưng Long."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "27628",
+      "ward_name": "Xã Hưng Long"
+    }
+  ]
+}

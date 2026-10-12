@@ -1,0 +1,45 @@
+{
+  "id": "12736",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đông Tiên Hưng",
+    "en": "Dong Tien Hung",
+    "slug": "dong-tien-hung-12736"
+  },
+  "code": {
+    "id": "12736",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Hưng Yên",
+      "en": "Hung Yen",
+      "slug": "hung-yen-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.549",
+    "lon": "106.319"
+  },
+  "metadata": {},
+  "source": {}
+}

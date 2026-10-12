@@ -1,0 +1,45 @@
+{
+  "id": "22615",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bắc Khánh Vĩnh",
+    "en": "Bac Khanh Vinh",
+    "slug": "bac-khanh-vinh-22615"
+  },
+  "code": {
+    "id": "22615",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.417",
+    "lon": "108.957"
+  },
+  "metadata": {},
+  "source": {}
+}

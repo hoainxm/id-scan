@@ -1,0 +1,334 @@
+# Khanh Hoa — Vietnam Administrative Divisions
+
+> 65 commune/wards
+> Code: 56
+> Coordinates: 12.069, 108.961
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Anh Dũng (Anh Dung)
+
+Code: 22828, Coordinates: 11.618, 108.645
+
+
+### Ba Ngòi (Ba Ngoi)
+
+Code: 22423, Coordinates: 11.912, 109.131
+
+
+### Bác Ái (Bac Ai)
+
+Code: 22795, Coordinates: 11.604, 108.948
+
+
+### Bác Ái Đông (Bac Ai Dong)
+
+Code: 22801, Coordinates: 11.842, 108.903
+
+
+### Bác Ái Tây (Bac Ai Tay)
+
+Code: 22786, Coordinates: 11.912, 108.866
+
+
+### Bắc Cam Ranh (Bac Cam Ranh)
+
+Code: 22411, Coordinates: 11.959, 109.189
+
+
+### Bắc Khánh Vĩnh (Bac Khanh Vinh)
+
+Code: 22615, Coordinates: 12.417, 108.957
+
+
+### Bắc Nha Trang (Bac Nha Trang)
+
+Code: 22333, Coordinates: 12.281, 109.194
+
+
+### Bắc Ninh Hòa (Bac Ninh Hoa)
+
+Code: 22546, Coordinates: 12.492, 109.126
+
+
+### Bảo An (Bao An)
+
+Code: 22741, Coordinates: 11.578, 108.979
+
+
+### Cà Ná (Ca Na)
+
+Code: 22909, Coordinates: 11.35, 108.877
+
+
+### Cam An
+
+Code: 22465, Coordinates: 11.995, 109.064
+
+
+### Cam Hiệp (Cam Hiep)
+
+Code: 22435, Coordinates: 12.07, 109.046
+
+
+### Cam Lâm (Cam Lam)
+
+Code: 22453, Coordinates: 12.075, 109.158
+
+
+### Cam Linh
+
+Code: 22432, Coordinates: 11.907, 109.149
+
+
+### Cam Ranh
+
+Code: 22420, Coordinates: 11.918, 109.087
+
+
+### Công Hải (Cong Hai)
+
+Code: 22840, Coordinates: 11.78, 109.073
+
+
+### Đại Lãnh (Dai Lanh)
+
+Code: 22504, Coordinates: 12.835, 109.361
+
+
+### Diên Điền (Dien Dien)
+
+Code: 22657, Coordinates: 12.301, 109.097
+
+
+### Diên Khánh (Dien Khanh)
+
+Code: 22651, Coordinates: 12.26, 109.1
+
+
+### Diên Lạc (Dien Lac)
+
+Code: 22678, Coordinates: 12.254, 109.098
+
+
+### Diên Lâm (Dien Lam)
+
+Code: 22660, Coordinates: 12.326, 109.005
+
+
+### Diên Thọ (Dien Tho)
+
+Code: 22672, Coordinates: 12.24, 109.002
+
+
+### Đô Vinh (Do Vinh)
+
+Code: 22738, Coordinates: 11.596, 108.951
+
+
+### Đông Hải (Dong Hai)
+
+Code: 22780, Coordinates: 11.562, 109.013
+
+
+### Đông Khánh Sơn (Dong Khanh Son)
+
+Code: 22732, Coordinates: 11.996, 108.977
+
+
+### Đông Ninh Hòa (Dong Ninh Hoa)
+
+Code: 22561, Coordinates: 12.538, 109.214
+
+
+### Hòa Thắng (Hoa Thang)
+
+Code: 22591, Coordinates: 12.48, 109.132
+
+
+### Hòa Trí (Hoa Tri)
+
+Code: 22558, Coordinates: 12.601, 109.048
+
+
+### Khánh Sơn (Khanh Son)
+
+Code: 22714, Coordinates: 12.038, 108.909
+
+
+### Khánh Vĩnh (Khanh Vinh)
+
+Code: 22609, Coordinates: 12.176, 108.912
+
+
+### Lâm Sơn (Lam Son)
+
+Code: 22813, Coordinates: 11.829, 108.697
+
+
+### Mỹ Sơn (My Son)
+
+Code: 22822, Coordinates: 11.672, 108.864
+
+
+### Nam Cam Ranh
+
+Code: 22480, Coordinates: 11.852, 109.104
+
+
+### Nam Khánh Vĩnh (Nam Khanh Vinh)
+
+Code: 22648, Coordinates: 12.209, 108.8
+
+
+### Nam Nha Trang
+
+Code: 22402, Coordinates: 12.201, 109.17
+
+
+### Nam Ninh Hòa (Nam Ninh Hoa)
+
+Code: 22597, Coordinates: 12.435, 109.07
+
+
+### Nha Trang
+
+Code: 22366, Coordinates: 12.208, 109.287
+
+
+### Ninh Chử (Ninh Chu)
+
+Code: 22834, Coordinates: 11.599, 109.031
+
+
+### Ninh Hải (Ninh Hai)
+
+Code: 22852, Coordinates: 11.652, 109.07
+
+
+### Ninh Hòa (Ninh Hoa)
+
+Code: 22528, Coordinates: 12.548, 109.061
+
+
+### Ninh Phước (Ninh Phuoc)
+
+Code: 22870, Coordinates: 11.562, 108.88
+
+
+### Ninh Sơn (Ninh Son)
+
+Code: 22810, Coordinates: 12.607, 109.126
+
+
+### Phan Rang
+
+Code: 22759, Coordinates: 11.604, 108.965
+
+
+### Phước Dinh (Phuoc Dinh)
+
+Code: 22888, Coordinates: 11.413, 109.006
+
+
+### Phước Hà (Phuoc Ha)
+
+Code: 22900, Coordinates: 11.482, 108.8
+
+
+### Phước Hậu (Phuoc Hau)
+
+Code: 22873, Coordinates: 11.572, 108.935
+
+
+### Phước Hữu (Phuoc Huu)
+
+Code: 22891, Coordinates: 11.524, 108.911
+
+
+### Suối Dầu (Suoi Dau)
+
+Code: 22708, Coordinates: 12.157, 109.028
+
+
+### Suối Hiệp (Suoi Hiep)
+
+Code: 22702, Coordinates: 12.214, 109.047
+
+
+### Tân Định (Tan Dinh)
+
+Code: 22576, Coordinates: 11.707, 108.752
+
+
+### Tây Khánh Sơn (Tay Khanh Son)
+
+Code: 22720, Coordinates: 12.062, 108.85
+
+
+### Tây Khánh Vĩnh (Tay Khanh Vinh)
+
+Code: 22624, Coordinates: 12.308, 108.825
+
+
+### Tây Nha Trang (Tay Nha Trang)
+
+Code: 22390, Coordinates: 12.268, 109.162
+
+
+### Tây Ninh Hòa (Tay Ninh Hoa)
+
+Code: 22552, Coordinates: 10.032, 105.783
+
+
+### Thuận Bắc (Thuan Bac)
+
+Code: 22849, Coordinates: 11.726, 109.039
+
+
+### Thuận Nam (Thuan Nam)
+
+Code: 22897, Coordinates: 11.469, 108.822
+
+
+### Trung Khánh Vĩnh (Trung Khanh Vinh)
+
+Code: 22612, Coordinates: 12.284, 108.917
+
+
+### Trường Sa (Truong Sa)
+
+Code: 22736, Coordinates: 8.645, 111.92
+
+
+### Tu Bông (Tu Bong)
+
+Code: 22498, Coordinates: 12.778, 109.301
+
+
+### Vạn Hưng (Van Hung)
+
+Code: 22525, Coordinates: 12.652, 109.169
+
+
+### Vạn Ninh (Van Ninh)
+
+Code: 22489, Coordinates: 12.716, 109.185
+
+
+### Vạn Thắng (Van Thang)
+
+Code: 22516, Coordinates: 12.25, 109.193
+
+
+### Vĩnh Hải (Vinh Hai)
+
+Code: 22846, Coordinates: 11.668, 109.156
+
+
+### Xuân Hải (Xuan Hai)
+
+Code: 22861, Coordinates: 11.65, 109.007
+
+

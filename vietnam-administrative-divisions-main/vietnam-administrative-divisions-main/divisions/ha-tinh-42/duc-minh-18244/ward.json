@@ -1,0 +1,45 @@
+{
+  "id": "18244",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đức Minh",
+    "en": "Duc Minh",
+    "slug": "duc-minh-18244"
+  },
+  "code": {
+    "id": "18244",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "Hà Tĩnh",
+      "en": "Ha Tinh",
+      "slug": "ha-tinh-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.55",
+    "lon": "105.579"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "27568",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đông Thạnh",
+    "en": "Dong Thanh",
+    "slug": "dong-thanh-27568"
+  },
+  "code": {
+    "id": "27568",
+    "iso": null
+  },
+  "parent": {
+    "id": "79",
+    "level": 1,
+    "name": {
+      "local": "Hồ Chí Minh",
+      "en": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-79"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.923",
+    "lon": "106.771"
+  },
+  "metadata": {},
+  "source": {}
+}

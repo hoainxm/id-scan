@@ -1,0 +1,45 @@
+{
+  "id": "12019",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Văn Giang",
+    "en": "Van Giang",
+    "slug": "van-giang-12019"
+  },
+  "code": {
+    "id": "12019",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Hưng Yên",
+      "en": "Hung Yen",
+      "slug": "hung-yen-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.929",
+    "lon": "105.933"
+  },
+  "metadata": {},
+  "source": {}
+}

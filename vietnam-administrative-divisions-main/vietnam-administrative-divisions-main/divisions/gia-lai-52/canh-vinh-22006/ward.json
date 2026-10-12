@@ -1,0 +1,45 @@
+{
+  "id": "22006",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Canh Vinh",
+    "en": "Canh Vinh",
+    "slug": "canh-vinh-22006"
+  },
+  "code": {
+    "id": "22006",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.734",
+    "lon": "109.075"
+  },
+  "metadata": {},
+  "source": {}
+}

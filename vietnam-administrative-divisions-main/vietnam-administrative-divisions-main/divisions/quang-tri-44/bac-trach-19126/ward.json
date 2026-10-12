@@ -1,0 +1,45 @@
+{
+  "id": "19126",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bắc Trạch",
+    "en": "Bac Trach",
+    "slug": "bac-trach-19126"
+  },
+  "code": {
+    "id": "19126",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "Quảng Trị",
+      "en": "Quang Tri",
+      "slug": "quang-tri-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.698",
+    "lon": "106.455"
+  },
+  "metadata": {},
+  "source": {}
+}

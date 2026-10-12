@@ -1,0 +1,45 @@
+{
+  "id": "27013",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tây Thạnh",
+    "en": "Tay Thanh",
+    "slug": "tay-thanh-27013"
+  },
+  "code": {
+    "id": "27013",
+    "iso": null
+  },
+  "parent": {
+    "id": "79",
+    "level": 1,
+    "name": {
+      "local": "Hồ Chí Minh",
+      "en": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-79"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.813",
+    "lon": "106.623"
+  },
+  "metadata": {},
+  "source": {}
+}

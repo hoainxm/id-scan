@@ -1,0 +1,45 @@
+{
+  "id": "25760",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bình Dương",
+    "en": "Binh Duong",
+    "slug": "binh-duong-25760"
+  },
+  "code": {
+    "id": "25760",
+    "iso": null
+  },
+  "parent": {
+    "id": "79",
+    "level": 1,
+    "name": {
+      "local": "Hồ Chí Minh",
+      "en": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-79"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.06",
+    "lon": "106.688"
+  },
+  "metadata": {},
+  "source": {}
+}

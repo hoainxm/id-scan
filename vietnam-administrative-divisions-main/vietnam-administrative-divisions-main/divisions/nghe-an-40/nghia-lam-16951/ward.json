@@ -1,0 +1,45 @@
+{
+  "id": "16951",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nghĩa Lâm",
+    "en": "Nghia Lam",
+    "slug": "nghia-lam-16951"
+  },
+  "code": {
+    "id": "16951",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "Nghệ An",
+      "en": "Nghe An",
+      "slug": "nghe-an-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.414",
+    "lon": "105.444"
+  },
+  "metadata": {},
+  "source": {}
+}

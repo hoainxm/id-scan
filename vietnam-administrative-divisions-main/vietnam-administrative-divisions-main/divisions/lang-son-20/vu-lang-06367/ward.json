@@ -1,0 +1,45 @@
+{
+  "id": "06367",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vũ Lăng",
+    "en": "Vu Lang",
+    "slug": "vu-lang-06367"
+  },
+  "code": {
+    "id": "06367",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "Lạng Sơn",
+      "en": "Lang Son",
+      "slug": "lang-son-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.834",
+    "lon": "106.275"
+  },
+  "metadata": {},
+  "source": {}
+}

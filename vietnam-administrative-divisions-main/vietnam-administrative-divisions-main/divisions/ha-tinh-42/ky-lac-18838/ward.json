@@ -1,0 +1,45 @@
+{
+  "id": "18838",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Kỳ Lạc",
+    "en": "Ky Lac",
+    "slug": "ky-lac-18838"
+  },
+  "code": {
+    "id": "18838",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "Hà Tĩnh",
+      "en": "Ha Tinh",
+      "slug": "ha-tinh-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.012",
+    "lon": "106.188"
+  },
+  "metadata": {},
+  "source": {}
+}

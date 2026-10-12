@@ -1,0 +1,45 @@
+{
+  "id": "07090",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "An Sinh",
+    "en": "An Sinh",
+    "slug": "an-sinh-07090"
+  },
+  "code": {
+    "id": "07090",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ninh",
+      "en": "Quang Ninh",
+      "slug": "quang-ninh-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.131",
+    "lon": "106.502"
+  },
+  "metadata": {},
+  "source": {}
+}

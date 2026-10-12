@@ -1,0 +1,45 @@
+{
+  "id": "30928",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Ngọc Chúc",
+    "en": "Ngoc Chuc",
+    "slug": "ngoc-chuc-30928"
+  },
+  "code": {
+    "id": "30928",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.912",
+    "lon": "105.38"
+  },
+  "metadata": {},
+  "source": {}
+}

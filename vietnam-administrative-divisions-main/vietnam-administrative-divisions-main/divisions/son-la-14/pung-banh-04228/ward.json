@@ -1,0 +1,45 @@
+{
+  "id": "04228",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Púng Bánh",
+    "en": "Pung Banh",
+    "slug": "pung-banh-04228"
+  },
+  "code": {
+    "id": "04228",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.004",
+    "lon": "103.472"
+  },
+  "metadata": {},
+  "source": {}
+}

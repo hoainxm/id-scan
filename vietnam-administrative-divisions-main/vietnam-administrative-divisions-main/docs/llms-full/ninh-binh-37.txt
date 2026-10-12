@@ -1,0 +1,654 @@
+# Ninh Binh — Vietnam Administrative Divisions
+
+> 129 commune/wards
+> Code: 37
+> Coordinates: 20.312, 106.046
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Bắc Lý (Bac Ly)
+
+Code: 13579, Coordinates: 20.588, 106.09
+
+
+### Bình An (Binh An)
+
+Code: 13540, Coordinates: 20.49, 106.064
+
+
+### Bình Giang (Binh Giang)
+
+Code: 13531, Coordinates: 20.495, 106.095
+
+
+### Bình Lục (Binh Luc)
+
+Code: 13504, Coordinates: 20.489, 106.041
+
+
+### Bình Minh (Binh Minh)
+
+Code: 14623, Coordinates: 19.991, 106.063
+
+
+### Bình Mỹ (Binh My)
+
+Code: 13501, Coordinates: 20.491, 106.008
+
+
+### Bình Sơn (Binh Son)
+
+Code: 13558, Coordinates: 20.441, 106.008
+
+
+### Cát Thành (Cat Thanh)
+
+Code: 14056, Coordinates: 20.258, 106.278
+
+
+### Chất Bình (Chat Binh)
+
+Code: 14653, Coordinates: 20.132, 106.132
+
+
+### Châu Sơn (Chau Son)
+
+Code: 13318, Coordinates: 20.508, 105.891
+
+
+### Cổ Lễ (Co Le)
+
+Code: 14026, Coordinates: 20.314, 106.271
+
+
+### Cúc Phương (Cuc Phuong)
+
+Code: 14404, Coordinates: 20.24, 105.722
+
+
+### Đại Hoàng (Dai Hoang)
+
+Code: 14500, Coordinates: 20.314, 105.877
+
+
+### Định Hóa (Dinh Hoa)
+
+Code: 14677, Coordinates: 20.054, 106.083
+
+
+### Đông A (Dong A)
+
+Code: 13693, Coordinates: 20.461, 106.14
+
+
+### Đông Hoa Lư (Dong Hoa Lu)
+
+Code: 14566, Coordinates: 20.224, 106.017
+
+
+### Đồng Thái (Dong Thai)
+
+Code: 14746, Coordinates: 20.097, 105.981
+
+
+### Đồng Thịnh (Dong Thinh)
+
+Code: 13900, Coordinates: 20.268, 106.142
+
+
+### Đồng Văn (Dong Van)
+
+Code: 13348, Coordinates: 20.639, 105.919
+
+
+### Duy Hà (Duy Ha)
+
+Code: 13336, Coordinates: 20.641, 105.91
+
+
+### Duy Tân (Duy Tan)
+
+Code: 13330, Coordinates: 20.666, 106.003
+
+
+### Duy Tiên (Duy Tien)
+
+Code: 13324, Coordinates: 20.631, 105.971
+
+
+### Gia Hưng (Gia Hung)
+
+Code: 14482, Coordinates: 20.376, 105.827
+
+
+### Gia Lâm (Gia Lam)
+
+Code: 14389, Coordinates: 20.409, 105.786
+
+
+### Gia Phong
+
+Code: 14524, Coordinates: 20.3, 105.824
+
+
+### Gia Trấn (Gia Tran)
+
+Code: 14494, Coordinates: 20.357, 105.919
+
+
+### Gia Tường (Gia Tuong)
+
+Code: 14401, Coordinates: 20.352, 105.787
+
+
+### Gia Vân (Gia Van)
+
+Code: 14488, Coordinates: 20.347, 105.879
+
+
+### Gia Viễn (Gia Vien)
+
+Code: 14464, Coordinates: 20.33, 105.873
+
+
+### Giao Bình (Giao Binh)
+
+Code: 14194, Coordinates: 20.242, 106.397
+
+
+### Giao Hòa (Giao Hoa)
+
+Code: 14182, Coordinates: 20.251, 106.496
+
+
+### Giao Hưng (Giao Hung)
+
+Code: 14179, Coordinates: 20.226, 106.446
+
+
+### Giao Minh
+
+Code: 14161, Coordinates: 20.282, 106.539
+
+
+### Giao Ninh
+
+Code: 14212, Coordinates: 20.213, 106.378
+
+
+### Giao Phúc (Giao Phuc)
+
+Code: 14203, Coordinates: 20.231, 106.466
+
+
+### Giao Thủy (Giao Thuy)
+
+Code: 14167, Coordinates: 20.285, 106.442
+
+
+### Hà Nam (Ha Nam)
+
+Code: 13366, Coordinates: 20.534, 105.981
+
+
+### Hải An (Hai An)
+
+Code: 14281, Coordinates: 20.143, 106.192
+
+
+### Hải Anh (Hai Anh)
+
+Code: 14236, Coordinates: 20.193, 106.259
+
+
+### Hải Hậu (Hai Hau)
+
+Code: 14215, Coordinates: 20.204, 106.282
+
+
+### Hải Hưng (Hai Hung)
+
+Code: 14248, Coordinates: 20.195, 106.309
+
+
+### Hải Quang (Hai Quang)
+
+Code: 14287, Coordinates: 20.17, 106.301
+
+
+### Hải Thịnh (Hai Thinh)
+
+Code: 14221, Coordinates: 20.037, 106.223
+
+
+### Hải Tiến (Hai Tien)
+
+Code: 14218, Coordinates: 20.118, 106.294
+
+
+### Hải Xuân (Hai Xuan)
+
+Code: 14308, Coordinates: 20.086, 106.267
+
+
+### Hiển Khánh (Hien Khanh)
+
+Code: 13753, Coordinates: 20.407, 106.084
+
+
+### Hoa Lư (Hoa Lu)
+
+Code: 14329, Coordinates: 11.783, 108.773
+
+
+### Hồng Phong (Hong Phong)
+
+Code: 13927, Coordinates: 20.085, 106.176
+
+
+### Hồng Quang (Hong Quang)
+
+Code: 13984, Coordinates: 20.372, 106.197
+
+
+### Khánh Hội (Khanh Hoi)
+
+Code: 14614, Coordinates: 20.19, 106.105
+
+
+### Khánh Nhạc (Khanh Nhac)
+
+Code: 14611, Coordinates: 20.165, 106.079
+
+
+### Khánh Thiện (Khanh Thien)
+
+Code: 14563, Coordinates: 20.212, 106.106
+
+
+### Khánh Trung (Khanh Trung)
+
+Code: 14608, Coordinates: 20.161, 106.148
+
+
+### Kim Bảng (Kim Bang)
+
+Code: 13384, Coordinates: 20.571, 105.844
+
+
+### Kim Đông (Kim Dong)
+
+Code: 14698, Coordinates: 19.942, 106.077
+
+
+### Kim Sơn (Kim Son)
+
+Code: 14638, Coordinates: 20.024, 106.088
+
+
+### Kim Thanh
+
+Code: 13402, Coordinates: 20.613, 105.898
+
+
+### Lai Thành (Lai Thanh)
+
+Code: 14674, Coordinates: 20.076, 106.05
+
+
+### Lê Hồ (Le Ho)
+
+Code: 13393, Coordinates: 20.606, 105.87
+
+
+### Liêm Hà (Liem Ha)
+
+Code: 13456, Coordinates: 20.505, 105.965
+
+
+### Liêm Tuyền (Liem Tuyen)
+
+Code: 13444, Coordinates: 20.538, 105.97
+
+
+### Liên Minh (Lien Minh)
+
+Code: 13786, Coordinates: 20.319, 106.137
+
+
+### Lý Nhân (Ly Nhan)
+
+Code: 13573, Coordinates: 20.547, 106.1
+
+
+### Lý Thường Kiệt (Ly Thuong Kiet)
+
+Code: 13435, Coordinates: 20.523, 105.87
+
+
+### Minh Tân (Minh Tan)
+
+Code: 13750, Coordinates: 20.409, 106.04
+
+
+### Minh Thái (Minh Thai)
+
+Code: 14071, Coordinates: 20.198, 106.232
+
+
+### Mỹ Lộc (My Loc)
+
+Code: 13708, Coordinates: 20.442, 106.093
+
+
+### Nam Định (Nam Dinh)
+
+Code: 13669, Coordinates: 19.995, 106.486
+
+
+### Nam Đồng (Nam Dong)
+
+Code: 14014, Coordinates: 20.295, 106.168
+
+
+### Nam Hoa Lư (Nam Hoa Lu)
+
+Code: 14359, Coordinates: 20.214, 105.936
+
+
+### Nam Hồng (Nam Hong)
+
+Code: 13987, Coordinates: 20.345, 106.244
+
+
+### Nam Lý (Nam Ly)
+
+Code: 13627, Coordinates: 20.509, 106.161
+
+
+### Nam Minh
+
+Code: 14011, Coordinates: 20.297, 106.205
+
+
+### Nam Ninh
+
+Code: 14005, Coordinates: 20.3, 106.244
+
+
+### Nam Trực (Nam Truc)
+
+Code: 13966, Coordinates: 20.334, 106.213
+
+
+### Nam Xang
+
+Code: 13591, Coordinates: 20.601, 106.049
+
+
+### Nghĩa Hưng (Nghia Hung)
+
+Code: 13891, Coordinates: 20.221, 106.178
+
+
+### Nghĩa Lâm (Nghia Lam)
+
+Code: 13957, Coordinates: 20.012, 106.126
+
+
+### Nghĩa Sơn (Nghia Son)
+
+Code: 13918, Coordinates: 20.189, 106.173
+
+
+### Nguyễn Úy (Nguyen Uy)
+
+Code: 13396, Coordinates: 20.624, 105.833
+
+
+### Nhân Hà (Nhan Ha)
+
+Code: 13609, Coordinates: 20.548, 106.147
+
+
+### Nho Quan
+
+Code: 14428, Coordinates: 20.312, 105.749
+
+
+### Ninh Cường (Ninh Cuong)
+
+Code: 14077, Coordinates: 20.199, 106.206
+
+
+### Ninh Giang
+
+Code: 14038, Coordinates: 20.309, 106.304
+
+
+### Phát Diệm (Phat Diem)
+
+Code: 14620, Coordinates: 20.09, 106.081
+
+
+### Phong Doanh
+
+Code: 13822, Coordinates: 20.36, 105.955
+
+
+### Phú Long (Phu Long)
+
+Code: 14458, Coordinates: 20.2, 105.79
+
+
+### Phủ Lý (Phu Ly)
+
+Code: 13285, Coordinates: 20.545, 105.934
+
+
+### Phú Sơn (Phu Son)
+
+Code: 14407, Coordinates: 20.363, 105.735
+
+
+### Phù Vân (Phu Van)
+
+Code: 13291, Coordinates: 20.555, 105.902
+
+
+### Quang Hưng (Quang Hung)
+
+Code: 14062, Coordinates: 20.235, 106.198
+
+
+### Quang Thiện (Quang Thien)
+
+Code: 14647, Coordinates: 20.102, 106.104
+
+
+### Quỹ Nhất (Quy Nhat)
+
+Code: 13939, Coordinates: 20.056, 106.151
+
+
+### Quỳnh Lưu (Quynh Luu)
+
+Code: 14452, Coordinates: 20.237, 105.811
+
+
+### Rạng Đông (Rang Dong)
+
+Code: 13894, Coordinates: 19.975, 106.136
+
+
+### Tam Chúc (Tam Chuc)
+
+Code: 13420, Coordinates: 20.55, 105.815
+
+
+### Tam Điệp (Tam Diep)
+
+Code: 14362, Coordinates: 20.161, 105.876
+
+
+### Tân Minh (Tan Minh)
+
+Code: 13807, Coordinates: 20.385, 106.015
+
+
+### Tân Thanh (Tan Thanh)
+
+Code: 13474, Coordinates: 20.262, 105.963
+
+
+### Tây Hoa Lư (Tay Hoa Lu)
+
+Code: 14533, Coordinates: 20.277, 105.866
+
+
+### Thanh Bình (Thanh Binh)
+
+Code: 13483, Coordinates: 20.257, 105.971
+
+
+### Thanh Lâm (Thanh Lam)
+
+Code: 13489, Coordinates: 20.42, 105.904
+
+
+### Thanh Liêm (Thanh Liem)
+
+Code: 13495, Coordinates: 20.445, 105.921
+
+
+### Thành Nam (Thanh Nam)
+
+Code: 13699, Coordinates: 20.246, 105.97
+
+
+### Thanh Sơn (Thanh Son)
+
+Code: 14434, Coordinates: 20.28, 105.785
+
+
+### Thiên Trường (Thien Truong)
+
+Code: 13684, Coordinates: 20.452, 106.205
+
+
+### Tiên Sơn (Tien Son)
+
+Code: 13363, Coordinates: 20.586, 105.973
+
+
+### Trần Thương (Tran Thuong)
+
+Code: 13594, Coordinates: 20.547, 106.1
+
+
+### Trực Ninh (Truc Ninh)
+
+Code: 14053, Coordinates: 20.244, 106.215
+
+
+### Trung Sơn (Trung Son)
+
+Code: 14365, Coordinates: 20.143, 105.923
+
+
+### Trường Thi (Truong Thi)
+
+Code: 13777, Coordinates: 20.366, 106.137
+
+
+### Vạn Thắng (Van Thang)
+
+Code: 13864, Coordinates: 20.297, 106.058
+
+
+### Vị Khê (Vi Khe)
+
+Code: 13972, Coordinates: 20.401, 106.202
+
+
+### Vĩnh Trụ (Vinh Tru)
+
+Code: 13597, Coordinates: 20.553, 106.038
+
+
+### Vụ Bản (Vu Ban)
+
+Code: 13741, Coordinates: 20.383, 106.1
+
+
+### Vũ Dương (Vu Duong)
+
+Code: 13834, Coordinates: 20.335, 106.032
+
+
+### Xuân Giang (Xuan Giang)
+
+Code: 14104, Coordinates: 20.326, 106.362
+
+
+### Xuân Hồng (Xuan Hong)
+
+Code: 14095, Coordinates: 20.326, 106.328
+
+
+### Xuân Hưng (Xuan Hung)
+
+Code: 14122, Coordinates: 20.292, 106.366
+
+
+### Xuân Trường (Xuan Truong)
+
+Code: 14089, Coordinates: 20.292, 106.334
+
+
+### Ý Yên (Y Yen)
+
+Code: 13795, Coordinates: 20.329, 105.997
+
+
+### Yên Cường (Yen Cuong)
+
+Code: 13870, Coordinates: 20.277, 106.108
+
+
+### Yên Đồng (Yen Dong)
+
+Code: 13879, Coordinates: 20.256, 106.065
+
+
+### Yên Khánh (Yen Khanh)
+
+Code: 14560, Coordinates: 20.19, 106.095
+
+
+### Yên Mạc (Yen Mac)
+
+Code: 14743, Coordinates: 20.104, 106.016
+
+
+### Yên Mô (Yen Mo)
+
+Code: 14701, Coordinates: 20.128, 106.012
+
+
+### Yên Sơn (Yen Son)
+
+Code: 14371, Coordinates: 20.19, 105.879
+
+
+### Yên Thắng (Yen Thang)
+
+Code: 14725, Coordinates: 20.165, 105.963
+
+
+### Yên Từ (Yen Tu)
+
+Code: 14728, Coordinates: 20.13, 106.046
+
+

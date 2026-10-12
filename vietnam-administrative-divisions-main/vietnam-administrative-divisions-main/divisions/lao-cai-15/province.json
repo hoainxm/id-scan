@@ -1,0 +1,33 @@
+{
+  "id": "15",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Lào Cai",
+    "en": "Lao Cai",
+    "slug": "lao-cai-15"
+  },
+  "code": {
+    "id": "15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 99
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.061",
+    "lon": "104.347"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/lao-cai-15/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

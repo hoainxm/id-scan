@@ -1,0 +1,45 @@
+{
+  "id": "18991",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tuyên Bình",
+    "en": "Tuyen Binh",
+    "slug": "tuyen-binh-18991"
+  },
+  "code": {
+    "id": "18991",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "Quảng Trị",
+      "en": "Quang Tri",
+      "slug": "quang-tri-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.829",
+    "lon": "106.169"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,6662 @@
+[
+  {
+    "id": "05425",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Bình",
+      "en": "An Binh",
+      "slug": "an-binh-05425"
+    },
+    "code": {
+      "id": "05425",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.859",
+      "lon": "104.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05395",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nghĩa",
+      "en": "An Nghia",
+      "slug": "an-nghia-05395"
+    },
+    "code": {
+      "id": "05395",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.567",
+      "lon": "105.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07948",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Âu Cơ",
+      "en": "Au Co",
+      "slug": "au-co-07948"
+    },
+    "code": {
+      "id": "07948",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.393",
+      "lon": "105.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08527",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bản Nguyên",
+      "en": "Ban Nguyen",
+      "slug": "ban-nguyen-08527"
+    },
+    "code": {
+      "id": "08527",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.282",
+      "lon": "105.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07996",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bằng Luân",
+      "en": "Bang Luan",
+      "slug": "bang-luan-07996"
+    },
+    "code": {
+      "id": "07996",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.65",
+      "lon": "105.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05245",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bao La",
+      "en": "Bao La",
+      "slug": "bao-la-05245"
+    },
+    "code": {
+      "id": "05245",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.673",
+      "lon": "104.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08935",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Nguyên",
+      "en": "Binh Nguyen",
+      "slug": "binh-nguyen-08935"
+    },
+    "code": {
+      "id": "08935",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.279",
+      "lon": "105.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08275",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Phú",
+      "en": "Binh Phu",
+      "slug": "binh-phu-08275"
+    },
+    "code": {
+      "id": "08275",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.415",
+      "lon": "105.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08944",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Tuyền",
+      "en": "Binh Tuyen",
+      "slug": "binh-tuyen-08944"
+    },
+    "code": {
+      "id": "08944",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.364",
+      "lon": "105.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08950",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Xuyên",
+      "en": "Binh Xuyen",
+      "slug": "binh-xuyen-08950"
+    },
+    "code": {
+      "id": "08950",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.281",
+      "lon": "105.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08341",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Khê",
+      "en": "Cam Khe",
+      "slug": "cam-khe-08341"
+    },
+    "code": {
+      "id": "08341",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.385",
+      "lon": "105.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05047",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Dương",
+      "en": "Cao Duong",
+      "slug": "cao-duong-05047"
+    },
+    "code": {
+      "id": "05047",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.695",
+      "lon": "105.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05089",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Phong",
+      "en": "Cao Phong",
+      "slug": "cao-phong-05089"
+    },
+    "code": {
+      "id": "05089",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.688",
+      "lon": "105.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04876",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Sơn",
+      "en": "Cao Son",
+      "slug": "cao-son-04876"
+    },
+    "code": {
+      "id": "04876",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.866",
+      "lon": "105.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08038",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chân Mộng",
+      "en": "Chan Mong",
+      "slug": "chan-mong-08038"
+    },
+    "code": {
+      "id": "08038",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.557",
+      "lon": "105.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07999",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chí Đám",
+      "en": "Chi Dam",
+      "slug": "chi-dam-07999"
+    },
+    "code": {
+      "id": "07999",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.675",
+      "lon": "105.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08218",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chí Tiên",
+      "en": "Chi Tien",
+      "slug": "chi-tien-08218"
+    },
+    "code": {
+      "id": "08218",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.422",
+      "lon": "105.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08614",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cự Đồng",
+      "en": "Cu Dong",
+      "slug": "cu-dong-08614"
+    },
+    "code": {
+      "id": "08614",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.119",
+      "lon": "105.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04831",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đà Bắc",
+      "en": "Da Bac",
+      "slug": "da-bac-04831"
+    },
+    "code": {
+      "id": "04831",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.932",
+      "lon": "105.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08923",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Đình",
+      "en": "Dai Dinh",
+      "slug": "dai-dinh-08923"
+    },
+    "code": {
+      "id": "08923",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.448",
+      "lon": "105.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05347",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Đồng",
+      "en": "Dai Dong",
+      "slug": "dai-dong-05347"
+    },
+    "code": {
+      "id": "05347",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.268",
+      "lon": "105.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08254",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dân Chủ",
+      "en": "Dan Chu",
+      "slug": "dan-chu-08254"
+    },
+    "code": {
+      "id": "08254",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.473",
+      "lon": "105.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08071",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đan Thượng",
+      "en": "Dan Thuong",
+      "slug": "dan-thuong-08071"
+    },
+    "code": {
+      "id": "08071",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.633",
+      "lon": "104.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08914",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạo Trù",
+      "en": "Dao Tru",
+      "slug": "dao-tru-08914"
+    },
+    "code": {
+      "id": "08914",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.504",
+      "lon": "105.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08662",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đào Xá",
+      "en": "Dao Xa",
+      "slug": "dao-xa-08662"
+    },
+    "code": {
+      "id": "08662",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.211",
+      "lon": "105.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07969",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đoan Hùng",
+      "en": "Doan Hung",
+      "slug": "doan-hung-07969"
+    },
+    "code": {
+      "id": "07969",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.615",
+      "lon": "105.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08431",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Lương",
+      "en": "Dong Luong",
+      "slug": "dong-luong-08431"
+    },
+    "code": {
+      "id": "08431",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.337",
+      "lon": "105.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08209",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thành",
+      "en": "Dong Thanh",
+      "slug": "dong-thanh-08209"
+    },
+    "code": {
+      "id": "08209",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.453",
+      "lon": "105.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04846",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Nhàn",
+      "en": "Duc Nhan",
+      "slug": "duc-nhan-04846"
+    },
+    "code": {
+      "id": "04846",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.039",
+      "lon": "104.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05086",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dũng Tiến",
+      "en": "Dung Tien",
+      "slug": "dung-tien-05086"
+    },
+    "code": {
+      "id": "05086",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.571",
+      "lon": "105.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08053",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạ Hòa",
+      "en": "Ha Hoa",
+      "slug": "ha-hoa-08053"
+    },
+    "code": {
+      "id": "08053",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.588",
+      "lon": "104.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08782",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Lựu",
+      "en": "Hai Luu",
+      "slug": "hai-luu-08782"
+    },
+    "code": {
+      "id": "08782",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.463",
+      "lon": "105.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08110",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiền Lương",
+      "en": "Hien Luong",
+      "slug": "hien-luong-08110"
+    },
+    "code": {
+      "id": "08110",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.573",
+      "lon": "104.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08443",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiền Quan",
+      "en": "Hien Quan",
+      "slug": "hien-quan-08443"
+    },
+    "code": {
+      "id": "08443",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.363",
+      "lon": "105.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04795",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Bình",
+      "en": "Hoa Binh",
+      "slug": "hoa-binh-04795"
+    },
+    "code": {
+      "id": "04795",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.709",
+      "lon": "105.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08896",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng An",
+      "en": "Hoang An",
+      "slug": "hoang-an-08896"
+    },
+    "code": {
+      "id": "08896",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.361",
+      "lon": "105.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08203",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Cương",
+      "en": "Hoang Cuong",
+      "slug": "hoang-cuong-08203"
+    },
+    "code": {
+      "id": "08203",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.468",
+      "lon": "105.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08905",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội Thịnh",
+      "en": "Hoi Thinh",
+      "slug": "hoi-thinh-08905"
+    },
+    "code": {
+      "id": "08905",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.318",
+      "lon": "105.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05068",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hợp Kim",
+      "en": "Hop Kim",
+      "slug": "hop-kim-05068"
+    },
+    "code": {
+      "id": "05068",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.649",
+      "lon": "105.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08770",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hợp Lý",
+      "en": "Hop Ly",
+      "slug": "hop-ly-08770"
+    },
+    "code": {
+      "id": "08770",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.494",
+      "lon": "105.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08416",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng Việt",
+      "en": "Hung Viet",
+      "slug": "hung-viet-08416"
+    },
+    "code": {
+      "id": "08416",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.361",
+      "lon": "105.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08632",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Cần",
+      "en": "Huong Can",
+      "slug": "huong-can-08632"
+    },
+    "code": {
+      "id": "08632",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.016",
+      "lon": "105.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08515",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hy Cương",
+      "en": "Hy Cuong",
+      "slug": "hy-cuong-08515"
+    },
+    "code": {
+      "id": "08515",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.349",
+      "lon": "105.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08635",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khả Cửu",
+      "en": "Kha Cuu",
+      "slug": "kha-cuu-08635"
+    },
+    "code": {
+      "id": "08635",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.007",
+      "lon": "105.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04978",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Bôi",
+      "en": "Kim Boi",
+      "slug": "kim-boi-04978"
+    },
+    "code": {
+      "id": "04978",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.676",
+      "lon": "105.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04894",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Sơn",
+      "en": "Ky Son",
+      "slug": "ky-son-04894"
+    },
+    "code": {
+      "id": "04894",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.89",
+      "lon": "105.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05362",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lạc Lương",
+      "en": "Lac Luong",
+      "slug": "lac-luong-05362"
+    },
+    "code": {
+      "id": "05362",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.479",
+      "lon": "105.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05266",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lạc Sơn",
+      "en": "Lac Son",
+      "slug": "lac-son-05266"
+    },
+    "code": {
+      "id": "05266",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.498",
+      "lon": "105.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05392",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lạc Thủy",
+      "en": "Lac Thuy",
+      "slug": "lac-thuy-05392"
+    },
+    "code": {
+      "id": "05392",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.496",
+      "lon": "105.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08560",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lai Đồng",
+      "en": "Lai Dong",
+      "slug": "lai-dong-08560"
+    },
+    "code": {
+      "id": "08560",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.212",
+      "lon": "104.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08494",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Thao",
+      "en": "Lam Thao",
+      "slug": "lam-thao-08494"
+    },
+    "code": {
+      "id": "08494",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.327",
+      "lon": "105.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08761",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lập Thạch",
+      "en": "Lap Thach",
+      "slug": "lap-thach-08761"
+    },
+    "code": {
+      "id": "08761",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.413",
+      "lon": "105.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09064",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Châu",
+      "en": "Lien Chau",
+      "slug": "lien-chau-09064"
+    },
+    "code": {
+      "id": "09064",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.18",
+      "lon": "105.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08812",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Hòa",
+      "en": "Lien Hoa",
+      "slug": "lien-hoa-08812"
+    },
+    "code": {
+      "id": "08812",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.415",
+      "lon": "105.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08227",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Minh",
+      "en": "Lien Minh",
+      "slug": "lien-minh-08227"
+    },
+    "code": {
+      "id": "08227",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.359",
+      "lon": "105.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04960",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Sơn",
+      "en": "Lien Son",
+      "slug": "lien-son-04960"
+    },
+    "code": {
+      "id": "04960",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.824",
+      "lon": "105.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08620",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Cốc",
+      "en": "Long Coc",
+      "slug": "long-coc-08620"
+    },
+    "code": {
+      "id": "08620",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.096",
+      "lon": "105.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04924",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Sơn",
+      "en": "Luong Son",
+      "slug": "luong-son-04924"
+    },
+    "code": {
+      "id": "04924",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.781",
+      "lon": "105.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05200",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mai Châu",
+      "en": "Mai Chau",
+      "slug": "mai-chau-05200"
+    },
+    "code": {
+      "id": "05200",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.716",
+      "lon": "104.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05251",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mai Hạ",
+      "en": "Mai Ha",
+      "slug": "mai-ha-05251"
+    },
+    "code": {
+      "id": "05251",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.617",
+      "lon": "105.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08593",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Đài",
+      "en": "Minh Dai",
+      "slug": "minh-dai-08593"
+    },
+    "code": {
+      "id": "08593",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.182",
+      "lon": "105.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08338",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Hòa",
+      "en": "Minh Hoa",
+      "slug": "minh-hoa-08338"
+    },
+    "code": {
+      "id": "08338",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.75",
+      "lon": "105.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05158",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Bi",
+      "en": "Muong Bi",
+      "slug": "muong-bi-05158"
+    },
+    "code": {
+      "id": "05158",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.651",
+      "lon": "105.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05014",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Động",
+      "en": "Muong Dong",
+      "slug": "muong-dong-05014"
+    },
+    "code": {
+      "id": "05014",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.689",
+      "lon": "105.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05134",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Hoa",
+      "en": "Muong Hoa",
+      "slug": "muong-hoa-05134"
+    },
+    "code": {
+      "id": "05134",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.711",
+      "lon": "105.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05116",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Thàng",
+      "en": "Muong Thang",
+      "slug": "muong-thang-05116"
+    },
+    "code": {
+      "id": "05116",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.654",
+      "lon": "105.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05287",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Vang",
+      "en": "Muong Vang",
+      "slug": "muong-vang-05287"
+    },
+    "code": {
+      "id": "05287",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.582",
+      "lon": "105.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04990",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nật Sơn",
+      "en": "Nat Son",
+      "slug": "nat-son-04990"
+    },
+    "code": {
+      "id": "04990",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.91",
+      "lon": "105.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05329",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Sơn",
+      "en": "Ngoc Son",
+      "slug": "ngoc-son-05329"
+    },
+    "code": {
+      "id": "05329",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.425",
+      "lon": "105.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09052",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyệt Đức",
+      "en": "Nguyet Duc",
+      "slug": "nguyet-duc-09052"
+    },
+    "code": {
+      "id": "09052",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.203",
+      "lon": "105.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05290",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhân Nghĩa",
+      "en": "Nhan Nghia",
+      "slug": "nhan-nghia-05290"
+    },
+    "code": {
+      "id": "05290",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.524",
+      "lon": "105.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07894",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nông Trang",
+      "en": "Nong Trang",
+      "slug": "nong-trang-07894"
+    },
+    "code": {
+      "id": "07894",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.327",
+      "lon": "105.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05212",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pà Cò",
+      "en": "Pa Co",
+      "slug": "pa-co-05212"
+    },
+    "code": {
+      "id": "05212",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.709",
+      "lon": "104.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07954",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Châu",
+      "en": "Phong Chau",
+      "slug": "phong-chau-07954"
+    },
+    "code": {
+      "id": "07954",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.404",
+      "lon": "105.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08398",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Khê",
+      "en": "Phu Khe",
+      "slug": "phu-khe-08398"
+    },
+    "code": {
+      "id": "08398",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.387",
+      "lon": "105.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08236",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Mỹ",
+      "en": "Phu My",
+      "slug": "phu-my-08236"
+    },
+    "code": {
+      "id": "08236",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.514",
+      "lon": "105.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08230",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Ninh",
+      "en": "Phu Ninh",
+      "slug": "phu-ninh-08230"
+    },
+    "code": {
+      "id": "08230",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.457",
+      "lon": "105.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07942",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thọ",
+      "en": "Phu Tho",
+      "slug": "phu-tho-07942"
+    },
+    "code": {
+      "id": "07942",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.414",
+      "lon": "105.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08740",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Yên",
+      "en": "Phuc Yen",
+      "slug": "phuc-yen-08740"
+    },
+    "code": {
+      "id": "08740",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.315",
+      "lon": "105.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08521",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phùng Nguyên",
+      "en": "Phung Nguyen",
+      "slug": "phung-nguyen-08521"
+    },
+    "code": {
+      "id": "08521",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.286",
+      "lon": "105.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08173",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Yên",
+      "en": "Quang Yen",
+      "slug": "quang-yen-08173"
+    },
+    "code": {
+      "id": "08173",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.516",
+      "lon": "105.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04873",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quy Đức",
+      "en": "Quy Duc",
+      "slug": "quy-duc-04873"
+    },
+    "code": {
+      "id": "04873",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.883",
+      "lon": "105.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05323",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quyết Thắng",
+      "en": "Quyet Thang",
+      "slug": "quyet-thang-05323"
+    },
+    "code": {
+      "id": "05323",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.474",
+      "lon": "105.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08866",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Đông",
+      "en": "Son Dong",
+      "slug": "son-dong-08866"
+    },
+    "code": {
+      "id": "08866",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.329",
+      "lon": "105.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08296",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Lương",
+      "en": "Son Luong",
+      "slug": "son-luong-08296"
+    },
+    "code": {
+      "id": "08296",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.91",
+      "lon": "105.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08848",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Lô",
+      "en": "Song Lo",
+      "slug": "song-lo-08848"
+    },
+    "code": {
+      "id": "08848",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.426",
+      "lon": "105.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08911",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Đảo",
+      "en": "Tam Dao",
+      "slug": "tam-dao-08911"
+    },
+    "code": {
+      "id": "08911",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.456",
+      "lon": "105.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08869",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Dương",
+      "en": "Tam Duong",
+      "slug": "tam-duong-08869"
+    },
+    "code": {
+      "id": "08869",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.36",
+      "lon": "105.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08872",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Dương Bắc",
+      "en": "Tam Duong Bac",
+      "slug": "tam-duong-bac-08872"
+    },
+    "code": {
+      "id": "08872",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.36",
+      "lon": "105.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09043",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Hồng",
+      "en": "Tam Hong",
+      "slug": "tam-hong-09043"
+    },
+    "code": {
+      "id": "09043",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.223",
+      "lon": "105.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08434",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Nông",
+      "en": "Tam Nong",
+      "slug": "tam-nong-08434"
+    },
+    "code": {
+      "id": "08434",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.307",
+      "lon": "105.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08824",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Sơn",
+      "en": "Tam Son",
+      "slug": "tam-son-08824"
+    },
+    "code": {
+      "id": "08824",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.418",
+      "lon": "105.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04792",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hòa",
+      "en": "Tan Hoa",
+      "slug": "tan-hoa-04792"
+    },
+    "code": {
+      "id": "04792",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.868",
+      "lon": "105.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05128",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lạc",
+      "en": "Tan Lac",
+      "slug": "tan-lac-05128"
+    },
+    "code": {
+      "id": "05128",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.609",
+      "lon": "105.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05206",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Mai",
+      "en": "Tan Mai",
+      "slug": "tan-mai-05206"
+    },
+    "code": {
+      "id": "05206",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.786",
+      "lon": "105.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04849",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Pheo",
+      "en": "Tan Pheo",
+      "slug": "tan-pheo-04849"
+    },
+    "code": {
+      "id": "04849",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.974",
+      "lon": "105.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08566",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Sơn",
+      "en": "Tan Son",
+      "slug": "tan-son-08566"
+    },
+    "code": {
+      "id": "08566",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.19",
+      "lon": "104.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08023",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Cốc",
+      "en": "Tay Coc",
+      "slug": "tay-coc-08023"
+    },
+    "code": {
+      "id": "08023",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.626",
+      "lon": "105.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09040",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tề Lỗ",
+      "en": "Te Lo",
+      "slug": "te-lo-09040"
+    },
+    "code": {
+      "id": "09040",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.261",
+      "lon": "105.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08788",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Hòa",
+      "en": "Thai Hoa",
+      "slug": "thai-hoa-08788"
+    },
+    "code": {
+      "id": "08788",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.455",
+      "lon": "105.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08152",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Ba",
+      "en": "Thanh Ba",
+      "slug": "thanh-ba-08152"
+    },
+    "code": {
+      "id": "08152",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.451",
+      "lon": "105.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07909",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Miếu",
+      "en": "Thanh Mieu",
+      "slug": "thanh-mieu-07909"
+    },
+    "code": {
+      "id": "07909",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.295",
+      "lon": "105.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08542",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Sơn",
+      "en": "Thanh Son",
+      "slug": "thanh-son-08542"
+    },
+    "code": {
+      "id": "08542",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.087",
+      "lon": "105.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08674",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Thủy",
+      "en": "Thanh Thuy",
+      "slug": "thanh-thuy-08674"
+    },
+    "code": {
+      "id": "08674",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.124",
+      "lon": "105.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04897",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thịnh Minh",
+      "en": "Thinh Minh",
+      "slug": "thinh-minh-04897"
+    },
+    "code": {
+      "id": "04897",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.846",
+      "lon": "105.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09112",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thổ Tang",
+      "en": "Tho Tang",
+      "slug": "tho-tang-09112"
+    },
+    "code": {
+      "id": "09112",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.256",
+      "lon": "105.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08479",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Văn",
+      "en": "Tho Van",
+      "slug": "tho-van-08479"
+    },
+    "code": {
+      "id": "08479",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.289",
+      "lon": "105.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04828",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thống Nhất",
+      "en": "Thong Nhat",
+      "slug": "thong-nhat-04828"
+    },
+    "code": {
+      "id": "04828",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.78",
+      "lon": "105.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08545",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thu Cúc",
+      "en": "Thu Cuc",
+      "slug": "thu-cuc-08545"
+    },
+    "code": {
+      "id": "08545",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.277",
+      "lon": "104.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05092",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thung Nai",
+      "en": "Thung Nai",
+      "slug": "thung-nai-05092"
+    },
+    "code": {
+      "id": "05092",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.742",
+      "lon": "105.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05293",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Cốc",
+      "en": "Thuong Coc",
+      "slug": "thuong-coc-05293"
+    },
+    "code": {
+      "id": "05293",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.542",
+      "lon": "105.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08323",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Long",
+      "en": "Thuong Long",
+      "slug": "thuong-long-08323"
+    },
+    "code": {
+      "id": "08323",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.319",
+      "lon": "105.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08842",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Lữ",
+      "en": "Tien Lu",
+      "slug": "tien-lu-08842"
+    },
+    "code": {
+      "id": "08842",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.369",
+      "lon": "105.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08344",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Lương",
+      "en": "Tien Luong",
+      "slug": "tien-luong-08344"
+    },
+    "code": {
+      "id": "08344",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.46",
+      "lon": "105.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04891",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiền Phong",
+      "en": "Tien Phong",
+      "slug": "tien-phong-04891"
+    },
+    "code": {
+      "id": "04891",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.531",
+      "lon": "105.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05191",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Toàn Thắng",
+      "en": "Toan Thang",
+      "slug": "toan-thang-05191"
+    },
+    "code": {
+      "id": "05191",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.555",
+      "lon": "105.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08245",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trạm Thản",
+      "en": "Tram Than",
+      "slug": "tram-than-08245"
+    },
+    "code": {
+      "id": "08245",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.482",
+      "lon": "105.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08311",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Sơn",
+      "en": "Trung Son",
+      "slug": "trung-son-08311"
+    },
+    "code": {
+      "id": "08311",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.353",
+      "lon": "104.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08686",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tu Vũ",
+      "en": "Tu Vu",
+      "slug": "tu-vu-08686"
+    },
+    "code": {
+      "id": "08686",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.066",
+      "lon": "105.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08377",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Bán",
+      "en": "Van Ban",
+      "slug": "van-ban-08377"
+    },
+    "code": {
+      "id": "08377",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.42",
+      "lon": "105.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08134",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Lang",
+      "en": "Van Lang",
+      "slug": "van-lang-08134"
+    },
+    "code": {
+      "id": "08134",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.52",
+      "lon": "104.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Miếu",
+      "en": "Van Mieu",
+      "slug": "van-mieu-08611"
+    },
+    "code": {
+      "id": "08611",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.328",
+      "lon": "105.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07918",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Phú",
+      "en": "Van Phu",
+      "slug": "van-phu-07918"
+    },
+    "code": {
+      "id": "07918",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.368",
+      "lon": "105.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05152",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Sơn",
+      "en": "Van Son",
+      "slug": "van-son-05152"
+    },
+    "code": {
+      "id": "05152",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.542",
+      "lon": "105.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08467",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Xuân",
+      "en": "Van Xuan",
+      "slug": "van-xuan-08467"
+    },
+    "code": {
+      "id": "08467",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.302",
+      "lon": "105.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07900",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Trì",
+      "en": "Viet Tri",
+      "slug": "viet-tri-07900"
+    },
+    "code": {
+      "id": "07900",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.332",
+      "lon": "105.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09079",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh An",
+      "en": "Vinh An",
+      "slug": "vinh-an-09079"
+    },
+    "code": {
+      "id": "09079",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.306",
+      "lon": "105.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08143",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Chân",
+      "en": "Vinh Chan",
+      "slug": "vinh-chan-08143"
+    },
+    "code": {
+      "id": "08143",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.523",
+      "lon": "105.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09100",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hưng",
+      "en": "Vinh Hung",
+      "slug": "vinh-hung-09100"
+    },
+    "code": {
+      "id": "09100",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.283",
+      "lon": "105.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09154",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Phú",
+      "en": "Vinh Phu",
+      "slug": "vinh-phu-09154"
+    },
+    "code": {
+      "id": "09154",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.192",
+      "lon": "105.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08716",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Phúc",
+      "en": "Vinh Phuc",
+      "slug": "vinh-phuc-08716"
+    },
+    "code": {
+      "id": "08716",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.365",
+      "lon": "105.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09106",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thành",
+      "en": "Vinh Thanh",
+      "slug": "vinh-thanh-09106"
+    },
+    "code": {
+      "id": "09106",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.306",
+      "lon": "105.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09076",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tường",
+      "en": "Vinh Tuong",
+      "slug": "vinh-tuong-09076"
+    },
+    "code": {
+      "id": "09076",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.249",
+      "lon": "105.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08707",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Yên",
+      "en": "Vinh Yen",
+      "slug": "vinh-yen-08707"
+    },
+    "code": {
+      "id": "08707",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.306",
+      "lon": "105.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08584",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Võ Miếu",
+      "en": "Vo Mieu",
+      "slug": "vo-mieu-08584"
+    },
+    "code": {
+      "id": "08584",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.162",
+      "lon": "105.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08590",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Đài",
+      "en": "Xuan Dai",
+      "slug": "xuan-dai-08590"
+    },
+    "code": {
+      "id": "08590",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.108",
+      "lon": "104.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08746",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hòa",
+      "en": "Xuan Hoa",
+      "slug": "xuan-hoa-08746"
+    },
+    "code": {
+      "id": "08746",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.237",
+      "lon": "105.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08971",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lãng",
+      "en": "Xuan Lang",
+      "slug": "xuan-lang-08971"
+    },
+    "code": {
+      "id": "08971",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.246",
+      "lon": "105.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08500",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lũng",
+      "en": "Xuan Lung",
+      "slug": "xuan-lung-08500"
+    },
+    "code": {
+      "id": "08500",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.378",
+      "lon": "105.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08305",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Viên",
+      "en": "Xuan Vien",
+      "slug": "xuan-vien-08305"
+    },
+    "code": {
+      "id": "08305",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.403",
+      "lon": "104.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08113",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Kỳ",
+      "en": "Yen Ky",
+      "slug": "yen-ky-08113"
+    },
+    "code": {
+      "id": "08113",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.558",
+      "lon": "105.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09025",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Lạc",
+      "en": "Yen Lac",
+      "slug": "yen-lac-09025"
+    },
+    "code": {
+      "id": "09025",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.221",
+      "lon": "105.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08773",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Lãng",
+      "en": "Yen Lang",
+      "slug": "yen-lang-08773"
+    },
+    "code": {
+      "id": "08773",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.493",
+      "lon": "105.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08290",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Lập",
+      "en": "Yen Lap",
+      "slug": "yen-lap-08290"
+    },
+    "code": {
+      "id": "08290",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.372",
+      "lon": "104.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05305",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Phú",
+      "en": "Yen Phu",
+      "slug": "yen-phu-05305"
+    },
+    "code": {
+      "id": "05305",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.487",
+      "lon": "105.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08656",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Sơn",
+      "en": "Yen Son",
+      "slug": "yen-son-08656"
+    },
+    "code": {
+      "id": "08656",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.7",
+      "lon": "105.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05353",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thủy",
+      "en": "Yen Thuy",
+      "slug": "yen-thuy-05353"
+    },
+    "code": {
+      "id": "05353",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.427",
+      "lon": "105.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05386",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Trị",
+      "en": "Yen Tri",
+      "slug": "yen-tri-05386"
+    },
+    "code": {
+      "id": "05386",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "Phú Thọ",
+          "en": "Phu Tho",
+          "slug": "phu-tho-25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.357",
+      "lon": "105.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

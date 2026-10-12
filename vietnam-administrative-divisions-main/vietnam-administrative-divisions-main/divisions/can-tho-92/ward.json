@@ -1,0 +1,4637 @@
+[
+  {
+    "id": "31150",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Bình",
+      "en": "An Binh",
+      "slug": "an-binh-31150"
+    },
+    "code": {
+      "id": "31150",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "105.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31531",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lạc Thôn",
+      "en": "An Lac Thon",
+      "slug": "an-lac-thon-31531"
+    },
+    "code": {
+      "id": "31531",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.928",
+      "lon": "105.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31594",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Ninh",
+      "en": "An Ninh",
+      "slug": "an-ninh-31594"
+    },
+    "code": {
+      "id": "31594",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.631",
+      "lon": "105.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31615",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Thạnh",
+      "en": "An Thanh",
+      "slug": "an-thanh-31615"
+    },
+    "code": {
+      "id": "31615",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.156",
+      "lon": "105.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31168",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thủy",
+      "en": "Binh Thuy",
+      "slug": "binh-thuy-31168"
+    },
+    "code": {
+      "id": "31168",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.061",
+      "lon": "105.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31120",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cái Khế",
+      "en": "Cai Khe",
+      "slug": "cai-khe-31120"
+    },
+    "code": {
+      "id": "31120",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.057",
+      "lon": "105.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31186",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cái Răng",
+      "en": "Cai Rang",
+      "slug": "cai-rang-31186"
+    },
+    "code": {
+      "id": "31186",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.006",
+      "lon": "105.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31366",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Thành",
+      "en": "Chau Thanh",
+      "slug": "chau-thanh-31366"
+    },
+    "code": {
+      "id": "31366",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.704",
+      "lon": "105.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31261",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cờ Đỏ",
+      "en": "Co Do",
+      "slug": "co-do-31261"
+    },
+    "code": {
+      "id": "31261",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.096",
+      "lon": "105.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31633",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cù Lao Dung",
+      "en": "Cu Lao Dung",
+      "slug": "cu-lao-dung-31633"
+    },
+    "code": {
+      "id": "31633",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.615",
+      "lon": "106.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31561",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Hải",
+      "en": "Dai Hai",
+      "slug": "dai-hai-31561"
+    },
+    "code": {
+      "id": "31561",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.801",
+      "lon": "105.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31645",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Ngãi",
+      "en": "Dai Ngai",
+      "slug": "dai-ngai-31645"
+    },
+    "code": {
+      "id": "31645",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.732",
+      "lon": "106.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31411",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Thành",
+      "en": "Dai Thanh",
+      "slug": "dai-thanh-31411"
+    },
+    "code": {
+      "id": "31411",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "105.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31273",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hiệp",
+      "en": "Dong Hiep",
+      "slug": "dong-hiep-31273"
+    },
+    "code": {
+      "id": "31273",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.081",
+      "lon": "105.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31369",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Phước",
+      "en": "Dong Phuoc",
+      "slug": "dong-phuoc-31369"
+    },
+    "code": {
+      "id": "31369",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.93",
+      "lon": "105.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31282",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thuận",
+      "en": "Dong Thuan",
+      "slug": "dong-thuan-31282"
+    },
+    "code": {
+      "id": "31282",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.017",
+      "lon": "105.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31726",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Hòa",
+      "en": "Gia Hoa",
+      "slug": "gia-hoa-31726"
+    },
+    "code": {
+      "id": "31726",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.432",
+      "lon": "105.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31396",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Hưng",
+      "en": "Hiep Hung",
+      "slug": "hiep-hung-31396"
+    },
+    "code": {
+      "id": "31396",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.762",
+      "lon": "105.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31570",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồ Đắc Kiện",
+      "en": "Ho Dac Kien",
+      "slug": "ho-dac-kien-31570"
+    },
+    "code": {
+      "id": "31570",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.703",
+      "lon": "105.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31393",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa An",
+      "en": "Hoa An",
+      "slug": "hoa-an-31393"
+    },
+    "code": {
+      "id": "31393",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.787",
+      "lon": "105.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31338",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hỏa Lựu",
+      "en": "Hoa Luu",
+      "slug": "hoa-luu-31338"
+    },
+    "code": {
+      "id": "31338",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.718",
+      "lon": "105.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31717",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Tú",
+      "en": "Hoa Tu",
+      "slug": "hoa-tu-31717"
+    },
+    "code": {
+      "id": "31717",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.419",
+      "lon": "105.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31201",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Phú",
+      "en": "Hung Phu",
+      "slug": "hung-phu-31201"
+    },
+    "code": {
+      "id": "31201",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.019",
+      "lon": "105.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31528",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kế Sách",
+      "en": "Ke Sach",
+      "slug": "ke-sach-31528"
+    },
+    "code": {
+      "id": "31528",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.768",
+      "lon": "105.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31789",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-31789"
+    },
+    "code": {
+      "id": "31789",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.396",
+      "lon": "105.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31810",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lai Hòa",
+      "en": "Lai Hoa",
+      "slug": "lai-hoa-31810"
+    },
+    "code": {
+      "id": "31810",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.298",
+      "lon": "105.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31759",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Tân",
+      "en": "Lam Tan",
+      "slug": "lam-tan-31759"
+    },
+    "code": {
+      "id": "31759",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.504",
+      "lon": "105.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31679",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lịch Hội Thượng",
+      "en": "Lich Hoi Thuong",
+      "slug": "lich-hoi-thuong-31679"
+    },
+    "code": {
+      "id": "31679",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.489",
+      "lon": "106.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31675",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liêu Tú",
+      "en": "Lieu Tu",
+      "slug": "lieu-tu-31675"
+    },
+    "code": {
+      "id": "31675",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.481",
+      "lon": "106.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31473",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Bình",
+      "en": "Long Binh",
+      "slug": "long-binh-31473"
+    },
+    "code": {
+      "id": "31473",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.728",
+      "lon": "105.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31579",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hưng",
+      "en": "Long Hung",
+      "slug": "long-hung-31579"
+    },
+    "code": {
+      "id": "31579",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.709",
+      "lon": "105.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31471",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Mỹ",
+      "en": "Long My",
+      "slug": "long-my-31471"
+    },
+    "code": {
+      "id": "31471",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.68",
+      "lon": "105.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31639",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Phú",
+      "en": "Long Phu",
+      "slug": "long-phu-31639"
+    },
+    "code": {
+      "id": "31639",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.609",
+      "lon": "106.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31480",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Phú 1",
+      "en": "Long Phu 1",
+      "slug": "long-phu-1-31480"
+    },
+    "code": {
+      "id": "31480",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.609",
+      "lon": "106.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31183",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Tuyền",
+      "en": "Long Tuyen",
+      "slug": "long-tuyen-31183"
+    },
+    "code": {
+      "id": "31183",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.045",
+      "lon": "105.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31492",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Tâm",
+      "en": "Luong Tam",
+      "slug": "luong-tam-31492"
+    },
+    "code": {
+      "id": "31492",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.626",
+      "lon": "105.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31591",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Hương",
+      "en": "My Huong",
+      "slug": "my-huong-31591"
+    },
+    "code": {
+      "id": "31591",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "105.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31603",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Phước",
+      "en": "My Phuoc",
+      "slug": "my-phuoc-31603"
+    },
+    "code": {
+      "id": "31603",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.591",
+      "lon": "105.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31753",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Quới",
+      "en": "My Quoi",
+      "slug": "my-quoi-31753"
+    },
+    "code": {
+      "id": "31753",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.485",
+      "lon": "105.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31567",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Tú",
+      "en": "My Tu",
+      "slug": "my-tu-31567"
+    },
+    "code": {
+      "id": "31567",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.59",
+      "lon": "105.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31684",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Xuyên",
+      "en": "My Xuyen",
+      "slug": "my-xuyen-31684"
+    },
+    "code": {
+      "id": "31684",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.56",
+      "lon": "105.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31340",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngã Bảy",
+      "en": "Nga Bay",
+      "slug": "nga-bay-31340"
+    },
+    "code": {
+      "id": "31340",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.823",
+      "lon": "105.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31732",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngã Năm",
+      "en": "Nga Nam",
+      "slug": "nga-nam-31732"
+    },
+    "code": {
+      "id": "31732",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.566",
+      "lon": "105.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31723",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Tố",
+      "en": "Ngoc To",
+      "slug": "ngoc-to-31723"
+    },
+    "code": {
+      "id": "31723",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.474",
+      "lon": "105.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31315",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Ái",
+      "en": "Nhon Ai",
+      "slug": "nhon-ai-31315"
+    },
+    "code": {
+      "id": "31315",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.985",
+      "lon": "105.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31552",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Mỹ",
+      "en": "Nhon My",
+      "slug": "nhon-my-31552"
+    },
+    "code": {
+      "id": "31552",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.766",
+      "lon": "106.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31708",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhu Gia",
+      "en": "Nhu Gia",
+      "slug": "nhu-gia-31708"
+    },
+    "code": {
+      "id": "31708",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.457",
+      "lon": "105.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31135",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Kiều",
+      "en": "Ninh Kieu",
+      "slug": "ninh-kieu-31135"
+    },
+    "code": {
+      "id": "31135",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.035",
+      "lon": "105.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31153",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ô Môn",
+      "en": "O Mon",
+      "slug": "o-mon-31153"
+    },
+    "code": {
+      "id": "31153",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.109",
+      "lon": "105.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31299",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Điền",
+      "en": "Phong Dien",
+      "slug": "phong-dien-31299"
+    },
+    "code": {
+      "id": "31299",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.998",
+      "lon": "105.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31537",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Nẫm",
+      "en": "Phong Nam",
+      "slug": "phong-nam-31537"
+    },
+    "code": {
+      "id": "31537",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.895",
+      "lon": "105.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31378",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hữu",
+      "en": "Phu Huu",
+      "slug": "phu-huu-31378"
+    },
+    "code": {
+      "id": "31378",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.702",
+      "lon": "105.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31756",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lộc",
+      "en": "Phu Loc",
+      "slug": "phu-loc-31756"
+    },
+    "code": {
+      "id": "31756",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.431",
+      "lon": "105.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31510",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lợi",
+      "en": "Phu Loi",
+      "slug": "phu-loi-31510"
+    },
+    "code": {
+      "id": "31510",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.599",
+      "lon": "105.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31569",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Tâm",
+      "en": "Phu Tam",
+      "slug": "phu-tam-31569"
+    },
+    "code": {
+      "id": "31569",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.688",
+      "lon": "105.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31420",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phụng Hiệp",
+      "en": "Phung Hiep",
+      "slug": "phung-hiep-31420"
+    },
+    "code": {
+      "id": "31420",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.821",
+      "lon": "105.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31162",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Thới",
+      "en": "Phuoc Thoi",
+      "slug": "phuoc-thoi-31162"
+    },
+    "code": {
+      "id": "31162",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.092",
+      "lon": "105.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31426",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phương Bình",
+      "en": "Phuong Binh",
+      "slug": "phuong-binh-31426"
+    },
+    "code": {
+      "id": "31426",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "105.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31507",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sóc Trăng",
+      "en": "Soc Trang",
+      "slug": "soc-trang-31507"
+    },
+    "code": {
+      "id": "31507",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.61",
+      "lon": "105.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31687",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tài Văn",
+      "en": "Tai Van",
+      "slug": "tai-van-31687"
+    },
+    "code": {
+      "id": "31687",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.539",
+      "lon": "106.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31147",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-31147"
+    },
+    "code": {
+      "id": "31147",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.234",
+      "lon": "105.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31399",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Bình",
+      "en": "Tan Binh",
+      "slug": "tan-binh-31399"
+    },
+    "code": {
+      "id": "31399",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.859",
+      "lon": "105.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31342",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hòa",
+      "en": "Tan Hoa",
+      "slug": "tan-hoa-31342"
+    },
+    "code": {
+      "id": "31342",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.921",
+      "lon": "105.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31213",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lộc",
+      "en": "Tan Loc",
+      "slug": "tan-loc-31213"
+    },
+    "code": {
+      "id": "31213",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.247",
+      "lon": "105.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31741",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Long",
+      "en": "Tan Long",
+      "slug": "tan-long-31741"
+    },
+    "code": {
+      "id": "31741",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.87",
+      "lon": "105.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31432",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phước Hưng",
+      "en": "Tan Phuoc Hung",
+      "slug": "tan-phuoc-hung-31432"
+    },
+    "code": {
+      "id": "31432",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.747",
+      "lon": "105.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31666",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thạnh",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-31666"
+    },
+    "code": {
+      "id": "31666",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.753",
+      "lon": "105.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31231",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh An",
+      "en": "Thanh An",
+      "slug": "thanh-an-31231"
+    },
+    "code": {
+      "id": "31231",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.156",
+      "lon": "105.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31408",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Hòa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-31408"
+    },
+    "code": {
+      "id": "31408",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.874",
+      "lon": "105.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31249",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Phú",
+      "en": "Thanh Phu",
+      "slug": "thanh-phu-31249"
+    },
+    "code": {
+      "id": "31249",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.502",
+      "lon": "105.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Quới",
+      "en": "Thanh Quoi",
+      "slug": "thanh-quoi-31246"
+    },
+    "code": {
+      "id": "31246",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.212",
+      "lon": "105.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31699",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Thới An",
+      "en": "Thanh Thoi An",
+      "slug": "thanh-thoi-an-31699"
+    },
+    "code": {
+      "id": "31699",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.482",
+      "lon": "106.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31360",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Xuân",
+      "en": "Thanh Xuan",
+      "slug": "thanh-xuan-31360"
+    },
+    "code": {
+      "id": "31360",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.036",
+      "lon": "105.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31174",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới An Đông",
+      "en": "Thoi An Dong",
+      "slug": "thoi-an-dong-31174"
+    },
+    "code": {
+      "id": "31174",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.085",
+      "lon": "105.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31540",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới An Hội",
+      "en": "Thoi An Hoi",
+      "slug": "thoi-an-hoi-31540"
+    },
+    "code": {
+      "id": "31540",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.832",
+      "lon": "105.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31264",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới Hưng",
+      "en": "Thoi Hung",
+      "slug": "thoi-hung-31264"
+    },
+    "code": {
+      "id": "31264",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.13",
+      "lon": "105.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31258",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới Lai",
+      "en": "Thoi Lai",
+      "slug": "thoi-lai-31258"
+    },
+    "code": {
+      "id": "31258",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.066",
+      "lon": "105.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31157",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới Long",
+      "en": "Thoi Long",
+      "slug": "thoi-long-31157"
+    },
+    "code": {
+      "id": "31157",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.871",
+      "lon": "106.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31207",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thốt Nốt",
+      "en": "Thot Not",
+      "slug": "thot-not-31207"
+    },
+    "code": {
+      "id": "31207",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.271",
+      "lon": "105.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31582",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Hòa",
+      "en": "Thuan Hoa",
+      "slug": "thuan-hoa-31582"
+    },
+    "code": {
+      "id": "31582",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.675",
+      "lon": "105.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31228",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Hưng",
+      "en": "Thuan Hung",
+      "slug": "thuan-hung-31228"
+    },
+    "code": {
+      "id": "31228",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.23",
+      "lon": "105.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31673",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Đề",
+      "en": "Tran De",
+      "slug": "tran-de-31673"
+    },
+    "code": {
+      "id": "31673",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.523",
+      "lon": "106.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31255",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Hưng",
+      "en": "Trung Hung",
+      "slug": "trung-hung-31255"
+    },
+    "code": {
+      "id": "31255",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.173",
+      "lon": "105.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31217",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Nhứt",
+      "en": "Trung Nhut",
+      "slug": "trung-nhut-31217"
+    },
+    "code": {
+      "id": "31217",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.233",
+      "lon": "105.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31654",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Khánh",
+      "en": "Truong Khanh",
+      "slug": "truong-khanh-31654"
+    },
+    "code": {
+      "id": "31654",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.677",
+      "lon": "106.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31309",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Long",
+      "en": "Truong Long",
+      "slug": "truong-long-31309"
+    },
+    "code": {
+      "id": "31309",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.976",
+      "lon": "105.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31348",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Long Tây",
+      "en": "Truong Long Tay",
+      "slug": "truong-long-tay-31348"
+    },
+    "code": {
+      "id": "31348",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "105.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31288",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Thành",
+      "en": "Truong Thanh",
+      "slug": "truong-thanh-31288"
+    },
+    "code": {
+      "id": "31288",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.059",
+      "lon": "105.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31294",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Xuân",
+      "en": "Truong Xuan",
+      "slug": "truong-xuan-31294"
+    },
+    "code": {
+      "id": "31294",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.973",
+      "lon": "105.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31333",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vị Tân",
+      "en": "Vi Tan",
+      "slug": "vi-tan-31333"
+    },
+    "code": {
+      "id": "31333",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.753",
+      "lon": "105.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31321",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vị Thanh",
+      "en": "Vi Thanh",
+      "slug": "vi-thanh-31321"
+    },
+    "code": {
+      "id": "31321",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.753",
+      "lon": "105.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31465",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vị Thanh 1",
+      "en": "Vi Thanh 1",
+      "slug": "vi-thanh-1-31465"
+    },
+    "code": {
+      "id": "31465",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.784",
+      "lon": "105.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31441",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vị Thủy",
+      "en": "Vi Thuy",
+      "slug": "vi-thuy-31441"
+    },
+    "code": {
+      "id": "31441",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.762",
+      "lon": "105.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31783",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Châu",
+      "en": "Vinh Chau",
+      "slug": "vinh-chau-31783"
+    },
+    "code": {
+      "id": "31783",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.324",
+      "lon": "105.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31795",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hải",
+      "en": "Vinh Hai",
+      "slug": "vinh-hai-31795"
+    },
+    "code": {
+      "id": "31795",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.372",
+      "lon": "106.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31777",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Lợi",
+      "en": "Vinh Loi",
+      "slug": "vinh-loi-31777"
+    },
+    "code": {
+      "id": "31777",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.437",
+      "lon": "105.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31804",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Phước",
+      "en": "Vinh Phuoc",
+      "slug": "vinh-phuoc-31804"
+    },
+    "code": {
+      "id": "31804",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.321",
+      "lon": "105.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31232",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thạnh",
+      "en": "Vinh Thanh",
+      "slug": "vinh-thanh-31232"
+    },
+    "code": {
+      "id": "31232",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.231",
+      "lon": "105.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31453",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thuận Đông",
+      "en": "Vinh Thuan Dong",
+      "slug": "vinh-thuan-dong-31453"
+    },
+    "code": {
+      "id": "31453",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.723",
+      "lon": "105.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31237",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Trinh",
+      "en": "Vinh Trinh",
+      "slug": "vinh-trinh-31237"
+    },
+    "code": {
+      "id": "31237",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.271",
+      "lon": "105.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31459",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tường",
+      "en": "Vinh Tuong",
+      "slug": "vinh-tuong-31459"
+    },
+    "code": {
+      "id": "31459",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.814",
+      "lon": "105.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Viễn",
+      "en": "Vinh Vien",
+      "slug": "vinh-vien-31489"
+    },
+    "code": {
+      "id": "31489",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.665",
+      "lon": "105.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31495",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xà Phiên",
+      "en": "Xa Phien",
+      "slug": "xa-phien-31495"
+    },
+    "code": {
+      "id": "31495",
+      "iso": null
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "Cần Thơ",
+          "en": "Can Tho",
+          "slug": "can-tho-92"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.616",
+      "lon": "105.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "20314",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hòa Xuân",
+    "en": "Hoa Xuan",
+    "slug": "hoa-xuan-20314"
+  },
+  "code": {
+    "id": "20314",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.005",
+    "lon": "108.22"
+  },
+  "metadata": {},
+  "source": {}
+}

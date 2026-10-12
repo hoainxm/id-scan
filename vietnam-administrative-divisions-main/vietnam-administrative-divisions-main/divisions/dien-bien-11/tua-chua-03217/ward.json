@@ -1,0 +1,45 @@
+{
+  "id": "03217",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tủa Chùa",
+    "en": "Tua Chua",
+    "slug": "tua-chua-03217"
+  },
+  "code": {
+    "id": "03217",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Điện Biên",
+      "en": "Dien Bien",
+      "slug": "dien-bien-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.971",
+    "lon": "103.377"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Mỹ Lâm, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: Tại Cát Tiên, 2 xã được sáp nhập, đó là xã Mỹ Lâm, sẽ được sáp nhập vào xã Nam Ninh cùng xã Tư Nghĩa được sáp nhập vào xã Quảng Ngãi. Cả 2 xã này căn cứ theo các tiêu chí xếp hạng chưa đạt chuẩn về diện tích và qui mô dân số theo qui định.",
+  "result": [
+    {
+      "citation": {
+        "header": "1671/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lâm Đồng",
+        "line": "38. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Cát Tiên, xã Nam Ninh và xã Quảng Ngãi thành xã mới có tên gọi là xã Cát Tiên."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lâm Đồng",
+      "ward_code": "25159",
+      "ward_name": "Xã Cát Tiên"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "17743",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tam Đồng",
+    "en": "Tam Dong",
+    "slug": "tam-dong-17743"
+  },
+  "code": {
+    "id": "17743",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "Nghệ An",
+      "en": "Nghe An",
+      "slug": "nghe-an-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.82",
+    "lon": "105.244"
+  },
+  "metadata": {},
+  "source": {}
+}

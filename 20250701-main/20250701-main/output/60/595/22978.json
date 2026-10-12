@@ -1,0 +1,28 @@
+{
+  "address": "Xã Phong Phú, Huyện Tuy Phong, Tỉnh Bình Thuận",
+  "ellapsedInMs": 22154,
+  "estimatedCost": 0.0053107,
+  "thought": "**Analyzing the Reorganization of \"Xã Phong Phú\"**\n\nOkay, let's break this down. First, I had to identify the new administrative location for \"Xã Phong Phú, Huyện Tuy Phong, Tỉnh Bình Thuận.\" The initial step was to establish the updated province, and after consulting Resolution 60-NQ/TW, it was clear that \"Tỉnh Bình Thuận\" was merged into \"Tỉnh Lâm Đồng.\"\n\nNext, the search began for any relevant resolutions concerning \"Xã Phong Phú.\" I methodically reviewed several resolutions, including 1663/NQ-UBTVQH15, 1667/NQ-UBTVQH15, 1670/NQ-UBTVQH15, 1674/NQ-UBTVQH15, 1675/NQ-UBTVQH15, 1676/NQ-UBTVQH15, 1685/NQ-UBTVQH15, and 1687/NQ-UBTVQH15. Most of these were quick no-matches, either due to the wrong province or the lack of mention of \"Phong Phú\".\n\nFinally, resolution `1671/NQ-UBTVQH15` for \"Tỉnh Lâm Đồng\" proved to be the key. This resolution described the precise re-organization. The critical lines, specifically lines 43 and 44, detailed the splitting of \"Xã Phong Phú\" into two new wards: \"Xã Tuy Phong\" and \"Xã Phan Rí Cửa,\" both within the new \"Tỉnh Lâm Đồng.\" The mention of \"huyện Tuy Phong\" in the same resolution provided additional verification that I was on the right track.\n\nWith these new wards identified, I confirmed their presence in the `New wards` list, solidifying the two new entities as \"Xã Tuy Phong\" (ward code 22978) and \"Xã Phan Rí Cửa\" (ward code 22972).\n\nTo present this information clearly, I'll generate a JSON array, with high confidence in the accuracy, supported by the explicit details from resolution `1671/NQ-UBTVQH15`, and the matching entries in the provided ward data.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1671/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lâm Đồng",
+        "line": "43. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phan Dũng và một phần diện tích tự nhiên, quy mô dân số của xã Phong Phú thành xã mới có tên gọi là xã Tuy Phong."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Lâm Đồng",
+      "ward_code": "22978",
+      "ward_name": "Xã Tuy Phong"
+    },
+    {
+      "citation": {
+        "header": "1671/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lâm Đồng",
+        "line": "44. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phan Rí Cửa, xã Chí Công, xã Hòa Minh và phần còn lại của xã Phong Phú sau khi sắp xếp theo quy định tại khoản 43 Điều này thành xã mới có tên gọi là xã Phan Rí Cửa."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Lâm Đồng",
+      "ward_code": "22972",
+      "ward_name": "Xã Phan Rí Cửa"
+    }
+  ]
+}

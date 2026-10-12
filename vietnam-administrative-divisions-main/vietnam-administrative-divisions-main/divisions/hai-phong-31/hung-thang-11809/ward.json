@@ -1,0 +1,45 @@
+{
+  "id": "11809",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hùng Thắng",
+    "en": "Hung Thang",
+    "slug": "hung-thang-11809"
+  },
+  "code": {
+    "id": "11809",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Hải Phòng",
+      "en": "Hai Phong",
+      "slug": "hai-phong-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.676",
+    "lon": "106.656"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hương Xuân, Huyện Phú Lộc, Thành phố Huế",
+  "ellapsedInMs": 43562,
+  "estimatedCost": 0.0115632,
+  "thought": "**Administrative Unit Search: Analysis and Recommendations**\n\nMy task is to pinpoint the new administrative unit for \"Xã Hương Xuân, Huyện Phú Lộc, Thành phố Huế.\" The process involves meticulously examining relevant government resolutions to find the corresponding ward name.\n\nInitially, I pinpointed the appropriate province resolution, `1675/NQ-UBTVQH15`, for \"Thành phố Huế\". Within this resolution, two key entries caught my eye:\n\n*   The first referenced `phường Hương Xuân`, which was merged into `phường Kim Trà`. However, the original input was for `Xã Hương Xuân`, leading me to consider this as a low-confidence match due to the type mismatch and the context of the old district (Huyện Phú Lộc) not matching.\n*   The second stated that `xã Hương Xuân` was incorporated into `xã Nam Đông`. While this is a better textual match for my input of `Xã Hương Xuân`, the context of the old district in the provided information is still problematic. In this instance, the old district was in Huyện Nam Đông.\n\nFurthermore, another resolution `1665/NQ-UBTVQH15`, provided the information about  \"xã Hương Xuân\", but in the context of Hà Tĩnh province. As the input specified Huế province, I immediately discarded this.\n\nThe discrepancies in the provided context, particularly regarding the district, caused me to approach this with caution. While there is a strong connection between \"xã Hương Xuân\" and \"xã Nam Đông\" in resolution 1675, there is a clear mismatch in the district.\n\nTherefore, my final recommendation is to present two probable candidates with a low level of confidence, highlighting the data inconsistencies as the reason for the low confidence:\n\n1.  **Likely Match, Low Confidence:**\n    *   New Ward: `Xã Nam Đông`\n    *   Province: `Thành phố Huế`\n    *   Ward Code: `20179`\n    *   Citation: \"1675/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Huế,\" specifically line \"33. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hương Xuân, Thượng Nhật và Hương Sơn thành xã mới có tên gọi là xã Nam Đông.\"\n    *   Confidence: `low` (due to district mismatch)\n\n2.  **Possible Match, Low Confidence:**\n    *   New Ward: `Phường Kim Trà`\n    *   Province: `Thành phố Huế`\n    *   Ward Code: `20017`\n    *   Citation: \"1675/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Huế,\" specifically line \"7. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Hương Xuân, phường Hương Chữ và xã Hương Toàn thành phường mới có tên gọi là phường Kim Trà.\"\n    *   Confidence: `low` (due to unit type and district mismatch)\n\nThis comprehensive analysis gives the best possible answer given the information provided, while simultaneously acknowledging the data discrepancies.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1675/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Huế",
+        "line": "33. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hương Xuân, Thượng Nhật và Hương Sơn thành xã mới có tên gọi là xã Nam Đông."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Huế",
+      "ward_code": "20179",
+      "ward_name": "Xã Nam Đông"
+    }
+  ]
+}

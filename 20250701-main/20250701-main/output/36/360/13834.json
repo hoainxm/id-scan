@@ -1,0 +1,18 @@
+{
+  "address": "Xã Yên Dương, Huyện Ý Yên, Tỉnh Nam Định",
+  "ellapsedInMs": 26527,
+  "estimatedCost": 0.0061341,
+  "thought": "**Analysis of Ward Merger: Xã Yên Dương, Huyện Ý Yên, Tỉnh Nam Định**\n\nAlright, let's break this down. The user wants to find the new ward for \"Xã Yên Dương, Huyện Ý Yên, Tỉnh Nam Định\" based on the resolutions. First, I need to understand that \"Tỉnh Nam Định\" is no longer a standalone province; the Province Resolutions (60-NQ/TW) clearly show that it merged into \"Tỉnh Ninh Bình.\"  This is a critical starting point.\n\nNow, focusing on the \"Other resolutions,\" I'm looking for mentions of \"Xã Yên Dương\" and \"Huyện Ý Yên.\" I went through each resolution systematically: 1654/NQ-UBTVQH15 (An Giang) and 1658/NQ-UBTVQH15 (Bắc Ninh) were no help. Then I examined 1674/NQ-UBTVQH15 (Ninh Bình), specifically focusing on lines mentioning \"Huyện Ý Yên,\" and Bingo! Line 31 mentions the exact old ward I was looking for: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Yên Mỹ (huyện Ý Yên), Yên Bình, Yên Dương và Yên Ninh thành xã mới có tên gọi là xã Vũ Dương.\" This confirms the merger of \"Xã Yên Dương\" into \"Xã Vũ Dương.\" I checked 1676/NQ-UBTVQH15 (Phú Thọ), 1683/NQ-UBTVQH15 (Thái Nguyên), and 1686/NQ-UBTVQH15 (Thanh Hóa) but those didn't apply because they referenced a \"Yên Dương\" from other provinces which was incorrect, per my initial finding about Nam Định being merged into Ninh Bình.\n\nTherefore, the only reasonable conclusion based on the resolutions provided is that the old \"Xã Yên Dương\" is now part of \"Xã Vũ Dương.\"  And according to the \"New wards\" list, the corresponding details are {\"ward_code\":\"13834\",\"ward_name\":\"Xã Vũ Dương\",\"province_name\":\"Tỉnh Ninh Bình\"}.\n\nI have a very high level of confidence in this finding due to: (1) correct identification of the province merger, (2) the relevant resolution explicitly mentioning \"Xã Yên Dương\" (with the correct context regarding \"Huyện Ý Yên\"), and (3) the result perfectly matching a ward code found in the \"New wards\" list. The citation for this match will be from resolution 1674/NQ-UBTVQH15, line 31.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1674/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình",
+        "line": "31. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Yên Mỹ (huyện Ý Yên), Yên Bình, Yên Dương và Yên Ninh thành xã mới có tên gọi là xã Vũ Dương."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Ninh Bình",
+      "ward_code": "13834",
+      "ward_name": "Xã Vũ Dương"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "22453",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Cam Lâm",
+    "en": "Cam Lam",
+    "slug": "cam-lam-22453"
+  },
+  "code": {
+    "id": "22453",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.075",
+    "lon": "109.158"
+  },
+  "metadata": {},
+  "source": {}
+}

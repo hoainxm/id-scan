@@ -1,0 +1,45 @@
+{
+  "id": "30385",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vĩnh Xương",
+    "en": "Vinh Xuong",
+    "slug": "vinh-xuong-30385"
+  },
+  "code": {
+    "id": "30385",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.868",
+    "lon": "105.172"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "28603",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mỹ Tịnh An",
+    "en": "My Tinh An",
+    "slug": "my-tinh-an-28603"
+  },
+  "code": {
+    "id": "28603",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Đồng Tháp",
+      "en": "Dong Thap",
+      "slug": "dong-thap-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.363",
+    "lon": "106.359"
+  },
+  "metadata": {},
+  "source": {}
+}

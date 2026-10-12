@@ -1,0 +1,5582 @@
+[
+  {
+    "id": "02512",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Tường",
+      "en": "An Tuong",
+      "slug": "an-tuong-02512"
+    },
+    "code": {
+      "id": "02512",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.784",
+      "lon": "105.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00991",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Mê",
+      "en": "Bac Me",
+      "slug": "bac-me-00991"
+    },
+    "code": {
+      "id": "00991",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.763",
+      "lon": "105.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01153",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Quang",
+      "en": "Bac Quang",
+      "slug": "bac-quang-01153"
+    },
+    "code": {
+      "id": "01153",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.393",
+      "lon": "104.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00832",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Đích",
+      "en": "Bach Dich",
+      "slug": "bach-dich-00832"
+    },
+    "code": {
+      "id": "00832",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.171",
+      "lon": "105.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00976",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Ngọc",
+      "en": "Bach Ngoc",
+      "slug": "bach-ngoc-00976"
+    },
+    "code": {
+      "id": "00976",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.588",
+      "lon": "105.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02380",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Xa",
+      "en": "Bach Xa",
+      "slug": "bach-xa-02380"
+    },
+    "code": {
+      "id": "02380",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.225",
+      "lon": "104.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01024",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bản Máy",
+      "en": "Ban May",
+      "slug": "ban-may-01024"
+    },
+    "code": {
+      "id": "01024",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.783",
+      "lon": "104.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01180",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bằng Hành",
+      "en": "Bang Hanh",
+      "slug": "bang-hanh-01180"
+    },
+    "code": {
+      "id": "01180",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.433",
+      "lon": "104.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bằng Lang",
+      "en": "Bang Lang",
+      "slug": "bang-lang-01246"
+    },
+    "code": {
+      "id": "01246",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.364",
+      "lon": "104.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02296",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình An",
+      "en": "Binh An",
+      "slug": "binh-an-02296"
+    },
+    "code": {
+      "id": "02296",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.368",
+      "lon": "105.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02548",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Ca",
+      "en": "Binh Ca",
+      "slug": "binh-ca-02548"
+    },
+    "code": {
+      "id": "02548",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.737",
+      "lon": "105.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02524",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thuận",
+      "en": "Binh Thuan",
+      "slug": "binh-thuan-02524"
+    },
+    "code": {
+      "id": "02524",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.711",
+      "lon": "105.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02404",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Xa",
+      "en": "Binh Xa",
+      "slug": "binh-xa-02404"
+    },
+    "code": {
+      "id": "02404",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.054",
+      "lon": "105.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00883",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cán Tỷ",
+      "en": "Can Ty",
+      "slug": "can-ty-00883"
+    },
+    "code": {
+      "id": "00883",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.127",
+      "lon": "105.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00952",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Bồ",
+      "en": "Cao Bo",
+      "slug": "cao-bo-00952"
+    },
+    "code": {
+      "id": "00952",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.756",
+      "lon": "104.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02287",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiêm Hóa",
+      "en": "Chiem Hoa",
+      "slug": "chiem-hoa-02287"
+    },
+    "code": {
+      "id": "02287",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.149",
+      "lon": "105.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02245",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Côn Lôn",
+      "en": "Con Lon",
+      "slug": "con-lon-02245"
+    },
+    "code": {
+      "id": "02245",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.528",
+      "lon": "105.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01165",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Tâm",
+      "en": "Dong Tam",
+      "slug": "dong-tam-01165"
+    },
+    "code": {
+      "id": "01165",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.496",
+      "lon": "104.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02572",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thọ",
+      "en": "Dong Tho",
+      "slug": "dong-tho-02572"
+    },
+    "code": {
+      "id": "02572",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.652",
+      "lon": "105.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00721",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Văn",
+      "en": "Dong Van",
+      "slug": "dong-van-00721"
+    },
+    "code": {
+      "id": "00721",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.241",
+      "lon": "105.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01216",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Yên",
+      "en": "Dong Yen",
+      "slug": "dong-yen-01216"
+    },
+    "code": {
+      "id": "01216",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.198",
+      "lon": "104.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00871",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Du Già",
+      "en": "Du Gia",
+      "slug": "du-gia-00871"
+    },
+    "code": {
+      "id": "00871",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.931",
+      "lon": "105.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01012",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đường Hồng",
+      "en": "Duong Hong",
+      "slug": "duong-hong-01012"
+    },
+    "code": {
+      "id": "01012",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.644",
+      "lon": "105.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00865",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đường Thượng",
+      "en": "Duong Thuong",
+      "slug": "duong-thuong-00865"
+    },
+    "code": {
+      "id": "00865",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.986",
+      "lon": "105.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giáp Trung",
+      "en": "Giap Trung",
+      "slug": "giap-trung-00985"
+    },
+    "code": {
+      "id": "00985",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.769",
+      "lon": "105.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00694",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Giang 1",
+      "en": "Ha Giang 1",
+      "slug": "ha-giang-1-00694"
+    },
+    "code": {
+      "id": "00694",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.817",
+      "lon": "104.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00691",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Giang 2",
+      "en": "Ha Giang 2",
+      "slug": "ha-giang-2-00691"
+    },
+    "code": {
+      "id": "00691",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.83",
+      "lon": "104.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02374",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Yên",
+      "en": "Ham Yen",
+      "slug": "ham-yen-02374"
+    },
+    "code": {
+      "id": "02374",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.095",
+      "lon": "105.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01084",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồ Thầu",
+      "en": "Ho Thau",
+      "slug": "ho-thau-01084"
+    },
+    "code": {
+      "id": "01084",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.562",
+      "lon": "104.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02353",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa An",
+      "en": "Hoa An",
+      "slug": "hoa-an-02353"
+    },
+    "code": {
+      "id": "02353",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.094",
+      "lon": "105.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01021",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Su Phì",
+      "en": "Hoang Su Phi",
+      "slug": "hoang-su-phi-01021"
+    },
+    "code": {
+      "id": "01021",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.694",
+      "lon": "104.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02608",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Sơn",
+      "en": "Hong Son",
+      "slug": "hong-son-02608"
+    },
+    "code": {
+      "id": "02608",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.593",
+      "lon": "105.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02260",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Thái",
+      "en": "Hong Thai",
+      "slug": "hong-thai-02260"
+    },
+    "code": {
+      "id": "02260",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.42",
+      "lon": "105.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01201",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng An",
+      "en": "Hung An",
+      "slug": "hung-an-01201"
+    },
+    "code": {
+      "id": "01201",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.341",
+      "lon": "104.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02425",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng Đức",
+      "en": "Hung Duc",
+      "slug": "hung-duc-02425"
+    },
+    "code": {
+      "id": "02425",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.914",
+      "lon": "105.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02455",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng Lợi",
+      "en": "Hung Loi",
+      "slug": "hung-loi-02455"
+    },
+    "code": {
+      "id": "02455",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.895",
+      "lon": "105.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00802",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khâu Vai",
+      "en": "Khau Vai",
+      "slug": "khau-vai-00802"
+    },
+    "code": {
+      "id": "00802",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.114",
+      "lon": "105.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01147",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khuôn Lùng",
+      "en": "Khuon Lung",
+      "slug": "khuon-lung-01147"
+    },
+    "code": {
+      "id": "01147",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.518",
+      "lon": "104.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02332",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiên Đài",
+      "en": "Kien Dai",
+      "slug": "kien-dai-02332"
+    },
+    "code": {
+      "id": "02332",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.176",
+      "lon": "105.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02437",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Thiết",
+      "en": "Kien Thiet",
+      "slug": "kien-thiet-02437"
+    },
+    "code": {
+      "id": "02437",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.002",
+      "lon": "105.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02350",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Bình",
+      "en": "Kim Binh",
+      "slug": "kim-binh-02350"
+    },
+    "code": {
+      "id": "02350",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.094",
+      "lon": "105.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02266",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Bình",
+      "en": "Lam Binh",
+      "slug": "lam-binh-02266"
+    },
+    "code": {
+      "id": "02266",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.477",
+      "lon": "105.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00937",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lao Chải",
+      "en": "Lao Chai",
+      "slug": "lao-chai-00937"
+    },
+    "code": {
+      "id": "00937",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.837",
+      "lon": "104.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01192",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Hiệp",
+      "en": "Lien Hiep",
+      "slug": "lien-hiep-01192"
+    },
+    "code": {
+      "id": "01192",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.392",
+      "lon": "105.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00970",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Linh Hồ",
+      "en": "Linh Ho",
+      "slug": "linh-ho-00970"
+    },
+    "code": {
+      "id": "00970",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.7",
+      "lon": "105.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02434",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lực Hành",
+      "en": "Luc Hanh",
+      "slug": "luc-hanh-02434"
+    },
+    "code": {
+      "id": "02434",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.01",
+      "lon": "105.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00715",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lũng Cú",
+      "en": "Lung Cu",
+      "slug": "lung-cu-00715"
+    },
+    "code": {
+      "id": "00715",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.361",
+      "lon": "105.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00763",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lũng Phìn",
+      "en": "Lung Phin",
+      "slug": "lung-phin-00763"
+    },
+    "code": {
+      "id": "00763",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.135",
+      "lon": "105.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00901",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lùng Tám",
+      "en": "Lung Tam",
+      "slug": "lung-tam-00901"
+    },
+    "code": {
+      "id": "00901",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.049",
+      "lon": "105.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00847",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mậu Duệ",
+      "en": "Mau Due",
+      "slug": "mau-due-00847"
+    },
+    "code": {
+      "id": "00847",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.066",
+      "lon": "105.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00769",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mèo Vạc",
+      "en": "Meo Vac",
+      "slug": "meo-vac-00769"
+    },
+    "code": {
+      "id": "00769",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.163",
+      "lon": "105.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00994",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Ngọc",
+      "en": "Minh Ngoc",
+      "slug": "minh-ngoc-00994"
+    },
+    "code": {
+      "id": "00994",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.773",
+      "lon": "105.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02302",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Quang",
+      "en": "Minh Quang",
+      "slug": "minh-quang-02302"
+    },
+    "code": {
+      "id": "02302",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.325",
+      "lon": "105.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00982",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Sơn",
+      "en": "Minh Son",
+      "slug": "minh-son-00982"
+    },
+    "code": {
+      "id": "00982",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.824",
+      "lon": "105.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00919",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Tân",
+      "en": "Minh Tan",
+      "slug": "minh-tan-00919"
+    },
+    "code": {
+      "id": "00919",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.96",
+      "lon": "104.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02554",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Thanh",
+      "en": "Minh Thanh",
+      "slug": "minh-thanh-02554"
+    },
+    "code": {
+      "id": "02554",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.753",
+      "lon": "105.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02215",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Xuân",
+      "en": "Minh Xuan",
+      "slug": "minh-xuan-02215"
+    },
+    "code": {
+      "id": "02215",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.829",
+      "lon": "105.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02509",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Lâm",
+      "en": "My Lam",
+      "slug": "my-lam-02509"
+    },
+    "code": {
+      "id": "02509",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.77",
+      "lon": "105.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02221",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nà Hang",
+      "en": "Na Hang",
+      "slug": "na-hang-02221"
+    },
+    "code": {
+      "id": "02221",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.351",
+      "lon": "105.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01141",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nấm Dẩn",
+      "en": "Nam Dan",
+      "slug": "nam-dan-01141"
+    },
+    "code": {
+      "id": "01141",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.613",
+      "lon": "104.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01075",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Dịch",
+      "en": "Nam Dich",
+      "slug": "nam-dich-01075"
+    },
+    "code": {
+      "id": "01075",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.658",
+      "lon": "104.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00889",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Thuận",
+      "en": "Nghia Thuan",
+      "slug": "nghia-thuan-00889"
+    },
+    "code": {
+      "id": "00889",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.128",
+      "lon": "104.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00700",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Đường",
+      "en": "Ngoc Duong",
+      "slug": "ngoc-duong-00700"
+    },
+    "code": {
+      "id": "00700",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.844",
+      "lon": "105.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00859",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Long",
+      "en": "Ngoc Long",
+      "slug": "ngoc-long-00859"
+    },
+    "code": {
+      "id": "00859",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.982",
+      "lon": "105.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02530",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhữ Khê",
+      "en": "Nhu Khe",
+      "slug": "nhu-khe-02530"
+    },
+    "code": {
+      "id": "02530",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.7",
+      "lon": "105.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00817",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Niêm Sơn",
+      "en": "Niem Son",
+      "slug": "niem-son-00817"
+    },
+    "code": {
+      "id": "00817",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.037",
+      "lon": "105.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02212",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nông Tiến",
+      "en": "Nong Tien",
+      "slug": "nong-tien-02212"
+    },
+    "code": {
+      "id": "02212",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.814",
+      "lon": "105.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01096",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pà Vầy Sủ",
+      "en": "Pa Vay Su",
+      "slug": "pa-vay-su-01096"
+    },
+    "code": {
+      "id": "01096",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.663",
+      "lon": "104.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00745",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phó Bảng",
+      "en": "Pho Bang",
+      "slug": "pho-bang-00745"
+    },
+    "code": {
+      "id": "00745",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.253",
+      "lon": "105.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00706",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Linh",
+      "en": "Phu Linh",
+      "slug": "phu-linh-00706"
+    },
+    "code": {
+      "id": "00706",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.752",
+      "lon": "105.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lương",
+      "en": "Phu Luong",
+      "slug": "phu-luong-02611"
+    },
+    "code": {
+      "id": "02611",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.542",
+      "lon": "105.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02392",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Lưu",
+      "en": "Phu Luu",
+      "slug": "phu-luu-02392"
+    },
+    "code": {
+      "id": "02392",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.166",
+      "lon": "105.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01057",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pờ Ly Ngài",
+      "en": "Po Ly Ngai",
+      "slug": "po-ly-ngai-01057"
+    },
+    "code": {
+      "id": "01057",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.705",
+      "lon": "104.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00874",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quản Bạ",
+      "en": "Quan Ba",
+      "slug": "quan-ba-00874"
+    },
+    "code": {
+      "id": "00874",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.067",
+      "lon": "104.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01237",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Bình",
+      "en": "Quang Binh",
+      "slug": "quang-binh-01237"
+    },
+    "code": {
+      "id": "01237",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.385",
+      "lon": "104.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01144",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Nguyên",
+      "en": "Quang Nguyen",
+      "slug": "quang-nguyen-01144"
+    },
+    "code": {
+      "id": "01144",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.57",
+      "lon": "104.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00733",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sà Phìn",
+      "en": "Sa Phin",
+      "slug": "sa-phin-00733"
+    },
+    "code": {
+      "id": "00733",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.252",
+      "lon": "105.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02536",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Dương",
+      "en": "Son Duong",
+      "slug": "son-duong-02536"
+    },
+    "code": {
+      "id": "02536",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.698",
+      "lon": "105.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02620",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Thủy",
+      "en": "Son Thuy",
+      "slug": "son-thuy-02620"
+    },
+    "code": {
+      "id": "02620",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.57",
+      "lon": "105.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00778",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Vĩ",
+      "en": "Son Vi",
+      "slug": "son-vi-00778"
+    },
+    "code": {
+      "id": "00778",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.247",
+      "lon": "105.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00787",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sủng Máng",
+      "en": "Sung Mang",
+      "slug": "sung-mang-00787"
+    },
+    "code": {
+      "id": "00787",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.165",
+      "lon": "105.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02320",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-02320"
+    },
+    "code": {
+      "id": "02320",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.193",
+      "lon": "105.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02470",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Long",
+      "en": "Tan Long",
+      "slug": "tan-long-02470"
+    },
+    "code": {
+      "id": "02470",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.873",
+      "lon": "105.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02308",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Mỹ",
+      "en": "Tan My",
+      "slug": "tan-my-02308"
+    },
+    "code": {
+      "id": "02308",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.257",
+      "lon": "105.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01171",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Quang",
+      "en": "Tan Quang",
+      "slug": "tan-quang-01171"
+    },
+    "code": {
+      "id": "01171",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.497",
+      "lon": "104.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02578",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thanh",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-02578"
+    },
+    "code": {
+      "id": "02578",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.626",
+      "lon": "105.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01051",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-01051"
+    },
+    "code": {
+      "id": "01051",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.744",
+      "lon": "104.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02545",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Trào",
+      "en": "Tan Trao",
+      "slug": "tan-trao-02545"
+    },
+    "code": {
+      "id": "02545",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.775",
+      "lon": "105.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01243",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Trịnh",
+      "en": "Tan Trinh",
+      "slug": "tan-trinh-01243"
+    },
+    "code": {
+      "id": "01243",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.411",
+      "lon": "104.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00808",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tát Ngà",
+      "en": "Tat Nga",
+      "slug": "tat-nga-00808"
+    },
+    "code": {
+      "id": "00808",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.087",
+      "lon": "105.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02494",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Bình",
+      "en": "Thai Binh",
+      "slug": "thai-binh-02494"
+    },
+    "code": {
+      "id": "02494",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.797",
+      "lon": "105.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02419",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Hòa",
+      "en": "Thai Hoa",
+      "slug": "thai-hoa-02419"
+    },
+    "code": {
+      "id": "02419",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.969",
+      "lon": "105.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02407",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Sơn",
+      "en": "Thai Son",
+      "slug": "thai-son-02407"
+    },
+    "code": {
+      "id": "02407",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.992",
+      "lon": "105.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00829",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thắng Mố",
+      "en": "Thang Mo",
+      "slug": "thang-mo-00829"
+    },
+    "code": {
+      "id": "00829",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.25",
+      "lon": "105.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01033",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thàng Tín",
+      "en": "Thang Tin",
+      "slug": "thang-tin-01033"
+    },
+    "code": {
+      "id": "01033",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.765",
+      "lon": "104.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00928",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Thủy",
+      "en": "Thanh Thuy",
+      "slug": "thanh-thuy-00928"
+    },
+    "code": {
+      "id": "00928",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.874",
+      "lon": "104.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01090",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thông Nguyên",
+      "en": "Thong Nguyen",
+      "slug": "thong-nguyen-01090"
+    },
+    "code": {
+      "id": "01090",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.521",
+      "lon": "104.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00922",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Hòa",
+      "en": "Thuan Hoa",
+      "slug": "thuan-hoa-00922"
+    },
+    "code": {
+      "id": "00922",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.906",
+      "lon": "105.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02269",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Lâm",
+      "en": "Thuong Lam",
+      "slug": "thuong-lam-02269"
+    },
+    "code": {
+      "id": "02269",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.478",
+      "lon": "105.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02239",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Nông",
+      "en": "Thuong Nong",
+      "slug": "thuong-nong-02239"
+    },
+    "code": {
+      "id": "02239",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.61",
+      "lon": "105.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00958",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Sơn",
+      "en": "Thuong Son",
+      "slug": "thuong-son-00958"
+    },
+    "code": {
+      "id": "00958",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.655",
+      "lon": "104.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01225",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Nguyên",
+      "en": "Tien Nguyen",
+      "slug": "tien-nguyen-01225"
+    },
+    "code": {
+      "id": "01225",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.507",
+      "lon": "104.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01261",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Yên",
+      "en": "Tien Yen",
+      "slug": "tien-yen-01261"
+    },
+    "code": {
+      "id": "01261",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.28",
+      "lon": "104.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02359",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tri Phú",
+      "en": "Tri Phu",
+      "slug": "tri-phu-02359"
+    },
+    "code": {
+      "id": "02359",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.021",
+      "lon": "105.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02305",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Hà",
+      "en": "Trung Ha",
+      "slug": "trung-ha-02305"
+    },
+    "code": {
+      "id": "02305",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.299",
+      "lon": "105.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02458",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Sơn",
+      "en": "Trung Son",
+      "slug": "trung-son-02458"
+    },
+    "code": {
+      "id": "02458",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.877",
+      "lon": "105.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01117",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Thịnh",
+      "en": "Trung Thinh",
+      "slug": "trung-thinh-01117"
+    },
+    "code": {
+      "id": "01117",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.702",
+      "lon": "104.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02623",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Sinh",
+      "en": "Truong Sinh",
+      "slug": "truong-sinh-02623"
+    },
+    "code": {
+      "id": "02623",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.55",
+      "lon": "105.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00925",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tùng Bá",
+      "en": "Tung Ba",
+      "slug": "tung-ba-00925"
+    },
+    "code": {
+      "id": "00925",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.876",
+      "lon": "105.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00892",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tùng Vài",
+      "en": "Tung Vai",
+      "slug": "tung-vai-00892"
+    },
+    "code": {
+      "id": "00892",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.066",
+      "lon": "104.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00913",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vị Xuyên",
+      "en": "Vi Xuyen",
+      "slug": "vi-xuyen-00913"
+    },
+    "code": {
+      "id": "00913",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.762",
+      "lon": "105.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00967",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Lâm",
+      "en": "Viet Lam",
+      "slug": "viet-lam-00967"
+    },
+    "code": {
+      "id": "00967",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.624",
+      "lon": "104.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01156",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tuy",
+      "en": "Vinh Tuy",
+      "slug": "vinh-tuy-01156"
+    },
+    "code": {
+      "id": "01156",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.276",
+      "lon": "104.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01108",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xín Mần",
+      "en": "Xin Man",
+      "slug": "xin-man-01108"
+    },
+    "code": {
+      "id": "01108",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.634",
+      "lon": "104.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01255",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Giang",
+      "en": "Xuan Giang",
+      "slug": "xuan-giang-01255"
+    },
+    "code": {
+      "id": "01255",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "104.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02449",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Vân",
+      "en": "Xuan Van",
+      "slug": "xuan-van-02449"
+    },
+    "code": {
+      "id": "02449",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.945",
+      "lon": "105.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01006",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Cường",
+      "en": "Yen Cuong",
+      "slug": "yen-cuong-01006"
+    },
+    "code": {
+      "id": "01006",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.685",
+      "lon": "105.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02248",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Hoa",
+      "en": "Yen Hoa",
+      "slug": "yen-hoa-02248"
+    },
+    "code": {
+      "id": "02248",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.511",
+      "lon": "105.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02317",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Lập",
+      "en": "Yen Lap",
+      "slug": "yen-lap-02317"
+    },
+    "code": {
+      "id": "02317",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.218",
+      "lon": "105.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "00820",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Minh",
+      "en": "Yen Minh",
+      "slug": "yen-minh-00820"
+    },
+    "code": {
+      "id": "00820",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.071",
+      "lon": "105.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02365",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Nguyên",
+      "en": "Yen Nguyen",
+      "slug": "yen-nguyen-02365"
+    },
+    "code": {
+      "id": "02365",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.068",
+      "lon": "105.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02398",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Phú",
+      "en": "Yen Phu",
+      "slug": "yen-phu-02398"
+    },
+    "code": {
+      "id": "02398",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.125",
+      "lon": "104.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02473",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Sơn",
+      "en": "Yen Son",
+      "slug": "yen-son-02473"
+    },
+    "code": {
+      "id": "02473",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.864",
+      "lon": "105.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "01234",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thành",
+      "en": "Yen Thanh",
+      "slug": "yen-thanh-01234"
+    },
+    "code": {
+      "id": "01234",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "Tuyên Quang",
+          "en": "Tuyen Quang",
+          "slug": "tuyen-quang-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.413",
+      "lon": "104.549"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

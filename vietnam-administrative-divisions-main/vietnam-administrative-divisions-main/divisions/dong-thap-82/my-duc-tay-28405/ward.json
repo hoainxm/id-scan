@@ -1,0 +1,45 @@
+{
+  "id": "28405",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mỹ Đức Tây",
+    "en": "My Duc Tay",
+    "slug": "my-duc-tay-28405"
+  },
+  "code": {
+    "id": "28405",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Đồng Tháp",
+      "en": "Dong Thap",
+      "slug": "dong-thap-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.343",
+    "lon": "105.929"
+  },
+  "metadata": {},
+  "source": {}
+}

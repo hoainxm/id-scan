@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "03424",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bản Bo",
+      "en": "Ban Bo",
+      "slug": "ban-bo-03424"
+    },
+    "code": {
+      "id": "03424",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.486",
+      "lon": "102.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03390",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Lư",
+      "en": "Binh Lu",
+      "slug": "binh-lu-03390"
+    },
+    "code": {
+      "id": "03390",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.318",
+      "lon": "103.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03466",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bum Nưa",
+      "en": "Bum Nua",
+      "slug": "bum-nua-03466"
+    },
+    "code": {
+      "id": "03466",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.374",
+      "lon": "102.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03433",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bum Tở",
+      "en": "Bum To",
+      "slug": "bum-to-03433"
+    },
+    "code": {
+      "id": "03433",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.415",
+      "lon": "102.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03571",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dào San",
+      "en": "Dao San",
+      "slug": "dao-san-03571"
+    },
+    "code": {
+      "id": "03571",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.672",
+      "lon": "103.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03388",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đoàn Kết",
+      "en": "Doan Ket",
+      "slug": "doan-ket-03388"
+    },
+    "code": {
+      "id": "03388",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.398",
+      "lon": "103.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03508",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Thu",
+      "en": "Hong Thu",
+      "slug": "hong-thu-03508"
+    },
+    "code": {
+      "id": "03508",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.434",
+      "lon": "103.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03460",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hua Bum",
+      "en": "Hua Bum",
+      "slug": "hua-bum-03460"
+    },
+    "code": {
+      "id": "03460",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.394",
+      "lon": "102.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03640",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khoen On",
+      "en": "Khoen On",
+      "slug": "khoen-on-03640"
+    },
+    "code": {
+      "id": "03640",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.771",
+      "lon": "103.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03583",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khổng Lào",
+      "en": "Khong Lao",
+      "slug": "khong-lao-03583"
+    },
+    "code": {
+      "id": "03583",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.543",
+      "lon": "103.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03430",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khun Há",
+      "en": "Khun Ha",
+      "slug": "khun-ha-03430"
+    },
+    "code": {
+      "id": "03430",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.262",
+      "lon": "103.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03487",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Lợi",
+      "en": "Le Loi",
+      "slug": "le-loi-03487"
+    },
+    "code": {
+      "id": "03487",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.092",
+      "lon": "103.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03451",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mù Cả",
+      "en": "Mu Ca",
+      "slug": "mu-ca-03451"
+    },
+    "code": {
+      "id": "03451",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.51",
+      "lon": "102.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03601",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Khoa",
+      "en": "Muong Khoa",
+      "slug": "muong-khoa-03601"
+    },
+    "code": {
+      "id": "03601",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.222",
+      "lon": "103.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03637",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Kim",
+      "en": "Muong Kim",
+      "slug": "muong-kim-03637"
+    },
+    "code": {
+      "id": "03637",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.882",
+      "lon": "103.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03472",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Mô",
+      "en": "Muong Mo",
+      "slug": "muong-mo-03472"
+    },
+    "code": {
+      "id": "03472",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.226",
+      "lon": "102.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03445",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Tè",
+      "en": "Muong Te",
+      "slug": "muong-te-03445"
+    },
+    "code": {
+      "id": "03445",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.379",
+      "lon": "102.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03618",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Than",
+      "en": "Muong Than",
+      "slug": "muong-than-03618"
+    },
+    "code": {
+      "id": "03618",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.023",
+      "lon": "103.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03544",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Cuổi",
+      "en": "Nam Cuoi",
+      "slug": "nam-cuoi-03544"
+    },
+    "code": {
+      "id": "03544",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.075",
+      "lon": "103.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03434",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Hàng",
+      "en": "Nam Hang",
+      "slug": "nam-hang-03434"
+    },
+    "code": {
+      "id": "03434",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.146",
+      "lon": "103.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03538",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Mạ",
+      "en": "Nam Ma",
+      "slug": "nam-ma-03538"
+    },
+    "code": {
+      "id": "03538",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.304",
+      "lon": "103.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03613",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Sỏ",
+      "en": "Nam So",
+      "slug": "nam-so-03613"
+    },
+    "code": {
+      "id": "03613",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.522",
+      "lon": "103.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03517",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Tăm",
+      "en": "Nam Tam",
+      "slug": "nam-tam-03517"
+    },
+    "code": {
+      "id": "03517",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.28",
+      "lon": "103.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03503",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pa Tần",
+      "en": "Pa Tan",
+      "slug": "pa-tan-03503"
+    },
+    "code": {
+      "id": "03503",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.464",
+      "lon": "103.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03442",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pa Ủ",
+      "en": "Pa U",
+      "slug": "pa-u-03442"
+    },
+    "code": {
+      "id": "03442",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.585",
+      "lon": "102.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03616",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pắc Ta",
+      "en": "Pac Ta",
+      "slug": "pac-ta-03616"
+    },
+    "code": {
+      "id": "03616",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.108",
+      "lon": "103.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03549",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Thổ",
+      "en": "Phong Tho",
+      "slug": "phong-tho-03549"
+    },
+    "code": {
+      "id": "03549",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.614",
+      "lon": "103.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03532",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pu Sam Cáp",
+      "en": "Pu Sam Cap",
+      "slug": "pu-sam-cap-03532"
+    },
+    "code": {
+      "id": "03532",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.229",
+      "lon": "103.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03562",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sì Lở Lầu",
+      "en": "Si Lo Lau",
+      "slug": "si-lo-lau-03562"
+    },
+    "code": {
+      "id": "03562",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.763",
+      "lon": "103.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03478",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sìn Hồ",
+      "en": "Sin Ho",
+      "slug": "sin-ho-03478"
+    },
+    "code": {
+      "id": "03478",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.251",
+      "lon": "103.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03394",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sin Suối Hồ",
+      "en": "Sin Suoi Ho",
+      "slug": "sin-suoi-ho-03394"
+    },
+    "code": {
+      "id": "03394",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.52",
+      "lon": "103.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03405",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tả Lèng",
+      "en": "Ta Leng",
+      "slug": "ta-leng-03405"
+    },
+    "code": {
+      "id": "03405",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.402",
+      "lon": "103.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03463",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Tổng",
+      "en": "Ta Tong",
+      "slug": "ta-tong-03463"
+    },
+    "code": {
+      "id": "03463",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.377",
+      "lon": "102.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03408",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phong",
+      "en": "Tan Phong",
+      "slug": "tan-phong-03408"
+    },
+    "code": {
+      "id": "03408",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.389",
+      "lon": "103.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03598",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Uyên",
+      "en": "Tan Uyen",
+      "slug": "tan-uyen-03598"
+    },
+    "code": {
+      "id": "03598",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.126",
+      "lon": "103.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03595",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Than Uyên",
+      "en": "Than Uyen",
+      "slug": "than-uyen-03595"
+    },
+    "code": {
+      "id": "03595",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.884",
+      "lon": "103.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03439",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thu Lũm",
+      "en": "Thu Lum",
+      "slug": "thu-lum-03439"
+    },
+    "code": {
+      "id": "03439",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.703",
+      "lon": "102.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03529",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tủa Sín Chải",
+      "en": "Tua Sin Chai",
+      "slug": "tua-sin-chai-03529"
+    },
+    "code": {
+      "id": "03529",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Lai Châu",
+          "en": "Lai Chau",
+          "slug": "lai-chau-12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.19",
+      "lon": "103.275"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

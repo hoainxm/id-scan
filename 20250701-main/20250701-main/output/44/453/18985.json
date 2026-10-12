@@ -1,0 +1,18 @@
+{
+  "address": "Xã Thạch Hóa, Huyện Tuyên Hóa, Tỉnh Quảng Bình",
+  "ellapsedInMs": 16355,
+  "estimatedCost": 0.0037468999999999996,
+  "thought": "**The Logic Behind Determining the New Administrative Unit**\n\nOkay, so the user wants me to find the new equivalent of \"Xã Thạch Hóa, Huyện Tuyên Hóa, Tỉnh Quảng Bình\". First things first, I break it down: old ward, district, and province. Then, I dive into my knowledge base, primarily the provincial resolutions. I know Quảng Bình was subject to some changes.\n\nI start by checking if Quảng Bình has merged. Yep, and it's merged into Quảng Trị! That's a crucial piece. This means the new ward *must* be in Quảng Trị.  So, I zero in on resolutions relevant to Quảng Trị.\n\nI find `1680/NQ-UBTVQH15` which mentions, specifically, the area and population of Thạch Hóa. Bingo! Line 10 of that resolution confirms that *the entire* Thạch Hóa (along with two other communes) *became* a new commune called Tuyên Phú.  Perfect!\n\nTo make sure, I cross-reference this with any provided data of new wards. Sure enough, there it is: a new ward called \"Xã Tuyên Phú\" in Quảng Trị. That's a perfect match!\n\nThe confidence is very high here. The resolution is explicit. And, so, I gather the correct data to construct the final JSON object.  I grab the province, the new ward name from the relevant resolutions, and the confirmed code.  This will be added to the array. The final JSON output is ready and should clearly communicate the new unit.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1680/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Trị",
+        "line": "10. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đồng Hóa,Thạch Hóa và Đức Hóathành xã mới có tên gọi là xã Tuyên Phú."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Quảng Trị",
+      "ward_code": "18985",
+      "ward_name": "Xã Tuyên Phú"
+    }
+  ]
+}

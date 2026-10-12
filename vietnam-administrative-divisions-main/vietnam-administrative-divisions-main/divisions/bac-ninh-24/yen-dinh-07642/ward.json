@@ -1,0 +1,45 @@
+{
+  "id": "07642",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Yên Định",
+    "en": "Yen Dinh",
+    "slug": "yen-dinh-07642"
+  },
+  "code": {
+    "id": "07642",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "Bắc Ninh",
+      "en": "Bac Ninh",
+      "slug": "bac-ninh-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.344",
+    "lon": "106.791"
+  },
+  "metadata": {},
+  "source": {}
+}

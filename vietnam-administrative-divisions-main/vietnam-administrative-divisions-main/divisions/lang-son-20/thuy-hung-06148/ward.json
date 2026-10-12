@@ -1,0 +1,45 @@
+{
+  "id": "06148",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thụy Hùng",
+    "en": "Thuy Hung",
+    "slug": "thuy-hung-06148"
+  },
+  "code": {
+    "id": "06148",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "Lạng Sơn",
+      "en": "Lang Son",
+      "slug": "lang-son-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.914",
+    "lon": "106.724"
+  },
+  "metadata": {},
+  "source": {}
+}

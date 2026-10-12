@@ -1,0 +1,45 @@
+{
+  "id": "20137",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Chân Mây - Lăng Cô",
+    "en": "Chan May - Lang Co",
+    "slug": "chan-may-lang-co-20137"
+  },
+  "code": {
+    "id": "20137",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.274",
+    "lon": "107.991"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "92",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Cần Thơ",
+    "en": "Can Tho",
+    "slug": "can-tho-92"
+  },
+  "code": {
+    "id": "92",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.744",
+    "lon": "105.757"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/can-tho-92/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

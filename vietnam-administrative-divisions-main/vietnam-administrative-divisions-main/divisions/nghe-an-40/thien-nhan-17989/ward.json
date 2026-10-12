@@ -1,0 +1,45 @@
+{
+  "id": "17989",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thiên Nhẫn",
+    "en": "Thien Nhan",
+    "slug": "thien-nhan-17989"
+  },
+  "code": {
+    "id": "17989",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "Nghệ An",
+      "en": "Nghe An",
+      "slug": "nghe-an-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.606",
+    "lon": "105.58"
+  },
+  "metadata": {},
+  "source": {}
+}

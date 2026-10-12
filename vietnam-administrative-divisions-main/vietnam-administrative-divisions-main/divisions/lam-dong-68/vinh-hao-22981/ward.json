@@ -1,0 +1,45 @@
+{
+  "id": "22981",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vĩnh Hảo",
+    "en": "Vinh Hao",
+    "slug": "vinh-hao-22981"
+  },
+  "code": {
+    "id": "22981",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.301",
+    "lon": "108.72"
+  },
+  "metadata": {},
+  "source": {}
+}

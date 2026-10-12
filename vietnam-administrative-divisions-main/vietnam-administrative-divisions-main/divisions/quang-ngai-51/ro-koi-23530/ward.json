@@ -1,0 +1,45 @@
+{
+  "id": "23530",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Rờ Kơi",
+    "en": "Ro Koi",
+    "slug": "ro-koi-23530"
+  },
+  "code": {
+    "id": "23530",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ngãi",
+      "en": "Quang Ngai",
+      "slug": "quang-ngai-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.52",
+    "lon": "107.739"
+  },
+  "metadata": {},
+  "source": {}
+}

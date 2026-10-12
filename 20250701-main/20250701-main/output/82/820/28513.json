@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tam Bình, Huyện Cai Lậy, Tỉnh Tiền Giang",
+  "ellapsedInMs": 9876,
+  "estimatedCost": 0.0037254,
+  "thought": "**Determining the New Administrative Unit for \"Xã Tam Bình, Huyện Cai Lậy, Tỉnh Tiền Giang\"**\n\nOkay, so the task at hand is to pinpoint the new administrative unit corresponding to the old ward \"Xã Tam Bình, Huyện Cai Lậy, Tỉnh Tiền Giang\".  My first move is always to verify the province name.  Given the provided resolutions, I need to check for province mergers.  Resolution 60-NQ/TW states that \"Tỉnh Tiền Giang\" and \"Tỉnh Đồng Tháp\" merged, becoming \"Tỉnh Đồng Tháp\".  So, the starting point is actually \"Xã Tam Bình, Huyện Cai Lậy, Tỉnh Đồng Tháp\".\n\nNow, the search begins within the relevant resolutions, specifically those concerning \"Tỉnh Đồng Tháp\". I quickly turn my attention to \"1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp\".  Line 53 immediately catches my eye: it's the direct match I was looking for. \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tam Bình và xã Ngũ Hiệp thành xã mới có tên gọi là **xã Ngũ Hiệp**.\" This clearly indicates that \"Xã Tam Bình\" is involved in a merger with \"Xã Ngũ Hiệp\".\n\nI double-check to confirm that this resolution indeed applies to the now-renamed \"Tỉnh Đồng Tháp\". Yes, the header of the resolution is explicit. And, of course, the mention of \"Xã Tam Bình\" in the resolution confirms it's the right context.\n\nNext, I need to verify that \"xã Ngũ Hiệp\" exists as a valid new ward. A quick check of the new wards list for \"Tỉnh Đồng Tháp\" confirms this. The entry with code \"28516\" and name \"Xã Ngũ Hiệp\" is a perfect match.\n\nTo be absolutely certain, I scanned the other provided resolutions, particularly those concerning the neighboring province of Vĩnh Long. However, those references to \"xã Tam Bình\" and \"thị trấn Tam Bình\" were clearly distinct, not applying to the region of interest (\"Huyện Cai Lậy\" in the former \"Tỉnh Tiền Giang\", now \"Tỉnh Đồng Tháp\").\n\nTherefore, based on my analysis of resolution 1663/NQ-UBTVQH15 and the new ward data, my conclusion is that \"Xã Tam Bình, Huyện Cai Lậy, Tỉnh Tiền Giang\" has been absorbed into the newly created \"Xã Ngũ Hiệp\" within \"Tỉnh Đồng Tháp\". This is a high-confidence finding, given the direct and unambiguous statement in the cited resolution.\n\nHere's the output I would produce: `{\"province_name\": \"Tỉnh Đồng Tháp\", \"ward_name\": \"Xã Ngũ Hiệp\", \"ward_code\": \"28516\", \"citation\": \"1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp - line 53. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tam Bình và xã Ngũ Hiệp thành xã mới có tên gọi là **xã Ngũ Hiệp**.\", \"confidence\": \"high\"}`.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "53. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tam Bình và xã Ngũ Hiệp thành xã mới có tên gọi là **xã Ngũ Hiệp**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "28516",
+      "ward_name": "Xã Ngũ Hiệp"
+    }
+  ]
+}

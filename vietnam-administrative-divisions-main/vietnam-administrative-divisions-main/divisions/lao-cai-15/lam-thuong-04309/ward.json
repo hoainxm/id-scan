@@ -1,0 +1,45 @@
+{
+  "id": "04309",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lâm Thượng",
+    "en": "Lam Thuong",
+    "slug": "lam-thuong-04309"
+  },
+  "code": {
+    "id": "04309",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.22",
+    "lon": "104.684"
+  },
+  "metadata": {},
+  "source": {}
+}

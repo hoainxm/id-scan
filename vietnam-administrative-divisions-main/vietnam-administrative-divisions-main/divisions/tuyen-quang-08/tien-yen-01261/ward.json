@@ -1,0 +1,45 @@
+{
+  "id": "01261",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tiên Yên",
+    "en": "Tien Yen",
+    "slug": "tien-yen-01261"
+  },
+  "code": {
+    "id": "01261",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Tuyên Quang",
+      "en": "Tuyen Quang",
+      "slug": "tuyen-quang-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.28",
+    "lon": "104.708"
+  },
+  "metadata": {},
+  "source": {}
+}

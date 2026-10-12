@@ -1,0 +1,28 @@
+{
+  "address": "Phường Mỹ Phước, Thành phố Bến Cát, Tỉnh Bình Dương",
+  "ellapsedInMs": 8596,
+  "estimatedCost": 0.004755,
+  "thought": "**Identifying the New Wards for \"Phường Mỹ Phước\"**\n\nOkay, let's break this down. The user's asking for the new administrative units corresponding to the old ward \"Phường Mỹ Phước, Thành phố Bến Cát, Tỉnh Bình Dương\".  First, I need to account for the province merger – \"Tỉnh Bình Dương\" is now part of \"Thành phố Hồ Chí Minh\" (HCM City) based on Resolution 60-NQ/TW.\n\nMy next step is to carefully review the provided resolutions, specifically looking for any mentions of \"Phường Mỹ Phước\" in the context of Bình Dương or HCM City. Resolution 1685/NQ-UBTVQH15, \"Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh,\" immediately catches my eye as highly relevant.  This is where the detailed mapping will be.\n\nScanning Resolution 1685, I see two key clauses:\n\n*   Clause 94 explicitly states that a part of \"Phường Mỹ Phước\" is merged into the new ward \"Phường Long Nguyên\".  The resolution specifies \"một phần diện tích tự nhiên, quy mô dân số,\" meaning *part* of \"Phường Mỹ Phước\" is incorporated. \"Phường Long Nguyên\" is the new ward.  From the accompanying new ward list, I confirm the code is 25840, and the province is indeed \"Thành phố Hồ Chí Minh.\"\n\n*   Clause 95 then addresses the *remaining* part of \"Phường Mỹ Phước\".  It indicates that this remaining portion, along with other areas, is merged to form the new ward \"Phường Bến Cát\".  Again, the new ward list confirms the code is 25813, and the province is \"Thành phố Hồ Chí Minh.\"\n\nTherefore, based on Resolution 1685, the old \"Phường Mỹ Phước\" is now split between two new wards: \"Phường Long Nguyên\" (code 25840) and \"Phường Bến Cát\" (code 25813), both within \"Thành phố Hồ Chí Minh\".  The confidence in this conclusion is high because the resolution provides a clear and direct mapping of \"Phường Mỹ Phước\" to its new administrative structures. The resolution explicitly states how the old ward is divided. This is straightforward.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "94. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường An Điền, xã Long Nguyên và một phần diện tích tự nhiên, quy mô dân số của phường Mỹ Phước thành phường mới có tên gọi là phường Long Nguyên."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "25840",
+      "ward_name": "Phường Long Nguyên"
+    },
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "95. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tân Hưng (huyện Bàu Bàng), xã Lai Hưng và phần còn lại của phường Mỹ Phước sau khi sắp xếp theo quy định tại khoản 94 Điều này thành phường mới có tên gọi là phường Bến Cát."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "25813",
+      "ward_name": "Phường Bến Cát"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "08218",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Chí Tiên",
+    "en": "Chi Tien",
+    "slug": "chi-tien-08218"
+  },
+  "code": {
+    "id": "08218",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "Phú Thọ",
+      "en": "Phu Tho",
+      "slug": "phu-tho-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "Phú Thọ",
+        "en": "Phu Tho",
+        "slug": "phu-tho-25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.422",
+    "lon": "105.166"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "25654",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Gò Dầu",
+    "en": "Go Dau",
+    "slug": "go-dau-25654"
+  },
+  "code": {
+    "id": "25654",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "Tây Ninh",
+      "en": "Tay Ninh",
+      "slug": "tay-ninh-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.085",
+    "lon": "106.267"
+  },
+  "metadata": {},
+  "source": {}
+}

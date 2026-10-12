@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hương Hòa, Huyện Phú Lộc, Thành phố Huế",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: Ngày 17 tháng 12 năm 2019, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 834/NQ-UBTVQH14[1] về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Thừa Thiên Huế (nghị quyết có hiệu lực từ ngày 1 tháng 1 năm 2020). Theo đó, thành lập xã Hương Xuân thuộc huyện Nam Đông trên cơ sở toàn bộ 7,64 km² diện tích tự nhiên, 1.512 người của xã Hương Giang và toàn bộ 11,21 km² diện tích tự nhiên, 2.547 người của xã Hương Hòa.",
+  "result": [
+    {
+      "citation": {
+        "header": "1675/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Huế",
+        "line": "33. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hương Xuân, Thượng Nhật và Hương Sơn thành xã mới có tên gọi là xã Nam Đông."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Huế",
+      "ward_code": "20179",
+      "ward_name": "Xã Nam Đông"
+    }
+  ]
+}

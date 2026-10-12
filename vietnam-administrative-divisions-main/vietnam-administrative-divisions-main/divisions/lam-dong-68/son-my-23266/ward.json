@@ -1,0 +1,45 @@
+{
+  "id": "23266",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Sơn Mỹ",
+    "en": "Son My",
+    "slug": "son-my-23266"
+  },
+  "code": {
+    "id": "23266",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.661",
+    "lon": "107.689"
+  },
+  "metadata": {},
+  "source": {}
+}

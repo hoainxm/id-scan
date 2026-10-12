@@ -1,0 +1,45 @@
+{
+  "id": "12700",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bắc Tiên Hưng",
+    "en": "Bac Tien Hung",
+    "slug": "bac-tien-hung-12700"
+  },
+  "code": {
+    "id": "12700",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Hưng Yên",
+      "en": "Hung Yen",
+      "slug": "hung-yen-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.581",
+    "lon": "106.318"
+  },
+  "metadata": {},
+  "source": {}
+}

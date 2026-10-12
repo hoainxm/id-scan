@@ -1,0 +1,18 @@
+{
+  "address": "Xã Long Hưng B, Huyện Lấp Vò, Tỉnh Đồng Tháp",
+  "ellapsedInMs": 17813,
+  "estimatedCost": 0.0035489000000000002,
+  "thought": "**Mapping Old Ward to New Administrative Unit**\n\nOkay, here's the breakdown of my thinking: first, I need to pinpoint the administrative change for \"Xã Long Hưng B, Huyện Lấp Vò, Tỉnh Đồng Tháp.\" It's a straightforward process, but I need to be precise.\n\nI began by noting the key information: the old ward, district, and province. Then, I checked Province Resolutions (60-NQ/TW), but it only described the merger of provinces. It's good to keep this context in mind for further analysis.\n\nNext, I delved into the specific resolution (1663/NQ-UBTVQH15) related to administrative rearrangements. I carefully scanned each line, focusing on mentions of \"Xã Long Hưng B.\" Bingo! Line 30 directly addressed my query. It clearly states that \"Xã Long Hưng B,\" along with \"Long Hưng A\" and \"Tân Khánh Trung,\" were merged to form the new ward \"Xã Tân Khánh Trung.\"\n\nTo confirm, I double-checked the list of new wards. I was looking for a matching `ward_name` and `province_name`, and the entry `{\"ward_code\":\"30184\",\"ward_name\":\"Xã Tân Khánh Trung\",\"province_name\":\"Tỉnh Đồng Tháp\"}` was a perfect fit.\n\nTherefore, \"Xã Long Hưng B\" is now part of \"Xã Tân Khánh Trung.\" I'll construct a JSON array with the information: `province_name` being \"Tỉnh Đồng Tháp,\" `ward_code` being \"30184,\" `ward_name` being \"Xã Tân Khánh Trung,\" a high `confidence` because the match is explicit, and I'll include the citation from resolution 1663/NQ-UBTVQH15, line 30, for transparency. I will make sure the returned JSON is valid and follows the schema, using the appropriate array structure.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "30. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Long Hưng A, Long Hưng B và Tân Khánh Trung thành xã mới có tên gọi là **xã Tân Khánh Trung**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "30184",
+      "ward_name": "Xã Tân Khánh Trung"
+    }
+  ]
+}

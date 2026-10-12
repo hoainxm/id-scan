@@ -1,0 +1,45 @@
+{
+  "id": "03460",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hua Bum",
+    "en": "Hua Bum",
+    "slug": "hua-bum-03460"
+  },
+  "code": {
+    "id": "03460",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Lai Châu",
+      "en": "Lai Chau",
+      "slug": "lai-chau-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.394",
+    "lon": "102.972"
+  },
+  "metadata": {},
+  "source": {}
+}

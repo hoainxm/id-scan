@@ -1,0 +1,45 @@
+{
+  "id": "03202",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mường Pồn",
+    "en": "Muong Pon",
+    "slug": "muong-pon-03202"
+  },
+  "code": {
+    "id": "03202",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Điện Biên",
+      "en": "Dien Bien",
+      "slug": "dien-bien-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.587",
+    "lon": "103.03"
+  },
+  "metadata": {},
+  "source": {}
+}

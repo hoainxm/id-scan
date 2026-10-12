@@ -1,0 +1,469 @@
+# Thai Nguyen — Vietnam Administrative Divisions
+
+> 92 commune/wards
+> Code: 19
+> Coordinates: 22.024, 105.824
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Khánh (An Khanh)
+
+Code: 05809, Coordinates: 21.636, 105.724
+
+
+### Ba Bể (Ba Be)
+
+Code: 01906, Coordinates: 22.411, 105.723
+
+
+### Bá Xuyên (Ba Xuyen)
+
+Code: 05533, Coordinates: 21.49, 105.837
+
+
+### Bắc Kạn (Bac Kan)
+
+Code: 01843, Coordinates: 22.273, 105.856
+
+
+### Bách Quang (Bach Quang)
+
+Code: 05528, Coordinates: 21.505, 105.869
+
+
+### Bạch Thông (Bach Thong)
+
+Code: 02014, Coordinates: 22.202, 105.936
+
+
+### Bằng Thành (Bang Thanh)
+
+Code: 01864, Coordinates: 22.612, 105.661
+
+
+### Bằng Vân (Bang Van)
+
+Code: 01942, Coordinates: 22.474, 106.05
+
+
+### Bình Thành (Binh Thanh)
+
+Code: 05605, Coordinates: 21.779, 105.58
+
+
+### Bình Yên (Binh Yen)
+
+Code: 05587, Coordinates: 21.848, 105.588
+
+
+### Cẩm Giàng (Cam Giang)
+
+Code: 02008, Coordinates: 22.205, 105.878
+
+
+### Cao Minh
+
+Code: 01879, Coordinates: 22.516, 105.645
+
+
+### Chợ Đồn (Cho Don)
+
+Code: 02020, Coordinates: 22.188, 105.575
+
+
+### Chợ Mới (Cho Moi)
+
+Code: 02086, Coordinates: 21.967, 105.875
+
+
+### Chợ Rã (Cho Ra)
+
+Code: 01912, Coordinates: 22.451, 105.723
+
+
+### Côn Minh (Con Minh)
+
+Code: 02185, Coordinates: 22.127, 106.022
+
+
+### Cường Lợi (Cuong Loi)
+
+Code: 02152, Coordinates: 22.293, 106.177
+
+
+### Đại Phúc (Dai Phuc)
+
+Code: 05488, Coordinates: 21.631, 105.64
+
+
+### Đại Từ (Dai Tu)
+
+Code: 05830, Coordinates: 21.604, 105.612
+
+
+### Dân Tiến (Dan Tien)
+
+Code: 05755, Coordinates: 21.657, 106.179
+
+
+### Điềm Thụy (Diem Thuy)
+
+Code: 05941, Coordinates: 21.473, 105.917
+
+
+### Định Hóa (Dinh Hoa)
+
+Code: 05569, Coordinates: 21.896, 105.628
+
+
+### Đồng Hỷ (Dong Hy)
+
+Code: 05692, Coordinates: 21.66, 105.83
+
+
+### Đồng Phúc (Dong Phuc)
+
+Code: 01933, Coordinates: 22.32, 105.723
+
+
+### Đức Lương (Duc Luong)
+
+Code: 05776, Coordinates: 21.743, 105.569
+
+
+### Đức Xuân (Duc Xuan)
+
+Code: 01840, Coordinates: 22.17, 105.848
+
+
+### Gia Sàng (Gia Sang)
+
+Code: 05467, Coordinates: 21.579, 105.85
+
+
+### Hiệp Lực (Hiep Luc)
+
+Code: 01960, Coordinates: 22.311, 105.954
+
+
+### Hợp Thành (Hop Thanh)
+
+Code: 05632, Coordinates: 21.775, 105.657
+
+
+### Kha Sơn (Kha Son)
+
+Code: 05953, Coordinates: 21.423, 106.003
+
+
+### Kim Phượng (Kim Phuong)
+
+Code: 05551, Coordinates: 21.939, 105.657
+
+
+### La Bằng (La Bang)
+
+Code: 05818, Coordinates: 21.642, 105.626
+
+
+### La Hiên (La Hien)
+
+Code: 05740, Coordinates: 21.753, 105.953
+
+
+### Lam Vỹ (Lam Vy)
+
+Code: 05542, Coordinates: 22.009, 105.677
+
+
+### Linh Sơn (Linh Son)
+
+Code: 05710, Coordinates: 21.618, 105.878
+
+
+### Nà Phặc (Na Phac)
+
+Code: 01936, Coordinates: 22.38, 105.897
+
+
+### Na Rì (Na Ri)
+
+Code: 02155, Coordinates: 22.163, 106.112
+
+
+### Nam Cường (Nam Cuong)
+
+Code: 02026, Coordinates: 22.309, 105.574
+
+
+### Nam Hòa (Nam Hoa)
+
+Code: 05707, Coordinates: 21.612, 105.917
+
+
+### Ngân Sơn (Ngan Son)
+
+Code: 01954, Coordinates: 22.431, 105.986
+
+
+### Nghĩa Tá (Nghia Ta)
+
+Code: 02071, Coordinates: 22.02, 105.553
+
+
+### Nghiên Loan (Nghien Loan)
+
+Code: 01882, Coordinates: 22.498, 105.741
+
+
+### Nghinh Tường (Nghinh Tuong)
+
+Code: 05722, Coordinates: 21.863, 106.065
+
+
+### Phan Đình Phùng (Phan Dinh Phung)
+
+Code: 05443, Coordinates: 21.587, 105.841
+
+
+### Phổ Yên (Pho Yen)
+
+Code: 05860, Coordinates: 21.452, 105.757
+
+
+### Phong Quang
+
+Code: 01849, Coordinates: 22.156, 105.824
+
+
+### Phú Bình (Phu Binh)
+
+Code: 05908, Coordinates: 21.474, 105.955
+
+
+### Phú Đình (Phu Dinh)
+
+Code: 05602, Coordinates: 21.829, 105.552
+
+
+### Phú Lạc (Phu Lac)
+
+Code: 05788, Coordinates: 21.668, 105.662
+
+
+### Phú Lương (Phu Luong)
+
+Code: 05611, Coordinates: 21.77, 105.714
+
+
+### Phú Thịnh (Phu Thinh)
+
+Code: 05800, Coordinates: 21.707, 105.566
+
+
+### Phủ Thông (Phu Thong)
+
+Code: 01969, Coordinates: 22.273, 105.879
+
+
+### Phú Xuyên (Phu Xuyen)
+
+Code: 05773, Coordinates: 21.689, 105.516
+
+
+### Phúc Lộc (Phuc Loc)
+
+Code: 01894, Coordinates: 22.465, 105.836
+
+
+### Phúc Thuận (Phuc Thuan)
+
+Code: 05857, Coordinates: 21.459, 105.765
+
+
+### Phượng Tiến (Phuong Tien)
+
+Code: 05563, Coordinates: 21.94, 105.696
+
+
+### Quân Chu (Quan Chu)
+
+Code: 05851, Coordinates: 21.484, 105.715
+
+
+### Quan Triều (Quan Trieu)
+
+Code: 05482, Coordinates: 21.611, 105.808
+
+
+### Quảng Bạch (Quang Bach)
+
+Code: 02038, Coordinates: 22.278, 105.582
+
+
+### Quang Sơn (Quang Son)
+
+Code: 05674, Coordinates: 21.699, 105.872
+
+
+### Quyết Thắng (Quyet Thang)
+
+Code: 05455, Coordinates: 21.58, 105.799
+
+
+### Sảng Mộc (Sang Moc)
+
+Code: 05719, Coordinates: 21.906, 106.005
+
+
+### Sông Công (Song Cong)
+
+Code: 05518, Coordinates: 21.491, 105.821
+
+
+### Tân Cương (Tan Cuong)
+
+Code: 05503, Coordinates: 21.539, 105.775
+
+
+### Tân Khánh (Tan Khanh)
+
+Code: 05917, Coordinates: 21.532, 105.959
+
+
+### Tân Kỳ (Tan Ky)
+
+Code: 02104, Coordinates: 22.025, 105.833
+
+
+### Tân Thành (Tan Thanh)
+
+Code: 05923, Coordinates: 21.509, 106.005
+
+
+### Thần Sa (Than Sa)
+
+Code: 05725, Coordinates: 21.798, 105.903
+
+
+### Thành Công (Thanh Cong)
+
+Code: 05881, Coordinates: 21.397, 105.83
+
+
+### Thanh Mai
+
+Code: 02101, Coordinates: 22.038, 105.772
+
+
+### Thanh Thịnh (Thanh Thinh)
+
+Code: 02107, Coordinates: 21.925, 105.799
+
+
+### Thượng Minh (Thuong Minh)
+
+Code: 01921, Coordinates: 22.352, 105.822
+
+
+### Thượng Quan (Thuong Quan)
+
+Code: 01957, Coordinates: 22.37, 106.008
+
+
+### Tích Lương (Tich Luong)
+
+Code: 05500, Coordinates: 21.548, 105.848
+
+
+### Trại Cau (Trai Cau)
+
+Code: 05662, Coordinates: 21.595, 105.949
+
+
+### Trần Phú (Tran Phu)
+
+Code: 02176, Coordinates: 22.17, 106.142
+
+
+### Tràng Xá (Trang Xa)
+
+Code: 05746, Coordinates: 21.684, 106.094
+
+
+### Trung Hội (Trung Hoi)
+
+Code: 05581, Coordinates: 21.799, 105.621
+
+
+### Trung Thành (Trung Thanh)
+
+Code: 05899, Coordinates: 21.366, 105.875
+
+
+### Văn Hán (Van Han)
+
+Code: 05680, Coordinates: 21.669, 105.936
+
+
+### Văn Lang (Van Lang)
+
+Code: 02143, Coordinates: 22.283, 106.061
+
+
+### Văn Lăng (Van Lang)
+
+Code: 05665, Coordinates: 21.774, 105.829
+
+
+### Vạn Phú (Van Phu)
+
+Code: 05845, Coordinates: 21.551, 105.647
+
+
+### Vạn Xuân (Van Xuan)
+
+Code: 05890, Coordinates: 21.41, 105.898
+
+
+### Vĩnh Thông (Vinh Thong)
+
+Code: 01981, Coordinates: 22.186, 105.995
+
+
+### Võ Nhai (Vo Nhai)
+
+Code: 05716, Coordinates: 21.755, 106.071
+
+
+### Vô Tranh (Vo Tranh)
+
+Code: 05641, Coordinates: 21.647, 105.757
+
+
+### Xuân Dương (Xuan Duong)
+
+Code: 02191, Coordinates: 22.029, 106.075
+
+
+### Yên Bình (Yen Binh)
+
+Code: 02116, Coordinates: 21.936, 105.956
+
+
+### Yên Phong (Yen Phong)
+
+Code: 02083, Coordinates: 22.04, 105.605
+
+
+### Yên Thịnh (Yen Thinh)
+
+Code: 02044, Coordinates: 22.238, 105.502
+
+
+### Yên Trạch (Yen Trach)
+
+Code: 05620, Coordinates: 21.786, 105.709
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "86",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Vĩnh Long",
+    "en": "Vinh Long",
+    "slug": "vinh-long-86"
+  },
+  "code": {
+    "id": "86",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.995",
+    "lon": "106.292"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/vinh-long-86/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

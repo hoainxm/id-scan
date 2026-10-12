@@ -1,0 +1,45 @@
+{
+  "id": "25261",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phú Trung",
+    "en": "Phu Trung",
+    "slug": "phu-trung-25261"
+  },
+  "code": {
+    "id": "25261",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Đồng Nai",
+      "en": "Dong Nai",
+      "slug": "dong-nai-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.646",
+    "lon": "106.605"
+  },
+  "metadata": {},
+  "source": {}
+}

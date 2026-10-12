@@ -1,0 +1,4457 @@
+[
+  {
+    "id": "07654",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lạc",
+      "en": "An Lac",
+      "slug": "an-lac-07654"
+    },
+    "code": {
+      "id": "07654",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.324",
+      "lon": "106.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07210",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Giang",
+      "en": "Bac Giang",
+      "slug": "bac-giang-07210"
+    },
+    "code": {
+      "id": "07210",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.374",
+      "lon": "106.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07498",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Lũng",
+      "en": "Bac Lung",
+      "slug": "bac-lung-07498"
+    },
+    "code": {
+      "id": "07498",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.259",
+      "lon": "106.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07462",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Đài",
+      "en": "Bao Dai",
+      "slug": "bao-dai-07462"
+    },
+    "code": {
+      "id": "07462",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.351",
+      "lon": "106.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07573",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Biển Động",
+      "en": "Bien Dong",
+      "slug": "bien-dong-07573"
+    },
+    "code": {
+      "id": "07573",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.389",
+      "lon": "106.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07537",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Biên Sơn",
+      "en": "Bien Son",
+      "slug": "bien-son-07537"
+    },
+    "code": {
+      "id": "07537",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.454",
+      "lon": "106.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07294",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bố Hạ",
+      "en": "Bo Ha",
+      "slug": "bo-ha-07294"
+    },
+    "code": {
+      "id": "07294",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.464",
+      "lon": "106.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09295",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bồng Lai",
+      "en": "Bong Lai",
+      "slug": "bong-lai-09295"
+    },
+    "code": {
+      "id": "09295",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.126",
+      "lon": "106.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07519",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Lý",
+      "en": "Cam Ly",
+      "slug": "cam-ly-07519"
+    },
+    "code": {
+      "id": "07519",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.209",
+      "lon": "106.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07738",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cảnh Thụy",
+      "en": "Canh Thuy",
+      "slug": "canh-thuy-07738"
+    },
+    "code": {
+      "id": "07738",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.192",
+      "lon": "106.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09466",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Đức",
+      "en": "Cao Duc",
+      "slug": "cao-duc-09466"
+    },
+    "code": {
+      "id": "09466",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.091",
+      "lon": "106.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09313",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chi Lăng",
+      "en": "Chi Lang",
+      "slug": "chi-lang-09313"
+    },
+    "code": {
+      "id": "09313",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.103",
+      "lon": "106.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07525",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chũ",
+      "en": "Chu",
+      "slug": "chu-07525"
+    },
+    "code": {
+      "id": "07525",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.394",
+      "lon": "106.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07228",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đa Mai",
+      "en": "Da Mai",
+      "slug": "da-mai-07228"
+    },
+    "code": {
+      "id": "07228",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.283",
+      "lon": "106.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09340",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Đồng",
+      "en": "Dai Dong",
+      "slug": "dai-dong-09340"
+    },
+    "code": {
+      "id": "09340",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.095",
+      "lon": "105.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09469",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Lai",
+      "en": "Dai Lai",
+      "slug": "dai-lai-09469"
+    },
+    "code": {
+      "id": "09469",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.088",
+      "lon": "106.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07627",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Sơn",
+      "en": "Dai Son",
+      "slug": "dai-son-07627"
+    },
+    "code": {
+      "id": "07627",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.4",
+      "lon": "106.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09301",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đào Viên",
+      "en": "Dao Vien",
+      "slug": "dao-vien-09301"
+    },
+    "code": {
+      "id": "09301",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.114",
+      "lon": "106.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07594",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đèo Gia",
+      "en": "Deo Gia",
+      "slug": "deo-gia-07594"
+    },
+    "code": {
+      "id": "07594",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.302",
+      "lon": "106.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09487",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Cứu",
+      "en": "Dong Cuu",
+      "slug": "dong-cuu-09487"
+    },
+    "code": {
+      "id": "09487",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.08",
+      "lon": "106.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07282",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Kỳ",
+      "en": "Dong Ky",
+      "slug": "dong-ky-07282"
+    },
+    "code": {
+      "id": "07282",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.496",
+      "lon": "106.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09385",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Nguyên",
+      "en": "Dong Nguyen",
+      "slug": "dong-nguyen-09385"
+    },
+    "code": {
+      "id": "09385",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.125",
+      "lon": "105.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07450",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Phú",
+      "en": "Dong Phu",
+      "slug": "dong-phu-07450"
+    },
+    "code": {
+      "id": "07450",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.366",
+      "lon": "106.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07735",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Việt",
+      "en": "Dong Viet",
+      "slug": "dong-viet-07735"
+    },
+    "code": {
+      "id": "07735",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.156",
+      "lon": "106.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07672",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dương Hưu",
+      "en": "Duong Huu",
+      "slug": "duong-huu-07672"
+    },
+    "code": {
+      "id": "07672",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.229",
+      "lon": "106.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09454",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Bình",
+      "en": "Gia Binh",
+      "slug": "gia-binh-09454"
+    },
+    "code": {
+      "id": "09454",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.064",
+      "lon": "106.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09325",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạp Lĩnh",
+      "en": "Hap Linh",
+      "slug": "hap-linh-09325"
+    },
+    "code": {
+      "id": "09325",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.13",
+      "lon": "106.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07840",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Hòa",
+      "en": "Hiep Hoa",
+      "slug": "hiep-hoa-07840"
+    },
+    "code": {
+      "id": "07840",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.311",
+      "lon": "106.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07822",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Vân",
+      "en": "Hoang Van",
+      "slug": "hoang-van-07822"
+    },
+    "code": {
+      "id": "07822",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.39",
+      "lon": "105.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07864",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hợp Thịnh",
+      "en": "Hop Thinh",
+      "slug": "hop-thinh-07864"
+    },
+    "code": {
+      "id": "07864",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.338",
+      "lon": "105.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07399",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kép",
+      "en": "Kep",
+      "slug": "kep-07399"
+    },
+    "code": {
+      "id": "07399",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.415",
+      "lon": "106.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07552",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiên Lao",
+      "en": "Kien Lao",
+      "slug": "kien-lao-07552"
+    },
+    "code": {
+      "id": "07552",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.438",
+      "lon": "106.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09187",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kinh Bắc",
+      "en": "Kinh Bac",
+      "slug": "kinh-bac-09187"
+    },
+    "code": {
+      "id": "09187",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.188",
+      "lon": "106.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09529",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Thao",
+      "en": "Lam Thao",
+      "slug": "lam-thao-09529"
+    },
+    "code": {
+      "id": "09529",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.005",
+      "lon": "106.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07375",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lạng Giang",
+      "en": "Lang Giang",
+      "slug": "lang-giang-07375"
+    },
+    "code": {
+      "id": "07375",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.349",
+      "lon": "106.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09334",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Bão",
+      "en": "Lien Bao",
+      "slug": "lien-bao-09334"
+    },
+    "code": {
+      "id": "09334",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.118",
+      "lon": "106.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07444",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lục Nam",
+      "en": "Luc Nam",
+      "slug": "luc-nam-07444"
+    },
+    "code": {
+      "id": "07444",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.304",
+      "lon": "106.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07582",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lục Ngạn",
+      "en": "Luc Ngan",
+      "slug": "luc-ngan-07582"
+    },
+    "code": {
+      "id": "07582",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.392",
+      "lon": "106.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07492",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lục Sơn",
+      "en": "Luc Son",
+      "slug": "luc-son-07492"
+    },
+    "code": {
+      "id": "07492",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.219",
+      "lon": "106.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09496",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Tài",
+      "en": "Luong Tai",
+      "slug": "luong-tai-09496"
+    },
+    "code": {
+      "id": "09496",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.025",
+      "lon": "106.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09409",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mão Điền",
+      "en": "Mao Dien",
+      "slug": "mao-dien-09409"
+    },
+    "code": {
+      "id": "09409",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.064",
+      "lon": "106.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07420",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thái",
+      "en": "My Thai",
+      "slug": "my-thai-07420"
+    },
+    "code": {
+      "id": "07420",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.35",
+      "lon": "106.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07603",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Dương",
+      "en": "Nam Duong",
+      "slug": "nam-duong-07603"
+    },
+    "code": {
+      "id": "07603",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.313",
+      "lon": "106.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09286",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Sơn",
+      "en": "Nam Son",
+      "slug": "nam-son-09286"
+    },
+    "code": {
+      "id": "09286",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.143",
+      "lon": "106.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07795",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nếnh",
+      "en": "Nenh",
+      "slug": "nenh-07795"
+    },
+    "code": {
+      "id": "07795",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.25",
+      "lon": "106.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07486",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Phương",
+      "en": "Nghia Phuong",
+      "slug": "nghia-phuong-07486"
+    },
+    "code": {
+      "id": "07486",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.274",
+      "lon": "106.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07351",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Thiện",
+      "en": "Ngoc Thien",
+      "slug": "ngoc-thien-07351"
+    },
+    "code": {
+      "id": "07351",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.366",
+      "lon": "106.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07306",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhã Nam",
+      "en": "Nha Nam",
+      "slug": "nha-nam-07306"
+    },
+    "code": {
+      "id": "07306",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.444",
+      "lon": "106.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09253",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhân Hòa",
+      "en": "Nhan Hoa",
+      "slug": "nhan-hoa-09253"
+    },
+    "code": {
+      "id": "09253",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.195",
+      "lon": "106.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09475",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhân Thắng",
+      "en": "Nhan Thang",
+      "slug": "nhan-thang-09475"
+    },
+    "code": {
+      "id": "09475",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.079",
+      "lon": "106.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09445",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Xá",
+      "en": "Ninh Xa",
+      "slug": "ninh-xa-09445"
+    },
+    "code": {
+      "id": "09445",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.017",
+      "lon": "106.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09349",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phật Tích",
+      "en": "Phat Tich",
+      "slug": "phat-tich-09349"
+    },
+    "code": {
+      "id": "09349",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.088",
+      "lon": "106.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09379",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Khê",
+      "en": "Phu Khe",
+      "slug": "phu-khe-09379"
+    },
+    "code": {
+      "id": "09379",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.152",
+      "lon": "105.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09292",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Lãng",
+      "en": "Phu Lang",
+      "slug": "phu-lang-09292"
+    },
+    "code": {
+      "id": "09292",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.132",
+      "lon": "106.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07330",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Hòa",
+      "en": "Phuc Hoa",
+      "slug": "phuc-hoa-07330"
+    },
+    "code": {
+      "id": "07330",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.385",
+      "lon": "106.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09265",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phương Liễu",
+      "en": "Phuong Lieu",
+      "slug": "phuong-lieu-09265"
+    },
+    "code": {
+      "id": "09265",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.157",
+      "lon": "106.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07612",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phượng Sơn",
+      "en": "Phuong Son",
+      "slug": "phuong-son-07612"
+    },
+    "code": {
+      "id": "07612",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.345",
+      "lon": "106.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07333",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Trung",
+      "en": "Quang Trung",
+      "slug": "quang-trung-07333"
+    },
+    "code": {
+      "id": "07333",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.423",
+      "lon": "106.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09247",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quế Võ",
+      "en": "Que Vo",
+      "slug": "que-vo-09247"
+    },
+    "code": {
+      "id": "09247",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.145",
+      "lon": "106.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07534",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sa Lý",
+      "en": "Sa Ly",
+      "slug": "sa-ly-07534"
+    },
+    "code": {
+      "id": "07534",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.532",
+      "lon": "106.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07615",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Động",
+      "en": "Son Dong",
+      "slug": "son-dong-07615"
+    },
+    "code": {
+      "id": "07615",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.334",
+      "lon": "106.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07543",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Hải",
+      "en": "Son Hai",
+      "slug": "son-hai-07543"
+    },
+    "code": {
+      "id": "07543",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.511",
+      "lon": "106.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09433",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Song Liễu",
+      "en": "Song Lieu",
+      "slug": "song-lieu-09433"
+    },
+    "code": {
+      "id": "09433",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.014",
+      "lon": "106.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09208",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Đa",
+      "en": "Tam Da",
+      "slug": "tam-da-09208"
+    },
+    "code": {
+      "id": "09208",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.213",
+      "lon": "106.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09202",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Giang",
+      "en": "Tam Giang",
+      "slug": "tam-giang-09202"
+    },
+    "code": {
+      "id": "09202",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.221",
+      "lon": "105.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09370",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Sơn",
+      "en": "Tam Son",
+      "slug": "tam-son-09370"
+    },
+    "code": {
+      "id": "09370",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.145",
+      "lon": "105.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07264",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Tiến",
+      "en": "Tam Tien",
+      "slug": "tam-tien-07264"
+    },
+    "code": {
+      "id": "07264",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.492",
+      "lon": "106.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07682",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-07682"
+    },
+    "code": {
+      "id": "07682",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.259",
+      "lon": "106.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09343",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Chi",
+      "en": "Tan Chi",
+      "slug": "tan-chi-09343"
+    },
+    "code": {
+      "id": "09343",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.104",
+      "lon": "106.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07432",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Dĩnh",
+      "en": "Tan Dinh",
+      "slug": "tan-dinh-07432"
+    },
+    "code": {
+      "id": "07432",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.296",
+      "lon": "106.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07531",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Sơn",
+      "en": "Tan Son",
+      "slug": "tan-son-07531"
+    },
+    "code": {
+      "id": "07531",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.571",
+      "lon": "106.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07699",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-07699"
+    },
+    "code": {
+      "id": "07699",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.256",
+      "lon": "106.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07339",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Yên",
+      "en": "Tan Yen",
+      "slug": "tan-yen-07339"
+    },
+    "code": {
+      "id": "07339",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.389",
+      "lon": "106.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07616",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Yên Tử",
+      "en": "Tay Yen Tu",
+      "slug": "tay-yen-tu-07616"
+    },
+    "code": {
+      "id": "07616",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.215",
+      "lon": "106.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09400",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Thành",
+      "en": "Thuan Thanh",
+      "slug": "thuan-thanh-09400"
+    },
+    "code": {
+      "id": "09400",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.038",
+      "lon": "106.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09319",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Du",
+      "en": "Tien Du",
+      "slug": "tien-du-09319"
+    },
+    "code": {
+      "id": "09319",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.127",
+      "lon": "106.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07381",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Lục",
+      "en": "Tien Luc",
+      "slug": "tien-luc-07381"
+    },
+    "code": {
+      "id": "07381",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.413",
+      "lon": "106.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07696",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiền Phong",
+      "en": "Tien Phong",
+      "slug": "tien-phong-07696"
+    },
+    "code": {
+      "id": "07696",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.23",
+      "lon": "106.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09430",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trạm Lộ",
+      "en": "Tram Lo",
+      "slug": "tram-lo-09430"
+    },
+    "code": {
+      "id": "09430",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.028",
+      "lon": "106.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09427",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trí Quả",
+      "en": "Tri Qua",
+      "slug": "tri-qua-09427"
+    },
+    "code": {
+      "id": "09427",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.038",
+      "lon": "106.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09523",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Chính",
+      "en": "Trung Chinh",
+      "slug": "trung-chinh-09523"
+    },
+    "code": {
+      "id": "09523",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.012",
+      "lon": "106.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09499",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Kênh",
+      "en": "Trung Kenh",
+      "slug": "trung-kenh-09499"
+    },
+    "code": {
+      "id": "09499",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.044",
+      "lon": "106.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Sơn",
+      "en": "Truong Son",
+      "slug": "truong-son-07489"
+    },
+    "code": {
+      "id": "07489",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.25",
+      "lon": "106.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07774",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tự Lạn",
+      "en": "Tu Lan",
+      "slug": "tu-lan-07774"
+    },
+    "code": {
+      "id": "07774",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.293",
+      "lon": "106.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09367",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Từ Sơn",
+      "en": "Tu Son",
+      "slug": "tu-son-09367"
+    },
+    "code": {
+      "id": "09367",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.116",
+      "lon": "105.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07663",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuấn Đạo",
+      "en": "Tuan Dao",
+      "slug": "tuan-dao-07663"
+    },
+    "code": {
+      "id": "07663",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.272",
+      "lon": "106.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07798",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Hà",
+      "en": "Van Ha",
+      "slug": "van-ha-07798"
+    },
+    "code": {
+      "id": "07798",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.243",
+      "lon": "106.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09238",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Môn",
+      "en": "Van Mon",
+      "slug": "van-mon-09238"
+    },
+    "code": {
+      "id": "09238",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.179",
+      "lon": "105.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07621",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Sơn",
+      "en": "Van Son",
+      "slug": "van-son-07621"
+    },
+    "code": {
+      "id": "07621",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.399",
+      "lon": "106.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07777",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Yên",
+      "en": "Viet Yen",
+      "slug": "viet-yen-07777"
+    },
+    "code": {
+      "id": "07777",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.27",
+      "lon": "106.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09190",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Võ Cường",
+      "en": "Vo Cuong",
+      "slug": "vo-cuong-09190"
+    },
+    "code": {
+      "id": "09190",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.167",
+      "lon": "106.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09169",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Ninh",
+      "en": "Vu Ninh",
+      "slug": "vu-ninh-09169"
+    },
+    "code": {
+      "id": "09169",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.189",
+      "lon": "106.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07870",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Cẩm",
+      "en": "Xuan Cam",
+      "slug": "xuan-cam-07870"
+    },
+    "code": {
+      "id": "07870",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.298",
+      "lon": "105.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lương",
+      "en": "Xuan Luong",
+      "slug": "xuan-luong-07246"
+    },
+    "code": {
+      "id": "07246",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.582",
+      "lon": "106.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07642",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Định",
+      "en": "Yen Dinh",
+      "slug": "yen-dinh-07642"
+    },
+    "code": {
+      "id": "07642",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.344",
+      "lon": "106.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07681",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Dũng",
+      "en": "Yen Dung",
+      "slug": "yen-dung-07681"
+    },
+    "code": {
+      "id": "07681",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.199",
+      "lon": "106.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09193",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Phong",
+      "en": "Yen Phong",
+      "slug": "yen-phong-09193"
+    },
+    "code": {
+      "id": "09193",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.21",
+      "lon": "105.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07288",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thế",
+      "en": "Yen The",
+      "slug": "yen-the-07288"
+    },
+    "code": {
+      "id": "07288",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.479",
+      "lon": "106.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09205",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Trung",
+      "en": "Yen Trung",
+      "slug": "yen-trung-09205"
+    },
+    "code": {
+      "id": "09205",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "Bắc Ninh",
+          "en": "Bac Ninh",
+          "slug": "bac-ninh-24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.23",
+      "lon": "105.999"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

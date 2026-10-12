@@ -1,0 +1,45 @@
+{
+  "id": "03193",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Pa Ham",
+    "en": "Pa Ham",
+    "slug": "pa-ham-03193"
+  },
+  "code": {
+    "id": "03193",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Điện Biên",
+      "en": "Dien Bien",
+      "slug": "dien-bien-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.931",
+    "lon": "103.238"
+  },
+  "metadata": {},
+  "source": {}
+}

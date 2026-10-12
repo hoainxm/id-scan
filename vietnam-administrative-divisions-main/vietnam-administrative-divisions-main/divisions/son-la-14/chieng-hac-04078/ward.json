@@ -1,0 +1,45 @@
+{
+  "id": "04078",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Chiềng Hặc",
+    "en": "Chieng Hac",
+    "slug": "chieng-hac-04078"
+  },
+  "code": {
+    "id": "04078",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.979",
+    "lon": "104.425"
+  },
+  "metadata": {},
+  "source": {}
+}

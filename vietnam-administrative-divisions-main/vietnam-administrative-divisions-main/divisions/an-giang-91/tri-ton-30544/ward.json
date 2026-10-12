@@ -1,0 +1,45 @@
+{
+  "id": "30544",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tri Tôn",
+    "en": "Tri Ton",
+    "slug": "tri-ton-30544"
+  },
+  "code": {
+    "id": "30544",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.412",
+    "lon": "104.971"
+  },
+  "metadata": {},
+  "source": {}
+}

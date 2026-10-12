@@ -1,0 +1,45 @@
+{
+  "id": "21592",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Quy Nhơn Nam",
+    "en": "Quy Nhon Nam",
+    "slug": "quy-nhon-nam-21592"
+  },
+  "code": {
+    "id": "21592",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.756",
+    "lon": "109.212"
+  },
+  "metadata": {},
+  "source": {}
+}

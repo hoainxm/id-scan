@@ -1,0 +1,45 @@
+{
+  "id": "03334",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mường Thanh",
+    "en": "Muong Thanh",
+    "slug": "muong-thanh-03334"
+  },
+  "code": {
+    "id": "03334",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Điện Biên",
+      "en": "Dien Bien",
+      "slug": "dien-bien-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.387",
+    "lon": "103.017"
+  },
+  "metadata": {},
+  "source": {}
+}

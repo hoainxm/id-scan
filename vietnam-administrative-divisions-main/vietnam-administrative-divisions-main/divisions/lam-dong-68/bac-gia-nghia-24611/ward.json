@@ -1,0 +1,45 @@
+{
+  "id": "24611",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bắc Gia Nghĩa",
+    "en": "Bac Gia Nghia",
+    "slug": "bac-gia-nghia-24611"
+  },
+  "code": {
+    "id": "24611",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.011",
+    "lon": "107.712"
+  },
+  "metadata": {},
+  "source": {}
+}

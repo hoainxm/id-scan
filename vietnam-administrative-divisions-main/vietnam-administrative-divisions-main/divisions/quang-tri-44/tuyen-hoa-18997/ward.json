@@ -1,0 +1,45 @@
+{
+  "id": "18997",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tuyên Hóa",
+    "en": "Tuyen Hoa",
+    "slug": "tuyen-hoa-18997"
+  },
+  "code": {
+    "id": "18997",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "Quảng Trị",
+      "en": "Quang Tri",
+      "slug": "quang-tri-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.9",
+    "lon": "106.105"
+  },
+  "metadata": {},
+  "source": {}
+}

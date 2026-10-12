@@ -1,0 +1,45 @@
+{
+  "id": "14248",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hải Hưng",
+    "en": "Hai Hung",
+    "slug": "hai-hung-14248"
+  },
+  "code": {
+    "id": "14248",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "Ninh Bình",
+      "en": "Ninh Binh",
+      "slug": "ninh-binh-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "Ninh Bình",
+        "en": "Ninh Binh",
+        "slug": "ninh-binh-37"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.195",
+    "lon": "106.309"
+  },
+  "metadata": {},
+  "source": {}
+}

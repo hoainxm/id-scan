@@ -1,0 +1,33 @@
+{
+  "id": "04",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Cao Bằng",
+    "en": "Cao Bang",
+    "slug": "cao-bang-04"
+  },
+  "code": {
+    "id": "04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.746",
+    "lon": "106.083"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/cao-bang-04/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

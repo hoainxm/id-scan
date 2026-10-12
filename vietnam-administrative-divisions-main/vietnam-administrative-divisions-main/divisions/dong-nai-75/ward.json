@@ -1,0 +1,4277 @@
+[
+  {
+    "id": "25333",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lộc",
+      "en": "An Loc",
+      "slug": "an-loc-25333"
+    },
+    "code": {
+      "id": "25333",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.687",
+      "lon": "106.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26383",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phước",
+      "en": "An Phuoc",
+      "slug": "an-phuoc-26383"
+    },
+    "code": {
+      "id": "26383",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.532",
+      "lon": "106.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26296",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Viễn",
+      "en": "An Vien",
+      "slug": "an-vien-26296"
+    },
+    "code": {
+      "id": "26296",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.908",
+      "lon": "107.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26098",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Vinh",
+      "en": "Bao Vinh",
+      "slug": "bao-vinh-26098"
+    },
+    "code": {
+      "id": "26098",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.971",
+      "lon": "107.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26254",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bàu Hàm",
+      "en": "Bau Ham",
+      "slug": "bau-ham-26254"
+    },
+    "code": {
+      "id": "26254",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.026",
+      "lon": "107.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26068",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Biên Hòa",
+      "en": "Bien Hoa",
+      "slug": "bien-hoa-26068"
+    },
+    "code": {
+      "id": "26068",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.914",
+      "lon": "106.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26389",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình An",
+      "en": "Binh An",
+      "slug": "binh-an-26389"
+    },
+    "code": {
+      "id": "26389",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.927",
+      "lon": "106.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26089",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Lộc",
+      "en": "Binh Loc",
+      "slug": "binh-loc-26089"
+    },
+    "code": {
+      "id": "26089",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.983",
+      "lon": "107.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25326",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Long",
+      "en": "Binh Long",
+      "slug": "binh-long-25326"
+    },
+    "code": {
+      "id": "25326",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.673",
+      "lon": "106.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26278",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Minh",
+      "en": "Binh Minh",
+      "slug": "binh-minh-26278"
+    },
+    "code": {
+      "id": "26278",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.679",
+      "lon": "107.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25195",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Phước",
+      "en": "Binh Phuoc",
+      "slug": "binh-phuoc-25195"
+    },
+    "code": {
+      "id": "25195",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "106.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Tân",
+      "en": "Binh Tan",
+      "slug": "binh-tan-25246"
+    },
+    "code": {
+      "id": "25246",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.938",
+      "lon": "106.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25405",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bom Bo",
+      "en": "Bom Bo",
+      "slug": "bom-bo-25405"
+    },
+    "code": {
+      "id": "25405",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.831",
+      "lon": "107.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25396",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bù Đăng",
+      "en": "Bu Dang",
+      "slug": "bu-dang-25396"
+    },
+    "code": {
+      "id": "25396",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.77",
+      "lon": "107.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25222",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bù Gia Mập",
+      "en": "Bu Gia Map",
+      "slug": "bu-gia-map-25222"
+    },
+    "code": {
+      "id": "25222",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.144",
+      "lon": "107.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26341",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Mỹ",
+      "en": "Cam My",
+      "slug": "cam-my-26341"
+    },
+    "code": {
+      "id": "26341",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.86",
+      "lon": "107.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25432",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chơn Thành",
+      "en": "Chon Thanh",
+      "slug": "chon-thanh-25432"
+    },
+    "code": {
+      "id": "25432",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.429",
+      "lon": "106.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25231",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đa Kia",
+      "en": "Da Kia",
+      "slug": "da-kia-25231"
+    },
+    "code": {
+      "id": "25231",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.904",
+      "lon": "106.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26491",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Phước",
+      "en": "Dai Phuoc",
+      "slug": "dai-phuoc-26491"
+    },
+    "code": {
+      "id": "26491",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.94",
+      "lon": "106.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26119",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đak Lua",
+      "en": "Dak Lua",
+      "slug": "dak-lua-26119"
+    },
+    "code": {
+      "id": "26119",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.458",
+      "lon": "107.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25399",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đak Nhau",
+      "en": "Dak Nhau",
+      "slug": "dak-nhau-25399"
+    },
+    "code": {
+      "id": "25399",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.968",
+      "lon": "107.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25225",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đăk Ơ",
+      "en": "Dak O",
+      "slug": "dak-o-25225"
+    },
+    "code": {
+      "id": "25225",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.074",
+      "lon": "107.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26326",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dầu Giây",
+      "en": "Dau Giay",
+      "slug": "dau-giay-26326"
+    },
+    "code": {
+      "id": "26326",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.952",
+      "lon": "107.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26206",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Quán",
+      "en": "Dinh Quan",
+      "slug": "dinh-quan-26206"
+    },
+    "code": {
+      "id": "26206",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.2",
+      "lon": "107.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25363",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Phú",
+      "en": "Dong Phu",
+      "slug": "dong-phu-25363"
+    },
+    "code": {
+      "id": "25363",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.454",
+      "lon": "106.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25390",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Tâm",
+      "en": "Dong Tam",
+      "slug": "dong-tam-25390"
+    },
+    "code": {
+      "id": "25390",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.929",
+      "lon": "106.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25210",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Xoài",
+      "en": "Dong Xoai",
+      "slug": "dong-xoai-25210"
+    },
+    "code": {
+      "id": "25210",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.525",
+      "lon": "106.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26311",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Kiệm",
+      "en": "Gia Kiem",
+      "slug": "gia-kiem-26311"
+    },
+    "code": {
+      "id": "26311",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.016",
+      "lon": "107.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26113",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàng Gòn",
+      "en": "Hang Gon",
+      "slug": "hang-gon-26113"
+    },
+    "code": {
+      "id": "26113",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.87",
+      "lon": "107.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26005",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hố Nai",
+      "en": "Ho Nai",
+      "slug": "ho-nai-26005"
+    },
+    "code": {
+      "id": "26005",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.959",
+      "lon": "106.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25309",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Phước",
+      "en": "Hung Phuoc",
+      "slug": "hung-phuoc-25309"
+    },
+    "code": {
+      "id": "25309",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "106.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26281",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Thịnh",
+      "en": "Hung Thinh",
+      "slug": "hung-thinh-26281"
+    },
+    "code": {
+      "id": "26281",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.742",
+      "lon": "106.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26227",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "La Ngà",
+      "en": "La Nga",
+      "slug": "la-nga-26227"
+    },
+    "code": {
+      "id": "26227",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.149",
+      "lon": "107.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25303",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Hưng",
+      "en": "Loc Hung",
+      "slug": "loc-hung-25303"
+    },
+    "code": {
+      "id": "25303",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.783",
+      "lon": "106.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25270",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Ninh",
+      "en": "Loc Ninh",
+      "slug": "loc-ninh-25270"
+    },
+    "code": {
+      "id": "25270",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.842",
+      "lon": "106.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25292",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Quang",
+      "en": "Loc Quang",
+      "slug": "loc-quang-25292"
+    },
+    "code": {
+      "id": "25292",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.844",
+      "lon": "106.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25279",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Tấn",
+      "en": "Loc Tan",
+      "slug": "loc-tan-25279"
+    },
+    "code": {
+      "id": "25279",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.894",
+      "lon": "106.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25280",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Thạnh",
+      "en": "Loc Thanh",
+      "slug": "loc-thanh-25280"
+    },
+    "code": {
+      "id": "25280",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.939",
+      "lon": "106.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25294",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Thành",
+      "en": "Loc Thanh",
+      "slug": "loc-thanh-25294"
+    },
+    "code": {
+      "id": "25294",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.939",
+      "lon": "106.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26020",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Bình",
+      "en": "Long Binh",
+      "slug": "long-binh-26020"
+    },
+    "code": {
+      "id": "26020",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.567",
+      "lon": "106.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25255",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hà",
+      "en": "Long Ha",
+      "slug": "long-ha-25255"
+    },
+    "code": {
+      "id": "25255",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.694",
+      "lon": "106.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26380",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hưng",
+      "en": "Long Hung",
+      "slug": "long-hung-26380"
+    },
+    "code": {
+      "id": "26380",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.874",
+      "lon": "106.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26080",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Khánh",
+      "en": "Long Khanh",
+      "slug": "long-khanh-26080"
+    },
+    "code": {
+      "id": "26080",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.926",
+      "lon": "107.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26413",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Phước",
+      "en": "Long Phuoc",
+      "slug": "long-phuoc-26413"
+    },
+    "code": {
+      "id": "26413",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.718",
+      "lon": "107.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26368",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Thành",
+      "en": "Long Thanh",
+      "slug": "long-thanh-26368"
+    },
+    "code": {
+      "id": "26368",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.761",
+      "lon": "107.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25349",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Đức",
+      "en": "Minh Duc",
+      "slug": "minh-duc-25349"
+    },
+    "code": {
+      "id": "25349",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.622",
+      "lon": "106.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25441",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Hưng",
+      "en": "Minh Hung",
+      "slug": "minh-hung-25441"
+    },
+    "code": {
+      "id": "25441",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "106.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26122",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Cát Tiên",
+      "en": "Nam Cat Tien",
+      "slug": "nam-cat-tien-26122"
+    },
+    "code": {
+      "id": "26122",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.421",
+      "lon": "107.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25417",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Trung",
+      "en": "Nghia Trung",
+      "slug": "nghia-trung-25417"
+    },
+    "code": {
+      "id": "25417",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.685",
+      "lon": "107.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25450",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nha Bích",
+      "en": "Nha Bich",
+      "slug": "nha-bich-25450"
+    },
+    "code": {
+      "id": "25450",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.513",
+      "lon": "106.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26485",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Trạch",
+      "en": "Nhon Trach",
+      "slug": "nhon-trach-26485"
+    },
+    "code": {
+      "id": "26485",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.777",
+      "lon": "106.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26221",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hòa",
+      "en": "Phu Hoa",
+      "slug": "phu-hoa-26221"
+    },
+    "code": {
+      "id": "26221",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.67",
+      "lon": "106.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26158",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lâm",
+      "en": "Phu Lam",
+      "slug": "phu-lam-26158"
+    },
+    "code": {
+      "id": "26158",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.67",
+      "lon": "107.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26173",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lý",
+      "en": "Phu Ly",
+      "slug": "phu-ly-26173"
+    },
+    "code": {
+      "id": "26173",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.376",
+      "lon": "107.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25267",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Nghĩa",
+      "en": "Phu Nghia",
+      "slug": "phu-nghia-25267"
+    },
+    "code": {
+      "id": "25267",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.654",
+      "lon": "107.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25252",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Riềng",
+      "en": "Phu Rieng",
+      "slug": "phu-rieng-25252"
+    },
+    "code": {
+      "id": "25252",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.696",
+      "lon": "106.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25261",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Trung",
+      "en": "Phu Trung",
+      "slug": "phu-trung-25261"
+    },
+    "code": {
+      "id": "25261",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "106.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26215",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Vinh",
+      "en": "Phu Vinh",
+      "slug": "phu-vinh-26215"
+    },
+    "code": {
+      "id": "26215",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.663",
+      "lon": "106.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26503",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước An",
+      "en": "Phuoc An",
+      "slug": "phuoc-an-26503"
+    },
+    "code": {
+      "id": "26503",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "106.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25220",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Bình",
+      "en": "Phuoc Binh",
+      "slug": "phuoc-binh-25220"
+    },
+    "code": {
+      "id": "25220",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.824",
+      "lon": "106.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25217",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Long",
+      "en": "Phuoc Long",
+      "slug": "phuoc-long-25217"
+    },
+    "code": {
+      "id": "25217",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "106.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25420",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Sơn",
+      "en": "Phuoc Son",
+      "slug": "phuoc-son-25420"
+    },
+    "code": {
+      "id": "25420",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.862",
+      "lon": "107.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26377",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Tân",
+      "en": "Phuoc Tan",
+      "slug": "phuoc-tan-26377"
+    },
+    "code": {
+      "id": "26377",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.528",
+      "lon": "106.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26422",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Thái",
+      "en": "Phuoc Thai",
+      "slug": "phuoc-thai-26422"
+    },
+    "code": {
+      "id": "26422",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.674",
+      "lon": "107.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26362",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Ray",
+      "en": "Song Ray",
+      "slug": "song-ray-26362"
+    },
+    "code": {
+      "id": "26362",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.717",
+      "lon": "107.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26134",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Lài",
+      "en": "Ta Lai",
+      "slug": "ta-lai-26134"
+    },
+    "code": {
+      "id": "26134",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.313",
+      "lon": "107.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26017",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Hiệp",
+      "en": "Tam Hiep",
+      "slug": "tam-hiep-26017"
+    },
+    "code": {
+      "id": "26017",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.907",
+      "lon": "107.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26374",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Phước",
+      "en": "Tam Phuoc",
+      "slug": "tam-phuoc-26374"
+    },
+    "code": {
+      "id": "26374",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.863",
+      "lon": "106.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26179",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-26179"
+    },
+    "code": {
+      "id": "26179",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.925",
+      "lon": "106.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25345",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hưng",
+      "en": "Tan Hung",
+      "slug": "tan-hung-25345"
+    },
+    "code": {
+      "id": "25345",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "106.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25357",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Khai",
+      "en": "Tan Khai",
+      "slug": "tan-khai-25357"
+    },
+    "code": {
+      "id": "25357",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.565",
+      "lon": "106.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25378",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lợi",
+      "en": "Tan Loi",
+      "slug": "tan-loi-25378"
+    },
+    "code": {
+      "id": "25378",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.86",
+      "lon": "106.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26116",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phú",
+      "en": "Tan Phu",
+      "slug": "tan-phu-26116"
+    },
+    "code": {
+      "id": "26116",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.379",
+      "lon": "107.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25351",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Quan",
+      "en": "Tan Quan",
+      "slug": "tan-quan-25351"
+    },
+    "code": {
+      "id": "25351",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.855",
+      "lon": "106.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25318",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-25318"
+    },
+    "code": {
+      "id": "25318",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.528",
+      "lon": "106.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26188",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Triều",
+      "en": "Tan Trieu",
+      "slug": "tan-trieu-26188"
+    },
+    "code": {
+      "id": "26188",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.999",
+      "lon": "106.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26209",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Sơn",
+      "en": "Thanh Son",
+      "slug": "thanh-son-26209"
+    },
+    "code": {
+      "id": "26209",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7",
+      "lon": "106.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25308",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiện Hưng",
+      "en": "Thien Hung",
+      "slug": "thien-hung-25308"
+    },
+    "code": {
+      "id": "25308",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.967",
+      "lon": "106.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25402",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Sơn",
+      "en": "Tho Son",
+      "slug": "tho-son-25402"
+    },
+    "code": {
+      "id": "25402",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.873",
+      "lon": "107.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26299",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thống Nhất",
+      "en": "Thong Nhat",
+      "slug": "thong-nhat-26299"
+    },
+    "code": {
+      "id": "26299",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.953",
+      "lon": "106.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25387",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Lợi",
+      "en": "Thuan Loi",
+      "slug": "thuan-loi-25387"
+    },
+    "code": {
+      "id": "25387",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.603",
+      "lon": "106.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26041",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trấn Biên",
+      "en": "Tran Bien",
+      "slug": "tran-bien-26041"
+    },
+    "code": {
+      "id": "26041",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.939",
+      "lon": "106.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26248",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trảng Bom",
+      "en": "Trang Bom",
+      "slug": "trang-bom-26248"
+    },
+    "code": {
+      "id": "26248",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.953",
+      "lon": "107.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25993",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trảng Dài",
+      "en": "Trang Dai",
+      "slug": "trang-dai-25993"
+    },
+    "code": {
+      "id": "25993",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.001",
+      "lon": "106.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26170",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trị An",
+      "en": "Tri An",
+      "slug": "tri-an-26170"
+    },
+    "code": {
+      "id": "26170",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.092",
+      "lon": "107.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26428",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Bắc",
+      "en": "Xuan Bac",
+      "slug": "xuan-bac-26428"
+    },
+    "code": {
+      "id": "26428",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.045",
+      "lon": "107.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26461",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Định",
+      "en": "Xuan Dinh",
+      "slug": "xuan-dinh-26461"
+    },
+    "code": {
+      "id": "26461",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.879",
+      "lon": "107.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26359",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Đông",
+      "en": "Xuan Dong",
+      "slug": "xuan-dong-26359"
+    },
+    "code": {
+      "id": "26359",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.539",
+      "lon": "106.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26347",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Đường",
+      "en": "Xuan Duong",
+      "slug": "xuan-duong-26347"
+    },
+    "code": {
+      "id": "26347",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.81",
+      "lon": "107.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26446",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hòa",
+      "en": "Xuan Hoa",
+      "slug": "xuan-hoa-26446"
+    },
+    "code": {
+      "id": "26446",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.876",
+      "lon": "107.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26104",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lập",
+      "en": "Xuan Lap",
+      "slug": "xuan-lap-26104"
+    },
+    "code": {
+      "id": "26104",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.927",
+      "lon": "107.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26425",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lộc",
+      "en": "Xuan Loc",
+      "slug": "xuan-loc-26425"
+    },
+    "code": {
+      "id": "26425",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.527",
+      "lon": "106.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26458",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Phú",
+      "en": "Xuan Phu",
+      "slug": "xuan-phu-26458"
+    },
+    "code": {
+      "id": "26458",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.891",
+      "lon": "107.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26332",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Quế",
+      "en": "Xuan Que",
+      "slug": "xuan-que-26332"
+    },
+    "code": {
+      "id": "26332",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.85",
+      "lon": "107.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26434",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Thành",
+      "en": "Xuan Thanh",
+      "slug": "xuan-thanh-26434"
+    },
+    "code": {
+      "id": "26434",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Đồng Nai",
+          "en": "Dong Nai",
+          "slug": "dong-nai-75"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.01",
+      "lon": "107.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "07381",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tiên Lục",
+    "en": "Tien Luc",
+    "slug": "tien-luc-07381"
+  },
+  "code": {
+    "id": "07381",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "Bắc Ninh",
+      "en": "Bac Ninh",
+      "slug": "bac-ninh-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.413",
+    "lon": "106.221"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "06196",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Sơn",
+      "en": "Ba Son",
+      "slug": "ba-son-06196"
+    },
+    "code": {
+      "id": "06196",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.907",
+      "lon": "106.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06325",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Sơn",
+      "en": "Bac Son",
+      "slug": "bac-son-06325"
+    },
+    "code": {
+      "id": "06325",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.814",
+      "lon": "106.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06475",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bằng Mạc",
+      "en": "Bang Mac",
+      "slug": "bang-mac-06475"
+    },
+    "code": {
+      "id": "06475",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.717",
+      "lon": "106.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06112",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Gia",
+      "en": "Binh Gia",
+      "slug": "binh-gia-06112"
+    },
+    "code": {
+      "id": "06112",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.058",
+      "lon": "106.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06427",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cai Kinh",
+      "en": "Cai Kinh",
+      "slug": "cai-kinh-06427"
+    },
+    "code": {
+      "id": "06427",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.585",
+      "lon": "106.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06211",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Lộc",
+      "en": "Cao Loc",
+      "slug": "cao-loc-06211"
+    },
+    "code": {
+      "id": "06211",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.885",
+      "lon": "106.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06637",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Sơn",
+      "en": "Chau Son",
+      "slug": "chau-son-06637"
+    },
+    "code": {
+      "id": "06637",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.464",
+      "lon": "107.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06463",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chi Lăng",
+      "en": "Chi Lang",
+      "slug": "chi-lang-06463"
+    },
+    "code": {
+      "id": "06463",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.667",
+      "lon": "106.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06481",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiến Thắng",
+      "en": "Chien Thang",
+      "slug": "chien-thang-06481"
+    },
+    "code": {
+      "id": "06481",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.838",
+      "lon": "106.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06220",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Công Sơn",
+      "en": "Cong Son",
+      "slug": "cong-son-06220"
+    },
+    "code": {
+      "id": "06220",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.88",
+      "lon": "106.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06280",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điềm He",
+      "en": "Diem He",
+      "slug": "diem-he-06280"
+    },
+    "code": {
+      "id": "06280",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.892",
+      "lon": "106.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06613",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đình Lập",
+      "en": "Dinh Lap",
+      "slug": "dinh-lap-06613"
+    },
+    "code": {
+      "id": "06613",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.548",
+      "lon": "107.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06001",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đoàn Kết",
+      "en": "Doan Ket",
+      "slug": "doan-ket-06001"
+    },
+    "code": {
+      "id": "06001",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.388",
+      "lon": "106.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06184",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Đăng",
+      "en": "Dong Dang",
+      "slug": "dong-dang-06184"
+    },
+    "code": {
+      "id": "06184",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.943",
+      "lon": "106.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05977",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Kinh",
+      "en": "Dong Kinh",
+      "slug": "dong-kinh-05977"
+    },
+    "code": {
+      "id": "05977",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.842",
+      "lon": "106.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06073",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoa Thám",
+      "en": "Hoa Tham",
+      "slug": "hoa-tham-06073"
+    },
+    "code": {
+      "id": "06073",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.18",
+      "lon": "106.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06172",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Văn Thụ",
+      "en": "Hoang Van Thu",
+      "slug": "hoang-van-thu-06172"
+    },
+    "code": {
+      "id": "06172",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.949",
+      "lon": "106.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06151",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội Hoan",
+      "en": "Hoi Hoan",
+      "slug": "hoi-hoan-06151"
+    },
+    "code": {
+      "id": "06151",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.046",
+      "lon": "106.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06079",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Phong",
+      "en": "Hong Phong",
+      "slug": "hong-phong-06079"
+    },
+    "code": {
+      "id": "06079",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.932",
+      "lon": "106.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06349",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Vũ",
+      "en": "Hung Vu",
+      "slug": "hung-vu-06349"
+    },
+    "code": {
+      "id": "06349",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.855",
+      "lon": "106.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06400",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hữu Liên",
+      "en": "Huu Lien",
+      "slug": "huu-lien-06400"
+    },
+    "code": {
+      "id": "06400",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.672",
+      "lon": "106.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06385",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hữu Lũng",
+      "en": "Huu Lung",
+      "slug": "huu-lung-06385"
+    },
+    "code": {
+      "id": "06385",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.502",
+      "lon": "106.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06037",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kháng Chiến",
+      "en": "Khang Chien",
+      "slug": "khang-chien-06037"
+    },
+    "code": {
+      "id": "06037",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.266",
+      "lon": "106.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06286",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Khê",
+      "en": "Khanh Khe",
+      "slug": "khanh-khe-06286"
+    },
+    "code": {
+      "id": "06286",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.878",
+      "lon": "106.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06565",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khuất Xá",
+      "en": "Khuat Xa",
+      "slug": "khuat-xa-06565"
+    },
+    "code": {
+      "id": "06565",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.742",
+      "lon": "107.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06625",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiên Mộc",
+      "en": "Kien Moc",
+      "slug": "kien-moc-06625"
+    },
+    "code": {
+      "id": "06625",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.642",
+      "lon": "107.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06187",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Lừa",
+      "en": "Ky Lua",
+      "slug": "ky-lua-06187"
+    },
+    "code": {
+      "id": "06187",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.866",
+      "lon": "106.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06529",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Bình",
+      "en": "Loc Binh",
+      "slug": "loc-binh-06529"
+    },
+    "code": {
+      "id": "06529",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.669",
+      "lon": "106.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06601",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lợi Bác",
+      "en": "Loi Bac",
+      "slug": "loi-bac-06601"
+    },
+    "code": {
+      "id": "06601",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.638",
+      "lon": "106.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05983",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Văn Tri",
+      "en": "Luong Van Tri",
+      "slug": "luong-van-tri-05983"
+    },
+    "code": {
+      "id": "05983",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.847",
+      "lon": "106.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06541",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mẫu Sơn",
+      "en": "Mau Son",
+      "slug": "mau-son-06541"
+    },
+    "code": {
+      "id": "06541",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.839",
+      "lon": "106.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06526",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Na Dương",
+      "en": "Na Duong",
+      "slug": "na-duong-06526"
+    },
+    "code": {
+      "id": "06526",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.703",
+      "lon": "106.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06124",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Na Sầm",
+      "en": "Na Sam",
+      "slug": "na-sam-06124"
+    },
+    "code": {
+      "id": "06124",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.057",
+      "lon": "106.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06496",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhân Lý",
+      "en": "Nhan Ly",
+      "slug": "nhan-ly-06496"
+    },
+    "code": {
+      "id": "06496",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.697",
+      "lon": "106.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06376",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhất Hòa",
+      "en": "Nhat Hoa",
+      "slug": "nhat-hoa-06376"
+    },
+    "code": {
+      "id": "06376",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.763",
+      "lon": "106.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06517",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quan Sơn",
+      "en": "Quan Son",
+      "slug": "quan-son-06517"
+    },
+    "code": {
+      "id": "06517",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.605",
+      "lon": "106.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06004",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quốc Khánh",
+      "en": "Quoc Khanh",
+      "slug": "quoc-khanh-06004"
+    },
+    "code": {
+      "id": "06004",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.366",
+      "lon": "106.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06058",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quốc Việt",
+      "en": "Quoc Viet",
+      "slug": "quoc-viet-06058"
+    },
+    "code": {
+      "id": "06058",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.216",
+      "lon": "106.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06076",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quý Hòa",
+      "en": "Quy Hoa",
+      "slug": "quy-hoa-06076"
+    },
+    "code": {
+      "id": "06076",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.178",
+      "lon": "106.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05986",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Thanh",
+      "en": "Tam Thanh",
+      "slug": "tam-thanh-05986"
+    },
+    "code": {
+      "id": "05986",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.857",
+      "lon": "106.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06316",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Đoàn",
+      "en": "Tan Doan",
+      "slug": "tan-doan-06316"
+    },
+    "code": {
+      "id": "06316",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.799",
+      "lon": "106.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06445",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-06445"
+    },
+    "code": {
+      "id": "06445",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.004",
+      "lon": "106.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06019",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-06019"
+    },
+    "code": {
+      "id": "06019",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.308",
+      "lon": "106.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06337",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tri",
+      "en": "Tan Tri",
+      "slug": "tan-tri-06337"
+    },
+    "code": {
+      "id": "06337",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.876",
+      "lon": "106.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06115",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Văn",
+      "en": "Tan Van",
+      "slug": "tan-van-06115"
+    },
+    "code": {
+      "id": "06115",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.924",
+      "lon": "106.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06616",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Bình",
+      "en": "Thai Binh",
+      "slug": "thai-binh-06616"
+    },
+    "code": {
+      "id": "06616",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.48",
+      "lon": "107.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06040",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thất Khê",
+      "en": "That Khe",
+      "slug": "that-khe-06040"
+    },
+    "code": {
+      "id": "06040",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.256",
+      "lon": "106.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06085",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiện Hòa",
+      "en": "Thien Hoa",
+      "slug": "thien-hoa-06085"
+    },
+    "code": {
+      "id": "06085",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.081",
+      "lon": "106.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06103",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiện Long",
+      "en": "Thien Long",
+      "slug": "thien-long-06103"
+    },
+    "code": {
+      "id": "06103",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.981",
+      "lon": "106.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06436",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiện Tân",
+      "en": "Thien Tan",
+      "slug": "thien-tan-06436"
+    },
+    "code": {
+      "id": "06436",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.57",
+      "lon": "106.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06091",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiện Thuật",
+      "en": "Thien Thuat",
+      "slug": "thien-thuat-06091"
+    },
+    "code": {
+      "id": "06091",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.051",
+      "lon": "106.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06577",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thống Nhất",
+      "en": "Thong Nhat",
+      "slug": "thong-nhat-06577"
+    },
+    "code": {
+      "id": "06577",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.679",
+      "lon": "106.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06148",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thụy Hùng",
+      "en": "Thuy Hung",
+      "slug": "thuy-hung-06148"
+    },
+    "code": {
+      "id": "06148",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.914",
+      "lon": "106.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06046",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tràng Định",
+      "en": "Trang Dinh",
+      "slug": "trang-dinh-06046"
+    },
+    "code": {
+      "id": "06046",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.314",
+      "lon": "106.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06313",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tri Lễ",
+      "en": "Tri Le",
+      "slug": "tri-le-06313"
+    },
+    "code": {
+      "id": "06313",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.778",
+      "lon": "106.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06457",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuấn Sơn",
+      "en": "Tuan Son",
+      "slug": "tuan-son-06457"
+    },
+    "code": {
+      "id": "06457",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.46",
+      "lon": "106.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06154",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Lãng",
+      "en": "Van Lang",
+      "slug": "van-lang-06154"
+    },
+    "code": {
+      "id": "06154",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.048",
+      "lon": "106.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06505",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Linh",
+      "en": "Van Linh",
+      "slug": "van-linh-06505"
+    },
+    "code": {
+      "id": "06505",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.631",
+      "lon": "106.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06415",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Nham",
+      "en": "Van Nham",
+      "slug": "van-nham-06415"
+    },
+    "code": {
+      "id": "06415",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.533",
+      "lon": "106.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06253",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Quan",
+      "en": "Van Quan",
+      "slug": "van-quan-06253"
+    },
+    "code": {
+      "id": "06253",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.85",
+      "lon": "106.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06367",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Lăng",
+      "en": "Vu Lang",
+      "slug": "vu-lang-06367"
+    },
+    "code": {
+      "id": "06367",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.834",
+      "lon": "106.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Lễ",
+      "en": "Vu Le",
+      "slug": "vu-le-06364"
+    },
+    "code": {
+      "id": "06364",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.797",
+      "lon": "106.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06607",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Dương",
+      "en": "Xuan Duong",
+      "slug": "xuan-duong-06607"
+    },
+    "code": {
+      "id": "06607",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.587",
+      "lon": "106.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06391",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Bình",
+      "en": "Yen Binh",
+      "slug": "yen-binh-06391"
+    },
+    "code": {
+      "id": "06391",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.639",
+      "lon": "106.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06298",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Phúc",
+      "en": "Yen Phuc",
+      "slug": "yen-phuc-06298"
+    },
+    "code": {
+      "id": "06298",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "Lạng Sơn",
+          "en": "Lang Son",
+          "slug": "lang-son-20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.787",
+      "lon": "106.541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

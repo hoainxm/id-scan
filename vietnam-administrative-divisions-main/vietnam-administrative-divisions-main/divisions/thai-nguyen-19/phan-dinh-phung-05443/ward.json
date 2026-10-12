@@ -1,0 +1,45 @@
+{
+  "id": "05443",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phan Đình Phùng",
+    "en": "Phan Dinh Phung",
+    "slug": "phan-dinh-phung-05443"
+  },
+  "code": {
+    "id": "05443",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Thái Nguyên",
+      "en": "Thai Nguyen",
+      "slug": "thai-nguyen-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Thái Nguyên",
+        "en": "Thai Nguyen",
+        "slug": "thai-nguyen-19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.587",
+    "lon": "105.841"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,5852 @@
+[
+  {
+    "id": "17479",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Châu",
+      "en": "An Chau",
+      "slug": "an-chau-17479"
+    },
+    "code": {
+      "id": "17479",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.921",
+      "lon": "105.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17329",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Anh Sơn",
+      "en": "Anh Son",
+      "slug": "anh-son-17329"
+    },
+    "code": {
+      "id": "17329",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.967",
+      "lon": "105.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17365",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Anh Sơn Đông",
+      "en": "Anh Son Dong",
+      "slug": "anh-son-dong-17365"
+    },
+    "code": {
+      "id": "17365",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.955",
+      "lon": "105.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16819",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Lý",
+      "en": "Bac Ly",
+      "slug": "bac-ly-16819"
+    },
+    "code": {
+      "id": "16819",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.595",
+      "lon": "104.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17707",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Hà",
+      "en": "Bach Ha",
+      "slug": "bach-ha-17707"
+    },
+    "code": {
+      "id": "17707",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.847",
+      "lon": "105.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17623",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Ngọc",
+      "en": "Bach Ngoc",
+      "slug": "bach-ngoc-17623"
+    },
+    "code": {
+      "id": "17623",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.938",
+      "lon": "105.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17818",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bích Hào",
+      "en": "Bich Hao",
+      "slug": "bich-hao-17818"
+    },
+    "code": {
+      "id": "17818",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.673",
+      "lon": "105.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17230",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Chuẩn",
+      "en": "Binh Chuan",
+      "slug": "binh-chuan-17230"
+    },
+    "code": {
+      "id": "17230",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.234",
+      "lon": "104.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17515",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Minh",
+      "en": "Binh Minh",
+      "slug": "binh-minh-17515"
+    },
+    "code": {
+      "id": "17515",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.106",
+      "lon": "105.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17242",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Phục",
+      "en": "Cam Phuc",
+      "slug": "cam-phuc-17242"
+    },
+    "code": {
+      "id": "17242",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.12",
+      "lon": "104.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17728",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Ngạn",
+      "en": "Cat Ngan",
+      "slug": "cat-ngan-17728"
+    },
+    "code": {
+      "id": "17728",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.856",
+      "lon": "105.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16804",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Bình",
+      "en": "Chau Binh",
+      "slug": "chau-binh-16804"
+    },
+    "code": {
+      "id": "16804",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.506",
+      "lon": "105.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17044",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Hồng",
+      "en": "Chau Hong",
+      "slug": "chau-hong-17044"
+    },
+    "code": {
+      "id": "17044",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.393",
+      "lon": "105.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17248",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Khê",
+      "en": "Chau Khe",
+      "slug": "chau-khe-17248"
+    },
+    "code": {
+      "id": "17248",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.109",
+      "lon": "104.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17056",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Lộc",
+      "en": "Chau Loc",
+      "slug": "chau-loc-17056"
+    },
+    "code": {
+      "id": "17056",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.387",
+      "lon": "105.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16792",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Tiến",
+      "en": "Chau Tien",
+      "slug": "chau-tien-16792"
+    },
+    "code": {
+      "id": "16792",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.649",
+      "lon": "105.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16855",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiêu Lưu",
+      "en": "Chieu Luu",
+      "slug": "chieu-luu-16855"
+    },
+    "code": {
+      "id": "16855",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.375",
+      "lon": "104.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17254",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Con Cuông",
+      "en": "Con Cuong",
+      "slug": "con-cuong-17254"
+    },
+    "code": {
+      "id": "17254",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.05",
+      "lon": "104.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16732",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cửa Lò",
+      "en": "Cua Lo",
+      "slug": "cua-lo-16732"
+    },
+    "code": {
+      "id": "16732",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.796",
+      "lon": "105.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17713",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Đồng",
+      "en": "Dai Dong",
+      "slug": "dai-dong-17713"
+    },
+    "code": {
+      "id": "17713",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.781",
+      "lon": "105.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17944",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Huệ",
+      "en": "Dai Hue",
+      "slug": "dai-hue-17944"
+    },
+    "code": {
+      "id": "17944",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.724",
+      "lon": "105.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17464",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diễn Châu",
+      "en": "Dien Chau",
+      "slug": "dien-chau-17464"
+    },
+    "code": {
+      "id": "17464",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.022",
+      "lon": "105.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17662",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đô Lương",
+      "en": "Do Luong",
+      "slug": "do-luong-17662"
+    },
+    "code": {
+      "id": "17662",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.913",
+      "lon": "105.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17017",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hiếu",
+      "en": "Dong Hieu",
+      "slug": "dong-hieu-17017"
+    },
+    "code": {
+      "id": "17017",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.28",
+      "lon": "105.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17878",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Lộc",
+      "en": "Dong Loc",
+      "slug": "dong-loc-17878"
+    },
+    "code": {
+      "id": "17878",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.779",
+      "lon": "105.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17530",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thành",
+      "en": "Dong Thanh",
+      "slug": "dong-thanh-17530"
+    },
+    "code": {
+      "id": "17530",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.055",
+      "lon": "105.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17416",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Châu",
+      "en": "Duc Chau",
+      "slug": "duc-chau-17416"
+    },
+    "code": {
+      "id": "17416",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.039",
+      "lon": "105.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17524",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giai Lạc",
+      "en": "Giai Lac",
+      "slug": "giai-lac-17524"
+    },
+    "code": {
+      "id": "17524",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.092",
+      "lon": "105.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17278",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giai Xuân",
+      "en": "Giai Xuan",
+      "slug": "giai-xuan-17278"
+    },
+    "code": {
+      "id": "17278",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.15",
+      "lon": "105.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17419",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Châu",
+      "en": "Hai Chau",
+      "slug": "hai-chau-17419"
+    },
+    "code": {
+      "id": "17419",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.051",
+      "lon": "105.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17833",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Lộc",
+      "en": "Hai Loc",
+      "slug": "hai-loc-17833"
+    },
+    "code": {
+      "id": "17833",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.867",
+      "lon": "105.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17722",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạnh Lâm",
+      "en": "Hanh Lam",
+      "slug": "hanh-lam-17722"
+    },
+    "code": {
+      "id": "17722",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.815",
+      "lon": "105.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17770",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoa Quân",
+      "en": "Hoa Quan",
+      "slug": "hoa-quan-17770"
+    },
+    "code": {
+      "id": "17770",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.766",
+      "lon": "105.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17110",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Mai",
+      "en": "Hoang Mai",
+      "slug": "hoang-mai-17110"
+    },
+    "code": {
+      "id": "17110",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.266",
+      "lon": "105.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17605",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hợp Minh",
+      "en": "Hop Minh",
+      "slug": "hop-minh-17605"
+    },
+    "code": {
+      "id": "17605",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.93",
+      "lon": "105.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16801",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng Chân",
+      "en": "Hung Chan",
+      "slug": "hung-chan-16801"
+    },
+    "code": {
+      "id": "16801",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.411",
+      "lon": "104.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17395",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng Châu",
+      "en": "Hung Chau",
+      "slug": "hung-chau-17395"
+    },
+    "code": {
+      "id": "17395",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.113",
+      "lon": "105.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18001",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Nguyên",
+      "en": "Hung Nguyen",
+      "slug": "hung-nguyen-18001"
+    },
+    "code": {
+      "id": "18001",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.686",
+      "lon": "105.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18028",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Nguyên Nam",
+      "en": "Hung Nguyen Nam",
+      "slug": "hung-nguyen-nam-18028"
+    },
+    "code": {
+      "id": "18028",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.615",
+      "lon": "105.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16828",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Huồi Tụ",
+      "en": "Huoi Tu",
+      "slug": "huoi-tu-16828"
+    },
+    "code": {
+      "id": "16828",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.522",
+      "lon": "104.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16885",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hữu Khuông",
+      "en": "Huu Khuong",
+      "slug": "huu-khuong-16885"
+    },
+    "code": {
+      "id": "16885",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.48",
+      "lon": "104.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16849",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hữu Kiệm",
+      "en": "Huu Kiem",
+      "slug": "huu-kiem-16849"
+    },
+    "code": {
+      "id": "16849",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.378",
+      "lon": "104.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16822",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Keng Đu",
+      "en": "Keng Du",
+      "slug": "keng-du-16822"
+    },
+    "code": {
+      "id": "16822",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.625",
+      "lon": "104.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17791",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Bảng",
+      "en": "Kim Bang",
+      "slug": "kim-bang-17791"
+    },
+    "code": {
+      "id": "17791",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.699",
+      "lon": "105.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17971",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Liên",
+      "en": "Kim Lien",
+      "slug": "kim-lien-17971"
+    },
+    "code": {
+      "id": "17971",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.676",
+      "lon": "105.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18040",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lam Thành",
+      "en": "Lam Thanh",
+      "slug": "lam-thanh-18040"
+    },
+    "code": {
+      "id": "18040",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.604",
+      "lon": "105.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16906",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lượng Minh",
+      "en": "Luong Minh",
+      "slug": "luong-minh-16906"
+    },
+    "code": {
+      "id": "16906",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.398",
+      "lon": "104.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17641",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Sơn",
+      "en": "Luong Son",
+      "slug": "luong-son-17641"
+    },
+    "code": {
+      "id": "17641",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.929",
+      "lon": "105.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17239",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mậu Thạch",
+      "en": "Mau Thach",
+      "slug": "mau-thach-17239"
+    },
+    "code": {
+      "id": "17239",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.069",
+      "lon": "104.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17476",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Châu",
+      "en": "Minh Chau",
+      "slug": "minh-chau-17476"
+    },
+    "code": {
+      "id": "17476",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.96",
+      "lon": "105.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17071",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Hợp",
+      "en": "Minh Hop",
+      "slug": "minh-hop-17071"
+    },
+    "code": {
+      "id": "17071",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.237",
+      "lon": "105.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17263",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Môn Sơn",
+      "en": "Mon Son",
+      "slug": "mon-son-17263"
+    },
+    "code": {
+      "id": "17263",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.941",
+      "lon": "104.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17089",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Chọng",
+      "en": "Muong Chong",
+      "slug": "muong-chong-17089"
+    },
+    "code": {
+      "id": "17089",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.223",
+      "lon": "105.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17077",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Ham",
+      "en": "Muong Ham",
+      "slug": "muong-ham-17077"
+    },
+    "code": {
+      "id": "17077",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.296",
+      "lon": "105.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16831",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lống",
+      "en": "Muong Long",
+      "slug": "muong-long-16831"
+    },
+    "code": {
+      "id": "16831",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.531",
+      "lon": "104.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16774",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Quàng",
+      "en": "Muong Quang",
+      "slug": "muong-quang-16774"
+    },
+    "code": {
+      "id": "16774",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.518",
+      "lon": "104.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16858",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Típ",
+      "en": "Muong Tip",
+      "slug": "muong-tip-16858"
+    },
+    "code": {
+      "id": "16858",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.285",
+      "lon": "104.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16813",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Xén",
+      "en": "Muong Xen",
+      "slug": "muong-xen-16813"
+    },
+    "code": {
+      "id": "16813",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.395",
+      "lon": "104.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16816",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Lý",
+      "en": "My Ly",
+      "slug": "my-ly-16816"
+    },
+    "code": {
+      "id": "16816",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.59",
+      "lon": "104.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16834",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Na Loi",
+      "en": "Na Loi",
+      "slug": "na-loi-16834"
+    },
+    "code": {
+      "id": "16834",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.569",
+      "lon": "104.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16870",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Na Ngoi",
+      "en": "Na Ngoi",
+      "slug": "na-ngoi-16870"
+    },
+    "code": {
+      "id": "16870",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.244",
+      "lon": "104.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16837",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Cắn",
+      "en": "Nam Can",
+      "slug": "nam-can-16837"
+    },
+    "code": {
+      "id": "16837",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.468",
+      "lon": "104.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17935",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đàn",
+      "en": "Nam Dan",
+      "slug": "nam-dan-17935"
+    },
+    "code": {
+      "id": "17935",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.673",
+      "lon": "105.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16903",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nga My",
+      "en": "Nga My",
+      "slug": "nga-my-16903"
+    },
+    "code": {
+      "id": "16903",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.277",
+      "lon": "104.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17827",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghi Lộc",
+      "en": "Nghi Loc",
+      "slug": "nghi-loc-17827"
+    },
+    "code": {
+      "id": "17827",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.809",
+      "lon": "105.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16941",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Đàn",
+      "en": "Nghia Dan",
+      "slug": "nghia-dan-16941"
+    },
+    "code": {
+      "id": "16941",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.355",
+      "lon": "105.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17284",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Đồng",
+      "en": "Nghia Dong",
+      "slug": "nghia-dong-17284"
+    },
+    "code": {
+      "id": "17284",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.17",
+      "lon": "105.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17326",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Hành",
+      "en": "Nghia Hanh",
+      "slug": "nghia-hanh-17326"
+    },
+    "code": {
+      "id": "17326",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.031",
+      "lon": "105.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16972",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Hưng",
+      "en": "Nghia Hung",
+      "slug": "nghia-hung-16972"
+    },
+    "code": {
+      "id": "16972",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.332",
+      "lon": "105.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17032",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Khánh",
+      "en": "Nghia Khanh",
+      "slug": "nghia-khanh-17032"
+    },
+    "code": {
+      "id": "17032",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.256",
+      "lon": "105.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16951",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Lâm",
+      "en": "Nghia Lam",
+      "slug": "nghia-lam-16951"
+    },
+    "code": {
+      "id": "16951",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.414",
+      "lon": "105.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17029",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Lộc",
+      "en": "Nghia Loc",
+      "slug": "nghia-loc-17029"
+    },
+    "code": {
+      "id": "17029",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.22",
+      "lon": "105.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16975",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Mai",
+      "en": "Nghia Mai",
+      "slug": "nghia-mai-16975"
+    },
+    "code": {
+      "id": "16975",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.373",
+      "lon": "105.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16969",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Thọ",
+      "en": "Nghia Tho",
+      "slug": "nghia-tho-16969"
+    },
+    "code": {
+      "id": "16969",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.316",
+      "lon": "105.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17344",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhân Hòa",
+      "en": "Nhan Hoa",
+      "slug": "nhan-hoa-17344"
+    },
+    "code": {
+      "id": "17344",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.195",
+      "lon": "106.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16882",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhôn Mai",
+      "en": "Nhon Mai",
+      "slug": "nhon-mai-16882"
+    },
+    "code": {
+      "id": "16882",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.544",
+      "lon": "104.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17857",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Lộc",
+      "en": "Phuc Loc",
+      "slug": "phuc-loc-17857"
+    },
+    "code": {
+      "id": "17857",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.807",
+      "lon": "105.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17569",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quan Thành",
+      "en": "Quan Thanh",
+      "slug": "quan-thanh-17569"
+    },
+    "code": {
+      "id": "17569",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.983",
+      "lon": "105.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17443",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Châu",
+      "en": "Quang Chau",
+      "slug": "quang-chau-17443"
+    },
+    "code": {
+      "id": "17443",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.012",
+      "lon": "105.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17521",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Đồng",
+      "en": "Quang Dong",
+      "slug": "quang-dong-17521"
+    },
+    "code": {
+      "id": "17521",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.044",
+      "lon": "105.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16738",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quế Phong",
+      "en": "Que Phong",
+      "slug": "que-phong-16738"
+    },
+    "code": {
+      "id": "16738",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.707",
+      "lon": "104.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16777",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳ Châu",
+      "en": "Quy Chau",
+      "slug": "quy-chau-16777"
+    },
+    "code": {
+      "id": "16777",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.536",
+      "lon": "105.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17035",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳ Hợp",
+      "en": "Quy Hop",
+      "slug": "quy-hop-17035"
+    },
+    "code": {
+      "id": "17035",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.321",
+      "lon": "105.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17176",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Anh",
+      "en": "Quynh Anh",
+      "slug": "quynh-anh-17176"
+    },
+    "code": {
+      "id": "17176",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.168",
+      "lon": "105.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17179",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Lưu",
+      "en": "Quynh Luu",
+      "slug": "quynh-luu-17179"
+    },
+    "code": {
+      "id": "17179",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.232",
+      "lon": "105.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17125",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Mai",
+      "en": "Quynh Mai",
+      "slug": "quynh-mai-17125"
+    },
+    "code": {
+      "id": "17125",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.23",
+      "lon": "105.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17212",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Phú",
+      "en": "Quynh Phu",
+      "slug": "quynh-phu-17212"
+    },
+    "code": {
+      "id": "17212",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.104",
+      "lon": "105.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17170",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Sơn",
+      "en": "Quynh Son",
+      "slug": "quynh-son-17170"
+    },
+    "code": {
+      "id": "17170",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.173",
+      "lon": "105.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17149",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Tam",
+      "en": "Quynh Tam",
+      "slug": "quynh-tam-17149"
+    },
+    "code": {
+      "id": "17149",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.203",
+      "lon": "105.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17224",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Thắng",
+      "en": "Quynh Thang",
+      "slug": "quynh-thang-17224"
+    },
+    "code": {
+      "id": "17224",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.278",
+      "lon": "105.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17143",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Văn",
+      "en": "Quynh Van",
+      "slug": "quynh-van-17143"
+    },
+    "code": {
+      "id": "17143",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.208",
+      "lon": "105.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17759",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Lâm",
+      "en": "Son Lam",
+      "slug": "son-lam-17759"
+    },
+    "code": {
+      "id": "17759",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.748",
+      "lon": "105.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17743",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Đồng",
+      "en": "Tam Dong",
+      "slug": "tam-dong-17743"
+    },
+    "code": {
+      "id": "17743",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.82",
+      "lon": "105.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17059",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Hợp",
+      "en": "Tam Hop",
+      "slug": "tam-hop-17059"
+    },
+    "code": {
+      "id": "17059",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.356",
+      "lon": "105.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16933",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Quang",
+      "en": "Tam Quang",
+      "slug": "tam-quang-16933"
+    },
+    "code": {
+      "id": "16933",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.158",
+      "lon": "104.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16936",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Thái",
+      "en": "Tam Thai",
+      "slug": "tam-thai-16936"
+    },
+    "code": {
+      "id": "16936",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.226",
+      "lon": "104.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17305",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-17305"
+    },
+    "code": {
+      "id": "17305",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.526",
+      "lon": "106.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17488",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Châu",
+      "en": "Tan Chau",
+      "slug": "tan-chau-17488"
+    },
+    "code": {
+      "id": "17488",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.905",
+      "lon": "105.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17266",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Kỳ",
+      "en": "Tan Ky",
+      "slug": "tan-ky-17266"
+    },
+    "code": {
+      "id": "17266",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.103",
+      "lon": "105.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17128",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Mai",
+      "en": "Tan Mai",
+      "slug": "tan-mai-17128"
+    },
+    "code": {
+      "id": "17128",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.278",
+      "lon": "105.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17272",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phú",
+      "en": "Tan Phu",
+      "slug": "tan-phu-17272"
+    },
+    "code": {
+      "id": "17272",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.137",
+      "lon": "105.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17011",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Hiếu",
+      "en": "Tay Hieu",
+      "slug": "tay-hieu-17011"
+    },
+    "code": {
+      "id": "17011",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.308",
+      "lon": "105.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16939",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Hòa",
+      "en": "Thai Hoa",
+      "slug": "thai-hoa-16939"
+    },
+    "code": {
+      "id": "16939",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.294",
+      "lon": "105.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17842",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thần Lĩnh",
+      "en": "Than Linh",
+      "slug": "than-linh-17842"
+    },
+    "code": {
+      "id": "17842",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.813",
+      "lon": "105.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17335",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Bình Thọ",
+      "en": "Thanh Binh Tho",
+      "slug": "thanh-binh-tho-17335"
+    },
+    "code": {
+      "id": "17335",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.088",
+      "lon": "105.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16681",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Vinh",
+      "en": "Thanh Vinh",
+      "slug": "thanh-vinh-16681"
+    },
+    "code": {
+      "id": "16681",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.672",
+      "lon": "105.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17989",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiên Nhẫn",
+      "en": "Thien Nhan",
+      "slug": "thien-nhan-17989"
+    },
+    "code": {
+      "id": "17989",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.606",
+      "lon": "105.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16744",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thông Thụ",
+      "en": "Thong Thu",
+      "slug": "thong-thu-16744"
+    },
+    "code": {
+      "id": "16744",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.796",
+      "lon": "104.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17689",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuần Trung",
+      "en": "Thuan Trung",
+      "slug": "thuan-trung-17689"
+    },
+    "code": {
+      "id": "17689",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.857",
+      "lon": "105.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17287",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Đồng",
+      "en": "Tien Dong",
+      "slug": "tien-dong-17287"
+    },
+    "code": {
+      "id": "17287",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.118",
+      "lon": "105.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16750",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiền Phong",
+      "en": "Tien Phong",
+      "slug": "tien-phong-16750"
+    },
+    "code": {
+      "id": "16750",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.641",
+      "lon": "104.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16756",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tri Lễ",
+      "en": "Tri Le",
+      "slug": "tri-le-16756"
+    },
+    "code": {
+      "id": "16756",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.578",
+      "lon": "104.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17866",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Lộc",
+      "en": "Trung Loc",
+      "slug": "trung-loc-17866"
+    },
+    "code": {
+      "id": "17866",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.83",
+      "lon": "105.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16690",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Vinh",
+      "en": "Truong Vinh",
+      "slug": "truong-vinh-16690"
+    },
+    "code": {
+      "id": "16690",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.66",
+      "lon": "105.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16876",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tương Dương",
+      "en": "Tuong Duong",
+      "slug": "tuong-duong-16876"
+    },
+    "code": {
+      "id": "16876",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.32",
+      "lon": "104.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17950",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn An",
+      "en": "Van An",
+      "slug": "van-an-17950"
+    },
+    "code": {
+      "id": "17950",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.7",
+      "lon": "105.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17560",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Du",
+      "en": "Van Du",
+      "slug": "van-du-17560"
+    },
+    "code": {
+      "id": "17560",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.955",
+      "lon": "105.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17677",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Hiến",
+      "en": "Van Hien",
+      "slug": "van-hien-17677"
+    },
+    "code": {
+      "id": "17677",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.887",
+      "lon": "105.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17854",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Kiều",
+      "en": "Van Kieu",
+      "slug": "van-kieu-17854"
+    },
+    "code": {
+      "id": "17854",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.813",
+      "lon": "105.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Tụ",
+      "en": "Van Tu",
+      "slug": "van-tu-17611"
+    },
+    "code": {
+      "id": "17611",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.932",
+      "lon": "105.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17920",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vinh Hưng",
+      "en": "Vinh Hung",
+      "slug": "vinh-hung-17920"
+    },
+    "code": {
+      "id": "17920",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.695",
+      "lon": "105.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16708",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vinh Lộc",
+      "en": "Vinh Loc",
+      "slug": "vinh-loc-16708"
+    },
+    "code": {
+      "id": "16708",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.742",
+      "lon": "105.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16702",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vinh Phú",
+      "en": "Vinh Phu",
+      "slug": "vinh-phu-16702"
+    },
+    "code": {
+      "id": "16702",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.703",
+      "lon": "105.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17357",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tường",
+      "en": "Vinh Tuong",
+      "slug": "vinh-tuong-17357"
+    },
+    "code": {
+      "id": "17357",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.966",
+      "lon": "105.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17779",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lâm",
+      "en": "Xuan Lam",
+      "slug": "xuan-lam-17779"
+    },
+    "code": {
+      "id": "17779",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.704",
+      "lon": "105.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16909",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Hòa",
+      "en": "Yen Hoa",
+      "slug": "yen-hoa-16909"
+    },
+    "code": {
+      "id": "16909",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.289",
+      "lon": "104.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16912",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Na",
+      "en": "Yen Na",
+      "slug": "yen-na-16912"
+    },
+    "code": {
+      "id": "16912",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.308",
+      "lon": "104.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17506",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thành",
+      "en": "Yen Thanh",
+      "slug": "yen-thanh-17506"
+    },
+    "code": {
+      "id": "17506",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.021",
+      "lon": "105.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18007",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Trung",
+      "en": "Yen Trung",
+      "slug": "yen-trung-18007"
+    },
+    "code": {
+      "id": "18007",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.762",
+      "lon": "105.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17380",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Xuân",
+      "en": "Yen Xuan",
+      "slug": "yen-xuan-17380"
+    },
+    "code": {
+      "id": "17380",
+      "iso": null
+    },
+    "parent": {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "Nghệ An",
+          "en": "Nghe An",
+          "slug": "nghe-an-40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.905",
+      "lon": "105.18"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phong Nẫm, Huyện Giồng Trôm, Tỉnh Bến Tre",
+  "ellapsedInMs": 21053,
+  "estimatedCost": 0.03363,
+  "thought": "**My Thought Process: Determining the New Administrative Unit**\n\nOkay, I've got a request. It's about finding the updated administrative unit for \"Xã Phong Nẫm, Huyện Giồng Trôm, Tỉnh Bến Tre\".  I'll break this down methodically.\n\nFirst, I identify the existing province (\"Tỉnh Bến Tre\"), district (\"Huyện Giồng Trôm\"), and ward (\"Xã Phong Nẫm\").\n\nNext, I'll scrutinize the available resolutions. My primary focus is on how \"Tỉnh Bến Tre\" has changed, given I know provinces were being reorganized. Resolution `60-NQ/TW` is key for this. Bingo! Line 20 indicates that Bến Tre was merged with Vĩnh Long and Trà Vinh, resulting in a new province: \"Tỉnh Vĩnh Long.\" That's the first piece of the puzzle.\n\nNow, for the ward level. I must be precise. \"Phong Nẫm\" is a common name, so I'll meticulously check the context, particularly the province. I systematically review several resolutions (1656 through 1687/NQ-UBTVQH15). Most don't apply, dealing with other provinces or mentioning \"Phong Nẫm\" in unrelated contexts.  Resolution `1687/NQ-UBTVQH15` catches my eye. This is for Vĩnh Long - the correct new province. Line 94 is a match! It explicitly mentions \"Xã Phong Nẫm\" and \"Huyện Giồng Trôm\" – the old district – solidifying the context. This resolution clearly states that \"Phong Nẫm\" and Lương Hòa have merged into a new \"Xã Lương Hòa\".\n\nSo, I have the pieces: \"Tỉnh Vĩnh Long\" and \"Xã Lương Hòa.\"\n\nMy next step is to locate the associated code within the provided list. I'm looking for an entry with \"Xã Lương Hòa\" in \"Tỉnh Vĩnh Long\". There it is! {\"code\":\"28987\",\"name\":\"Xã Lương Hòa\",\"province\":\"Tỉnh Vĩnh Long\"}. Perfect match.\n\nI'll now construct the output as a JSON object. I'll include:\n-   `province_name`: \"Tỉnh Vĩnh Long\"\n-   `ward_name`: \"Xã Lương Hòa\"\n-   `ward_code`: \"28987\"\n-   `confidence`: \"high\" (because the resolution is very specific.)\n-   `citation`:\n    -   `header`: \"1687/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Vĩnh Long\"\n    -   `line`: \"94. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Lương Hòa (huyện Giồng Trôm) và xã Phong Nẫmthành xã mới có tên gọi là xã Lương Hòa.\"\n\nThe province merger is an intermediate step, but the final outcome I report is the updated ward. The Vĩnh Long resolution confirms the province.\n\nThe JSON is ready. I've double-checked the structure. All looks good.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1687/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Vĩnh Long",
+        "line": "94. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Lương Hòa (huyện Giồng Trôm) và xã Phong Nẫmthành xã mới có tên gọi là xã Lương Hòa."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Vĩnh Long",
+      "ward_code": "28987",
+      "ward_name": "Xã Lương Hòa"
+    }
+  ]
+}

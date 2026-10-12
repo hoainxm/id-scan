@@ -1,0 +1,45 @@
+{
+  "id": "25280",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lộc Thạnh",
+    "en": "Loc Thanh",
+    "slug": "loc-thanh-25280"
+  },
+  "code": {
+    "id": "25280",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Đồng Nai",
+      "en": "Dong Nai",
+      "slug": "dong-nai-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.939",
+    "lon": "106.556"
+  },
+  "metadata": {},
+  "source": {}
+}

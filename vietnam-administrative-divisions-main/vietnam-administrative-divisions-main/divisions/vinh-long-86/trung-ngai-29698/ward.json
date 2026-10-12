@@ -1,0 +1,45 @@
+{
+  "id": "29698",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Trung Ngãi",
+    "en": "Trung Ngai",
+    "slug": "trung-ngai-29698"
+  },
+  "code": {
+    "id": "29698",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "Vĩnh Long",
+      "en": "Vinh Long",
+      "slug": "vinh-long-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "Vĩnh Long",
+        "en": "Vinh Long",
+        "slug": "vinh-long-86"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.352",
+    "lon": "108.007"
+  },
+  "metadata": {},
+  "source": {}
+}

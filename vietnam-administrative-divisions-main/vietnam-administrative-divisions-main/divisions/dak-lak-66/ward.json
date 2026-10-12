@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "22045",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Kiến",
+      "en": "Binh Kien",
+      "slug": "binh-kien-22045"
+    },
+    "code": {
+      "id": "22045",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.126",
+      "lon": "109.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24235",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Buôn Đôn",
+      "en": "Buon Don",
+      "slug": "buon-don-24235"
+    },
+    "code": {
+      "id": "24235",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "107.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24305",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Buôn Hồ",
+      "en": "Buon Ho",
+      "slug": "buon-ho-24305"
+    },
+    "code": {
+      "id": "24305",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.851",
+      "lon": "108.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24133",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Buôn Ma Thuột",
+      "en": "Buon Ma Thuot",
+      "slug": "buon-ma-thuot-24133"
+    },
+    "code": {
+      "id": "24133",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "108.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24340",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư Bao",
+      "en": "Cu Bao",
+      "slug": "cu-bao-24340"
+    },
+    "code": {
+      "id": "24340",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.79",
+      "lon": "108.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24280",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư M'gar",
+      "en": "Cu M'gar",
+      "slug": "cu-mgar-24280"
+    },
+    "code": {
+      "id": "24280",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.896",
+      "lon": "108.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24436",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư M'ta",
+      "en": "Cu M'ta",
+      "slug": "cu-mta-24436"
+    },
+    "code": {
+      "id": "24436",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.731",
+      "lon": "108.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24313",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư Pơng",
+      "en": "Cu Pong",
+      "slug": "cu-pong-24313"
+    },
+    "code": {
+      "id": "24313",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.045",
+      "lon": "108.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24415",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư Prao",
+      "en": "Cu Prao",
+      "slug": "cu-prao-24415"
+    },
+    "code": {
+      "id": "24415",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.803",
+      "lon": "108.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24478",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư Pui",
+      "en": "Cu Pui",
+      "slug": "cu-pui-24478"
+    },
+    "code": {
+      "id": "24478",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.512",
+      "lon": "108.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24406",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư Yang",
+      "en": "Cu Yang",
+      "slug": "cu-yang-24406"
+    },
+    "code": {
+      "id": "24406",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.644",
+      "lon": "108.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24301",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cuôr Đăng",
+      "en": "Cuor Dang",
+      "slug": "cuor-dang-24301"
+    },
+    "code": {
+      "id": "24301",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.775",
+      "lon": "108.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24595",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đắk Liêng",
+      "en": "Dak Lieng",
+      "slug": "dak-lieng-24595"
+    },
+    "code": {
+      "id": "24595",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.397",
+      "lon": "108.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24598",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đắk Phơi",
+      "en": "Dak Phoi",
+      "slug": "dak-phoi-24598"
+    },
+    "code": {
+      "id": "24598",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.314",
+      "lon": "108.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24454",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dang Kang",
+      "en": "Dang Kang",
+      "slug": "dang-kang-24454"
+    },
+    "code": {
+      "id": "24454",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.601",
+      "lon": "108.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24346",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dliê Ya",
+      "en": "Dlie Ya",
+      "slug": "dlie-ya-24346"
+    },
+    "code": {
+      "id": "24346",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.073",
+      "lon": "108.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22258",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hòa",
+      "en": "Dong Hoa",
+      "slug": "dong-hoa-22258"
+    },
+    "code": {
+      "id": "22258",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.954",
+      "lon": "109.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22081",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Xuân",
+      "en": "Dong Xuan",
+      "slug": "dong-xuan-22081"
+    },
+    "code": {
+      "id": "22081",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.905",
+      "lon": "108.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24561",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dray Bhăng",
+      "en": "Dray Bhang",
+      "slug": "dray-bhang-24561"
+    },
+    "code": {
+      "id": "24561",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.544",
+      "lon": "108.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22222",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Bình",
+      "en": "Duc Binh",
+      "slug": "duc-binh-22222"
+    },
+    "code": {
+      "id": "22222",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.979",
+      "lon": "108.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24568",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dur Kmăl",
+      "en": "Dur Kmal",
+      "slug": "dur-kmal-24568"
+    },
+    "code": {
+      "id": "24568",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.47",
+      "lon": "108.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22225",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Bá",
+      "en": "Ea Ba",
+      "slug": "ea-ba-22225"
+    },
+    "code": {
+      "id": "22225",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.963",
+      "lon": "108.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24229",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Bung",
+      "en": "Ea Bung",
+      "slug": "ea-bung-24229"
+    },
+    "code": {
+      "id": "24229",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.143",
+      "lon": "107.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24181",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Drăng",
+      "en": "Ea Drang",
+      "slug": "ea-drang-24181"
+    },
+    "code": {
+      "id": "24181",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.206",
+      "lon": "108.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24328",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Drông",
+      "en": "Ea Drong",
+      "slug": "ea-drong-24328"
+    },
+    "code": {
+      "id": "24328",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.862",
+      "lon": "108.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24184",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea H'Leo",
+      "en": "Ea H'Leo",
+      "slug": "ea-hleo-24184"
+    },
+    "code": {
+      "id": "24184",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.232",
+      "lon": "108.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24187",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Hiao",
+      "en": "Ea Hiao",
+      "slug": "ea-hiao-24187"
+    },
+    "code": {
+      "id": "24187",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.25",
+      "lon": "108.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24169",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Kao",
+      "en": "Ea Kao",
+      "slug": "ea-kao-24169"
+    },
+    "code": {
+      "id": "24169",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.598",
+      "lon": "108.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24373",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Kar",
+      "en": "Ea Kar",
+      "slug": "ea-kar-24373"
+    },
+    "code": {
+      "id": "24373",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.804",
+      "lon": "108.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24208",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Khăl",
+      "en": "Ea Khal",
+      "slug": "ea-khal-24208"
+    },
+    "code": {
+      "id": "24208",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.197",
+      "lon": "108.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24265",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Kiết",
+      "en": "Ea Kiet",
+      "slug": "ea-kiet-24265"
+    },
+    "code": {
+      "id": "24265",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.996",
+      "lon": "108.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24496",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Kly",
+      "en": "Ea Kly",
+      "slug": "ea-kly-24496"
+    },
+    "code": {
+      "id": "24496",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.76",
+      "lon": "108.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24376",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Knốp",
+      "en": "Ea Knop",
+      "slug": "ea-knop-24376"
+    },
+    "code": {
+      "id": "24376",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.807",
+      "lon": "108.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24505",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Knuếc",
+      "en": "Ea Knuec",
+      "slug": "ea-knuec-24505"
+    },
+    "code": {
+      "id": "24505",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.695",
+      "lon": "108.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24544",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Ktur",
+      "en": "Ea Ktur",
+      "slug": "ea-ktur-24544"
+    },
+    "code": {
+      "id": "24544",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.634",
+      "lon": "108.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22237",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Ly",
+      "en": "Ea Ly",
+      "slug": "ea-ly-22237"
+    },
+    "code": {
+      "id": "22237",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.818",
+      "lon": "107.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24286",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea M'Droh",
+      "en": "Ea M'Droh",
+      "slug": "ea-mdroh-24286"
+    },
+    "code": {
+      "id": "24286",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.903",
+      "lon": "107.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24559",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Na",
+      "en": "Ea Na",
+      "slug": "ea-na-24559"
+    },
+    "code": {
+      "id": "24559",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.548",
+      "lon": "107.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24540",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Ning",
+      "en": "Ea Ning",
+      "slug": "ea-ning-24540"
+    },
+    "code": {
+      "id": "24540",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.603",
+      "lon": "108.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24250",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Nuôl",
+      "en": "Ea Nuol",
+      "slug": "ea-nuol-24250"
+    },
+    "code": {
+      "id": "24250",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.742",
+      "lon": "107.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24403",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Ô",
+      "en": "Ea O",
+      "slug": "ea-o-24403"
+    },
+    "code": {
+      "id": "24403",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.653",
+      "lon": "108.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24400",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Păl",
+      "en": "Ea Pal",
+      "slug": "ea-pal-24400"
+    },
+    "code": {
+      "id": "24400",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "108.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24502",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Phê",
+      "en": "Ea Phe",
+      "slug": "ea-phe-24502"
+    },
+    "code": {
+      "id": "24502",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.725",
+      "lon": "108.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24433",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Riêng",
+      "en": "Ea Rieng",
+      "slug": "ea-rieng-24433"
+    },
+    "code": {
+      "id": "24433",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.807",
+      "lon": "108.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24217",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Rốk",
+      "en": "Ea Rok",
+      "slug": "ea-rok-24217"
+    },
+    "code": {
+      "id": "24217",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.643",
+      "lon": "108.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24211",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Súp",
+      "en": "Ea Sup",
+      "slug": "ea-sup-24211"
+    },
+    "code": {
+      "id": "24211",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.181",
+      "lon": "107.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24445",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Trang",
+      "en": "Ea Trang",
+      "slug": "ea-trang-24445"
+    },
+    "code": {
+      "id": "24445",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.615",
+      "lon": "108.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24277",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Tul",
+      "en": "Ea Tul",
+      "slug": "ea-tul-24277"
+    },
+    "code": {
+      "id": "24277",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.903",
+      "lon": "108.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24241",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Wer",
+      "en": "Ea Wer",
+      "slug": "ea-wer-24241"
+    },
+    "code": {
+      "id": "24241",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.828",
+      "lon": "107.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24193",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ea Wy",
+      "en": "Ea Wy",
+      "slug": "ea-wy-24193"
+    },
+    "code": {
+      "id": "24193",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.215",
+      "lon": "108.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22261",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Hiệp",
+      "en": "Hoa Hiep",
+      "slug": "hoa-hiep-22261"
+    },
+    "code": {
+      "id": "22261",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.523",
+      "lon": "109.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22285",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Mỹ",
+      "en": "Hoa My",
+      "slug": "hoa-my-22285"
+    },
+    "code": {
+      "id": "22285",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.546",
+      "lon": "109.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24175",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Phú",
+      "en": "Hoa Phu",
+      "slug": "hoa-phu-24175"
+    },
+    "code": {
+      "id": "24175",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.683",
+      "lon": "107.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24472",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Sơn",
+      "en": "Hoa Son",
+      "slug": "hoa-son-24472"
+    },
+    "code": {
+      "id": "24472",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.834",
+      "lon": "108.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22276",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Thịnh",
+      "en": "Hoa Thinh",
+      "slug": "hoa-thinh-22276"
+    },
+    "code": {
+      "id": "22276",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.901",
+      "lon": "109.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22291",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Xuân",
+      "en": "Hoa Xuan",
+      "slug": "hoa-xuan-22291"
+    },
+    "code": {
+      "id": "22291",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "108.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24214",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Lốp",
+      "en": "Ia Lop",
+      "slug": "ia-lop-24214"
+    },
+    "code": {
+      "id": "24214",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.314",
+      "lon": "107.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24221",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ia Rvê",
+      "en": "Ia Rve",
+      "slug": "ia-rve-24221"
+    },
+    "code": {
+      "id": "24221",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.228",
+      "lon": "107.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24444",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Á",
+      "en": "Krong A",
+      "slug": "krong-a-24444"
+    },
+    "code": {
+      "id": "24444",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.877",
+      "lon": "108.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24538",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Ana",
+      "en": "Krong Ana",
+      "slug": "krong-ana-24538"
+    },
+    "code": {
+      "id": "24538",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.495",
+      "lon": "108.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24448",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Bông",
+      "en": "Krong Bong",
+      "slug": "krong-bong-24448"
+    },
+    "code": {
+      "id": "24448",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.452",
+      "lon": "108.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24310",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Búk",
+      "en": "Krong Buk",
+      "slug": "krong-buk-24310"
+    },
+    "code": {
+      "id": "24310",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.014",
+      "lon": "108.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24343",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Năng",
+      "en": "Krong Nang",
+      "slug": "krong-nang-24343"
+    },
+    "code": {
+      "id": "24343",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.001",
+      "lon": "108.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24604",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Nô",
+      "en": "Krong No",
+      "slug": "krong-no-24604"
+    },
+    "code": {
+      "id": "24604",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.37",
+      "lon": "107.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24490",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Pắc",
+      "en": "Krong Pac",
+      "slug": "krong-pac-24490"
+    },
+    "code": {
+      "id": "24490",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "108.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24580",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Sơn Lắk",
+      "en": "Lien Son Lak",
+      "slug": "lien-son-lak-24580"
+    },
+    "code": {
+      "id": "24580",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "108.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24412",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "M'Drắk",
+      "en": "M'Drak",
+      "slug": "mdrak-24412"
+    },
+    "code": {
+      "id": "24412",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.703",
+      "lon": "108.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24607",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Ka",
+      "en": "Nam Ka",
+      "slug": "nam-ka-24607"
+    },
+    "code": {
+      "id": "24607",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.339",
+      "lon": "108.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22147",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ô Loan",
+      "en": "O Loan",
+      "slug": "o-loan-22147"
+    },
+    "code": {
+      "id": "22147",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.255",
+      "lon": "109.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22319",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hòa 1",
+      "en": "Phu Hoa 1",
+      "slug": "phu-hoa-1-22319"
+    },
+    "code": {
+      "id": "22319",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.02",
+      "lon": "109.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22303",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hòa 2",
+      "en": "Phu Hoa 2",
+      "slug": "phu-hoa-2-22303"
+    },
+    "code": {
+      "id": "22303",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.02",
+      "lon": "109.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22096",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Mỡ",
+      "en": "Phu Mo",
+      "slug": "phu-mo-22096"
+    },
+    "code": {
+      "id": "22096",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.433",
+      "lon": "108.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Xuân",
+      "en": "Phu Xuan",
+      "slug": "phu-xuan-24364"
+    },
+    "code": {
+      "id": "24364",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.923",
+      "lon": "108.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22240",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Yên",
+      "en": "Phu Yen",
+      "slug": "phu-yen-22240"
+    },
+    "code": {
+      "id": "22240",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.2",
+      "lon": "109.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24316",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pơng Drang",
+      "en": "Pong Drang",
+      "slug": "pong-drang-24316"
+    },
+    "code": {
+      "id": "24316",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.963",
+      "lon": "108.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24259",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Phú",
+      "en": "Quang Phu",
+      "slug": "quang-phu-24259"
+    },
+    "code": {
+      "id": "24259",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.817",
+      "lon": "108.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22165",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Hòa",
+      "en": "Son Hoa",
+      "slug": "son-hoa-22165"
+    },
+    "code": {
+      "id": "22165",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.207",
+      "lon": "108.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22250",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Thành",
+      "en": "Son Thanh",
+      "slug": "son-thanh-22250"
+    },
+    "code": {
+      "id": "22250",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "109.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22051",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Cầu",
+      "en": "Song Cau",
+      "slug": "song-cau-22051"
+    },
+    "code": {
+      "id": "22051",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.526",
+      "lon": "109.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22207",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Hinh",
+      "en": "Song Hinh",
+      "slug": "song-hinh-22207"
+    },
+    "code": {
+      "id": "22207",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.8",
+      "lon": "108.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22192",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Suối Trai",
+      "en": "Suoi Trai",
+      "slug": "suoi-trai-22192"
+    },
+    "code": {
+      "id": "22192",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.094",
+      "lon": "108.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24352",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Giang",
+      "en": "Tam Giang",
+      "slug": "tam-giang-24352"
+    },
+    "code": {
+      "id": "24352",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "108.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24163",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-24163"
+    },
+    "code": {
+      "id": "24163",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.71",
+      "lon": "108.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24121",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lập",
+      "en": "Tan Lap",
+      "slug": "tan-lap-24121"
+    },
+    "code": {
+      "id": "24121",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "108.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24526",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-24526"
+    },
+    "code": {
+      "id": "24526",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.778",
+      "lon": "108.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22255",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Hòa",
+      "en": "Tay Hoa",
+      "slug": "tay-hoa-22255"
+    },
+    "code": {
+      "id": "22255",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.915",
+      "lon": "109.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22171",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Sơn",
+      "en": "Tay Son",
+      "slug": "tay-son-22171"
+    },
+    "code": {
+      "id": "22171",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.281",
+      "lon": "108.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24154",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Nhất",
+      "en": "Thanh Nhat",
+      "slug": "thanh-nhat-24154"
+    },
+    "code": {
+      "id": "24154",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.644",
+      "lon": "108.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22114",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy An Bắc",
+      "en": "Tuy An Bac",
+      "slug": "tuy-an-bac-22114"
+    },
+    "code": {
+      "id": "22114",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.306",
+      "lon": "109.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22120",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy An Đông",
+      "en": "Tuy An Dong",
+      "slug": "tuy-an-dong-22120"
+    },
+    "code": {
+      "id": "22120",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.259",
+      "lon": "109.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22153",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy An Nam",
+      "en": "Tuy An Nam",
+      "slug": "tuy-an-nam-22153"
+    },
+    "code": {
+      "id": "22153",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.259",
+      "lon": "109.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22132",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy An Tây",
+      "en": "Tuy An Tay",
+      "slug": "tuy-an-tay-22132"
+    },
+    "code": {
+      "id": "22132",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.259",
+      "lon": "109.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22015",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy Hòa",
+      "en": "Tuy Hoa",
+      "slug": "tuy-hoa-22015"
+    },
+    "code": {
+      "id": "22015",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.095",
+      "lon": "109.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22177",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Hòa",
+      "en": "Van Hoa",
+      "slug": "van-hoa-22177"
+    },
+    "code": {
+      "id": "22177",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.179",
+      "lon": "109.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24529",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vụ Bổn",
+      "en": "Vu Bon",
+      "slug": "vu-bon-24529"
+    },
+    "code": {
+      "id": "24529",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.617",
+      "lon": "108.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22060",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Cảnh",
+      "en": "Xuan Canh",
+      "slug": "xuan-canh-22060"
+    },
+    "code": {
+      "id": "22060",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.563",
+      "lon": "109.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22076",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Đài",
+      "en": "Xuan Dai",
+      "slug": "xuan-dai-22076"
+    },
+    "code": {
+      "id": "22076",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.397",
+      "lon": "109.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22090",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lãnh",
+      "en": "Xuan Lanh",
+      "slug": "xuan-lanh-22090"
+    },
+    "code": {
+      "id": "22090",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.502",
+      "lon": "109.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22057",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lộc",
+      "en": "Xuan Loc",
+      "slug": "xuan-loc-22057"
+    },
+    "code": {
+      "id": "22057",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.924",
+      "lon": "108.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22111",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Phước",
+      "en": "Xuan Phuoc",
+      "slug": "xuan-phuoc-22111"
+    },
+    "code": {
+      "id": "22111",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.3",
+      "lon": "109.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22075",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Thọ",
+      "en": "Xuan Tho",
+      "slug": "xuan-tho-22075"
+    },
+    "code": {
+      "id": "22075",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.489",
+      "lon": "109.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24484",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yang Mao",
+      "en": "Yang Mao",
+      "slug": "yang-mao-24484"
+    },
+    "code": {
+      "id": "24484",
+      "iso": null
+    },
+    "parent": {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "Đắk Lắk",
+          "en": "Dak Lak",
+          "slug": "dak-lak-66"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.414",
+      "lon": "108.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

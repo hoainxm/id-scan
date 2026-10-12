@@ -1,0 +1,18 @@
+{
+  "address": "Phường Quang Trung, Thành phố Hải Dương, Tỉnh Hải Dương",
+  "ellapsedInMs": 6748,
+  "estimatedCost": 0.004246,
+  "thought": "**Analyzing the Ward's Transformation**\n\nOkay, so I'm presented with \"Phường Quang Trung, Thành phố Hải Dương, Tỉnh Hải Dương\" and need to figure out its new administrative home. First, I need to check if the province, \"Tỉnh Hải Dương,\" was merged. Scanning through the province merger data, specifically `60-NQ/TW`, I find that \"Tỉnh Hải Dương\" was indeed merged with \"thành phố Hải Phòng,\" now becoming part of \"Thành phố Hải Phòng.\"\n\nNext, I have to sift through the resolutions to pinpoint how \"Phường Quang Trung\" was reshaped. Focusing on the `Other resolutions`, I look for mentions of \"Quang Trung\" and \"Hải Dương.\"  Bingo! Resolution `1669/NQ-UBTVQH15`, related to administrative changes within \"thành phố Hải Phòng\",  states that \"Phường Quang Trung\" along with other wards, is merged into a new ward. \n\nNow, time to determine the new ward(s). The resolution is clear: the new ward is \"phường Hải Dương.\"  The resolution is under the umbrella of \"thành phố Hải Phòng,\" which reaffirms the province change I identified earlier.\n\nWith the new ward name in hand, I need the `ward_code`.  I check the `New wards` list for \"Phường Hải Dương\" under \"Thành phố Hải Phòng.\" Found it! The `ward_code` is \"10525.\"\n\nFinally, I assess the confidence level.  This mapping is incredibly straightforward and complete. The resolution directly outlines the entire process, leaving no room for ambiguity. So, I'm confident. This is a \"high\" confidence scenario.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1669/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng",
+        "line": "25. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số củacác phường Trần Hưng Đạo (thành phố Hải Dương), Nhị Châu, Ngọc Châu, Quang Trung thành phường mới có tên gọi là **phường Hải Dương**."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hải Phòng",
+      "ward_code": "10525",
+      "ward_name": "Phường Hải Dương"
+    }
+  ]
+}

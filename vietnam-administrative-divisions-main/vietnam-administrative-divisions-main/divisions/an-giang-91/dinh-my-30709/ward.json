@@ -1,0 +1,45 @@
+{
+  "id": "30709",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Định Mỹ",
+    "en": "Dinh My",
+    "slug": "dinh-my-30709"
+  },
+  "code": {
+    "id": "30709",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.314",
+    "lon": "105.277"
+  },
+  "metadata": {},
+  "source": {}
+}

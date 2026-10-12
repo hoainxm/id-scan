@@ -1,0 +1,45 @@
+{
+  "id": "24580",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Liên Sơn Lắk",
+    "en": "Lien Son Lak",
+    "slug": "lien-son-lak-24580"
+  },
+  "code": {
+    "id": "24580",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "Đắk Lắk",
+      "en": "Dak Lak",
+      "slug": "dak-lak-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "Đắk Lắk",
+        "en": "Dak Lak",
+        "slug": "dak-lak-66"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.409",
+    "lon": "108.174"
+  },
+  "metadata": {},
+  "source": {}
+}

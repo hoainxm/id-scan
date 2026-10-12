@@ -1,0 +1,45 @@
+{
+  "id": "03871",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Pắc Ngà",
+    "en": "Pac Nga",
+    "slug": "pac-nga-03871"
+  },
+  "code": {
+    "id": "03871",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.3",
+    "lon": "104.23"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "20014",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hóa Châu",
+    "en": "Hoa Chau",
+    "slug": "hoa-chau-20014"
+  },
+  "code": {
+    "id": "20014",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.551",
+    "lon": "107.577"
+  },
+  "metadata": {},
+  "source": {}
+}

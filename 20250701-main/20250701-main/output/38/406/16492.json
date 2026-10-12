@@ -1,0 +1,18 @@
+{
+  "address": "Xã Quảng Trung, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+  "ellapsedInMs": 26142,
+  "estimatedCost": 0.0069362,
+  "thought": "**Determining the New Administrative Unit for Xã Quảng Trung, Huyện Quảng Xương, Tỉnh Thanh Hóa**\n\nOkay, so I need to figure out what happened to \"Xã Quảng Trung\" in \"Huyện Quảng Xương, Tỉnh Thanh Hóa.\" First, I'm confirming that Thanh Hóa province hasn't been merged, as per the `60-NQ/TW` resolution. Then, I'm systematically going through the available resolutions, looking for any mention of \"Xã Quảng Trung\" or variations.\n\nI quickly scan through the resolutions, noting that there are many \"Quang Trung\" and variations, but none match my criteria until I hit `1686/NQ-UBTVQH15` (Thanh Hóa). Here, I find a direct match: line 33 states that \"Xã Quảng Trung\" is merged with \"Quảng Trường,\" \"Quảng Khê,\" and \"Quảng Chính\" to form \"Xã Quảng Chính.\" Though the district isn't explicitly given for these wards, the \"Quảng\" naming convention strongly suggests they all belong to the same district, Quảng Xương. Line 94 and 137 mention \"Quang Trung\" but in other districts like Ngọc Lặc and Bỉm Sơn, so I disregard them.\n\nWith a high level of confidence, I can conclude that the old \"Xã Quảng Trung\" has become part of the new \"Xã Quảng Chính.\" I then find the appropriate `ward_code` for \"Xã Quảng Chính\" in the provided list, which is \"16489.\" My confidence is high, supported by the direct mention in the resolution. The relevant citation is `1686/NQ-UBTVQH15`, line 33. This result is exactly what I was looking for. Now, I have the data I need to produce the JSON.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1686/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Thanh Hóa",
+        "line": "33. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Quảng Trường, Quảng Khê, Quảng Trung và Quảng Chính thành xã mới có tên gọi là xã Quảng Chính."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Thanh Hóa",
+      "ward_code": "16489",
+      "ward_name": "Xã Quảng Chính"
+    }
+  ]
+}

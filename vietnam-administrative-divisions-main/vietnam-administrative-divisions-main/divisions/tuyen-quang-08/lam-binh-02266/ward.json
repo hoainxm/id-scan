@@ -1,0 +1,45 @@
+{
+  "id": "02266",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lâm Bình",
+    "en": "Lam Binh",
+    "slug": "lam-binh-02266"
+  },
+  "code": {
+    "id": "02266",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Tuyên Quang",
+      "en": "Tuyen Quang",
+      "slug": "tuyen-quang-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.477",
+    "lon": "105.25"
+  },
+  "metadata": {},
+  "source": {}
+}

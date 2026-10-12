@@ -1,0 +1,45 @@
+{
+  "id": "28901",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hưng Khánh Trung",
+    "en": "Hung Khanh Trung",
+    "slug": "hung-khanh-trung-28901"
+  },
+  "code": {
+    "id": "28901",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "Vĩnh Long",
+      "en": "Vinh Long",
+      "slug": "vinh-long-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "Vĩnh Long",
+        "en": "Vinh Long",
+        "slug": "vinh-long-86"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.181",
+    "lon": "106.233"
+  },
+  "metadata": {},
+  "source": {}
+}

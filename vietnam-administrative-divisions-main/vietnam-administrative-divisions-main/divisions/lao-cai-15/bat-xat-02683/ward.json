@@ -1,0 +1,45 @@
+{
+  "id": "02683",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bát Xát",
+    "en": "Bat Xat",
+    "slug": "bat-xat-02683"
+  },
+  "code": {
+    "id": "02683",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.597",
+    "lon": "103.688"
+  },
+  "metadata": {},
+  "source": {}
+}

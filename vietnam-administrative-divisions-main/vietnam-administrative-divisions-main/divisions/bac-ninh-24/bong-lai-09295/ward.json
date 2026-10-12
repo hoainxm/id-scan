@@ -1,0 +1,45 @@
+{
+  "id": "09295",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bồng Lai",
+    "en": "Bong Lai",
+    "slug": "bong-lai-09295"
+  },
+  "code": {
+    "id": "09295",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "Bắc Ninh",
+      "en": "Bac Ninh",
+      "slug": "bac-ninh-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "Bắc Ninh",
+        "en": "Bac Ninh",
+        "slug": "bac-ninh-24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.126",
+    "lon": "106.157"
+  },
+  "metadata": {},
+  "source": {}
+}

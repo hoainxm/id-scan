@@ -1,0 +1,18 @@
+{
+  "address": "Phường Đồng Hải, Thành Phố Đồng Hới, Tỉnh Quảng Bình",
+  "ellapsedInMs": 5970,
+  "estimatedCost": 0.0026363,
+  "thought": "**Identifying the New Administrative Unit for Phường Đồng Hải**\n\nOkay, so I've got a query to determine the updated administrative status of \"Phường Đồng Hải, Thành Phố Đồng Hới, Tỉnh Quảng Bình\" given some resolutions and a new ward list. This should be straightforward. First, I need to check for any province mergers. Bingo! Resolution 60-NQ/TW clearly indicates that Quảng Bình was merged with Quảng Trị, becoming \"Tỉnh Quảng Trị.\"\n\nNow, I'll systematically search the provided resolutions, focusing on any mention of \"Đồng Hải\" within the context of the old or new provinces. I'm scanning through the lines, and there it is: Resolution 1680/NQ-UBTVQH15 has the gold! Specifically, line 69 clearly states that the entirety of \"Phường Đồng Hải\" (along with other phường and xã) was consolidated into a new \"phường Đồng Hới.\" That's a direct mapping.\n\nNext, I need to verify this result against the new wards list. I'll search for \"phường Đồng Hới,\" and there it is: `{\"ward_code\":\"18880\",\"ward_name\":\"Phường Đồng Hới\",\"province_name\":\"Tỉnh Quảng Trị\"}`. Perfect! The ward name and province align, and I've got the corresponding ward code.\n\nFinally, I'll construct the JSON output, which should be fairly simple. The `province_name` is \"Tỉnh Quảng Trị,\" the `ward_name` is \"Phường Đồng Hới,\" the `ward_code` is \"18880,\" and the `citation` will be the relevant resolution header and line. Given the explicit nature of this mapping, I'd give this a high `confidence` level. This is a solid, direct hit.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1680/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Trị",
+        "line": "69. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Đức Ninh Đông, Đồng Hải, Đồng Phú, Phú Hải, Hải Thành, Nam Lý, xã Bảo Ninh và xã Đức Ninh thành phường mới có tên gọi là **phường Đồng Hới**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Quảng Trị",
+      "ward_code": "18880",
+      "ward_name": "Phường Đồng Hới"
+    }
+  ]
+}

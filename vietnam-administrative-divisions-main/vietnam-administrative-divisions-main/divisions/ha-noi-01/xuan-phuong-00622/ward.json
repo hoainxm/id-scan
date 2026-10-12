@@ -1,0 +1,45 @@
+{
+  "id": "00622",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Xuân Phương",
+    "en": "Xuan Phuong",
+    "slug": "xuan-phuong-00622"
+  },
+  "code": {
+    "id": "00622",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Hà Nội",
+      "en": "Hanoi",
+      "slug": "ha-noi-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.052",
+    "lon": "105.734"
+  },
+  "metadata": {},
+  "source": {}
+}

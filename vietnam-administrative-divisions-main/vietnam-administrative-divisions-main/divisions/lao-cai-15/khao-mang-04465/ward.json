@@ -1,0 +1,45 @@
+{
+  "id": "04465",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Khao Mang",
+    "en": "Khao Mang",
+    "slug": "khao-mang-04465"
+  },
+  "code": {
+    "id": "04465",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.908",
+    "lon": "103.975"
+  },
+  "metadata": {},
+  "source": {}
+}

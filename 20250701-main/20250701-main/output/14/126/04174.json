@@ -1,0 +1,18 @@
+{
+  "address": "Xã Pú Bẩu, Huyện Sông Mã, Tỉnh Sơn La",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1681/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Sơn La",
+        "line": "50. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Pú Bẩu, Chiềng En và Bó Sinh thành xã mới có tên gọi là xã Bó Sinh."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Sơn La",
+      "ward_code": "04171",
+      "ward_name": "Xã Bó Sinh"
+    }
+  ]
+}

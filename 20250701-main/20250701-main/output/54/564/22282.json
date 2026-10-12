@@ -1,0 +1,18 @@
+{
+  "address": "Phường Hòa Hiệp Nam, Thị xã Đông Hòa, Tỉnh Phú Yên",
+  "ellapsedInMs": 7715,
+  "estimatedCost": 0.0034078999999999997,
+  "thought": "**Determining the New Administrative Unit for Phường Hòa Hiệp Nam**\n\nOkay, let's break this down. My task is to figure out what happened to \"Phường Hòa Hiệp Nam, Thị xã Đông Hòa, Tỉnh Phú Yên.\" First, I need to account for any province mergers. Checking my records against resolution 60-NQ/TW, I confirm that \"Tỉnh Phú Yên\" is now part of \"Tỉnh Đắk Lắk\".\n\nNow, I'm diving into the relevant resolutions. Resolution 1660/NQ-UBTVQH15, specifically regarding \"Tỉnh Đắk Lắk,\" is where I expect to find the answer. Line 95 of that resolution is the key: it explicitly states that \"Phường Hòa Hiệp Nam\" is being merged. It explains that the entire natural area and population of Hòa Hiệp Trung, Hòa Hiệp Nam, and the remaining part of Hòa Hiệp Bắc will be formed into a new ward called \"phường Hòa Hiệp.\"\n\nI double-checked my `New wards` list and, as expected, \"phường Hòa Hiệp\" with a matching province (\"Tỉnh Đắk Lắk\") is present. Bingo!\n\nGiven the clear and direct wording of the resolution, stating a complete merger, I'm confident in my findings. The old ward, \"Phường Hòa Hiệp Nam,\" has been absorbed into the new ward, \"Phường Hòa Hiệp\" (ward code 22261) located in \"Tỉnh Đắk Lắk.\" I can confidently conclude this merger with a high level of confidence.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1660/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đắk Lắk",
+        "line": "95. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Hòa Hiệp Trung, phường Hòa Hiệp Nam và phần còn lại của phường Hòa Hiệp Bắc sau khi sắp xếp theo quy định tại khoản 89 Điều này thành phường mới có tên gọi là phường Hòa Hiệp."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đắk Lắk",
+      "ward_code": "22261",
+      "ward_name": "Phường Hòa Hiệp"
+    }
+  ]
+}

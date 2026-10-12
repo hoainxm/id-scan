@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "31988",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Trạch",
+      "en": "An Trach",
+      "slug": "an-trach-31988"
+    },
+    "code": {
+      "id": "31988",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.164",
+      "lon": "105.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32002",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Xuyên",
+      "en": "An Xuyen",
+      "slug": "an-xuyen-32002"
+    },
+    "code": {
+      "id": "32002",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "104.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31825",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạc Liêu",
+      "en": "Bac Lieu",
+      "slug": "bac-lieu-31825"
+    },
+    "code": {
+      "id": "31825",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.896",
+      "lon": "105.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32069",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Biển Bạch",
+      "en": "Bien Bach",
+      "slug": "bien-bach-32069"
+    },
+    "code": {
+      "id": "32069",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.462",
+      "lon": "105.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32212",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cái Đôi Vàm",
+      "en": "Cai Doi Vam",
+      "slug": "cai-doi-vam-32212"
+    },
+    "code": {
+      "id": "32212",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.859",
+      "lon": "104.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32128",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cái Nước",
+      "en": "Cai Nuoc",
+      "slug": "cai-nuoc-32128"
+    },
+    "code": {
+      "id": "32128",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.939",
+      "lon": "105.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31894",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Thới",
+      "en": "Chau Thoi",
+      "slug": "chau-thoi-31894"
+    },
+    "code": {
+      "id": "31894",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.377",
+      "lon": "105.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32104",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đá Bạc",
+      "en": "Da Bac",
+      "slug": "da-bac-32104"
+    },
+    "code": {
+      "id": "32104",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.208",
+      "lon": "104.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32152",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đầm Dơi",
+      "en": "Dam Doi",
+      "slug": "dam-doi-32152"
+    },
+    "code": {
+      "id": "32152",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.995",
+      "lon": "105.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32201",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đất Mới",
+      "en": "Dat Moi",
+      "slug": "dat-moi-32201"
+    },
+    "code": {
+      "id": "32201",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.772",
+      "lon": "104.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32248",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đất Mũi",
+      "en": "Dat Mui",
+      "slug": "dat-mui-32248"
+    },
+    "code": {
+      "id": "32248",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "104.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31993",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Thành",
+      "en": "Dinh Thanh",
+      "slug": "dinh-thanh-31993"
+    },
+    "code": {
+      "id": "31993",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "105.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31975",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hải",
+      "en": "Dong Hai",
+      "slug": "dong-hai-31975"
+    },
+    "code": {
+      "id": "31975",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.179",
+      "lon": "105.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31972",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gành Hào",
+      "en": "Ganh Hao",
+      "slug": "ganh-hao-31972"
+    },
+    "code": {
+      "id": "31972",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.027",
+      "lon": "105.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31942",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giá Rai",
+      "en": "Gia Rai",
+      "slug": "gia-rai-31942"
+    },
+    "code": {
+      "id": "31942",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.238",
+      "lon": "105.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31840",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Thành",
+      "en": "Hiep Thanh",
+      "slug": "hiep-thanh-31840"
+    },
+    "code": {
+      "id": "31840",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.249",
+      "lon": "105.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32092",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồ Thị Kỷ",
+      "en": "Ho Thi Ky",
+      "slug": "ho-thi-ky-32092"
+    },
+    "code": {
+      "id": "32092",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.196",
+      "lon": "105.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31891",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Bình",
+      "en": "Hoa Binh",
+      "slug": "hoa-binh-31891"
+    },
+    "code": {
+      "id": "31891",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.284",
+      "lon": "105.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32041",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Thành",
+      "en": "Hoa Thanh",
+      "slug": "hoa-thanh-32041"
+    },
+    "code": {
+      "id": "32041",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.128",
+      "lon": "105.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31843",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Dân",
+      "en": "Hong Dan",
+      "slug": "hong-dan-31843"
+    },
+    "code": {
+      "id": "31843",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.538",
+      "lon": "105.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31906",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Hội",
+      "en": "Hung Hoi",
+      "slug": "hung-hoi-31906"
+    },
+    "code": {
+      "id": "31906",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.353",
+      "lon": "105.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32140",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Mỹ",
+      "en": "Hung My",
+      "slug": "hung-my-32140"
+    },
+    "code": {
+      "id": "32140",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.002",
+      "lon": "104.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32059",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh An",
+      "en": "Khanh An",
+      "slug": "khanh-an-32059"
+    },
+    "code": {
+      "id": "32059",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.257",
+      "lon": "105.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32110",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Bình",
+      "en": "Khanh Binh",
+      "slug": "khanh-binh-32110"
+    },
+    "code": {
+      "id": "32110",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.138",
+      "lon": "105.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32119",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Hưng",
+      "en": "Khanh Hung",
+      "slug": "khanh-hung-32119"
+    },
+    "code": {
+      "id": "32119",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "104.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32062",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Lâm",
+      "en": "Khanh Lam",
+      "slug": "khanh-lam-32062"
+    },
+    "code": {
+      "id": "32062",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.336",
+      "lon": "104.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31951",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Láng Tròn",
+      "en": "Lang Tron",
+      "slug": "lang-tron-31951"
+    },
+    "code": {
+      "id": "31951",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.297",
+      "lon": "105.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Điền",
+      "en": "Long Dien",
+      "slug": "long-dien-31985"
+    },
+    "code": {
+      "id": "31985",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.157",
+      "lon": "105.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32134",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Thế Trân",
+      "en": "Luong The Tran",
+      "slug": "luong-the-tran-32134"
+    },
+    "code": {
+      "id": "32134",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.105",
+      "lon": "105.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32014",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lý Văn Lâm",
+      "en": "Ly Van Lam",
+      "slug": "ly-van-lam-32014"
+    },
+    "code": {
+      "id": "32014",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.192",
+      "lon": "105.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32191",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Năm Căn",
+      "en": "Nam Can",
+      "slug": "nam-can-32191"
+    },
+    "code": {
+      "id": "32191",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.76",
+      "lon": "104.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32044",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Phích",
+      "en": "Nguyen Phich",
+      "slug": "nguyen-phich-32044"
+    },
+    "code": {
+      "id": "32044",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.405",
+      "lon": "104.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32227",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Việt Khái",
+      "en": "Nguyen Viet Khai",
+      "slug": "nguyen-viet-khai-32227"
+    },
+    "code": {
+      "id": "32227",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.184",
+      "lon": "105.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31849",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Quới",
+      "en": "Ninh Quoi",
+      "slug": "ninh-quoi-31849"
+    },
+    "code": {
+      "id": "31849",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.524",
+      "lon": "105.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31864",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Thạnh Lợi",
+      "en": "Ninh Thanh Loi",
+      "slug": "ninh-thanh-loi-31864"
+    },
+    "code": {
+      "id": "31864",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.273",
+      "lon": "105.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32244",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phan Ngọc Hiển",
+      "en": "Phan Ngoc Hien",
+      "slug": "phan-ngoc-hien-32244"
+    },
+    "code": {
+      "id": "32244",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.185",
+      "lon": "105.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31885",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Hiệp",
+      "en": "Phong Hiep",
+      "slug": "phong-hiep-31885"
+    },
+    "code": {
+      "id": "31885",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.335",
+      "lon": "105.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31957",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Thạnh",
+      "en": "Phong Thanh",
+      "slug": "phong-thanh-31957"
+    },
+    "code": {
+      "id": "31957",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.239",
+      "lon": "105.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32214",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Mỹ",
+      "en": "Phu My",
+      "slug": "phu-my-32214"
+    },
+    "code": {
+      "id": "32214",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.959",
+      "lon": "104.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32218",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Tân",
+      "en": "Phu Tan",
+      "slug": "phu-tan-32218"
+    },
+    "code": {
+      "id": "32218",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.892",
+      "lon": "104.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31867",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Long",
+      "en": "Phuoc Long",
+      "slug": "phuoc-long-31867"
+    },
+    "code": {
+      "id": "31867",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.436",
+      "lon": "105.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32182",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quách Phẩm",
+      "en": "Quach Pham",
+      "slug": "quach-pham-32182"
+    },
+    "code": {
+      "id": "32182",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.898",
+      "lon": "105.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32098",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Đốc",
+      "en": "Song Doc",
+      "slug": "song-doc-32098"
+    },
+    "code": {
+      "id": "32098",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.038",
+      "lon": "104.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32155",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tạ An Khương",
+      "en": "Ta An Khuong",
+      "slug": "ta-an-khuong-32155"
+    },
+    "code": {
+      "id": "32155",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.186",
+      "lon": "105.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32206",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Giang",
+      "en": "Tam Giang",
+      "slug": "tam-giang-32206"
+    },
+    "code": {
+      "id": "32206",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.136",
+      "lon": "105.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32236",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Ân",
+      "en": "Tan An",
+      "slug": "tan-an-32236"
+    },
+    "code": {
+      "id": "32236",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.727",
+      "lon": "105.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32137",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hưng",
+      "en": "Tan Hung",
+      "slug": "tan-hung-32137"
+    },
+    "code": {
+      "id": "32137",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.01",
+      "lon": "105.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32083",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lộc",
+      "en": "Tan Loc",
+      "slug": "tan-loc-32083"
+    },
+    "code": {
+      "id": "32083",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.296",
+      "lon": "105.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32025",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-32025"
+    },
+    "code": {
+      "id": "32025",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.194",
+      "lon": "105.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32167",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thuận",
+      "en": "Tan Thuan",
+      "slug": "tan-thuan-32167"
+    },
+    "code": {
+      "id": "32167",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.014",
+      "lon": "105.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32188",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-32188"
+    },
+    "code": {
+      "id": "32188",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.903",
+      "lon": "105.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32185",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Tùng",
+      "en": "Thanh Tung",
+      "slug": "thanh-tung-32185"
+    },
+    "code": {
+      "id": "32185",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.538",
+      "lon": "105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32065",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới Bình",
+      "en": "Thoi Binh",
+      "slug": "thoi-binh-32065"
+    },
+    "code": {
+      "id": "32065",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.347",
+      "lon": "105.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32161",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Phán",
+      "en": "Tran Phan",
+      "slug": "tran-phan-32161"
+    },
+    "code": {
+      "id": "32161",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.018",
+      "lon": "105.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32095",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Văn Thời",
+      "en": "Tran Van Thoi",
+      "slug": "tran-van-thoi-32095"
+    },
+    "code": {
+      "id": "32095",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.073",
+      "lon": "104.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32071",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trí Phải",
+      "en": "Tri Phai",
+      "slug": "tri-phai-32071"
+    },
+    "code": {
+      "id": "32071",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.4",
+      "lon": "105.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32047",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "U Minh",
+      "en": "U Minh",
+      "slug": "u-minh-32047"
+    },
+    "code": {
+      "id": "32047",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.41",
+      "lon": "104.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31927",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hậu",
+      "en": "Vinh Hau",
+      "slug": "vinh-hau-31927"
+    },
+    "code": {
+      "id": "31927",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.206",
+      "lon": "105.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31858",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Lộc",
+      "en": "Vinh Loc",
+      "slug": "vinh-loc-31858"
+    },
+    "code": {
+      "id": "31858",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.577",
+      "lon": "105.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31900",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Lợi",
+      "en": "Vinh Loi",
+      "slug": "vinh-loi-31900"
+    },
+    "code": {
+      "id": "31900",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.286",
+      "lon": "105.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31918",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Mỹ",
+      "en": "Vinh My",
+      "slug": "vinh-my-31918"
+    },
+    "code": {
+      "id": "31918",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.322",
+      "lon": "105.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31876",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Phước",
+      "en": "Vinh Phuoc",
+      "slug": "vinh-phuoc-31876"
+    },
+    "code": {
+      "id": "31876",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.409",
+      "lon": "105.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31882",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thanh",
+      "en": "Vinh Thanh",
+      "slug": "vinh-thanh-31882"
+    },
+    "code": {
+      "id": "31882",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.286",
+      "lon": "105.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31834",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Trạch",
+      "en": "Vinh Trach",
+      "slug": "vinh-trach-31834"
+    },
+    "code": {
+      "id": "31834",
+      "iso": null
+    },
+    "parent": {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "Cà Mau",
+          "en": "Ca Mau",
+          "slug": "ca-mau-96"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.298",
+      "lon": "105.774"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "29938",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Thành",
+    "en": "Tan Thanh",
+    "slug": "tan-thanh-29938"
+  },
+  "code": {
+    "id": "29938",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Đồng Tháp",
+      "en": "Dong Thap",
+      "slug": "dong-thap-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.628",
+    "lon": "105.965"
+  },
+  "metadata": {},
+  "source": {}
+}

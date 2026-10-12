@@ -1,0 +1,18 @@
+{
+  "address": "Xã Sủng Tráng, Huyện Yên Minh, Tỉnh Hà Giang",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1684/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tuyên Quang",
+        "line": "55. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sủng Cháng, Sủng Thài và Thắng Mố thành xã mới có tên gọi là xã Thắng Mố."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Tuyên Quang",
+      "ward_code": "00829",
+      "ward_name": "Xã Thắng Mố"
+    }
+  ]
+}

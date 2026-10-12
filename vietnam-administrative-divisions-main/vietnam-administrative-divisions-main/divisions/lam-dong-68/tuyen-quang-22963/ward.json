@@ -1,0 +1,45 @@
+{
+  "id": "22963",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tuyên Quang",
+    "en": "Tuyen Quang",
+    "slug": "tuyen-quang-22963"
+  },
+  "code": {
+    "id": "22963",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.935",
+    "lon": "108.108"
+  },
+  "metadata": {},
+  "source": {}
+}

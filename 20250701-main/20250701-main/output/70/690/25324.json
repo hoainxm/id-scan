@@ -1,0 +1,18 @@
+{
+  "address": "Phường An Lộc, Thị xã Bình Long, Tỉnh Bình Phước",
+  "ellapsedInMs": 30325,
+  "estimatedCost": 0.0077692,
+  "thought": "**Finding the New Administrative Unit for \"Phường An Lộc, Thị xã Bình Long, Tỉnh Bình Phước\"**\n\nOkay, let's break this down systematically. My initial task is to locate the new administrative unit corresponding to the old \"Phường An Lộc\" in Bình Phước province. First, I know Bình Phước merged with Đồng Nai, so the new province is Đồng Nai. My primary strategy is to consult the relevant resolutions (16xx/NQ-UBTVQH15) related to administrative changes. I'll meticulously scan each resolution line by line, focusing on \"An Lộc\" and its surrounding districts.\n\nMy search began with the province mergers, pinpointing that Bình Phước became part of Đồng Nai (Resolution 60-NQ/TW). Moving to resolutions, I scrutinized each, quickly eliminating those unrelated to Đồng Nai.  I finally hit paydirt with Resolution 1662/NQ-UBTVQH15, the one for Đồng Nai.  Line 83 of this resolution explicitly states that \"Phường An Lộc\" was merged with others to form \"Phường Bình Long\".  A significant find! Line 84 also mentions forming a *new* \"An Lộc\" ward from different units, but that's a new ward, not the *old* one.\n\nVerifying my findings, I cross-referenced this with my list of new wards. I found a matching entry for \"Phường Bình Long\" in Đồng Nai, confirming my deduction. The old \"Phường An Lộc\" is now an integral part of this new unit. I checked that another new ward of the same name doesn't contain a *partial* portion of my original unit. This validates my answer. Thus, the new ward is \"Phường Bình Long\". Confidence is high due to the direct citation in the resolution.\n\nFinally, the JSON output is constructed, containing the key information.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1662/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Nai",
+        "line": "83. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường An Lộc, Hưng Chiến, Phú Đức, xã Thanh Bình (huyện Hớn Quản) thành phường mới có tên gọi là **phường Bình Long**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Nai",
+      "ward_code": "25326",
+      "ward_name": "Phường Bình Long"
+    }
+  ]
+}

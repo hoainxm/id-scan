@@ -1,0 +1,18 @@
+{
+  "address": "Xã Xa Lý, Huyện Lục Ngạn, Tỉnh Bắc Giang",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1658/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Bắc Ninh",
+        "line": "35. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phong Minh và xã Sa Lý thành xã mới có tên gọi là xã Sa Lý."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Bắc Ninh",
+      "ward_code": "07534",
+      "ward_name": "Xã Sa Lý"
+    }
+  ]
+}

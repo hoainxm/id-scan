@@ -1,0 +1,33 @@
+{
+  "id": "75",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Đồng Nai",
+    "en": "Dong Nai",
+    "slug": "dong-nai-75"
+  },
+  "code": {
+    "id": "75",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 95
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.437",
+    "lon": "107.034"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/dong-nai-75/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "32212",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Cái Đôi Vàm",
+    "en": "Cai Doi Vam",
+    "slug": "cai-doi-vam-32212"
+  },
+  "code": {
+    "id": "32212",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "Cà Mau",
+      "en": "Ca Mau",
+      "slug": "ca-mau-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "Cà Mau",
+        "en": "Ca Mau",
+        "slug": "ca-mau-96"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.859",
+    "lon": "104.806"
+  },
+  "metadata": {},
+  "source": {}
+}

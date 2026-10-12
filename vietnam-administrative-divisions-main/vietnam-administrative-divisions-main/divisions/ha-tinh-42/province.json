@@ -1,0 +1,33 @@
+{
+  "id": "42",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Hà Tĩnh",
+    "en": "Ha Tinh",
+    "slug": "ha-tinh-42"
+  },
+  "code": {
+    "id": "42",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.291",
+    "lon": "105.735"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/ha-tinh-42/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

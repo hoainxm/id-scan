@@ -1,0 +1,45 @@
+{
+  "id": "20308",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bà Nà",
+    "en": "Ba Na",
+    "slug": "ba-na-20308"
+  },
+  "code": {
+    "id": "20308",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.998",
+    "lon": "107.995"
+  },
+  "metadata": {},
+  "source": {}
+}

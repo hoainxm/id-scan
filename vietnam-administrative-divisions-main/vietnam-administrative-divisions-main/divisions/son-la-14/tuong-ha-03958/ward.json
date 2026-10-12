@@ -1,0 +1,45 @@
+{
+  "id": "03958",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tường Hạ",
+    "en": "Tuong Ha",
+    "slug": "tuong-ha-03958"
+  },
+  "code": {
+    "id": "03958",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.141",
+    "lon": "104.673"
+  },
+  "metadata": {},
+  "source": {}
+}

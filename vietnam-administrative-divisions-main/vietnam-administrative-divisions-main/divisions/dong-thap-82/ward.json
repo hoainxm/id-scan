@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "29954",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Bình",
+      "en": "An Binh",
+      "slug": "an-binh-29954"
+    },
+    "code": {
+      "id": "29954",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.188",
+      "lon": "105.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30019",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hòa",
+      "en": "An Hoa",
+      "slug": "an-hoa-30019"
+    },
+    "code": {
+      "id": "30019",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.201",
+      "lon": "105.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28429",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hữu",
+      "en": "An Huu",
+      "slug": "an-huu-28429"
+    },
+    "code": {
+      "id": "28429",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.311",
+      "lon": "105.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30028",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Long",
+      "en": "An Long",
+      "slug": "an-long-30028"
+    },
+    "code": {
+      "id": "30028",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.701",
+      "lon": "105.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29944",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phước",
+      "en": "An Phuoc",
+      "slug": "an-phuoc-29944"
+    },
+    "code": {
+      "id": "29944",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "106.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28633",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Thạnh Thủy",
+      "en": "An Thanh Thuy",
+      "slug": "an-thanh-thuy-28633"
+    },
+    "code": {
+      "id": "28633",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.338",
+      "lon": "106.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30085",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Sao",
+      "en": "Ba Sao",
+      "slug": "ba-sao-30085"
+    },
+    "code": {
+      "id": "30085",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.482",
+      "lon": "105.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30118",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hàng Trung",
+      "en": "Binh Hang Trung",
+      "slug": "binh-hang-trung-30118"
+    },
+    "code": {
+      "id": "30118",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.358",
+      "lon": "105.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28648",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Ninh",
+      "en": "Binh Ninh",
+      "slug": "binh-ninh-28648"
+    },
+    "code": {
+      "id": "28648",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.323",
+      "lon": "106.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28471",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Phú",
+      "en": "Binh Phu",
+      "slug": "binh-phu-28471"
+    },
+    "code": {
+      "id": "28471",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.415",
+      "lon": "106.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30163",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thành",
+      "en": "Binh Thanh",
+      "slug": "binh-thanh-30163"
+    },
+    "code": {
+      "id": "30163",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.371",
+      "lon": "105.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28564",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Trưng",
+      "en": "Binh Trung",
+      "slug": "binh-trung-28564"
+    },
+    "code": {
+      "id": "28564",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.385",
+      "lon": "105.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28315",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Xuân",
+      "en": "Binh Xuan",
+      "slug": "binh-xuan-28315"
+    },
+    "code": {
+      "id": "28315",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.403",
+      "lon": "106.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28360",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cái Bè",
+      "en": "Cai Be",
+      "slug": "cai-be-28360"
+    },
+    "code": {
+      "id": "28360",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.335",
+      "lon": "106.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28439",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cai Lậy",
+      "en": "Cai Lay",
+      "slug": "cai-lay-28439"
+    },
+    "code": {
+      "id": "28439",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.426",
+      "lon": "106.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29869",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Lãnh",
+      "en": "Cao Lanh",
+      "slug": "cao-lanh-29869"
+    },
+    "code": {
+      "id": "29869",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.46",
+      "lon": "105.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28519",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Thành",
+      "en": "Chau Thanh",
+      "slug": "chau-thanh-28519"
+    },
+    "code": {
+      "id": "28519",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.261",
+      "lon": "105.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28594",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chợ Gạo",
+      "en": "Cho Gao",
+      "slug": "cho-gao-28594"
+    },
+    "code": {
+      "id": "28594",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "106.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28249",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạo Thạnh",
+      "en": "Dao Thanh",
+      "slug": "dao-thanh-28249"
+    },
+    "code": {
+      "id": "28249",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.377",
+      "lon": "106.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30061",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đốc Binh Kiều",
+      "en": "Doc Binh Kieu",
+      "slug": "doc-binh-kieu-30061"
+    },
+    "code": {
+      "id": "30061",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.355",
+      "lon": "106.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28660",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Sơn",
+      "en": "Dong Son",
+      "slug": "dong-son-28660"
+    },
+    "code": {
+      "id": "28660",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.395",
+      "lon": "106.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28720",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Thuận",
+      "en": "Gia Thuan",
+      "slug": "gia-thuan-28720"
+    },
+    "code": {
+      "id": "28720",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.421",
+      "lon": "106.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28306",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gò Công",
+      "en": "Go Cong",
+      "slug": "go-cong-28306"
+    },
+    "code": {
+      "id": "28306",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.409",
+      "lon": "106.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28747",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gò Công Đông",
+      "en": "Go Cong Dong",
+      "slug": "go-cong-dong-28747"
+    },
+    "code": {
+      "id": "28747",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.3",
+      "lon": "106.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28366",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hậu Mỹ",
+      "en": "Hau My",
+      "slug": "hau-my-28366"
+    },
+    "code": {
+      "id": "28366",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.474",
+      "lon": "105.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28501",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Đức",
+      "en": "Hiep Duc",
+      "slug": "hiep-duc-28501"
+    },
+    "code": {
+      "id": "28501",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.328",
+      "lon": "106.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30208",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Long",
+      "en": "Hoa Long",
+      "slug": "hoa-long-30208"
+    },
+    "code": {
+      "id": "30208",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.287",
+      "lon": "105.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28393",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội Cư",
+      "en": "Hoi Cu",
+      "slug": "hoi-cu-28393"
+    },
+    "code": {
+      "id": "28393",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.408",
+      "lon": "106.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29955",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Ngự",
+      "en": "Hong Ngu",
+      "slug": "hong-ngu-29955"
+    },
+    "code": {
+      "id": "29955",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.824",
+      "lon": "105.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28336",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Thạnh",
+      "en": "Hung Thanh",
+      "slug": "hung-thanh-28336"
+    },
+    "code": {
+      "id": "28336",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "105.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28582",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Sơn",
+      "en": "Kim Son",
+      "slug": "kim-son-28582"
+    },
+    "code": {
+      "id": "28582",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.341",
+      "lon": "106.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30226",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lai Vung",
+      "en": "Lai Vung",
+      "slug": "lai-vung-30226"
+    },
+    "code": {
+      "id": "30226",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.257",
+      "lon": "105.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30169",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lấp Vò",
+      "en": "Lap Vo",
+      "slug": "lap-vo-30169"
+    },
+    "code": {
+      "id": "30169",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.362",
+      "lon": "105.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28687",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Bình",
+      "en": "Long Binh",
+      "slug": "long-binh-28687"
+    },
+    "code": {
+      "id": "28687",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.308",
+      "lon": "106.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28543",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Định",
+      "en": "Long Dinh",
+      "slug": "long-dinh-28543"
+    },
+    "code": {
+      "id": "28543",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.247",
+      "lon": "105.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28537",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hưng",
+      "en": "Long Hung",
+      "slug": "long-hung-28537"
+    },
+    "code": {
+      "id": "28537",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.396",
+      "lon": "106.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29983",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Khánh",
+      "en": "Long Khanh",
+      "slug": "long-khanh-29983"
+    },
+    "code": {
+      "id": "29983",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.267",
+      "lon": "105.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29992",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Phú Thuận",
+      "en": "Long Phu Thuan",
+      "slug": "long-phu-thuan-29992"
+    },
+    "code": {
+      "id": "29992",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.757",
+      "lon": "105.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28297",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Thuận",
+      "en": "Long Thuan",
+      "slug": "long-thuan-28297"
+    },
+    "code": {
+      "id": "28297",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.364",
+      "lon": "106.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28504",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Tiên",
+      "en": "Long Tien",
+      "slug": "long-tien-28504"
+    },
+    "code": {
+      "id": "28504",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.343",
+      "lon": "106.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28615",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Hòa Lạc",
+      "en": "Luong Hoa Lac",
+      "slug": "luong-hoa-lac-28615"
+    },
+    "code": {
+      "id": "28615",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.42",
+      "lon": "106.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30178",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ An Hưng",
+      "en": "My An Hung",
+      "slug": "my-an-hung-30178"
+    },
+    "code": {
+      "id": "30178",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.405",
+      "lon": "105.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28405",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Đức Tây",
+      "en": "My Duc Tay",
+      "slug": "my-duc-tay-28405"
+    },
+    "code": {
+      "id": "28405",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.343",
+      "lon": "105.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30112",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Hiệp",
+      "en": "My Hiep",
+      "slug": "my-hiep-30112"
+    },
+    "code": {
+      "id": "30112",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.34",
+      "lon": "105.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28414",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Lợi",
+      "en": "My Loi",
+      "slug": "my-loi-28414"
+    },
+    "code": {
+      "id": "28414",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.373",
+      "lon": "105.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29884",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Ngãi",
+      "en": "My Ngai",
+      "slug": "my-ngai-29884"
+    },
+    "code": {
+      "id": "29884",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.515",
+      "lon": "105.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28273",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Phong",
+      "en": "My Phong",
+      "slug": "my-phong-28273"
+    },
+    "code": {
+      "id": "28273",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.37",
+      "lon": "106.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28435",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Phước Tây",
+      "en": "My Phuoc Tay",
+      "slug": "my-phuoc-tay-28435"
+    },
+    "code": {
+      "id": "28435",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.425",
+      "lon": "106.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30055",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Quí",
+      "en": "My Qui",
+      "slug": "my-qui-30055"
+    },
+    "code": {
+      "id": "30055",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.534",
+      "lon": "105.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28456",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thành",
+      "en": "My Thanh",
+      "slug": "my-thanh-28456"
+    },
+    "code": {
+      "id": "28456",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "106.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28378",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thiện",
+      "en": "My Thien",
+      "slug": "my-thien-28378"
+    },
+    "code": {
+      "id": "28378",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.437",
+      "lon": "105.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28261",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Tho",
+      "en": "My Tho",
+      "slug": "my-tho-28261"
+    },
+    "code": {
+      "id": "28261",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "106.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30076",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thọ",
+      "en": "My Tho",
+      "slug": "my-tho-30076"
+    },
+    "code": {
+      "id": "30076",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "106.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28603",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Tịnh An",
+      "en": "My Tinh An",
+      "slug": "my-tinh-an-28603"
+    },
+    "code": {
+      "id": "28603",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "106.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29888",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Trà",
+      "en": "My Tra",
+      "slug": "my-tra-29888"
+    },
+    "code": {
+      "id": "29888",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.476",
+      "lon": "105.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28516",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngũ Hiệp",
+      "en": "Ngu Hiep",
+      "slug": "ngu-hiep-28516"
+    },
+    "code": {
+      "id": "28516",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.301",
+      "lon": "106.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28477",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhị Quý",
+      "en": "Nhi Quy",
+      "slug": "nhi-quy-28477"
+    },
+    "code": {
+      "id": "28477",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.4",
+      "lon": "106.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30235",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Hòa",
+      "en": "Phong Hoa",
+      "slug": "phong-hoa-30235"
+    },
+    "code": {
+      "id": "30235",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.191",
+      "lon": "105.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30088",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Mỹ",
+      "en": "Phong My",
+      "slug": "phong-my-30088"
+    },
+    "code": {
+      "id": "30088",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.37",
+      "lon": "106.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30025",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Cường",
+      "en": "Phu Cuong",
+      "slug": "phu-cuong-30025"
+    },
+    "code": {
+      "id": "30025",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.243",
+      "lon": "105.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30244",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hựu",
+      "en": "Phu Huu",
+      "slug": "phu-huu-30244"
+    },
+    "code": {
+      "id": "30244",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.242",
+      "lon": "105.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28663",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thành",
+      "en": "Phu Thanh",
+      "slug": "phu-thanh-28663"
+    },
+    "code": {
+      "id": "28663",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.226",
+      "lon": "105.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30034",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thọ",
+      "en": "Phu Tho",
+      "slug": "phu-tho-30034"
+    },
+    "code": {
+      "id": "30034",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.687",
+      "lon": "105.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30043",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phương Thịnh",
+      "en": "Phuong Thinh",
+      "slug": "phuong-thinh-30043"
+    },
+    "code": {
+      "id": "30043",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.625",
+      "lon": "105.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29905",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sa Đéc",
+      "en": "Sa Dec",
+      "slug": "sa-dec-29905"
+    },
+    "code": {
+      "id": "29905",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.3",
+      "lon": "105.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28729",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Qui",
+      "en": "Son Qui",
+      "slug": "son-qui-28729"
+    },
+    "code": {
+      "id": "28729",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.425",
+      "lon": "106.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30010",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Nông",
+      "en": "Tam Nong",
+      "slug": "tam-nong-30010"
+    },
+    "code": {
+      "id": "30010",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.738",
+      "lon": "105.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28738",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Điền",
+      "en": "Tan Dien",
+      "slug": "tan-dien-28738"
+    },
+    "code": {
+      "id": "28738",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.466",
+      "lon": "106.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28723",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Đông",
+      "en": "Tan Dong",
+      "slug": "tan-dong-28723"
+    },
+    "code": {
+      "id": "28723",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.252",
+      "lon": "106.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30214",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Dương",
+      "en": "Tan Duong",
+      "slug": "tan-duong-30214"
+    },
+    "code": {
+      "id": "30214",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.28",
+      "lon": "105.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29929",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hộ Cơ",
+      "en": "Tan Ho Co",
+      "slug": "tan-ho-co-29929"
+    },
+    "code": {
+      "id": "29929",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.904",
+      "lon": "105.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28702",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hòa",
+      "en": "Tan Hoa",
+      "slug": "tan-hoa-28702"
+    },
+    "code": {
+      "id": "28702",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.319",
+      "lon": "106.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29926",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hồng",
+      "en": "Tan Hong",
+      "slug": "tan-hong-29926"
+    },
+    "code": {
+      "id": "29926",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.872",
+      "lon": "105.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28525",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hương",
+      "en": "Tan Huong",
+      "slug": "tan-huong-28525"
+    },
+    "code": {
+      "id": "28525",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.486",
+      "lon": "106.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30184",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Khánh Trung",
+      "en": "Tan Khanh Trung",
+      "slug": "tan-khanh-trung-30184"
+    },
+    "code": {
+      "id": "30184",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.344",
+      "lon": "105.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30154",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Long",
+      "en": "Tan Long",
+      "slug": "tan-long-30154"
+    },
+    "code": {
+      "id": "30154",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.346",
+      "lon": "106.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30253",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Nhuận Đông",
+      "en": "Tan Nhuan Dong",
+      "slug": "tan-nhuan-dong-30253"
+    },
+    "code": {
+      "id": "30253",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "105.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28468",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phú",
+      "en": "Tan Phu",
+      "slug": "tan-phu-28468"
+    },
+    "code": {
+      "id": "28468",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.28",
+      "lon": "105.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28696",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phú Đông",
+      "en": "Tan Phu Dong",
+      "slug": "tan-phu-dong-28696"
+    },
+    "code": {
+      "id": "28696",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.28",
+      "lon": "105.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30259",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phú Trung",
+      "en": "Tan Phu Trung",
+      "slug": "tan-phu-trung-30259"
+    },
+    "code": {
+      "id": "30259",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.267",
+      "lon": "105.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28321",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phước 1",
+      "en": "Tan Phuoc 1",
+      "slug": "tan-phuoc-1-28321"
+    },
+    "code": {
+      "id": "28321",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.471",
+      "lon": "106.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28327",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phước 2",
+      "en": "Tan Phuoc 2",
+      "slug": "tan-phuoc-2-28327"
+    },
+    "code": {
+      "id": "28327",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.471",
+      "lon": "106.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28345",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phước 3",
+      "en": "Tan Phuoc 3",
+      "slug": "tan-phuoc-3-28345"
+    },
+    "code": {
+      "id": "28345",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.471",
+      "lon": "106.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29938",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-29938"
+    },
+    "code": {
+      "id": "29938",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.628",
+      "lon": "105.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30157",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thạnh",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-30157"
+    },
+    "code": {
+      "id": "30157",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.628",
+      "lon": "105.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28693",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thới",
+      "en": "Tan Thoi",
+      "slug": "tan-thoi-28693"
+    },
+    "code": {
+      "id": "28693",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.273",
+      "lon": "106.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28627",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thuận Bình",
+      "en": "Tan Thuan Binh",
+      "slug": "tan-thuan-binh-28627"
+    },
+    "code": {
+      "id": "28627",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.392",
+      "lon": "106.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30130",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Bình",
+      "en": "Thanh Binh",
+      "slug": "thanh-binh-30130"
+    },
+    "code": {
+      "id": "30130",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.61",
+      "lon": "105.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28436",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Hòa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-28436"
+    },
+    "code": {
+      "id": "28436",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.422",
+      "lon": "106.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28426",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Hưng",
+      "en": "Thanh Hung",
+      "slug": "thanh-hung-28426"
+    },
+    "code": {
+      "id": "28426",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "105.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30073",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Mỹ",
+      "en": "Thanh My",
+      "slug": "thanh-my-30073"
+    },
+    "code": {
+      "id": "30073",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "106.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28444",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Phú",
+      "en": "Thanh Phu",
+      "slug": "thanh-phu-28444"
+    },
+    "code": {
+      "id": "28444",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.268",
+      "lon": "105.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30037",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tháp Mười",
+      "en": "Thap Muoi",
+      "slug": "thap-muoi-30037"
+    },
+    "code": {
+      "id": "30037",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "105.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28270",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới Sơn",
+      "en": "Thoi Son",
+      "slug": "thoi-son-28270"
+    },
+    "code": {
+      "id": "28270",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.341",
+      "lon": "106.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29978",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thường Lạc",
+      "en": "Thuong Lac",
+      "slug": "thuong-lac-29978"
+    },
+    "code": {
+      "id": "29978",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.852",
+      "lon": "105.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "29971",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thường Phước",
+      "en": "Thuong Phuoc",
+      "slug": "thuong-phuoc-29971"
+    },
+    "code": {
+      "id": "29971",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.817",
+      "lon": "105.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30001",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tràm Chim",
+      "en": "Tram Chim",
+      "slug": "tram-chim-30001"
+    },
+    "code": {
+      "id": "30001",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.672",
+      "lon": "105.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28285",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung An",
+      "en": "Trung An",
+      "slug": "trung-an-28285"
+    },
+    "code": {
+      "id": "28285",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.37",
+      "lon": "106.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30046",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Xuân",
+      "en": "Truong Xuan",
+      "slug": "truong-xuan-30046"
+    },
+    "code": {
+      "id": "30046",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.521",
+      "lon": "105.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28651",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Bình",
+      "en": "Vinh Binh",
+      "slug": "vinh-binh-28651"
+    },
+    "code": {
+      "id": "28651",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.347",
+      "lon": "106.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28678",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hựu",
+      "en": "Vinh Huu",
+      "slug": "vinh-huu-28678"
+    },
+    "code": {
+      "id": "28678",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.309",
+      "lon": "106.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28576",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Kim",
+      "en": "Vinh Kim",
+      "slug": "vinh-kim-28576"
+    },
+    "code": {
+      "id": "28576",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Đồng Tháp",
+          "en": "Dong Thap",
+          "slug": "dong-thap-82"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.356",
+      "lon": "106.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

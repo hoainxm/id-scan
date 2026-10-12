@@ -1,0 +1,45 @@
+{
+  "id": "20194",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hải Vân",
+    "en": "Hai Van",
+    "slug": "hai-van-20194"
+  },
+  "code": {
+    "id": "20194",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.135",
+    "lon": "108.115"
+  },
+  "metadata": {},
+  "source": {}
+}

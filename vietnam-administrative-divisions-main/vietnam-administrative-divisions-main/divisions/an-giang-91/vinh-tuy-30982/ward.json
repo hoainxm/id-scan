@@ -1,0 +1,45 @@
+{
+  "id": "30982",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vĩnh Tuy",
+    "en": "Vinh Tuy",
+    "slug": "vinh-tuy-30982"
+  },
+  "code": {
+    "id": "30982",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.659",
+    "lon": "105.337"
+  },
+  "metadata": {},
+  "source": {}
+}

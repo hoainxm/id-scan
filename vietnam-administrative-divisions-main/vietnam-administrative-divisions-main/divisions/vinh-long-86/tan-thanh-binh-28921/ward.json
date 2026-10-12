@@ -1,0 +1,45 @@
+{
+  "id": "28921",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Thành Bình",
+    "en": "Tan Thanh Binh",
+    "slug": "tan-thanh-binh-28921"
+  },
+  "code": {
+    "id": "28921",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "Vĩnh Long",
+      "en": "Vinh Long",
+      "slug": "vinh-long-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "Vĩnh Long",
+        "en": "Vinh Long",
+        "slug": "vinh-long-86"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.173",
+    "lon": "106.316"
+  },
+  "metadata": {},
+  "source": {}
+}

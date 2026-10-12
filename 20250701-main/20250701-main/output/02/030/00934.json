@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phong Quang, Huyện Vị Xuyên, Tỉnh Hà Giang",
+  "ellapsedInMs": 17380,
+  "estimatedCost": 0.028214999999999997,
+  "thought": "**Analysis of Administrative Unit Restructuring**\n\nOkay, here's how I'm approaching this. The user's asking about \"Xã Phong Quang, Huyện Vị Xuyên, Tỉnh Hà Giang,\" and I need to figure out the new administrative unit.\n\nFirst, I break it down: \"Xã Phong Quang\" (ward), \"Huyện Vị Xuyên\" (district), and \"Tỉnh Hà Giang\" (province).\n\nI immediately think about province mergers, so I consult resolution 60-NQ/TW. Bingo! Line 1 states that Hà Giang is merged into Tuyên Quang. That changes things. \"Tỉnh Hà Giang\" is now \"Tỉnh Tuyên Quang.\"\n\nNext, I remember the prompt: districts are being eliminated. That means \"Huyện Vị Xuyên\" is history. Now, it's Ward -> Province.\n\nNow, I look for resolutions that involve \"Xã Phong Quang\" or units from the old Vị Xuyên district, particularly those related to \"Tuyên Quang\" since that's the new province. Resolution 1684/NQ-UBTVQH15 seems promising. I skim the lines, and bam! Line 111 directly addresses it: \"xã Phong Quang\" is merged into \"phường Hà Giang 2.\"\n\nSo, here's what I've got: Old unit is \"Xã Phong Quang, Huyện Vị Xuyên, Tỉnh Hà Giang.\" The province is now \"Tỉnh Tuyên Quang\" (from 60-NQ/TW, Line 1). \"Xã Phong Quang\" is merged into \"phường Hà Giang 2\" (from 1684/NQ-UBTVQH15, Line 111). The New Unit is now Phường Hà Giang 2, Tỉnh Tuyên Quang.\n\nNow I need to find the code for \"phường Hà Giang 2.\" I checked the codes in the list, and there it is: `{\"code\":\"00691\",\"name\":\"Phường Hà Giang 2\",\"province\":\"Tỉnh Tuyên Quang\"}`. Perfect match.\n\nFor the JSON response, I'll structure it like this: province_name: \"Tỉnh Tuyên Quang\", ward_name: \"Phường Hà Giang 2\", ward_code: \"00691,\" confidence: \"high,\" and the citation with header and the exact line from the resolution 1684/NQ-UBTVQH15 that shows \"xã Phong Quang\" is merged into the new unit.\n\nI triple-checked. The starting unit and my resolution are connected to the ending unit, the province changes are confirmed. The codes check out. This is a solid, high-confidence answer with clear citations. I'll make sure it's a valid JSON array and it is ready to be returned.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1684/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tuyên Quang",
+        "line": "111. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Ngọc Hà, Trần Phú, Minh Khai,phần còn lại của phường Quang Trung sau khi sắp xếp theo quy định tại khoản 110 Điều nàyvà xã Phong Quangthành phường mới có tên gọi là **phường Hà Giang 2**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Tuyên Quang",
+      "ward_code": "00691",
+      "ward_name": "Phường Hà Giang 2"
+    }
+  ]
+}

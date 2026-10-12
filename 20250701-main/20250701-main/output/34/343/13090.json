@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tây Sơn, Huyện Kiến Xương, Tỉnh Thái Bình",
+  "ellapsedInMs": 19300,
+  "estimatedCost": 0.00451,
+  "thought": "**My Analysis of the Administrative Reorganization**\n\nOkay, here's how I'd approach this. My goal is to determine the new administrative unit for \"Xã Tây Sơn, Huyện Kiến Xương, Tỉnh Thái Bình.\"\n\nFirst, I need to understand the initial situation: Xã Tây Sơn (Ward), Huyện Kiến Xương (District), Tỉnh Thái Bình (Province).  My initial step will be to confirm any province-level mergers, keeping in mind Resolution 60-NQ/TW.\n\nI know from my background that \"Tỉnh Thái Bình\" merged with \"Tỉnh Hưng Yên\" to form a new province.  Thus, the new province will be \"Tỉnh Hưng Yên\". This is crucial to keep in mind.\n\nNext, I'll examine the provided resolutions. I'll be looking specifically for mentions of \"Xã Tây Sơn\" and \"Huyện Kiến Xương\" in the context of \"Tỉnh Hưng Yên.\" This will be my core strategy.\n\nI have resolutions `1660`, `1664`, `1665`, `1666`, `1674`, `1676`, and `1678`. Scanning each, I quickly determine that only `1666/NQ-UBTVQH15` pertains to \"Tỉnh Hưng Yên,\" making it the prime candidate.\n\nSpecifically, Line 101 of `1666/NQ-UBTVQH15` states, \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của...Tây Sơn thành phường mới có tên gọi là phường Trần Lãm.\" This line explicitly mentions \"Tây Sơn\" (which is the key for this inquiry), merging it into a new \"phường Trần Lãm\". Although it doesn't mention \"Huyện Kiến Xương\" explicitly, the context of the entire resolution, plus the fact it deals with the new province (Hưng Yên), makes this a strong indicator.\n\nBased on this, I conclude that \"Xã Tây Sơn\" is now part of \"Phường Trần Lãm\" in \"Tỉnh Hưng Yên\".\n\nThe next step is to find the official code for \"Phường Trần Lãm\" in \"Tỉnh Hưng Yên\". Looking at the list, I find a matching entry: `{\"ward_code\":\"12454\",\"ward_name\":\"Phường Trần Lãm\",\"province_name\":\"Tỉnh Hưng Yên\"}`.\n\nTherefore, the new administrative unit is \"Phường Trần Lãm\" with code \"12454\" in \"Tỉnh Hưng Yên\". My confidence in this answer is \"high,\" given the clear context and explicit mention of \"Xã Tây Sơn\" in the relevant resolution. The citation for this would be `1666/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Hưng Yên` and specifically line \"101. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của...Tây Sơn thành phường mới có tên gọi là phường Trần Lãm.\"\n\nFinal Confirmation: The Province merger is from \"Thái Bình\" -> \"Hưng Yên.\" The Ward merger is in Resolution 1666, Line 101 merging Xã Tây Sơn into Phường Trần Lãm.  The New Ward matches as well. Thus, this is confirmed.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1666/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Hưng Yên",
+        "line": "101. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Trần Lãm, phường Kỳ Bá và các xã Vũ Đông, Vũ Lạc, Vũ Chính, Tây Sơn thành phường mới có tên gọi là phường Trần Lãm."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Hưng Yên",
+      "ward_code": "12454",
+      "ward_name": "Phường Trần Lãm"
+    }
+  ]
+}

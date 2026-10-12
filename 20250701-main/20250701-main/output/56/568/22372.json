@@ -1,0 +1,18 @@
+{
+  "address": "Phường Phước Hòa, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+  "ellapsedInMs": 10568,
+  "estimatedCost": 0.0042233,
+  "thought": "**My Analysis of \"Phường Phước Hòa\"**\n\nOkay, so I'm presented with \"Phường Phước Hòa, Thành phố Nha Trang, Tỉnh Khánh Hòa\" and tasked with finding its new administrative equivalent.  My first step is always to verify the province.  Khánh Hòa seems to be stable; a quick check of `60-NQ/TW` confirms there haven't been any recent province mergers affecting it. Good.\n\nNow, I'm digging through the resolutions for mentions of \"Phước Hòa.\"  I immediately encounter a potential snag in Resolution 1667/NQ-UBTVQH15.  There's a line, Line 48, referring to \"xã Phước Hòa,\" but my target is \"phường Phước Hòa.\"  While the instructions are flexible about types (\"phường\" and \"xã\"), I need to be precise. \"Phường\" and \"xã\" are distinct administrative unit types, so this likely isn't a direct match. This line points towards a potential new \"xã Bác Ái Tây\" and I will keep that possibility open, but focus on direct matches first.\n\nEureka! Line 49 in the same resolution is *perfect*. It states: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Vạn Thạnh, Lộc Thọ, Vĩnh Nguyên, Tân Tiến và **Phước Hòa** thành phường mới có tên gọi là **phường Nha Trang**.\"  The phrasing is clear; it explicitly lists \"Phước Hòa\" and merges it into the new \"phường Nha Trang.\"\n\nTo solidify this, I check the `New wards` section and there it is: `{\"ward_code\":\"22366\",\"ward_name\":\"Phường Nha Trang\",\"province_name\":\"Tỉnh Khánh Hòa\"}`. A perfect match.  My confidence is very high.\n\nI continue to scan the subsequent lines in Resolution 1667/NQ-UBTVQH15, but they don't involve \"Phước Hòa.\" Resolutions concerning Đà Nẵng, Gia Lai, and Hồ Chí Minh are quickly dismissed because they involve different provinces, and only reference \"xã Phước Hòa\"\n\nTherefore, based on the clear match in Resolution 1667/NQ-UBTVQH15, the new administrative unit for \"Phường Phước Hòa, Thành phố Nha Trang, Tỉnh Khánh Hòa\" is definitively \"Phường Nha Trang, Tỉnh Khánh Hòa.\"\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1667/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Khánh Hòa",
+        "line": "49. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Vạn Thạnh, Lộc Thọ, Vĩnh Nguyên, Tân Tiến và Phước Hòa thành phường mới có tên gọi là **phường Nha Trang**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Khánh Hòa",
+      "ward_code": "22366",
+      "ward_name": "Phường Nha Trang"
+    }
+  ]
+}

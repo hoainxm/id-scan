@@ -1,0 +1,18 @@
+{
+  "address": "Xã Xuân Đài, Huyện Tân Sơn, Tỉnh Phú Thọ",
+  "ellapsedInMs": 5431,
+  "estimatedCost": 0.0023323,
+  "thought": "**My Analysis of \"Xã Xuân Đài, Huyện Tân Sơn, Tỉnh Phú Thọ\"**\n\nOkay, let's break this down. The user wants the new administrative unit for \"Xã Xuân Đài\" in Phú Thọ province. First, I need to confirm that Phú Thọ isn't part of some larger provincial merger. The provided data shows that while Phú Thọ *did* absorb some neighboring provinces (Vĩnh Phúc and Hòa Bình), it retained its name. This clarifies the `province_name` field.\n\nNow, the crucial step is to analyze the \"Other resolutions\" for a mention of \"Xã Xuân Đài\" within Phú Thọ.  Resolution 1676/NQ-UBTVQH15 seems promising.  Looking through it, specifically at line 51, confirms my suspicion: it directly addresses the re-organization of the very ward I'm interested in!\n\nThe resolution states that the area and population of \"Xã Xuân Đài\" along with \"Kim Thượng\" and \"Xuân Sơn\" will be combined to form a *new* \"Xã Xuân Đài\". Crucially, the name remains the same, but the administrative boundary and constituents *have* changed. This is key.\n\nNext, I need to cross-reference this information with the \"New wards\" list.  I'm looking for \"Xã Xuân Đài\" within \"Tỉnh Phú Thọ\". The provided data clearly contains a matching entry: `{\"ward_code\":\"08590\",\"ward_name\":\"Xã Xuân Đài\",\"province_name\":\"Tỉnh Phú Thọ\"}`.  Perfect!\n\nGiven that the resolution explicitly states the old ward contributes to the new, even if in a merged form, my confidence in this match is very high.  The name stays the same, the province stays the same, and the resolution provides the necessary link.  I'm ready to construct the output JSON.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1676/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ",
+        "line": "51. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Kim Thượng, Xuân Sơn và Xuân Đài thành xã mới có tên gọi là **xã Xuân Đài**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Phú Thọ",
+      "ward_code": "08590",
+      "ward_name": "Xã Xuân Đài"
+    }
+  ]
+}

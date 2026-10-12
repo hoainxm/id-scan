@@ -1,0 +1,18 @@
+{
+  "address": "Xã Minh Hóa, Huyện Minh Hóa, Tỉnh Quảng Bình",
+  "ellapsedInMs": 14416,
+  "estimatedCost": 0.0075969,
+  "thought": "**Finding the New Administrative Unit for \"Xã Minh Hóa, Huyện Minh Hóa, Tỉnh Quảng Bình\"**\n\nAlright, let's break this down. We need to figure out where \"Xã Minh Hóa\" from Quảng Bình ended up after the administrative changes. The key here is the province merger: Quảng Bình became part of Quảng Trị.\n\nFirst, I checked for province mergers using \"60-NQ/TW,\" confirming that \"Tỉnh Quảng Bình\" is now \"Tỉnh Quảng Trị.\"\n\nNow, the focus shifts to the \"Other resolutions,\" specifically looking for mentions of \"Minh Hóa\" within the context of the *new* province, Quảng Trị.  After reviewing the resolutions, only 1680/NQ-UBTVQH15 stood out. It deals with administrative adjustments specifically for Quảng Trị, making it the prime candidate.\n\nInside that resolution, line 5 jumps out: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thượng Hóa, Trung Hóa, Minh Hóa và Tân Hóa thành xã mới có tên gọi là **xã Kim Phú**.\"  That's it!  The old \"Minh Hóa\" (which was in Quảng Bình, now under Quảng Trị) has been merged into \"Xã Kim Phú.\" Line 6 creates a *new* \"Minh Hóa\", but it's important to remember that this \"Minh Hóa\" is not the old unit.\n\nLooking at the \"New Wards\" list, \"Xã Kim Phú\" (ward code 18943) is present. This confirms the new administrative unit.\n\nTherefore, the new administrative unit containing the old \"Xã Minh Hóa\" is **Xã Kim Phú**. This result is directly derived from line 5 of resolution 1680/NQ-UBTVQH15. The context of the resolution, dealing with Quảng Trị, solidifies that the \"Minh Hóa\" mentioned refers to the one that was formerly in Quảng Bình. I have high confidence in this determination because it is an explicit statement in the resolution.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1680/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Trị",
+        "line": "5. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thượng Hóa, Trung Hóa, Minh Hóa và Tân Hóa thành xã mới có tên gọi là xã Kim Phú."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Quảng Trị",
+      "ward_code": "18943",
+      "ward_name": "Xã Kim Phú"
+    }
+  ]
+}

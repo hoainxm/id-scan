@@ -1,0 +1,18 @@
+{
+  "address": "Xã Thạnh Phú, Huyện Châu Thành, Tỉnh Tiền Giang",
+  "ellapsedInMs": 17989,
+  "estimatedCost": 0.0265083,
+  "thought": "**Analysis of Administrative Unit Changes in Tiền Giang Province**\n\nOkay, so I need to figure out where the old \"Xã Thạnh Phú, Huyện Châu Thành, Tỉnh Tiền Giang\" now falls. First, I identify the key elements: Xã Thạnh Phú, Huyện Châu Thành, and Tỉnh Tiền Giang. Then, I recall that Tiền Giang merged with Đồng Tháp, now called Tỉnh Đồng Tháp, per resolution `60-NQ/TW`.\n\nNext, I look for ward-level resolutions, focusing on \"Xã Thạnh Phú\" within the context of the merged province. I analyze `1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp`.  Line 49 mentions a *new* Thạnh Phú, but it's clearly distinct.  Line 60 is the key: it talks about merging \"Tam Hiệp, **Thạnh Phú**, and Long Hưng\" into \"xã Long Hưng\". The context is Đồng Tháp, and this strongly suggests this is our Thạnh Phú from Châu Thành, Tiền Giang, given the context. Tam Hiệp and Long Hưng are also from this same area. The cited resolution covers the right province, and the communes match the old ward's profile.\n\nTherefore, \"Xã Thạnh Phú, Huyện Châu Thành, Tỉnh Tiền Giang\" is now part of \"Xã Long Hưng\" in \"Tỉnh Đồng Tháp\". This is a high-confidence finding, given the clarity of the resolution and its context. The specific line in `1663/NQ-UBTVQH15` is critical for backing up this conclusion, so I'll be sure to include it. I've also found the correct code for Xã Long Hưng from my list, which confirms it.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "60. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tam Hiệp, Thạnh Phú và Long Hưng thành xã mới có tên gọi là **xã Long Hưng**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "28537",
+      "ward_name": "Xã Long Hưng"
+    }
+  ]
+}

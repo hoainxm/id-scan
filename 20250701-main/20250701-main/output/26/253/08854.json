@@ -1,0 +1,18 @@
+{
+  "address": "Xã Đức Bác, Huyện Sông Lô, Tỉnh Vĩnh Phúc",
+  "ellapsedInMs": 18305,
+  "estimatedCost": 0.0283975,
+  "thought": "**Analyzing and Mapping Administrative Units**\n\nOkay, let's break this down. The task is to map an old administrative unit to its new equivalent, given resolutions. The old unit is \"Xã Đức Bác, Huyện Sông Lô, Tỉnh Vĩnh Phúc.\"\n\nFirst, I need to understand the request. I need to sift through the provided resolutions to identify changes. The goal is a JSON output in a predefined format.\n\nI'll start by analyzing the information:\n\n1.  **Resolution 60-NQ/TW:** Addresses province mergers. Vĩnh Phúc is mentioned, and it's being merged into a new province, Phú Thọ.\n\n2.  **Resolution 1676/NQ-UBTVQH15:** This resolution deals with the new Phú Thọ province. It's crucial. I found a clear line that merges \"Xã Đức Bác\" into \"xã Sông Lô.\" This is a direct mapping. This aligns with the \"huyện Sông Lô\" (Sông Lô district) found in the original unit name.\n\n3.  **Resolution 1687/NQ-UBTVQH15:** Irrelevant, it deals with Vĩnh Long province.\n\nThe next step is to find the code for \"Xã Sông Lô\" in \"Tỉnh Phú Thọ.\" The provided list gave us the correct code, which matched exactly.\n\nNow for the synthesis:\n\n1.  **Province Mapping:** The resolutions are consistent. Old province, Vĩnh Phúc, becomes part of the new Phú Thọ.\n2.  **Ward/Commune Mapping:** The crucial resolution (1676) explicitly merges Đức Bác into Sông Lô. Easy.\n3.  **Code Retrieval:** Finding the new unit's code for Sông Lô was trivial from the provided data.\n4.  **Confidence:** High. The resolution provides a clear and direct mapping of the wards.\n5.  **Constructing the JSON:** I have all the pieces. I will generate a JSON formatted correctly: province name, ward code, ward name, confidence, and citation. The citation includes the necessary information.\n\nThe structure looks right. Now, let's output the result.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1676/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ",
+        "line": "59. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đồng Thịnh (huyện Sông Lô), Tứ Yên, Đức Bác và Yên Thạch thành xã mới có tên gọi là **xã Sông Lô**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Phú Thọ",
+      "ward_code": "08848",
+      "ward_name": "Xã Sông Lô"
+    }
+  ]
+}

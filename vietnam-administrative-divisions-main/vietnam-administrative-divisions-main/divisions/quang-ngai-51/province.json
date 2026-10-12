@@ -1,0 +1,33 @@
+{
+  "id": "51",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Quảng Ngãi",
+    "en": "Quang Ngai",
+    "slug": "quang-ngai-51"
+  },
+  "code": {
+    "id": "51",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 96
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.769",
+    "lon": "108.143"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/quang-ngai-51/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

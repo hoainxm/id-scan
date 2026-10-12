@@ -1,0 +1,45 @@
+{
+  "id": "21964",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tuy Phước Bắc",
+    "en": "Tuy Phuoc Bac",
+    "slug": "tuy-phuoc-bac-21964"
+  },
+  "code": {
+    "id": "21964",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.89",
+    "lon": "109.146"
+  },
+  "metadata": {},
+  "source": {}
+}

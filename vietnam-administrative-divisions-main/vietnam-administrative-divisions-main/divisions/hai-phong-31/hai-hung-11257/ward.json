@@ -1,0 +1,45 @@
+{
+  "id": "11257",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hải Hưng",
+    "en": "Hai Hung",
+    "slug": "hai-hung-11257"
+  },
+  "code": {
+    "id": "11257",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Hải Phòng",
+      "en": "Hai Phong",
+      "slug": "hai-phong-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.801",
+    "lon": "106.16"
+  },
+  "metadata": {},
+  "source": {}
+}

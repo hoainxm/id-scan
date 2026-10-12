@@ -1,0 +1,45 @@
+{
+  "id": "27817",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tuyên Thạnh",
+    "en": "Tuyen Thanh",
+    "slug": "tuyen-thanh-27817"
+  },
+  "code": {
+    "id": "27817",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "Tây Ninh",
+      "en": "Tay Ninh",
+      "slug": "tay-ninh-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.751",
+    "lon": "105.866"
+  },
+  "metadata": {},
+  "source": {}
+}

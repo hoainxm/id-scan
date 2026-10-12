@@ -1,0 +1,45 @@
+{
+  "id": "02509",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mỹ Lâm",
+    "en": "My Lam",
+    "slug": "my-lam-02509"
+  },
+  "code": {
+    "id": "02509",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "Tuyên Quang",
+      "en": "Tuyen Quang",
+      "slug": "tuyen-quang-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "Tuyên Quang",
+        "en": "Tuyen Quang",
+        "slug": "tuyen-quang-08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.77",
+    "lon": "105.135"
+  },
+  "metadata": {},
+  "source": {}
+}

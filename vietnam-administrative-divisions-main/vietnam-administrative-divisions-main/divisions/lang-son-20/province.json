@@ -1,0 +1,33 @@
+{
+  "id": "20",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Lạng Sơn",
+    "en": "Lang Son",
+    "slug": "lang-son-20"
+  },
+  "code": {
+    "id": "20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 65
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.774",
+    "lon": "106.728"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/lang-son-20/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "20182",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Long Quảng",
+    "en": "Long Quang",
+    "slug": "long-quang-20182"
+  },
+  "code": {
+    "id": "20182",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.128",
+    "lon": "107.669"
+  },
+  "metadata": {},
+  "source": {}
+}

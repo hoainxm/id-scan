@@ -1,0 +1,5132 @@
+[
+  {
+    "id": "10660",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ái Quốc",
+      "en": "Ai Quoc",
+      "slug": "ai-quoc-10660"
+    },
+    "code": {
+      "id": "10660",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.969",
+      "lon": "106.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11407",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Biên",
+      "en": "An Bien",
+      "slug": "an-bien-11407"
+    },
+    "code": {
+      "id": "11407",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.83",
+      "lon": "106.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11581",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Dương",
+      "en": "An Duong",
+      "slug": "an-duong-11581"
+    },
+    "code": {
+      "id": "11581",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.868",
+      "lon": "106.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11617",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hải",
+      "en": "An Hai",
+      "slug": "an-hai-11617"
+    },
+    "code": {
+      "id": "11617",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.861",
+      "lon": "106.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11674",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hưng",
+      "en": "An Hung",
+      "slug": "an-hung-11674"
+    },
+    "code": {
+      "id": "11674",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.744",
+      "lon": "106.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11668",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Khánh",
+      "en": "An Khanh",
+      "slug": "an-khanh-11668"
+    },
+    "code": {
+      "id": "11668",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.763",
+      "lon": "106.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11629",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lão",
+      "en": "An Lao",
+      "slug": "an-lao-11629"
+    },
+    "code": {
+      "id": "11629",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.822",
+      "lon": "106.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11593",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phong",
+      "en": "An Phong",
+      "slug": "an-phong-11593"
+    },
+    "code": {
+      "id": "11593",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.877",
+      "lon": "106.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10645",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phú",
+      "en": "An Phu",
+      "slug": "an-phu-10645"
+    },
+    "code": {
+      "id": "10645",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.997",
+      "lon": "106.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11647",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Quang",
+      "en": "An Quang",
+      "slug": "an-quang-11647"
+    },
+    "code": {
+      "id": "11647",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.804",
+      "lon": "106.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10792",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Thành",
+      "en": "An Thanh",
+      "slug": "an-thanh-10792"
+    },
+    "code": {
+      "id": "10792",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.94",
+      "lon": "106.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11635",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Trường",
+      "en": "An Truong",
+      "slug": "an-truong-11635"
+    },
+    "code": {
+      "id": "11635",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.845",
+      "lon": "106.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10678",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc An Phụ",
+      "en": "Bac An Phu",
+      "slug": "bac-an-phu-10678"
+    },
+    "code": {
+      "id": "10678",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.052",
+      "lon": "106.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11254",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Thanh Miện",
+      "en": "Bac Thanh Mien",
+      "slug": "bac-thanh-mien-11254"
+    },
+    "code": {
+      "id": "11254",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.81",
+      "lon": "106.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11473",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Đằng",
+      "en": "Bach Dang",
+      "slug": "bach-dang-11473"
+    },
+    "code": {
+      "id": "11473",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "106.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11948",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bạch Long Vĩ",
+      "en": "Bach Long Vi",
+      "slug": "bach-long-vi-11948"
+    },
+    "code": {
+      "id": "11948",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.124",
+      "lon": "107.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10966",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Giang",
+      "en": "Binh Giang",
+      "slug": "binh-giang-10966"
+    },
+    "code": {
+      "id": "10966",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.876",
+      "lon": "106.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10888",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Giang",
+      "en": "Cam Giang",
+      "slug": "cam-giang-10888"
+    },
+    "code": {
+      "id": "10888",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.969",
+      "lon": "106.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10903",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Giàng",
+      "en": "Cam Giang",
+      "slug": "cam-giang-10903"
+    },
+    "code": {
+      "id": "10903",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.951",
+      "lon": "106.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11914",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Hải",
+      "en": "Cat Hai",
+      "slug": "cat-hai-11914"
+    },
+    "code": {
+      "id": "11914",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.732",
+      "lon": "107.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11806",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chấn Hưng",
+      "en": "Chan Hung",
+      "slug": "chan-hung-11806"
+    },
+    "code": {
+      "id": "11806",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.664",
+      "lon": "106.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10546",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chí Linh",
+      "en": "Chi Linh",
+      "slug": "chi-linh-10546"
+    },
+    "code": {
+      "id": "10546",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.107",
+      "lon": "106.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11131",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chí Minh",
+      "en": "Chi Minh",
+      "slug": "chi-minh-11131"
+    },
+    "code": {
+      "id": "11131",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.796",
+      "lon": "106.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10549",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chu Văn An",
+      "en": "Chu Van An",
+      "slug": "chu-van-an-10549"
+    },
+    "code": {
+      "id": "10549",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.112",
+      "lon": "106.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11086",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Sơn",
+      "en": "Dai Son",
+      "slug": "dai-son-11086"
+    },
+    "code": {
+      "id": "11086",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.857",
+      "lon": "106.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11455",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồ Sơn",
+      "en": "Do Son",
+      "slug": "do-son-11455"
+    },
+    "code": {
+      "id": "11455",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.716",
+      "lon": "106.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11411",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hải",
+      "en": "Dong Hai",
+      "slug": "dong-hai-11411"
+    },
+    "code": {
+      "id": "11411",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.847",
+      "lon": "106.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10972",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đường An",
+      "en": "Duong An",
+      "slug": "duong-an-10972"
+    },
+    "code": {
+      "id": "10972",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.876",
+      "lon": "106.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11692",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dương Kinh",
+      "en": "Duong Kinh",
+      "slug": "duong-kinh-11692"
+    },
+    "code": {
+      "id": "11692",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.777",
+      "lon": "106.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10999",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Lộc",
+      "en": "Gia Loc",
+      "slug": "gia-loc-10999"
+    },
+    "code": {
+      "id": "10999",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.844",
+      "lon": "106.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11050",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Phúc",
+      "en": "Gia Phuc",
+      "slug": "gia-phuc-11050"
+    },
+    "code": {
+      "id": "11050",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.852",
+      "lon": "106.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11359",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Viên",
+      "en": "Gia Vien",
+      "slug": "gia-vien-11359"
+    },
+    "code": {
+      "id": "11359",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.849",
+      "lon": "106.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10816",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Bắc",
+      "en": "Ha Bac",
+      "slug": "ha-bac-10816"
+    },
+    "code": {
+      "id": "10816",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.931",
+      "lon": "106.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10882",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Đông",
+      "en": "Ha Dong",
+      "slug": "ha-dong-10882"
+    },
+    "code": {
+      "id": "10882",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.869",
+      "lon": "106.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10843",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Nam",
+      "en": "Ha Nam",
+      "slug": "ha-nam-10843"
+    },
+    "code": {
+      "id": "10843",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.922",
+      "lon": "106.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10846",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Tây",
+      "en": "Ha Tay",
+      "slug": "ha-tay-10846"
+    },
+    "code": {
+      "id": "10846",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.892",
+      "lon": "106.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11413",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải An",
+      "en": "Hai An",
+      "slug": "hai-an-11413"
+    },
+    "code": {
+      "id": "11413",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.825",
+      "lon": "106.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10525",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Dương",
+      "en": "Hai Duong",
+      "slug": "hai-duong-10525"
+    },
+    "code": {
+      "id": "10525",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.933",
+      "lon": "106.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11257",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Hưng",
+      "en": "Hai Hung",
+      "slug": "hai-hung-11257"
+    },
+    "code": {
+      "id": "11257",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.801",
+      "lon": "106.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11533",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Bình",
+      "en": "Hoa Binh",
+      "slug": "hoa-binh-11533"
+    },
+    "code": {
+      "id": "11533",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.939",
+      "lon": "106.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11602",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng An",
+      "en": "Hong An",
+      "slug": "hong-an-11602"
+    },
+    "code": {
+      "id": "11602",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.912",
+      "lon": "106.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11311",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Bàng",
+      "en": "Hong Bang",
+      "slug": "hong-bang-11311"
+    },
+    "code": {
+      "id": "11311",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.869",
+      "lon": "106.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11218",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Châu",
+      "en": "Hong Chau",
+      "slug": "hong-chau-11218"
+    },
+    "code": {
+      "id": "11218",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.725",
+      "lon": "106.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10615",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hợp Tiến",
+      "en": "Hop Tien",
+      "slug": "hop-tien-10615"
+    },
+    "code": {
+      "id": "10615",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.059",
+      "lon": "106.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11689",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Đạo",
+      "en": "Hung Dao",
+      "slug": "hung-dao-11689"
+    },
+    "code": {
+      "id": "11689",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.795",
+      "lon": "106.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11809",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hùng Thắng",
+      "en": "Hung Thang",
+      "slug": "hung-thang-11809"
+    },
+    "code": {
+      "id": "11809",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.676",
+      "lon": "106.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10945",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kẻ Sặt",
+      "en": "Ke Sat",
+      "slug": "ke-sat-10945"
+    },
+    "code": {
+      "id": "10945",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.909",
+      "lon": "106.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11224",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khúc Thừa Dụ",
+      "en": "Khuc Thua Du",
+      "slug": "khuc-thua-du-11224"
+    },
+    "code": {
+      "id": "11224",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.719",
+      "lon": "106.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11443",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến An",
+      "en": "Kien An",
+      "slug": "kien-an-11443"
+    },
+    "code": {
+      "id": "11443",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.808",
+      "lon": "106.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11749",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Hải",
+      "en": "Kien Hai",
+      "slug": "kien-hai-11749"
+    },
+    "code": {
+      "id": "11749",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.715",
+      "lon": "106.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11728",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Hưng",
+      "en": "Kien Hung",
+      "slug": "kien-hung-11728"
+    },
+    "code": {
+      "id": "11728",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.721",
+      "lon": "106.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11725",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Minh",
+      "en": "Kien Minh",
+      "slug": "kien-minh-11725"
+    },
+    "code": {
+      "id": "11725",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.753",
+      "lon": "106.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11680",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Thụy",
+      "en": "Kien Thuy",
+      "slug": "kien-thuy-11680"
+    },
+    "code": {
+      "id": "11680",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.751",
+      "lon": "106.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10804",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Thành",
+      "en": "Kim Thanh",
+      "slug": "kim-thanh-10804"
+    },
+    "code": {
+      "id": "10804",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.903",
+      "lon": "106.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10675",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kinh Môn",
+      "en": "Kinh Mon",
+      "slug": "kinh-mon-10675"
+    },
+    "code": {
+      "id": "10675",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.988",
+      "lon": "106.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11140",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lạc Phượng",
+      "en": "Lac Phuong",
+      "slug": "lac-phuong-11140"
+    },
+    "code": {
+      "id": "11140",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.776",
+      "lon": "106.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10756",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lai Khê",
+      "en": "Lai Khe",
+      "slug": "lai-khe-10756"
+    },
+    "code": {
+      "id": "10756",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.979",
+      "lon": "106.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11383",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Chân",
+      "en": "Le Chan",
+      "slug": "le-chan-11383"
+    },
+    "code": {
+      "id": "11383",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.845",
+      "lon": "106.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10603",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Đại Hành",
+      "en": "Le Dai Hanh",
+      "slug": "le-dai-hanh-10603"
+    },
+    "code": {
+      "id": "10603",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.046",
+      "lon": "106.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11506",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Ích Mộc",
+      "en": "Le Ich Moc",
+      "slug": "le-ich-moc-11506"
+    },
+    "code": {
+      "id": "11506",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.969",
+      "lon": "106.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10532",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Thanh Nghị",
+      "en": "Le Thanh Nghi",
+      "slug": "le-thanh-nghi-10532"
+    },
+    "code": {
+      "id": "10532",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.923",
+      "lon": "106.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11488",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lưu Kiếm",
+      "en": "Luu Kiem",
+      "slug": "luu-kiem-11488"
+    },
+    "code": {
+      "id": "11488",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.965",
+      "lon": "106.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10930",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mao Điền",
+      "en": "Mao Dien",
+      "slug": "mao-dien-10930"
+    },
+    "code": {
+      "id": "10930",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.94",
+      "lon": "106.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10705",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam An Phụ",
+      "en": "Nam An Phu",
+      "slug": "nam-an-phu-10705"
+    },
+    "code": {
+      "id": "10705",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.005",
+      "lon": "106.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11737",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đồ Sơn",
+      "en": "Nam Do Son",
+      "slug": "nam-do-son-11737"
+    },
+    "code": {
+      "id": "11737",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.744",
+      "lon": "106.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10837",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đồng",
+      "en": "Nam Dong",
+      "slug": "nam-dong-10837"
+    },
+    "code": {
+      "id": "10837",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.911",
+      "lon": "106.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10606",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Sách",
+      "en": "Nam Sach",
+      "slug": "nam-sach-10606"
+    },
+    "code": {
+      "id": "10606",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.986",
+      "lon": "106.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11284",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Thanh Miện",
+      "en": "Nam Thanh Mien",
+      "slug": "nam-thanh-mien-11284"
+    },
+    "code": {
+      "id": "11284",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.726",
+      "lon": "106.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11542",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Triệu",
+      "en": "Nam Trieu",
+      "slug": "nam-trieu-11542"
+    },
+    "code": {
+      "id": "11542",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.926",
+      "lon": "106.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11713",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghi Dương",
+      "en": "Nghi Duong",
+      "slug": "nghi-duong-11713"
+    },
+    "code": {
+      "id": "11713",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.735",
+      "lon": "106.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11329",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngô Quyền",
+      "en": "Ngo Quyen",
+      "slug": "ngo-quyen-11329"
+    },
+    "code": {
+      "id": "11329",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.867",
+      "lon": "106.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11911",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Bỉnh Khiêm",
+      "en": "Nguyen Binh Khiem",
+      "slug": "nguyen-binh-khiem-11911"
+    },
+    "code": {
+      "id": "11911",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.64",
+      "lon": "106.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10744",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Đại Năng",
+      "en": "Nguyen Dai Nang",
+      "slug": "nguyen-dai-nang-10744"
+    },
+    "code": {
+      "id": "10744",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.972",
+      "lon": "106.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11146",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyên Giáp",
+      "en": "Nguyen Giap",
+      "slug": "nguyen-giap-11146"
+    },
+    "code": {
+      "id": "11146",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.755",
+      "lon": "106.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11242",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Lương Bằng",
+      "en": "Nguyen Luong Bang",
+      "slug": "nguyen-luong-bang-11242"
+    },
+    "code": {
+      "id": "11242",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.825",
+      "lon": "106.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10552",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Trãi",
+      "en": "Nguyen Trai",
+      "slug": "nguyen-trai-10552"
+    },
+    "code": {
+      "id": "10552",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.194",
+      "lon": "106.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10714",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhị Chiểu",
+      "en": "Nhi Chieu",
+      "slug": "nhi-chieu-10714"
+    },
+    "code": {
+      "id": "10714",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.021",
+      "lon": "106.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11203",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Giang",
+      "en": "Ninh Giang",
+      "slug": "ninh-giang-11203"
+    },
+    "code": {
+      "id": "11203",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.731",
+      "lon": "106.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10726",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phạm Sư Mạnh",
+      "en": "Pham Su Manh",
+      "slug": "pham-su-manh-10726"
+    },
+    "code": {
+      "id": "10726",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.011",
+      "lon": "106.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11446",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phù Liễn",
+      "en": "Phu Lien",
+      "slug": "phu-lien-11446"
+    },
+    "code": {
+      "id": "11446",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.791",
+      "lon": "106.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10750",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thái",
+      "en": "Phu Thai",
+      "slug": "phu-thai-10750"
+    },
+    "code": {
+      "id": "10750",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.97",
+      "lon": "106.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11761",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quyết Thắng",
+      "en": "Quyet Thang",
+      "slug": "quyet-thang-11761"
+    },
+    "code": {
+      "id": "11761",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.771",
+      "lon": "106.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11167",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-11167"
+    },
+    "code": {
+      "id": "11167",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.78",
+      "lon": "106.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10537",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hưng",
+      "en": "Tan Hung",
+      "slug": "tan-hung-10537"
+    },
+    "code": {
+      "id": "10537",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.917",
+      "lon": "106.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11113",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Kỳ",
+      "en": "Tan Ky",
+      "slug": "tan-ky-11113"
+    },
+    "code": {
+      "id": "11113",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.826",
+      "lon": "106.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11779",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Minh",
+      "en": "Tan Minh",
+      "slug": "tan-minh-11779"
+    },
+    "code": {
+      "id": "11779",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.703",
+      "lon": "106.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11002",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Khôi",
+      "en": "Thach Khoi",
+      "slug": "thach-khoi-11002"
+    },
+    "code": {
+      "id": "11002",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.906",
+      "lon": "106.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10642",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Tân",
+      "en": "Thai Tan",
+      "slug": "thai-tan-10642"
+    },
+    "code": {
+      "id": "10642",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.992",
+      "lon": "106.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10507",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Đông",
+      "en": "Thanh Dong",
+      "slug": "thanh-dong-10507"
+    },
+    "code": {
+      "id": "10507",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.949",
+      "lon": "106.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10813",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Hà",
+      "en": "Thanh Ha",
+      "slug": "thanh-ha-10813"
+    },
+    "code": {
+      "id": "10813",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.897",
+      "lon": "106.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11239",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Miện",
+      "en": "Thanh Mien",
+      "slug": "thanh-mien-11239"
+    },
+    "code": {
+      "id": "11239",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.787",
+      "lon": "106.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11557",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiên Hương",
+      "en": "Thien Huong",
+      "slug": "thien-huong-11557"
+    },
+    "code": {
+      "id": "11557",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.923",
+      "lon": "106.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10993",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Hồng",
+      "en": "Thuong Hong",
+      "slug": "thuong-hong-10993"
+    },
+    "code": {
+      "id": "10993",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.839",
+      "lon": "106.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11560",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thủy Nguyên",
+      "en": "Thuy Nguyen",
+      "slug": "thuy-nguyen-11560"
+    },
+    "code": {
+      "id": "11560",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.918",
+      "lon": "106.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11755",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Lãng",
+      "en": "Tien Lang",
+      "slug": "tien-lang-11755"
+    },
+    "code": {
+      "id": "11755",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.729",
+      "lon": "106.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11791",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Minh",
+      "en": "Tien Minh",
+      "slug": "tien-minh-11791"
+    },
+    "code": {
+      "id": "11791",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.707",
+      "lon": "106.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10570",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Hưng Đạo",
+      "en": "Tran Hung Dao",
+      "slug": "tran-hung-dao-10570"
+    },
+    "code": {
+      "id": "10570",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.169",
+      "lon": "106.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10729",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Liễu",
+      "en": "Tran Lieu",
+      "slug": "tran-lieu-10729"
+    },
+    "code": {
+      "id": "10729",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.995",
+      "lon": "106.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10573",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Nhân Tông",
+      "en": "Tran Nhan Tong",
+      "slug": "tran-nhan-tong-10573"
+    },
+    "code": {
+      "id": "10573",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.132",
+      "lon": "106.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10633",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Phú",
+      "en": "Tran Phu",
+      "slug": "tran-phu-10633"
+    },
+    "code": {
+      "id": "10633",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.012",
+      "lon": "106.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11065",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Tân",
+      "en": "Truong Tan",
+      "slug": "truong-tan-11065"
+    },
+    "code": {
+      "id": "11065",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.8",
+      "lon": "106.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11074",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tứ Kỳ",
+      "en": "Tu Ky",
+      "slug": "tu-ky-11074"
+    },
+    "code": {
+      "id": "11074",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.824",
+      "lon": "106.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10891",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tứ Minh",
+      "en": "Tu Minh",
+      "slug": "tu-minh-10891"
+    },
+    "code": {
+      "id": "10891",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.933",
+      "lon": "106.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10909",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuệ Tĩnh",
+      "en": "Tue Tinh",
+      "slug": "tue-tinh-10909"
+    },
+    "code": {
+      "id": "10909",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.973",
+      "lon": "106.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10543",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Hòa",
+      "en": "Viet Hoa",
+      "slug": "viet-hoa-10543"
+    },
+    "code": {
+      "id": "10543",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.949",
+      "lon": "106.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11503",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Khê",
+      "en": "Viet Khe",
+      "slug": "viet-khe-11503"
+    },
+    "code": {
+      "id": "11503",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.979",
+      "lon": "106.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11887",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Am",
+      "en": "Vinh Am",
+      "slug": "vinh-am-11887"
+    },
+    "code": {
+      "id": "11887",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.636",
+      "lon": "106.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11824",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Bảo",
+      "en": "Vinh Bao",
+      "slug": "vinh-bao-11824"
+    },
+    "code": {
+      "id": "11824",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.687",
+      "lon": "106.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11875",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hải",
+      "en": "Vinh Hai",
+      "slug": "vinh-hai-11875"
+    },
+    "code": {
+      "id": "11875",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.645",
+      "lon": "106.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11848",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hòa",
+      "en": "Vinh Hoa",
+      "slug": "vinh-hoa-11848"
+    },
+    "code": {
+      "id": "11848",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.694",
+      "lon": "106.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11164",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Lại",
+      "en": "Vinh Lai",
+      "slug": "vinh-lai-11164"
+    },
+    "code": {
+      "id": "11164",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.782",
+      "lon": "106.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11836",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thịnh",
+      "en": "Vinh Thinh",
+      "slug": "vinh-thinh-11836"
+    },
+    "code": {
+      "id": "11836",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.709",
+      "lon": "106.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11842",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thuận",
+      "en": "Vinh Thuan",
+      "slug": "vinh-thuan-11842"
+    },
+    "code": {
+      "id": "11842",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.719",
+      "lon": "106.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11020",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yết Kiêu",
+      "en": "Yet Kieu",
+      "slug": "yet-kieu-11020"
+    },
+    "code": {
+      "id": "11020",
+      "iso": null
+    },
+    "parent": {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Hải Phòng",
+          "en": "Hai Phong",
+          "slug": "hai-phong-31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.872",
+      "lon": "106.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

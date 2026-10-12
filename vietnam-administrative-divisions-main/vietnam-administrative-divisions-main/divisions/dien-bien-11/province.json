@@ -1,0 +1,33 @@
+{
+  "id": "11",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Điện Biên",
+    "en": "Dien Bien",
+    "slug": "dien-bien-11"
+  },
+  "code": {
+    "id": "11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.477",
+    "lon": "103.232"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/dien-bien-11/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "26122",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nam Cát Tiên",
+    "en": "Nam Cat Tien",
+    "slug": "nam-cat-tien-26122"
+  },
+  "code": {
+    "id": "26122",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Đồng Nai",
+      "en": "Dong Nai",
+      "slug": "dong-nai-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Đồng Nai",
+        "en": "Dong Nai",
+        "slug": "dong-nai-75"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.421",
+    "lon": "107.428"
+  },
+  "metadata": {},
+  "source": {}
+}

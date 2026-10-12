@@ -1,0 +1,3512 @@
+[
+  {
+    "id": "19483",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Dơi",
+      "en": "A Doi",
+      "slug": "a-doi-19483"
+    },
+    "code": {
+      "id": "19483",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.481",
+      "lon": "106.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19669",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ái Tử",
+      "en": "Ai Tu",
+      "slug": "ai-tu-19669"
+    },
+    "code": {
+      "id": "19669",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.775",
+      "lon": "107.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19009",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Đồn",
+      "en": "Ba Don",
+      "slug": "ba-don-19009"
+    },
+    "code": {
+      "id": "19009",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.735",
+      "lon": "106.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19567",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Lòng",
+      "en": "Ba Long",
+      "slug": "ba-long-19567"
+    },
+    "code": {
+      "id": "19567",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.659",
+      "lon": "106.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19066",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Gianh",
+      "en": "Bac Gianh",
+      "slug": "bac-gianh-19066"
+    },
+    "code": {
+      "id": "19066",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.752",
+      "lon": "106.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19126",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Trạch",
+      "en": "Bac Trach",
+      "slug": "bac-trach-19126"
+    },
+    "code": {
+      "id": "19126",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.698",
+      "lon": "106.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19501",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Hải",
+      "en": "Ben Hai",
+      "slug": "ben-hai-19501"
+    },
+    "code": {
+      "id": "19501",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.989",
+      "lon": "107.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19366",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Quan",
+      "en": "Ben Quan",
+      "slug": "ben-quan-19366"
+    },
+    "code": {
+      "id": "19366",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.022",
+      "lon": "106.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19141",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bố Trạch",
+      "en": "Bo Trach",
+      "slug": "bo-trach-19141"
+    },
+    "code": {
+      "id": "19141",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.487",
+      "lon": "106.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19255",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Hồng",
+      "en": "Cam Hong",
+      "slug": "cam-hong-19255"
+    },
+    "code": {
+      "id": "19255",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.267",
+      "lon": "106.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19597",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Lộ",
+      "en": "Cam Lo",
+      "slug": "cam-lo-19597"
+    },
+    "code": {
+      "id": "19597",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.785",
+      "lon": "106.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19742",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cồn Cỏ",
+      "en": "Con Co",
+      "slug": "con-co-19742"
+    },
+    "code": {
+      "id": "19742",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.159",
+      "lon": "107.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19537",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cồn Tiên",
+      "en": "Con Tien",
+      "slug": "con-tien-19537"
+    },
+    "code": {
+      "id": "19537",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.899",
+      "lon": "107.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19414",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cửa Tùng",
+      "en": "Cua Tung",
+      "slug": "cua-tung-19414"
+    },
+    "code": {
+      "id": "19414",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.029",
+      "lon": "107.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19496",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cửa Việt",
+      "en": "Cua Viet",
+      "slug": "cua-viet-19496"
+    },
+    "code": {
+      "id": "19496",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.907",
+      "lon": "107.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19564",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đakrông",
+      "en": "Dakrong",
+      "slug": "dakrong-19564"
+    },
+    "code": {
+      "id": "19564",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.568",
+      "lon": "106.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18904",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dân Hóa",
+      "en": "Dan Hoa",
+      "slug": "dan-hoa-18904"
+    },
+    "code": {
+      "id": "18904",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.8",
+      "lon": "105.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19681",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Sanh",
+      "en": "Dien Sanh",
+      "slug": "dien-sanh-19681"
+    },
+    "code": {
+      "id": "19681",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.687",
+      "lon": "107.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19333",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hà",
+      "en": "Dong Ha",
+      "slug": "dong-ha-19333"
+    },
+    "code": {
+      "id": "19333",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.802",
+      "lon": "107.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18880",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Hới",
+      "en": "Dong Hoi",
+      "slug": "dong-hoi-18880"
+    },
+    "code": {
+      "id": "18880",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.449",
+      "lon": "106.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18949",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Lê",
+      "en": "Dong Le",
+      "slug": "dong-le-18949"
+    },
+    "code": {
+      "id": "18949",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.886",
+      "lon": "106.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18871",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Sơn",
+      "en": "Dong Son",
+      "slug": "dong-son-18871"
+    },
+    "code": {
+      "id": "18871",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.448",
+      "lon": "106.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18859",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Thuận",
+      "en": "Dong Thuan",
+      "slug": "dong-thuan-18859"
+    },
+    "code": {
+      "id": "18859",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.476",
+      "lon": "106.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19159",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Trạch",
+      "en": "Dong Trach",
+      "slug": "dong-trach-19159"
+    },
+    "code": {
+      "id": "19159",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.622",
+      "lon": "106.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19495",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gio Linh",
+      "en": "Gio Linh",
+      "slug": "gio-linh-19495"
+    },
+    "code": {
+      "id": "19495",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.913",
+      "lon": "107.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19702",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Lăng",
+      "en": "Hai Lang",
+      "slug": "hai-lang-19702"
+    },
+    "code": {
+      "id": "19702",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.684",
+      "lon": "107.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19603",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiếu Giang",
+      "en": "Hieu Giang",
+      "slug": "hieu-giang-19603"
+    },
+    "code": {
+      "id": "19603",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.829",
+      "lon": "107.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19033",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Trạch",
+      "en": "Hoa Trach",
+      "slug": "hoa-trach-19033"
+    },
+    "code": {
+      "id": "19033",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.868",
+      "lon": "106.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19111",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàn Lão",
+      "en": "Hoan Lao",
+      "slug": "hoan-lao-19111"
+    },
+    "code": {
+      "id": "19111",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.583",
+      "lon": "106.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19555",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hướng Hiệp",
+      "en": "Huong Hiep",
+      "slug": "huong-hiep-19555"
+    },
+    "code": {
+      "id": "19555",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.689",
+      "lon": "106.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19435",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hướng Lập",
+      "en": "Huong Lap",
+      "slug": "huong-lap-19435"
+    },
+    "code": {
+      "id": "19435",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.887",
+      "lon": "106.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19441",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hướng Phùng",
+      "en": "Huong Phung",
+      "slug": "huong-phung-19441"
+    },
+    "code": {
+      "id": "19441",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.742",
+      "lon": "106.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19429",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khe Sanh",
+      "en": "Khe Sanh",
+      "slug": "khe-sanh-19429"
+    },
+    "code": {
+      "id": "19429",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.627",
+      "lon": "106.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18922",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Điền",
+      "en": "Kim Dien",
+      "slug": "kim-dien-18922"
+    },
+    "code": {
+      "id": "18922",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.822",
+      "lon": "105.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19318",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Ngân",
+      "en": "Kim Ngan",
+      "slug": "kim-ngan-19318"
+    },
+    "code": {
+      "id": "19318",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.096",
+      "lon": "106.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18943",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Phú",
+      "en": "Kim Phu",
+      "slug": "kim-phu-18943"
+    },
+    "code": {
+      "id": "18943",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.739",
+      "lon": "105.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19594",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "La Lay",
+      "en": "La Lay",
+      "slug": "la-lay-19594"
+    },
+    "code": {
+      "id": "19594",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.374",
+      "lon": "107.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19432",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lao Bảo",
+      "en": "Lao Bao",
+      "slug": "lao-bao-19432"
+    },
+    "code": {
+      "id": "19432",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.614",
+      "lon": "106.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lệ Ninh",
+      "en": "Le Ninh",
+      "slug": "le-ninh-19246"
+    },
+    "code": {
+      "id": "19246",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.232",
+      "lon": "106.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19249",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lệ Thủy",
+      "en": "Le Thuy",
+      "slug": "le-thuy-19249"
+    },
+    "code": {
+      "id": "19249",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.127",
+      "lon": "106.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lìa",
+      "en": "Lia",
+      "slug": "lia-19489"
+    },
+    "code": {
+      "id": "19489",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.492",
+      "lon": "106.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18901",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Hóa",
+      "en": "Minh Hoa",
+      "slug": "minh-hoa-18901"
+    },
+    "code": {
+      "id": "18901",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.735",
+      "lon": "105.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19741",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thủy",
+      "en": "My Thuy",
+      "slug": "my-thuy-19741"
+    },
+    "code": {
+      "id": "19741",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.743",
+      "lon": "107.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19075",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Ba Đồn",
+      "en": "Nam Ba Don",
+      "slug": "nam-ba-don-19075"
+    },
+    "code": {
+      "id": "19075",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.756",
+      "lon": "106.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19639",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Cửa Việt",
+      "en": "Nam Cua Viet",
+      "slug": "nam-cua-viet-19639"
+    },
+    "code": {
+      "id": "19639",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.823",
+      "lon": "107.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19351",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đông Hà",
+      "en": "Nam Dong Ha",
+      "slug": "nam-dong-ha-19351"
+    },
+    "code": {
+      "id": "19351",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.802",
+      "lon": "107.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19093",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Gianh",
+      "en": "Nam Gianh",
+      "slug": "nam-gianh-19093"
+    },
+    "code": {
+      "id": "19093",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.735",
+      "lon": "106.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19735",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Hải Lăng",
+      "en": "Nam Hai Lang",
+      "slug": "nam-hai-lang-19735"
+    },
+    "code": {
+      "id": "19735",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.638",
+      "lon": "107.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19198",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Trạch",
+      "en": "Nam Trach",
+      "slug": "nam-trach-19198"
+    },
+    "code": {
+      "id": "19198",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.535",
+      "lon": "106.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19225",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Châu",
+      "en": "Ninh Chau",
+      "slug": "ninh-chau-19225"
+    },
+    "code": {
+      "id": "19225",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.339",
+      "lon": "106.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19138",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Nha",
+      "en": "Phong Nha",
+      "slug": "phong-nha-19138"
+    },
+    "code": {
+      "id": "19138",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.648",
+      "lon": "106.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19021",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Trạch",
+      "en": "Phu Trach",
+      "slug": "phu-trach-19021"
+    },
+    "code": {
+      "id": "19021",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.886",
+      "lon": "106.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19207",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Ninh",
+      "en": "Quang Ninh",
+      "slug": "quang-ninh-19207"
+    },
+    "code": {
+      "id": "19207",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.254",
+      "lon": "106.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19057",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Trạch",
+      "en": "Quang Trach",
+      "slug": "quang-trach-19057"
+    },
+    "code": {
+      "id": "19057",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.873",
+      "lon": "106.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19360",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Trị",
+      "en": "Quang Tri",
+      "slug": "quang-tri-19360"
+    },
+    "code": {
+      "id": "19360",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.694",
+      "lon": "107.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19288",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sen Ngư",
+      "en": "Sen Ngu",
+      "slug": "sen-ngu-19288"
+    },
+    "code": {
+      "id": "19288",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.21",
+      "lon": "106.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19588",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Rụt",
+      "en": "Ta Rut",
+      "slug": "ta-rut-19588"
+    },
+    "code": {
+      "id": "19588",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.393",
+      "lon": "106.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19051",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Gianh",
+      "en": "Tan Gianh",
+      "slug": "tan-gianh-19051"
+    },
+    "code": {
+      "id": "19051",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.778",
+      "lon": "106.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19462",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lập",
+      "en": "Tan Lap",
+      "slug": "tan-lap-19462"
+    },
+    "code": {
+      "id": "19462",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.61",
+      "lon": "106.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19291",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Mỹ",
+      "en": "Tan My",
+      "slug": "tan-my-19291"
+    },
+    "code": {
+      "id": "19291",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.189",
+      "lon": "106.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18919",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-18919"
+    },
+    "code": {
+      "id": "18919",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.878",
+      "lon": "105.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19147",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Trạch",
+      "en": "Thuong Trach",
+      "slug": "thuong-trach-19147"
+    },
+    "code": {
+      "id": "19147",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.363",
+      "lon": "106.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19645",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Triệu Bình",
+      "en": "Trieu Binh",
+      "slug": "trieu-binh-19645"
+    },
+    "code": {
+      "id": "19645",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.818",
+      "lon": "107.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19654",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Triệu Cơ",
+      "en": "Trieu Co",
+      "slug": "trieu-co-19654"
+    },
+    "code": {
+      "id": "19654",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.797",
+      "lon": "107.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19624",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Triệu Phong",
+      "en": "Trieu Phong",
+      "slug": "trieu-phong-19624"
+    },
+    "code": {
+      "id": "19624",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.777",
+      "lon": "107.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19030",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Thuần",
+      "en": "Trung Thuan",
+      "slug": "trung-thuan-19030"
+    },
+    "code": {
+      "id": "19030",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.809",
+      "lon": "106.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19237",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Ninh",
+      "en": "Truong Ninh",
+      "slug": "truong-ninh-19237"
+    },
+    "code": {
+      "id": "19237",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "106.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19309",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Phú",
+      "en": "Truong Phu",
+      "slug": "truong-phu-19309"
+    },
+    "code": {
+      "id": "19309",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.191",
+      "lon": "106.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19204",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Sơn",
+      "en": "Truong Son",
+      "slug": "truong-son-19204"
+    },
+    "code": {
+      "id": "19204",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.219",
+      "lon": "106.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18991",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Bình",
+      "en": "Tuyen Binh",
+      "slug": "tuyen-binh-18991"
+    },
+    "code": {
+      "id": "18991",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.829",
+      "lon": "106.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18997",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Hóa",
+      "en": "Tuyen Hoa",
+      "slug": "tuyen-hoa-18997"
+    },
+    "code": {
+      "id": "18997",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.9",
+      "lon": "106.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18958",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Lâm",
+      "en": "Tuyen Lam",
+      "slug": "tuyen-lam-18958"
+    },
+    "code": {
+      "id": "18958",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.984",
+      "lon": "105.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Phú",
+      "en": "Tuyen Phu",
+      "slug": "tuyen-phu-18985"
+    },
+    "code": {
+      "id": "18985",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.857",
+      "lon": "106.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18952",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Sơn",
+      "en": "Tuyen Son",
+      "slug": "tuyen-son-18952"
+    },
+    "code": {
+      "id": "18952",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.029",
+      "lon": "105.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19699",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Định",
+      "en": "Vinh Dinh",
+      "slug": "vinh-dinh-19699"
+    },
+    "code": {
+      "id": "19699",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.749",
+      "lon": "107.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19372",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hoàng",
+      "en": "Vinh Hoang",
+      "slug": "vinh-hoang-19372"
+    },
+    "code": {
+      "id": "19372",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.07",
+      "lon": "107.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19363",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Linh",
+      "en": "Vinh Linh",
+      "slug": "vinh-linh-19363"
+    },
+    "code": {
+      "id": "19363",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.027",
+      "lon": "106.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19405",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thủy",
+      "en": "Vinh Thuy",
+      "slug": "vinh-thuy-19405"
+    },
+    "code": {
+      "id": "19405",
+      "iso": null
+    },
+    "parent": {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "Quảng Trị",
+        "en": "Quang Tri",
+        "slug": "quang-tri-44"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "44",
+        "level": 1,
+        "name": {
+          "local": "Quảng Trị",
+          "en": "Quang Tri",
+          "slug": "quang-tri-44"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "107.019"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

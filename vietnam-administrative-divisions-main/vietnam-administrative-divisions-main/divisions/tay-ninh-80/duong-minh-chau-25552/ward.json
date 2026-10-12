@@ -1,0 +1,45 @@
+{
+  "id": "25552",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Dương Minh Châu",
+    "en": "Duong Minh Chau",
+    "slug": "duong-minh-chau-25552"
+  },
+  "code": {
+    "id": "25552",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "Tây Ninh",
+      "en": "Tay Ninh",
+      "slug": "tay-ninh-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.329",
+    "lon": "106.248"
+  },
+  "metadata": {},
+  "source": {}
+}

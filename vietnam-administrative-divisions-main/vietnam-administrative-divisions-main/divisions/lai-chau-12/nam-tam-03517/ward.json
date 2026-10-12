@@ -1,0 +1,45 @@
+{
+  "id": "03517",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nậm Tăm",
+    "en": "Nam Tam",
+    "slug": "nam-tam-03517"
+  },
+  "code": {
+    "id": "03517",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Lai Châu",
+      "en": "Lai Chau",
+      "slug": "lai-chau-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.28",
+    "lon": "103.399"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "21211",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tịnh Khê",
+    "en": "Tinh Khe",
+    "slug": "tinh-khe-21211"
+  },
+  "code": {
+    "id": "21211",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ngãi",
+      "en": "Quang Ngai",
+      "slug": "quang-ngai-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.18",
+    "lon": "108.861"
+  },
+  "metadata": {},
+  "source": {}
+}

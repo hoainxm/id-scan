@@ -1,0 +1,289 @@
+# Cao Bang — Vietnam Administrative Divisions
+
+> 56 commune/wards
+> Code: 04
+> Coordinates: 22.746, 106.083
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Bạch Đằng (Bach Dang)
+
+Code: 01708, Coordinates: 22.597, 106.164
+
+
+### Bảo Lạc (Bao Lac)
+
+Code: 01321, Coordinates: 22.951, 105.681
+
+
+### Bảo Lâm (Bao Lam)
+
+Code: 01290, Coordinates: 22.832, 105.547
+
+
+### Bế Văn Đàn (Be Van Dan)
+
+Code: 01636, Coordinates: 22.607, 106.549
+
+
+### Ca Thành (Ca Thanh)
+
+Code: 01738, Coordinates: 22.726, 105.834
+
+
+### Cần Yên (Can Yen)
+
+Code: 01366, Coordinates: 22.884, 105.923
+
+
+### Canh Tân (Canh Tan)
+
+Code: 01789, Coordinates: 22.515, 106.271
+
+
+### Cô Ba (Co Ba)
+
+Code: 01327, Coordinates: 23, 105.715
+
+
+### Cốc Pàng (Coc Pang)
+
+Code: 01324, Coordinates: 23.043, 105.581
+
+
+### Đàm Thủy (Dam Thuy)
+
+Code: 01501, Coordinates: 22.834, 106.651
+
+
+### Đình Phong (Dinh Phong)
+
+Code: 01489, Coordinates: 22.897, 106.568
+
+
+### Đoài Dương (Doai Duong)
+
+Code: 01525, Coordinates: 22.761, 106.512
+
+
+### Độc Lập (Doc Lap)
+
+Code: 01594, Coordinates: 22.711, 106.498
+
+
+### Đông Khê (Dong Khe)
+
+Code: 01786, Coordinates: 22.43, 106.432
+
+
+### Đức Long (Duc Long)
+
+Code: 01822, Coordinates: 22.444, 106.505
+
+
+### Hạ Lang (Ha Lang)
+
+Code: 01558, Coordinates: 22.65, 106.713
+
+
+### Hà Quảng (Ha Quang)
+
+Code: 01438, Coordinates: 22.856, 106.169
+
+
+### Hạnh Phúc (Hanh Phuc)
+
+Code: 01618, Coordinates: 22.625, 106.42
+
+
+### Hòa An (Hoa An)
+
+Code: 01654, Coordinates: 22.746, 106.187
+
+
+### Hưng Đạo (Hung Dao)
+
+Code: 01351, Coordinates: 22.839, 105.676
+
+
+### Huy Giáp (Huy Giap)
+
+Code: 01354, Coordinates: 22.796, 105.78
+
+
+### Khánh Xuân (Khanh Xuan)
+
+Code: 01336, Coordinates: 22.933, 105.757
+
+
+### Kim Đồng (Kim Dong)
+
+Code: 01792, Coordinates: 22.541, 106.344
+
+
+### Lũng Nặm (Lung Nam)
+
+Code: 01393, Coordinates: 22.935, 106.096
+
+
+### Lý Bôn (Ly Bon)
+
+Code: 01294, Coordinates: 22.938, 105.55
+
+
+### Lý Quốc (Ly Quoc)
+
+Code: 01537, Coordinates: 22.794, 106.758
+
+
+### Minh Khai
+
+Code: 01795, Coordinates: 22.473, 106.174
+
+
+### Minh Tâm (Minh Tam)
+
+Code: 01747, Coordinates: 22.699, 106.085
+
+
+### Nam Quang
+
+Code: 01297, Coordinates: 22.92, 105.429
+
+
+### Nam Tuấn (Nam Tuan)
+
+Code: 01660, Coordinates: 22.784, 106.112
+
+
+### Nguyên Bình (Nguyen Binh)
+
+Code: 01726, Coordinates: 22.65, 105.96
+
+
+### Nguyễn Huệ (Nguyen Hue)
+
+Code: 01699, Coordinates: 22.7, 106.299
+
+
+### Nùng Trí Cao (Nung Tri Cao)
+
+Code: 01279, Coordinates: 22.688, 106.249
+
+
+### Phan Thanh
+
+Code: 01768, Coordinates: 22.616, 105.839
+
+
+### Phục Hòa (Phuc Hoa)
+
+Code: 01648, Coordinates: 22.53, 106.538
+
+
+### Quang Hán (Quang Han)
+
+Code: 01456, Coordinates: 22.83, 106.264
+
+
+### Quảng Lâm (Quang Lam)
+
+Code: 01304, Coordinates: 22.856, 105.381
+
+
+### Quang Long
+
+Code: 01552, Coordinates: 22.735, 106.693
+
+
+### Quang Trung
+
+Code: 01465, Coordinates: 22.839, 106.391
+
+
+### Quảng Uyên (Quang Uyen)
+
+Code: 01576, Coordinates: 22.693, 106.443
+
+
+### Sơn Lộ (Son Lo)
+
+Code: 01360, Coordinates: 22.741, 105.657
+
+
+### Tam Kim
+
+Code: 01774, Coordinates: 22.606, 106.018
+
+
+### Tân Giang (Tan Giang)
+
+Code: 01288, Coordinates: 22.622, 106.268
+
+
+### Thạch An (Thach An)
+
+Code: 01807, Coordinates: 22.507, 106.421
+
+
+### Thành Công (Thanh Cong)
+
+Code: 01777, Coordinates: 22.54, 105.871
+
+
+### Thanh Long
+
+Code: 01387, Coordinates: 22.762, 105.943
+
+
+### Thông Nông (Thong Nong)
+
+Code: 01363, Coordinates: 22.782, 105.982
+
+
+### Thục Phán (Thuc Phan)
+
+Code: 01273, Coordinates: 22.676, 106.202
+
+
+### Tĩnh Túc (Tinh Tuc)
+
+Code: 01729, Coordinates: 22.649, 105.889
+
+
+### Tổng Cọt (Tong Cot)
+
+Code: 01414, Coordinates: 22.944, 106.185
+
+
+### Trà Lĩnh (Tra Linh)
+
+Code: 01447, Coordinates: 22.829, 106.324
+
+
+### Trùng Khánh (Trung Khanh)
+
+Code: 01477, Coordinates: 22.837, 106.526
+
+
+### Trường Hà (Truong Ha)
+
+Code: 01392, Coordinates: 22.904, 106.028
+
+
+### Vinh Quý (Vinh Quy)
+
+Code: 01561, Coordinates: 22.681, 106.621
+
+
+### Xuân Trường (Xuan Truong)
+
+Code: 01339, Coordinates: 22.91, 105.804
+
+
+### Yên Thổ (Yen Tho)
+
+Code: 01318, Coordinates: 22.733, 105.545
+
+

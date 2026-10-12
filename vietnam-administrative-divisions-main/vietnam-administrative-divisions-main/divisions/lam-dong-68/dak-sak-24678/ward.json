@@ -1,0 +1,45 @@
+{
+  "id": "24678",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đắk Sắk",
+    "en": "Dak Sak",
+    "slug": "dak-sak-24678"
+  },
+  "code": {
+    "id": "24678",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.425",
+    "lon": "107.69"
+  },
+  "metadata": {},
+  "source": {}
+}

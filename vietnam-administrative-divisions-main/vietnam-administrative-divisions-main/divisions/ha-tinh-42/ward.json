@@ -1,0 +1,3107 @@
+[
+  {
+    "id": "18115",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Hồng Lĩnh",
+      "en": "Bac Hong Linh",
+      "slug": "bac-hong-linh-18115"
+    },
+    "code": {
+      "id": "18115",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.534",
+      "lon": "105.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18685",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Bình",
+      "en": "Cam Binh",
+      "slug": "cam-binh-18685"
+    },
+    "code": {
+      "id": "18685",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.304",
+      "lon": "105.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18739",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Duệ",
+      "en": "Cam Due",
+      "slug": "cam-due-18739"
+    },
+    "code": {
+      "id": "18739",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.248",
+      "lon": "105.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18736",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Hưng",
+      "en": "Cam Hung",
+      "slug": "cam-hung-18736"
+    },
+    "code": {
+      "id": "18736",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.21",
+      "lon": "106.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18748",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Lạc",
+      "en": "Cam Lac",
+      "slug": "cam-lac-18748"
+    },
+    "code": {
+      "id": "18748",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.198",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18742",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Trung",
+      "en": "Cam Trung",
+      "slug": "cam-trung-18742"
+    },
+    "code": {
+      "id": "18742",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.242",
+      "lon": "106.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18673",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Xuyên",
+      "en": "Cam Xuyen",
+      "slug": "cam-xuyen-18673"
+    },
+    "code": {
+      "id": "18673",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.189",
+      "lon": "106.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18406",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Can Lộc",
+      "en": "Can Loc",
+      "slug": "can-loc-18406"
+    },
+    "code": {
+      "id": "18406",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.444",
+      "lon": "105.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18394",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cổ Đạm",
+      "en": "Co Dam",
+      "slug": "co-dam-18394"
+    },
+    "code": {
+      "id": "18394",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.574",
+      "lon": "105.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đan Hải",
+      "en": "Dan Hai",
+      "slug": "dan-hai-18364"
+    },
+    "code": {
+      "id": "18364",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.722",
+      "lon": "105.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18586",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Kinh",
+      "en": "Dong Kinh",
+      "slug": "dong-kinh-18586"
+    },
+    "code": {
+      "id": "18586",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.451",
+      "lon": "105.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18484",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Lộc",
+      "en": "Dong Loc",
+      "slug": "dong-loc-18484"
+    },
+    "code": {
+      "id": "18484",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.405",
+      "lon": "105.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18619",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Tiến",
+      "en": "Dong Tien",
+      "slug": "dong-tien-18619"
+    },
+    "code": {
+      "id": "18619",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.349",
+      "lon": "106.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18304",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Đồng",
+      "en": "Duc Dong",
+      "slug": "duc-dong-18304"
+    },
+    "code": {
+      "id": "18304",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.457",
+      "lon": "105.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18244",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Minh",
+      "en": "Duc Minh",
+      "slug": "duc-minh-18244"
+    },
+    "code": {
+      "id": "18244",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.55",
+      "lon": "105.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18262",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Quang",
+      "en": "Duc Quang",
+      "slug": "duc-quang-18262"
+    },
+    "code": {
+      "id": "18262",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.551",
+      "lon": "105.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18277",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Thịnh",
+      "en": "Duc Thinh",
+      "slug": "duc-thinh-18277"
+    },
+    "code": {
+      "id": "18277",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.478",
+      "lon": "105.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18229",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Thọ",
+      "en": "Duc Tho",
+      "slug": "duc-tho-18229"
+    },
+    "code": {
+      "id": "18229",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.489",
+      "lon": "105.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18466",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Hanh",
+      "en": "Gia Hanh",
+      "slug": "gia-hanh-18466"
+    },
+    "code": {
+      "id": "18466",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.443",
+      "lon": "105.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18652",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Huy Tập",
+      "en": "Ha Huy Tap",
+      "slug": "ha-huy-tap-18652"
+    },
+    "code": {
+      "id": "18652",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.295",
+      "lon": "105.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18502",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Linh",
+      "en": "Ha Linh",
+      "slug": "ha-linh-18502"
+    },
+    "code": {
+      "id": "18502",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.292",
+      "lon": "105.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18781",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Ninh",
+      "en": "Hai Ninh",
+      "slug": "hai-ninh-18781"
+    },
+    "code": {
+      "id": "18781",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.124",
+      "lon": "106.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18832",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoành Sơn",
+      "en": "Hoanh Son",
+      "slug": "hoanh-son-18832"
+    },
+    "code": {
+      "id": "18832",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.007",
+      "lon": "106.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18409",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Lộc",
+      "en": "Hong Loc",
+      "slug": "hong-loc-18409"
+    },
+    "code": {
+      "id": "18409",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.485",
+      "lon": "105.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18523",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Bình",
+      "en": "Huong Binh",
+      "slug": "huong-binh-18523"
+    },
+    "code": {
+      "id": "18523",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.248",
+      "lon": "105.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18550",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Đô",
+      "en": "Huong Do",
+      "slug": "huong-do-18550"
+    },
+    "code": {
+      "id": "18550",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.141",
+      "lon": "105.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18496",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Khê",
+      "en": "Huong Khe",
+      "slug": "huong-khe-18496"
+    },
+    "code": {
+      "id": "18496",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.193",
+      "lon": "105.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18532",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Phố",
+      "en": "Huong Pho",
+      "slug": "huong-pho-18532"
+    },
+    "code": {
+      "id": "18532",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.219",
+      "lon": "105.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18133",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Sơn",
+      "en": "Huong Son",
+      "slug": "huong-son-18133"
+    },
+    "code": {
+      "id": "18133",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.446",
+      "lon": "105.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18544",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Xuân",
+      "en": "Huong Xuan",
+      "slug": "huong-xuan-18544"
+    },
+    "code": {
+      "id": "18544",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.082",
+      "lon": "105.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18223",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Hoa",
+      "en": "Kim Hoa",
+      "slug": "kim-hoa-18223"
+    },
+    "code": {
+      "id": "18223",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.497",
+      "lon": "105.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18775",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Anh",
+      "en": "Ky Anh",
+      "slug": "ky-anh-18775"
+    },
+    "code": {
+      "id": "18775",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.053",
+      "lon": "106.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18814",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Hoa",
+      "en": "Ky Hoa",
+      "slug": "ky-hoa-18814"
+    },
+    "code": {
+      "id": "18814",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.072",
+      "lon": "106.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18790",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Khang",
+      "en": "Ky Khang",
+      "slug": "ky-khang-18790"
+    },
+    "code": {
+      "id": "18790",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.123",
+      "lon": "106.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18838",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Lạc",
+      "en": "Ky Lac",
+      "slug": "ky-lac-18838"
+    },
+    "code": {
+      "id": "18838",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.012",
+      "lon": "106.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18844",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Thượng",
+      "en": "Ky Thuong",
+      "slug": "ky-thuong-18844"
+    },
+    "code": {
+      "id": "18844",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18",
+      "lon": "106.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18787",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Văn",
+      "en": "Ky Van",
+      "slug": "ky-van-18787"
+    },
+    "code": {
+      "id": "18787",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.087",
+      "lon": "106.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18766",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Xuân",
+      "en": "Ky Xuan",
+      "slug": "ky-xuan-18766"
+    },
+    "code": {
+      "id": "18766",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.203",
+      "lon": "106.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18568",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Hà",
+      "en": "Loc Ha",
+      "slug": "loc-ha-18568"
+    },
+    "code": {
+      "id": "18568",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.462",
+      "lon": "105.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18322",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mai Hoa",
+      "en": "Mai Hoa",
+      "slug": "mai-hoa-18322"
+    },
+    "code": {
+      "id": "18322",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.463",
+      "lon": "105.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18583",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mai Phụ",
+      "en": "Mai Phu",
+      "slug": "mai-phu-18583"
+    },
+    "code": {
+      "id": "18583",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.433",
+      "lon": "105.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18118",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Hồng Lĩnh",
+      "en": "Nam Hong Linh",
+      "slug": "nam-hong-linh-18118"
+    },
+    "code": {
+      "id": "18118",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.519",
+      "lon": "105.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18352",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghi Xuân",
+      "en": "Nghi Xuan",
+      "slug": "nghi-xuan-18352"
+    },
+    "code": {
+      "id": "18352",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.644",
+      "lon": "105.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18547",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Trạch",
+      "en": "Phuc Trach",
+      "slug": "phuc-trach-18547"
+    },
+    "code": {
+      "id": "18547",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.07",
+      "lon": "105.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18184",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Giang",
+      "en": "Son Giang",
+      "slug": "son-giang-18184"
+    },
+    "code": {
+      "id": "18184",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.554",
+      "lon": "105.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18160",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Hồng",
+      "en": "Son Hong",
+      "slug": "son-hong-18160"
+    },
+    "code": {
+      "id": "18160",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.559",
+      "lon": "105.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18196",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Kim 1",
+      "en": "Son Kim 1",
+      "slug": "son-kim-1-18196"
+    },
+    "code": {
+      "id": "18196",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.452",
+      "lon": "105.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18199",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Kim 2",
+      "en": "Son Kim 2",
+      "slug": "son-kim-2-18199"
+    },
+    "code": {
+      "id": "18199",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.428",
+      "lon": "105.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18172",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Tây",
+      "en": "Son Tay",
+      "slug": "son-tay-18172"
+    },
+    "code": {
+      "id": "18172",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.456",
+      "lon": "105.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18163",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Tiến",
+      "en": "Son Tien",
+      "slug": "son-tien-18163"
+    },
+    "code": {
+      "id": "18163",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.553",
+      "lon": "105.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18754",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Trí",
+      "en": "Song Tri",
+      "slug": "song-tri-18754"
+    },
+    "code": {
+      "id": "18754",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.063",
+      "lon": "106.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18562",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Hà",
+      "en": "Thach Ha",
+      "slug": "thach-ha-18562"
+    },
+    "code": {
+      "id": "18562",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.358",
+      "lon": "105.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18604",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Khê",
+      "en": "Thach Khe",
+      "slug": "thach-khe-18604"
+    },
+    "code": {
+      "id": "18604",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.385",
+      "lon": "105.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18628",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Lạc",
+      "en": "Thach Lac",
+      "slug": "thach-lac-18628"
+    },
+    "code": {
+      "id": "18628",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.367",
+      "lon": "105.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18667",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Xuân",
+      "en": "Thach Xuan",
+      "slug": "thach-xuan-18667"
+    },
+    "code": {
+      "id": "18667",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.304",
+      "lon": "105.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18073",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Sen",
+      "en": "Thanh Sen",
+      "slug": "thanh-sen-18073"
+    },
+    "code": {
+      "id": "18073",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.339",
+      "lon": "105.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18676",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiên Cầm",
+      "en": "Thien Cam",
+      "slug": "thien-cam-18676"
+    },
+    "code": {
+      "id": "18676",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.268",
+      "lon": "106.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18328",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Đức",
+      "en": "Thuong Duc",
+      "slug": "thuong-duc-18328"
+    },
+    "code": {
+      "id": "18328",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.408",
+      "lon": "105.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18373",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Điền",
+      "en": "Tien Dien",
+      "slug": "tien-dien-18373"
+    },
+    "code": {
+      "id": "18373",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.659",
+      "lon": "105.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18634",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Toàn Lưu",
+      "en": "Toan Luu",
+      "slug": "toan-luu-18634"
+    },
+    "code": {
+      "id": "18634",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.325",
+      "lon": "105.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18100",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Phú",
+      "en": "Tran Phu",
+      "slug": "tran-phu-18100"
+    },
+    "code": {
+      "id": "18100",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.385",
+      "lon": "105.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18436",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Lưu",
+      "en": "Truong Luu",
+      "slug": "truong-luu-18436"
+    },
+    "code": {
+      "id": "18436",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.443",
+      "lon": "105.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18202",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tứ Mỹ",
+      "en": "Tu My",
+      "slug": "tu-my-18202"
+    },
+    "code": {
+      "id": "18202",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.511",
+      "lon": "105.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18418",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tùng Lộc",
+      "en": "Tung Loc",
+      "slug": "tung-loc-18418"
+    },
+    "code": {
+      "id": "18418",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.47",
+      "lon": "105.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18601",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Xuyên",
+      "en": "Viet Xuyen",
+      "slug": "viet-xuyen-18601"
+    },
+    "code": {
+      "id": "18601",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.366",
+      "lon": "105.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18313",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Quang",
+      "en": "Vu Quang",
+      "slug": "vu-quang-18313"
+    },
+    "code": {
+      "id": "18313",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.324",
+      "lon": "105.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18823",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũng Áng",
+      "en": "Vung Ang",
+      "slug": "vung-ang-18823"
+    },
+    "code": {
+      "id": "18823",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.037",
+      "lon": "106.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18481",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lộc",
+      "en": "Xuan Loc",
+      "slug": "xuan-loc-18481"
+    },
+    "code": {
+      "id": "18481",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.385",
+      "lon": "105.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18682",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Hòa",
+      "en": "Yen Hoa",
+      "slug": "yen-hoa-18682"
+    },
+    "code": {
+      "id": "18682",
+      "iso": null
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "Hà Tĩnh",
+        "en": "Ha Tinh",
+        "slug": "ha-tinh-42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "Hà Tĩnh",
+          "en": "Ha Tinh",
+          "slug": "ha-tinh-42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.316",
+      "lon": "106.019"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

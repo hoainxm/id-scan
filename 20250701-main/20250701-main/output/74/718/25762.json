@@ -1,0 +1,18 @@
+{
+  "address": "Phường Phú Mỹ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+  "ellapsedInMs": 7530,
+  "estimatedCost": 0.004782,
+  "thought": "**Identifying the New Administrative Unit for \"Phường Phú Mỹ, Thành phố Thủ Dầu Một\"**\n\nOkay, here's my thought process. The user wants to know the current administrative status of \"Phường Phú Mỹ\" in \"Thủ Dầu Một\". The first step is to recognize that \"Tỉnh Bình Dương\" has undergone significant changes. I'll need to check the relevant resolutions on province-level mergers. Resolution \"60-NQ/TW\" highlights the merger of Bình Dương into \"Thành phố Hồ Chí Minh.\"\n\nNow, since the province has changed, I'll need to investigate resolutions that focus on administrative adjustments within \"Thành phố Hồ Chí Minh.\" My focus is on the old \"Phường Phú Mỹ\" within the \"Thủ Dầu Một\" city area. Looking through \"1685/NQ-UBTVQH15\", I discover several entries. Most are related to \"Quận 7\", but line 90 catches my eye: it specifically addresses \"Phường Phú Mỹ (thành phố Thủ Dầu Một)\" and states its inclusion in \"Phường Bình Dương.\"\n\nTherefore, based on resolution \"1685/NQ-UBTVQH15\", line 90, the old \"Phường Phú Mỹ\" is now part of the new ward: \"Phường Bình Dương\" within \"Thành phố Hồ Chí Minh.\" I'll then grab the relevant ward code and build the JSON output accordingly. My confidence in this is high, as the text explicitly mentions \"Phường Phú Mỹ (thành phố Thủ Dầu Một).\"\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "90. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Phú Mỹ (thành phố Thủ Dầu Một), Hòa Phú, Phú Tân và Phú Chánh thành phường mới có tên gọi là phường Bình Dương."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "25760",
+      "ward_name": "Phường Bình Dương"
+    }
+  ]
+}

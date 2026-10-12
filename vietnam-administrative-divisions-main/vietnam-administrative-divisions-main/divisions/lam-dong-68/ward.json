@@ -1,0 +1,5582 @@
+[
+  {
+    "id": "24823",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "1 Bảo Lộc",
+      "en": "1 Bao Loc",
+      "slug": "1-bao-loc-24823"
+    },
+    "code": {
+      "id": "24823",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.549",
+      "lon": "107.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24820",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "2 Bảo Lộc",
+      "en": "2 Bao Loc",
+      "slug": "2-bao-loc-24820"
+    },
+    "code": {
+      "id": "24820",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.549",
+      "lon": "107.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24841",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "3 Bảo Lộc",
+      "en": "3 Bao Loc",
+      "slug": "3-bao-loc-24841"
+    },
+    "code": {
+      "id": "24841",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.549",
+      "lon": "107.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24829",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "B'Lao",
+      "en": "B'Lao",
+      "slug": "blao-24829"
+    },
+    "code": {
+      "id": "24829",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.533",
+      "lon": "107.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23005",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Bình",
+      "en": "Bac Binh",
+      "slug": "bac-binh-23005"
+    },
+    "code": {
+      "id": "23005",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.262",
+      "lon": "108.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24611",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Gia Nghĩa",
+      "en": "Bac Gia Nghia",
+      "slug": "bac-gia-nghia-24611"
+    },
+    "code": {
+      "id": "24611",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.011",
+      "lon": "107.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23152",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Ruộng",
+      "en": "Bac Ruong",
+      "slug": "bac-ruong-23152"
+    },
+    "code": {
+      "id": "23152",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.266",
+      "lon": "107.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25054",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Lâm 1",
+      "en": "Bao Lam 1",
+      "slug": "bao-lam-1-25054"
+    },
+    "code": {
+      "id": "25054",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.626",
+      "lon": "107.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25084",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Lâm 2",
+      "en": "Bao Lam 2",
+      "slug": "bao-lam-2-25084"
+    },
+    "code": {
+      "id": "25084",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.626",
+      "lon": "107.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25093",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Lâm 3",
+      "en": "Bao Lam 3",
+      "slug": "bao-lam-3-25093"
+    },
+    "code": {
+      "id": "25093",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.626",
+      "lon": "107.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25063",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Lâm 4",
+      "en": "Bao Lam 4",
+      "slug": "bao-lam-4-25063"
+    },
+    "code": {
+      "id": "25063",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.626",
+      "lon": "107.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25057",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Lâm 5",
+      "en": "Bao Lam 5",
+      "slug": "bao-lam-5-25057"
+    },
+    "code": {
+      "id": "25057",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.626",
+      "lon": "107.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25018",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Thuận",
+      "en": "Bao Thuan",
+      "slug": "bao-thuan-25018"
+    },
+    "code": {
+      "id": "25018",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.492",
+      "lon": "108.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22960",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thuận",
+      "en": "Binh Thuan",
+      "slug": "binh-thuan-22960"
+    },
+    "code": {
+      "id": "22960",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.969",
+      "lon": "108.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24787",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Ly - Đà Lạt",
+      "en": "Cam Ly - Da Lat",
+      "slug": "cam-ly-da-lat-24787"
+    },
+    "code": {
+      "id": "24787",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.955",
+      "lon": "108.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25159",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Tiên",
+      "en": "Cat Tien",
+      "slug": "cat-tien-25159"
+    },
+    "code": {
+      "id": "25159",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.585",
+      "lon": "107.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25180",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Tiên 2",
+      "en": "Cat Tien 2",
+      "slug": "cat-tien-2-25180"
+    },
+    "code": {
+      "id": "25180",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.585",
+      "lon": "107.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25162",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Tiên 3",
+      "en": "Cat Tien 3",
+      "slug": "cat-tien-3-25162"
+    },
+    "code": {
+      "id": "25162",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.585",
+      "lon": "107.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24640",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cư Jút",
+      "en": "Cu Jut",
+      "slug": "cu-jut-24640"
+    },
+    "code": {
+      "id": "24640",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.68",
+      "lon": "107.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24934",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "D'Ran",
+      "en": "D'Ran",
+      "slug": "dran-24934"
+    },
+    "code": {
+      "id": "24934",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.843",
+      "lon": "108.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25099",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạ Huoai",
+      "en": "Da Huoai",
+      "slug": "da-huoai-25099"
+    },
+    "code": {
+      "id": "25099",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "107.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25105",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạ Huoai 2",
+      "en": "Da Huoai 2",
+      "slug": "da-huoai-2-25105"
+    },
+    "code": {
+      "id": "25105",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.599",
+      "lon": "107.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25114",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạ Huoai 3",
+      "en": "Da Huoai 3",
+      "slug": "da-huoai-3-25114"
+    },
+    "code": {
+      "id": "25114",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "107.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25126",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạ Tẻh",
+      "en": "Da Teh",
+      "slug": "da-teh-25126"
+    },
+    "code": {
+      "id": "25126",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.507",
+      "lon": "107.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25138",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạ Tẻh 2",
+      "en": "Da Teh 2",
+      "slug": "da-teh-2-25138"
+    },
+    "code": {
+      "id": "25138",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.507",
+      "lon": "107.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25135",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đạ Tẻh 3",
+      "en": "Da Teh 3",
+      "slug": "da-teh-3-25135"
+    },
+    "code": {
+      "id": "25135",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.507",
+      "lon": "107.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24670",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đắk Mil",
+      "en": "Dak Mil",
+      "slug": "dak-mil-24670"
+    },
+    "code": {
+      "id": "24670",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.449",
+      "lon": "107.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24678",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đắk Sắk",
+      "en": "Dak Sak",
+      "slug": "dak-sak-24678"
+    },
+    "code": {
+      "id": "24678",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "107.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24718",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đắk Song",
+      "en": "Dak Song",
+      "slug": "dak-song-24718"
+    },
+    "code": {
+      "id": "24718",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.233",
+      "lon": "107.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24646",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đắk Wil",
+      "en": "Dak Wil",
+      "slug": "dak-wil-24646"
+    },
+    "code": {
+      "id": "24646",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.708",
+      "lon": "107.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24886",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đam Rông 1",
+      "en": "Dam Rong 1",
+      "slug": "dam-rong-1-24886"
+    },
+    "code": {
+      "id": "24886",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.062",
+      "lon": "108.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24877",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đam Rông 2",
+      "en": "Dam Rong 2",
+      "slug": "dam-rong-2-24877"
+    },
+    "code": {
+      "id": "24877",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.062",
+      "lon": "108.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24875",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đam Rông 3",
+      "en": "Dam Rong 3",
+      "slug": "dam-rong-3-24875"
+    },
+    "code": {
+      "id": "24875",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.062",
+      "lon": "108.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24853",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đam Rông 4",
+      "en": "Dam Rong 4",
+      "slug": "dam-rong-4-24853"
+    },
+    "code": {
+      "id": "24853",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.062",
+      "lon": "108.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25000",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Di Linh",
+      "en": "Di Linh",
+      "slug": "di-linh-25000"
+    },
+    "code": {
+      "id": "25000",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.582",
+      "lon": "108.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25007",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đinh Trang Thượng",
+      "en": "Dinh Trang Thuong",
+      "slug": "dinh-trang-thuong-25007"
+    },
+    "code": {
+      "id": "25007",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.716",
+      "lon": "107.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24871",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đinh Văn Lâm Hà",
+      "en": "Dinh Van Lam Ha",
+      "slug": "dinh-van-lam-ha-24871"
+    },
+    "code": {
+      "id": "24871",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.78",
+      "lon": "108.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24931",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đơn Dương",
+      "en": "Don Duong",
+      "slug": "don-duong-24931"
+    },
+    "code": {
+      "id": "24931",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.806",
+      "lon": "108.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24617",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Gia Nghĩa",
+      "en": "Dong Gia Nghia",
+      "slug": "dong-gia-nghia-24617"
+    },
+    "code": {
+      "id": "24617",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.96",
+      "lon": "107.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23074",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Giang",
+      "en": "Dong Giang",
+      "slug": "dong-giang-23074"
+    },
+    "code": {
+      "id": "23074",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.25",
+      "lon": "108.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23173",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Kho",
+      "en": "Dong Kho",
+      "slug": "dong-kho-23173"
+    },
+    "code": {
+      "id": "23173",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.172",
+      "lon": "107.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24717",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức An",
+      "en": "Duc An",
+      "slug": "duc-an-24717"
+    },
+    "code": {
+      "id": "24717",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.252",
+      "lon": "107.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Lập",
+      "en": "Duc Lap",
+      "slug": "duc-lap-24664"
+    },
+    "code": {
+      "id": "24664",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.544",
+      "lon": "107.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23191",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Linh",
+      "en": "Duc Linh",
+      "slug": "duc-linh-23191"
+    },
+    "code": {
+      "id": "23191",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.195",
+      "lon": "107.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24958",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Trọng",
+      "en": "Duc Trong",
+      "slug": "duc-trong-24958"
+    },
+    "code": {
+      "id": "24958",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.695",
+      "lon": "108.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25015",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Hiệp",
+      "en": "Gia Hiep",
+      "slug": "gia-hiep-25015"
+    },
+    "code": {
+      "id": "25015",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.511",
+      "lon": "108.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23020",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Ninh",
+      "en": "Hai Ninh",
+      "slug": "hai-ninh-23020"
+    },
+    "code": {
+      "id": "23020",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "108.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23128",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Kiệm",
+      "en": "Ham Kiem",
+      "slug": "ham-kiem-23128"
+    },
+    "code": {
+      "id": "23128",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.903",
+      "lon": "107.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23095",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Liêm",
+      "en": "Ham Liem",
+      "slug": "ham-liem-23095"
+    },
+    "code": {
+      "id": "23095",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.027",
+      "lon": "108.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23236",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Tân",
+      "en": "Ham Tan",
+      "slug": "ham-tan-23236"
+    },
+    "code": {
+      "id": "23236",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "107.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22933",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Thắng",
+      "en": "Ham Thang",
+      "slug": "ham-thang-22933"
+    },
+    "code": {
+      "id": "22933",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.947",
+      "lon": "108.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23122",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Thạnh",
+      "en": "Ham Thanh",
+      "slug": "ham-thanh-23122"
+    },
+    "code": {
+      "id": "23122",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.052",
+      "lon": "107.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23059",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Thuận",
+      "en": "Ham Thuan",
+      "slug": "ham-thuan-23059"
+    },
+    "code": {
+      "id": "23059",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "107.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23089",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Thuận Bắc",
+      "en": "Ham Thuan Bac",
+      "slug": "ham-thuan-bac-23089"
+    },
+    "code": {
+      "id": "23089",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.155",
+      "lon": "108.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23110",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Thuận Nam",
+      "en": "Ham Thuan Nam",
+      "slug": "ham-thuan-nam-23110"
+    },
+    "code": {
+      "id": "23110",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "107.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24967",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Thạnh",
+      "en": "Hiep Thanh",
+      "slug": "hiep-thanh-24967"
+    },
+    "code": {
+      "id": "24967",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.779",
+      "lon": "108.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25042",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Bắc",
+      "en": "Hoa Bac",
+      "slug": "hoa-bac-25042"
+    },
+    "code": {
+      "id": "25042",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.424",
+      "lon": "107.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25036",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Ninh",
+      "en": "Hoa Ninh",
+      "slug": "hoa-ninh-25036"
+    },
+    "code": {
+      "id": "25036",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.557",
+      "lon": "107.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23053",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Thắng",
+      "en": "Hoa Thang",
+      "slug": "hoa-thang-23053"
+    },
+    "code": {
+      "id": "23053",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.099",
+      "lon": "108.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23194",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoài Đức",
+      "en": "Hoai Duc",
+      "slug": "hoai-duc-23194"
+    },
+    "code": {
+      "id": "23194",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.163",
+      "lon": "107.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23086",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Sơn",
+      "en": "Hong Son",
+      "slug": "hong-son-23086"
+    },
+    "code": {
+      "id": "23086",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.121",
+      "lon": "108.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23041",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Thái",
+      "en": "Hong Thai",
+      "slug": "hong-thai-23041"
+    },
+    "code": {
+      "id": "23041",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.207",
+      "lon": "108.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24943",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ka Đô",
+      "en": "Ka Do",
+      "slug": "ka-do-24943"
+    },
+    "code": {
+      "id": "24943",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.743",
+      "lon": "108.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24733",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Đức",
+      "en": "Kien Duc",
+      "slug": "kien-duc-24733"
+    },
+    "code": {
+      "id": "24733",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.995",
+      "lon": "107.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24688",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Krông Nô",
+      "en": "Krong No",
+      "slug": "krong-no-24688"
+    },
+    "code": {
+      "id": "24688",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.37",
+      "lon": "107.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23065",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "La Dạ",
+      "en": "La Da",
+      "slug": "la-da-23065"
+    },
+    "code": {
+      "id": "23065",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.955",
+      "lon": "108.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23235",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "La Gi",
+      "en": "La Gi",
+      "slug": "la-gi-23235"
+    },
+    "code": {
+      "id": "23235",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.714",
+      "lon": "107.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24848",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lạc Dương",
+      "en": "Lac Duong",
+      "slug": "lac-duong-24848"
+    },
+    "code": {
+      "id": "24848",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.009",
+      "lon": "108.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24778",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Viên - Đà Lạt",
+      "en": "Lam Vien - Da Lat",
+      "slug": "lam-vien-da-lat-24778"
+    },
+    "code": {
+      "id": "24778",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.904",
+      "lon": "108.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24846",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lang Biang - Đà Lạt",
+      "en": "Lang Biang - Da Lat",
+      "slug": "lang-biang-da-lat-24846"
+    },
+    "code": {
+      "id": "24846",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.945",
+      "lon": "108.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22969",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Hương",
+      "en": "Lien Huong",
+      "slug": "lien-huong-22969"
+    },
+    "code": {
+      "id": "22969",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.225",
+      "lon": "108.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23032",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Sơn",
+      "en": "Luong Son",
+      "slug": "luong-son-23032"
+    },
+    "code": {
+      "id": "23032",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.194",
+      "lon": "108.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22918",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mũi Né",
+      "en": "Mui Ne",
+      "slug": "mui-ne-22918"
+    },
+    "code": {
+      "id": "22918",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.972",
+      "lon": "108.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24868",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Ban Lâm Hà",
+      "en": "Nam Ban Lam Ha",
+      "slug": "nam-ban-lam-ha-24868"
+    },
+    "code": {
+      "id": "24868",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "108.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24697",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đà",
+      "en": "Nam Da",
+      "slug": "nam-da-24697"
+    },
+    "code": {
+      "id": "24697",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.931",
+      "lon": "108.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24649",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Dong",
+      "en": "Nam Dong",
+      "slug": "nam-dong-24649"
+    },
+    "code": {
+      "id": "24649",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.658",
+      "lon": "107.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24615",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Gia Nghĩa",
+      "en": "Nam Gia Nghia",
+      "slug": "nam-gia-nghia-24615"
+    },
+    "code": {
+      "id": "24615",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.996",
+      "lon": "107.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24883",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Hà Lâm Hà",
+      "en": "Nam Ha Lam Ha",
+      "slug": "nam-ha-lam-ha-24883"
+    },
+    "code": {
+      "id": "24883",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.022",
+      "lon": "107.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24703",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nâm Nung",
+      "en": "Nam Nung",
+      "slug": "nam-nung-24703"
+    },
+    "code": {
+      "id": "24703",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.329",
+      "lon": "107.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23200",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Thành",
+      "en": "Nam Thanh",
+      "slug": "nam-thanh-23200"
+    },
+    "code": {
+      "id": "23200",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.478",
+      "lon": "107.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23158",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghị Đức",
+      "en": "Nghi Duc",
+      "slug": "nghi-duc-23158"
+    },
+    "code": {
+      "id": "23158",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.271",
+      "lon": "107.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24751",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhân Cơ",
+      "en": "Nhan Co",
+      "slug": "nhan-co-24751"
+    },
+    "code": {
+      "id": "24751",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.958",
+      "lon": "107.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Gia",
+      "en": "Ninh Gia",
+      "slug": "ninh-gia-24985"
+    },
+    "code": {
+      "id": "24985",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.611",
+      "lon": "108.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22972",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phan Rí Cửa",
+      "en": "Phan Ri Cua",
+      "slug": "phan-ri-cua-22972"
+    },
+    "code": {
+      "id": "22972",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.173",
+      "lon": "108.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23008",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phan Sơn",
+      "en": "Phan Son",
+      "slug": "phan-son-23008"
+    },
+    "code": {
+      "id": "23008",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.411",
+      "lon": "108.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22945",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phan Thiết",
+      "en": "Phan Thiet",
+      "slug": "phan-thiet-22945"
+    },
+    "code": {
+      "id": "22945",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.903",
+      "lon": "108.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23272",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Quý",
+      "en": "Phu Quy",
+      "slug": "phu-quy-23272"
+    },
+    "code": {
+      "id": "23272",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.926",
+      "lon": "108.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24895",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Sơn Lâm Hà",
+      "en": "Phu Son Lam Ha",
+      "slug": "phu-son-lam-ha-24895"
+    },
+    "code": {
+      "id": "24895",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.809",
+      "lon": "108.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22924",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thủy",
+      "en": "Phu Thuy",
+      "slug": "phu-thuy-22924"
+    },
+    "code": {
+      "id": "22924",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.932",
+      "lon": "108.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24907",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Thọ Lâm Hà",
+      "en": "Phuc Tho Lam Ha",
+      "slug": "phuc-tho-lam-ha-24907"
+    },
+    "code": {
+      "id": "24907",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.728",
+      "lon": "108.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23231",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Hội",
+      "en": "Phuoc Hoi",
+      "slug": "phuoc-hoi-23231"
+    },
+    "code": {
+      "id": "23231",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.659",
+      "lon": "107.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24620",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Hòa",
+      "en": "Quang Hoa",
+      "slug": "quang-hoa-24620"
+    },
+    "code": {
+      "id": "24620",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.745",
+      "lon": "108.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24631",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Khê",
+      "en": "Quang Khe",
+      "slug": "quang-khe-24631"
+    },
+    "code": {
+      "id": "24631",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.909",
+      "lon": "107.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24955",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Lập",
+      "en": "Quang Lap",
+      "slug": "quang-lap-24955"
+    },
+    "code": {
+      "id": "24955",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.703",
+      "lon": "108.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24712",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Phú",
+      "en": "Quang Phu",
+      "slug": "quang-phu-24712"
+    },
+    "code": {
+      "id": "24712",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.282",
+      "lon": "107.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24616",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Sơn",
+      "en": "Quang Son",
+      "slug": "quang-son-24616"
+    },
+    "code": {
+      "id": "24616",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.959",
+      "lon": "107.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24748",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Tân",
+      "en": "Quang Tan",
+      "slug": "quang-tan-24748"
+    },
+    "code": {
+      "id": "24748",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.753",
+      "lon": "108.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24760",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Tín",
+      "en": "Quang Tin",
+      "slug": "quang-tin-24760"
+    },
+    "code": {
+      "id": "24760",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.872",
+      "lon": "107.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24736",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Trực",
+      "en": "Quang Truc",
+      "slug": "quang-truc-24736"
+    },
+    "code": {
+      "id": "24736",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.17",
+      "lon": "107.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25051",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Điền",
+      "en": "Son Dien",
+      "slug": "son-dien-25051"
+    },
+    "code": {
+      "id": "25051",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.344",
+      "lon": "108.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23266",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Mỹ",
+      "en": "Son My",
+      "slug": "son-my-23266"
+    },
+    "code": {
+      "id": "23266",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.661",
+      "lon": "107.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23023",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sông Lũy",
+      "en": "Song Luy",
+      "slug": "song-luy-23023"
+    },
+    "code": {
+      "id": "23023",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.219",
+      "lon": "108.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23188",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Suối Kiết",
+      "en": "Suoi Kiet",
+      "slug": "suoi-kiet-23188"
+    },
+    "code": {
+      "id": "23188",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.952",
+      "lon": "107.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24637",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Đùng",
+      "en": "Ta Dung",
+      "slug": "ta-dung-24637"
+    },
+    "code": {
+      "id": "24637",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.889",
+      "lon": "108.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24991",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Hine",
+      "en": "Ta Hine",
+      "slug": "ta-hine-24991"
+    },
+    "code": {
+      "id": "24991",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.59",
+      "lon": "108.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24988",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Năng",
+      "en": "Ta Nang",
+      "slug": "ta-nang-24988"
+    },
+    "code": {
+      "id": "24988",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.594",
+      "lon": "108.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24916",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hà Lâm Hà",
+      "en": "Tan Ha Lam Ha",
+      "slug": "tan-ha-lam-ha-24916"
+    },
+    "code": {
+      "id": "24916",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.022",
+      "lon": "107.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hải",
+      "en": "Tan Hai",
+      "slug": "tan-hai-23246"
+    },
+    "code": {
+      "id": "23246",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.745",
+      "lon": "107.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24976",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hội",
+      "en": "Tan Hoi",
+      "slug": "tan-hoi-24976"
+    },
+    "code": {
+      "id": "24976",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.742",
+      "lon": "108.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23134",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lập",
+      "en": "Tan Lap",
+      "slug": "tan-lap-23134"
+    },
+    "code": {
+      "id": "23134",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.788",
+      "lon": "108.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23230",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Minh",
+      "en": "Tan Minh",
+      "slug": "tan-minh-23230"
+    },
+    "code": {
+      "id": "23230",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.842",
+      "lon": "107.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23143",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-23143"
+    },
+    "code": {
+      "id": "23143",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.753",
+      "lon": "108.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23149",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tánh Linh",
+      "en": "Tanh Linh",
+      "slug": "tanh-linh-23149"
+    },
+    "code": {
+      "id": "23149",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.14",
+      "lon": "107.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24682",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận An",
+      "en": "Thuan An",
+      "slug": "thuan-an-24682"
+    },
+    "code": {
+      "id": "24682",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.52",
+      "lon": "107.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24722",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Hạnh",
+      "en": "Thuan Hanh",
+      "slug": "thuan-hanh-24722"
+    },
+    "code": {
+      "id": "24722",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.412",
+      "lon": "107.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22954",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiến Thành",
+      "en": "Tien Thanh",
+      "slug": "tien-thanh-22954"
+    },
+    "code": {
+      "id": "22954",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.919",
+      "lon": "108.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23227",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Tân",
+      "en": "Tra Tan",
+      "slug": "tra-tan-23227"
+    },
+    "code": {
+      "id": "23227",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.057",
+      "lon": "107.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24730",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Xuân",
+      "en": "Truong Xuan",
+      "slug": "truong-xuan-24730"
+    },
+    "code": {
+      "id": "24730",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "108.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24739",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy Đức",
+      "en": "Tuy Duc",
+      "slug": "tuy-duc-24739"
+    },
+    "code": {
+      "id": "24739",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.229",
+      "lon": "107.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22978",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuy Phong",
+      "en": "Tuy Phong",
+      "slug": "tuy-phong-22978"
+    },
+    "code": {
+      "id": "22978",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.345",
+      "lon": "108.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22963",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Quang",
+      "en": "Tuyen Quang",
+      "slug": "tuyen-quang-22963"
+    },
+    "code": {
+      "id": "22963",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.935",
+      "lon": "108.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22981",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hảo",
+      "en": "Vinh Hao",
+      "slug": "vinh-hao-22981"
+    },
+    "code": {
+      "id": "22981",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.301",
+      "lon": "108.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24781",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hương - Đà Lạt",
+      "en": "Xuan Huong - Da Lat",
+      "slug": "xuan-huong-da-lat-24781"
+    },
+    "code": {
+      "id": "24781",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.905",
+      "lon": "108.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24805",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Trường - Đà Lạt",
+      "en": "Xuan Truong - Da Lat",
+      "slug": "xuan-truong-da-lat-24805"
+    },
+    "code": {
+      "id": "24805",
+      "iso": null
+    },
+    "parent": {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "68",
+        "level": 1,
+        "name": {
+          "local": "Lâm Đồng",
+          "en": "Lam Dong",
+          "slug": "lam-dong-68"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.936",
+      "lon": "108.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

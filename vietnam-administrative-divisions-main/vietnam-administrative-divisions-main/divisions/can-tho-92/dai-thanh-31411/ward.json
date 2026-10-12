@@ -1,0 +1,45 @@
+{
+  "id": "31411",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đại Thành",
+    "en": "Dai Thanh",
+    "slug": "dai-thanh-31411"
+  },
+  "code": {
+    "id": "31411",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "Cần Thơ",
+      "en": "Can Tho",
+      "slug": "can-tho-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.842",
+    "lon": "105.812"
+  },
+  "metadata": {},
+  "source": {}
+}

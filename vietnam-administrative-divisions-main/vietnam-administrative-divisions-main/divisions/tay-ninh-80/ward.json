@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "28243",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lục Long",
+      "en": "An Luc Long",
+      "slug": "an-luc-long-28243"
+    },
+    "code": {
+      "id": "28243",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.423",
+      "lon": "106.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27943",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Ninh",
+      "en": "An Ninh",
+      "slug": "an-ninh-27943"
+    },
+    "code": {
+      "id": "27943",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.976",
+      "lon": "106.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25732",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Tịnh",
+      "en": "An Tinh",
+      "slug": "an-tinh-25732"
+    },
+    "code": {
+      "id": "25732",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.712",
+      "lon": "106.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25681",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Cầu",
+      "en": "Ben Cau",
+      "slug": "ben-cau-25681"
+    },
+    "code": {
+      "id": "25681",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.116",
+      "lon": "106.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27991",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Lức",
+      "en": "Ben Luc",
+      "slug": "ben-luc-27991"
+    },
+    "code": {
+      "id": "27991",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.694",
+      "lon": "106.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28015",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Đức",
+      "en": "Binh Duc",
+      "slug": "binh-duc-28015"
+    },
+    "code": {
+      "id": "28015",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.642",
+      "lon": "106.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27793",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hiệp",
+      "en": "Binh Hiep",
+      "slug": "binh-hiep-27793"
+    },
+    "code": {
+      "id": "27793",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.843",
+      "lon": "105.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27811",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hòa",
+      "en": "Binh Hoa",
+      "slug": "binh-hoa-27811"
+    },
+    "code": {
+      "id": "27811",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.775",
+      "lon": "106.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25480",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Minh",
+      "en": "Binh Minh",
+      "slug": "binh-minh-25480"
+    },
+    "code": {
+      "id": "25480",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.538",
+      "lon": "106.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27868",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thành",
+      "en": "Binh Thanh",
+      "slug": "binh-thanh-27868"
+    },
+    "code": {
+      "id": "27868",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.762",
+      "lon": "106.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28108",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cần Đước",
+      "en": "Can Duoc",
+      "slug": "can-duoc-28108"
+    },
+    "code": {
+      "id": "28108",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.503",
+      "lon": "106.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28159",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cần Giuộc",
+      "en": "Can Giuoc",
+      "slug": "can-giuoc-28159"
+    },
+    "code": {
+      "id": "28159",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.608",
+      "lon": "106.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25573",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cầu Khởi",
+      "en": "Cau Khoi",
+      "slug": "cau-khoi-25573"
+    },
+    "code": {
+      "id": "25573",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.27",
+      "lon": "106.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25585",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Thành",
+      "en": "Chau Thanh",
+      "slug": "chau-thanh-25585"
+    },
+    "code": {
+      "id": "25585",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.452",
+      "lon": "106.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27898",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thành",
+      "en": "Dong Thanh",
+      "slug": "dong-thanh-27898"
+    },
+    "code": {
+      "id": "27898",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.67",
+      "lon": "106.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27937",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Hòa",
+      "en": "Duc Hoa",
+      "slug": "duc-hoa-27937"
+    },
+    "code": {
+      "id": "27937",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.883",
+      "lon": "106.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27925",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Huệ",
+      "en": "Duc Hue",
+      "slug": "duc-hue-27925"
+    },
+    "code": {
+      "id": "27925",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.866",
+      "lon": "106.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27964",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Lập",
+      "en": "Duc Lap",
+      "slug": "duc-lap-27964"
+    },
+    "code": {
+      "id": "27964",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.905",
+      "lon": "106.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25552",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dương Minh Châu",
+      "en": "Duong Minh Chau",
+      "slug": "duong-minh-chau-25552"
+    },
+    "code": {
+      "id": "25552",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.329",
+      "lon": "106.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25672",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Lộc",
+      "en": "Gia Loc",
+      "slug": "gia-loc-25672"
+    },
+    "code": {
+      "id": "25672",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.098",
+      "lon": "106.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25654",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gò Dầu",
+      "en": "Go Dau",
+      "slug": "go-dau-25654"
+    },
+    "code": {
+      "id": "25654",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.085",
+      "lon": "106.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25588",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hảo Đước",
+      "en": "Hao Duoc",
+      "slug": "hao-duoc-25588"
+    },
+    "code": {
+      "id": "25588",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.364",
+      "lon": "105.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27931",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hậu Nghĩa",
+      "en": "Hau Nghia",
+      "slug": "hau-nghia-27931"
+    },
+    "code": {
+      "id": "27931",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.895",
+      "lon": "106.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27841",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hậu Thạnh",
+      "en": "Hau Thanh",
+      "slug": "hau-thanh-27841"
+    },
+    "code": {
+      "id": "27841",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.651",
+      "lon": "105.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27952",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Hòa",
+      "en": "Hiep Hoa",
+      "slug": "hiep-hoa-27952"
+    },
+    "code": {
+      "id": "27952",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.915",
+      "lon": "106.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25606",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Hội",
+      "en": "Hoa Hoi",
+      "slug": "hoa-hoi-25606"
+    },
+    "code": {
+      "id": "25606",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.04",
+      "lon": "106.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27979",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Khánh",
+      "en": "Hoa Khanh",
+      "slug": "hoa-khanh-27979"
+    },
+    "code": {
+      "id": "27979",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.854",
+      "lon": "106.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25645",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Thành",
+      "en": "Hoa Thanh",
+      "slug": "hoa-thanh-25645"
+    },
+    "code": {
+      "id": "25645",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.258",
+      "lon": "106.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27727",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Điền",
+      "en": "Hung Dien",
+      "slug": "hung-dien-27727"
+    },
+    "code": {
+      "id": "27727",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.927",
+      "lon": "105.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25711",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Thuận",
+      "en": "Hung Thuan",
+      "slug": "hung-thuan-25711"
+    },
+    "code": {
+      "id": "25711",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.165",
+      "lon": "106.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27715",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Hậu",
+      "en": "Khanh Hau",
+      "slug": "khanh-hau-27715"
+    },
+    "code": {
+      "id": "27715",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.518",
+      "lon": "106.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27763",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Hưng",
+      "en": "Khanh Hung",
+      "slug": "khanh-hung-27763"
+    },
+    "code": {
+      "id": "27763",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.97",
+      "lon": "105.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27787",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Tường",
+      "en": "Kien Tuong",
+      "slug": "kien-tuong-27787"
+    },
+    "code": {
+      "id": "27787",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.802",
+      "lon": "105.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25579",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc Ninh",
+      "en": "Loc Ninh",
+      "slug": "loc-ninh-25579"
+    },
+    "code": {
+      "id": "25579",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.28",
+      "lon": "106.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27694",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long An",
+      "en": "Long An",
+      "slug": "long-an-27694"
+    },
+    "code": {
+      "id": "27694",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.112",
+      "lon": "106.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28126",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Cang",
+      "en": "Long Cang",
+      "slug": "long-cang-28126"
+    },
+    "code": {
+      "id": "28126",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.597",
+      "lon": "106.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25684",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Chữ",
+      "en": "Long Chu",
+      "slug": "long-chu-25684"
+    },
+    "code": {
+      "id": "25684",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.184",
+      "lon": "106.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25630",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hoa",
+      "en": "Long Hoa",
+      "slug": "long-hoa-25630"
+    },
+    "code": {
+      "id": "25630",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.258",
+      "lon": "106.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28144",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hựu",
+      "en": "Long Huu",
+      "slug": "long-huu-28144"
+    },
+    "code": {
+      "id": "28144",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.485",
+      "lon": "106.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25702",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Thuận",
+      "en": "Long Thuan",
+      "slug": "long-thuan-25702"
+    },
+    "code": {
+      "id": "25702",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.124",
+      "lon": "106.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28003",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Hòa",
+      "en": "Luong Hoa",
+      "slug": "luong-hoa-28003"
+    },
+    "code": {
+      "id": "28003",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.701",
+      "lon": "106.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27823",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mộc Hóa",
+      "en": "Moc Hoa",
+      "slug": "moc-hoa-27823"
+    },
+    "code": {
+      "id": "27823",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.758",
+      "lon": "106.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28066",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ An",
+      "en": "My An",
+      "slug": "my-an-28066"
+    },
+    "code": {
+      "id": "28066",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.58",
+      "lon": "106.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27976",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Hạnh",
+      "en": "My Hanh",
+      "slug": "my-hanh-27976"
+    },
+    "code": {
+      "id": "27976",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.883",
+      "lon": "106.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28132",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Lệ",
+      "en": "My Le",
+      "slug": "my-le-28132"
+    },
+    "code": {
+      "id": "28132",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.56",
+      "lon": "106.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28177",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Lộc",
+      "en": "My Loc",
+      "slug": "my-loc-28177"
+    },
+    "code": {
+      "id": "28177",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.595",
+      "lon": "106.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27907",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Quý",
+      "en": "My Quy",
+      "slug": "my-quy-27907"
+    },
+    "code": {
+      "id": "27907",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.936",
+      "lon": "106.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28051",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thạnh",
+      "en": "My Thanh",
+      "slug": "my-thanh-28051"
+    },
+    "code": {
+      "id": "28051",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.639",
+      "lon": "106.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28018",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Yên",
+      "en": "My Yen",
+      "slug": "my-yen-28018"
+    },
+    "code": {
+      "id": "28018",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.641",
+      "lon": "106.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27838",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Hòa Lập",
+      "en": "Nhon Hoa Lap",
+      "slug": "nhon-hoa-lap-27838"
+    },
+    "code": {
+      "id": "27838",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.639",
+      "lon": "105.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27856",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Ninh",
+      "en": "Nhon Ninh",
+      "slug": "nhon-ninh-27856"
+    },
+    "code": {
+      "id": "27856",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.57",
+      "lon": "105.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28087",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhựt Tảo",
+      "en": "Nhut Tao",
+      "slug": "nhut-tao-28087"
+    },
+    "code": {
+      "id": "28087",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.569",
+      "lon": "106.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25621",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Điền",
+      "en": "Ninh Dien",
+      "slug": "ninh-dien-25621"
+    },
+    "code": {
+      "id": "25621",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.237",
+      "lon": "105.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25567",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Thạnh",
+      "en": "Ninh Thanh",
+      "slug": "ninh-thanh-25567"
+    },
+    "code": {
+      "id": "25567",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.366",
+      "lon": "106.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25729",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Chỉ",
+      "en": "Phuoc Chi",
+      "slug": "phuoc-chi-25729"
+    },
+    "code": {
+      "id": "25729",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.012",
+      "lon": "106.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28165",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Lý",
+      "en": "Phuoc Ly",
+      "slug": "phuoc-ly-28165"
+    },
+    "code": {
+      "id": "28165",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.641",
+      "lon": "106.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25663",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Thạnh",
+      "en": "Phuoc Thanh",
+      "slug": "phuoc-thanh-25663"
+    },
+    "code": {
+      "id": "25663",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.7",
+      "lon": "106.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25591",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Vinh",
+      "en": "Phuoc Vinh",
+      "slug": "phuoc-vinh-25591"
+    },
+    "code": {
+      "id": "25591",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.447",
+      "lon": "105.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28201",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Vĩnh Tây",
+      "en": "Phuoc Vinh Tay",
+      "slug": "phuoc-vinh-tay-28201"
+    },
+    "code": {
+      "id": "28201",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.554",
+      "lon": "106.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28114",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Rạch Kiến",
+      "en": "Rach Kien",
+      "slug": "rach-kien-28114"
+    },
+    "code": {
+      "id": "28114",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.605",
+      "lon": "106.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28210",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tầm Vu",
+      "en": "Tam Vu",
+      "slug": "tam-vu-28210"
+    },
+    "code": {
+      "id": "28210",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.446",
+      "lon": "106.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27712",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-27712"
+    },
+    "code": {
+      "id": "27712",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.526",
+      "lon": "106.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25486",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Biên",
+      "en": "Tan Bien",
+      "slug": "tan-bien-25486"
+    },
+    "code": {
+      "id": "25486",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.54",
+      "lon": "106.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25516",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Châu",
+      "en": "Tan Chau",
+      "slug": "tan-chau-25516"
+    },
+    "code": {
+      "id": "25516",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.552",
+      "lon": "106.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25522",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Đông",
+      "en": "Tan Dong",
+      "slug": "tan-dong-25522"
+    },
+    "code": {
+      "id": "25522",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.514",
+      "lon": "106.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25531",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hòa",
+      "en": "Tan Hoa",
+      "slug": "tan-hoa-25531"
+    },
+    "code": {
+      "id": "25531",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.488",
+      "lon": "106.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25525",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hội",
+      "en": "Tan Hoi",
+      "slug": "tan-hoi-25525"
+    },
+    "code": {
+      "id": "25525",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.918",
+      "lon": "106.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27721",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hưng",
+      "en": "Tan Hung",
+      "slug": "tan-hung-27721"
+    },
+    "code": {
+      "id": "27721",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.892",
+      "lon": "105.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28138",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lân",
+      "en": "Tan Lan",
+      "slug": "tan-lan-28138"
+    },
+    "code": {
+      "id": "28138",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.51",
+      "lon": "106.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lập",
+      "en": "Tan Lap",
+      "slug": "tan-lap-25489"
+    },
+    "code": {
+      "id": "25489",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.686",
+      "lon": "106.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28072",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Long",
+      "en": "Tan Long",
+      "slug": "tan-long-28072"
+    },
+    "code": {
+      "id": "28072",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.698",
+      "lon": "106.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25459",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Ninh",
+      "en": "Tan Ninh",
+      "slug": "tan-ninh-25459"
+    },
+    "code": {
+      "id": "25459",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "106.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25549",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phú",
+      "en": "Tan Phu",
+      "slug": "tan-phu-25549"
+    },
+    "code": {
+      "id": "25549",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.468",
+      "lon": "106.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28207",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tập",
+      "en": "Tan Tap",
+      "slug": "tan-tap-28207"
+    },
+    "code": {
+      "id": "28207",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.538",
+      "lon": "106.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27889",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tây",
+      "en": "Tan Tay",
+      "slug": "tan-tay-27889"
+    },
+    "code": {
+      "id": "27889",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.471",
+      "lon": "106.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25534",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-25534"
+    },
+    "code": {
+      "id": "25534",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.628",
+      "lon": "105.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27826",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thạnh",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-27826"
+    },
+    "code": {
+      "id": "27826",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.628",
+      "lon": "105.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28075",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Trụ",
+      "en": "Tan Tru",
+      "slug": "tan-tru-28075"
+    },
+    "code": {
+      "id": "28075",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.515",
+      "lon": "106.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25498",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Bình",
+      "en": "Thanh Binh",
+      "slug": "thanh-binh-25498"
+    },
+    "code": {
+      "id": "25498",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.536",
+      "lon": "106.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25633",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Điền",
+      "en": "Thanh Dien",
+      "slug": "thanh-dien-25633"
+    },
+    "code": {
+      "id": "25633",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "106.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25657",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Đức",
+      "en": "Thanh Duc",
+      "slug": "thanh-duc-25657"
+    },
+    "code": {
+      "id": "25657",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.212",
+      "lon": "106.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27865",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Hóa",
+      "en": "Thanh Hoa",
+      "slug": "thanh-hoa-27865"
+    },
+    "code": {
+      "id": "27865",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.694",
+      "lon": "106.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27994",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Lợi",
+      "en": "Thanh Loi",
+      "slug": "thanh-loi-27994"
+    },
+    "code": {
+      "id": "27994",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.742",
+      "lon": "106.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27877",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Phước",
+      "en": "Thanh Phuoc",
+      "slug": "thanh-phuoc-27877"
+    },
+    "code": {
+      "id": "27877",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.7",
+      "lon": "106.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28036",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thủ Thừa",
+      "en": "Thu Thua",
+      "slug": "thu-thua-28036"
+    },
+    "code": {
+      "id": "28036",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.602",
+      "lon": "106.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28225",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Mỹ",
+      "en": "Thuan My",
+      "slug": "thuan-my-28225"
+    },
+    "code": {
+      "id": "28225",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.457",
+      "lon": "106.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25510",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Vong",
+      "en": "Tra Vong",
+      "slug": "tra-vong-25510"
+    },
+    "code": {
+      "id": "25510",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.437",
+      "lon": "106.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25708",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trảng Bàng",
+      "en": "Trang Bang",
+      "slug": "trang-bang-25708"
+    },
+    "code": {
+      "id": "25708",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.105",
+      "lon": "106.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25666",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Truông Mít",
+      "en": "Truong Mit",
+      "slug": "truong-mit-25666"
+    },
+    "code": {
+      "id": "25666",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.203",
+      "lon": "106.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27775",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Bình",
+      "en": "Tuyen Binh",
+      "slug": "tuyen-binh-27775"
+    },
+    "code": {
+      "id": "27775",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "105.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27817",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuyên Thạnh",
+      "en": "Tuyen Thanh",
+      "slug": "tuyen-thanh-27817"
+    },
+    "code": {
+      "id": "27817",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.751",
+      "lon": "105.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28093",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vàm Cỏ",
+      "en": "Vam Co",
+      "slug": "vam-co-28093"
+    },
+    "code": {
+      "id": "28093",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.507",
+      "lon": "106.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27748",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Châu",
+      "en": "Vinh Chau",
+      "slug": "vinh-chau-27748"
+    },
+    "code": {
+      "id": "27748",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.81",
+      "lon": "105.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "28222",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Công",
+      "en": "Vinh Cong",
+      "slug": "vinh-cong-28222"
+    },
+    "code": {
+      "id": "28222",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.499",
+      "lon": "106.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27757",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hưng",
+      "en": "Vinh Hung",
+      "slug": "vinh-hung-27757"
+    },
+    "code": {
+      "id": "27757",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.816",
+      "lon": "105.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27736",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thạnh",
+      "en": "Vinh Thanh",
+      "slug": "vinh-thanh-27736"
+    },
+    "code": {
+      "id": "27736",
+      "iso": null
+    },
+    "parent": {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "Tây Ninh",
+        "en": "Tay Ninh",
+        "slug": "tay-ninh-80"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "Tây Ninh",
+          "en": "Tay Ninh",
+          "slug": "tay-ninh-80"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.844",
+      "lon": "105.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

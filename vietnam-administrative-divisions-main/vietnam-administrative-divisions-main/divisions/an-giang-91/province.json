@@ -1,0 +1,33 @@
+{
+  "id": "91",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "An Giang",
+    "en": "An Giang",
+    "slug": "an-giang-91"
+  },
+  "code": {
+    "id": "91",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 102
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.179",
+    "lon": "105.096"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/an-giang-91/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Lả Nhì Thàng, Huyện Phong Thổ, Tỉnh Lai Châu",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1670/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lai Châu",
+        "line": "36. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Đoàn Kết,Quyết Tiến, Quyết Thắng, xã Lản Nhì Thàngvà xãSùng Phài thành phường mới có tên gọi là phường Đoàn Kết."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lai Châu",
+      "ward_code": "03388",
+      "ward_name": "Phường Đoàn Kết"
+    }
+  ]
+}

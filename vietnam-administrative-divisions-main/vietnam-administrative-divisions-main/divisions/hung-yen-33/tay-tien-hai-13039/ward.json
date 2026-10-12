@@ -1,0 +1,45 @@
+{
+  "id": "13039",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tây Tiền Hải",
+    "en": "Tay Tien Hai",
+    "slug": "tay-tien-hai-13039"
+  },
+  "code": {
+    "id": "13039",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Hưng Yên",
+      "en": "Hung Yen",
+      "slug": "hung-yen-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.358",
+    "lon": "106.483"
+  },
+  "metadata": {},
+  "source": {}
+}

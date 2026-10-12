@@ -1,0 +1,45 @@
+{
+  "id": "23356",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Xốp",
+    "en": "Xop",
+    "slug": "xop-23356"
+  },
+  "code": {
+    "id": "23356",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Quảng Ngãi",
+      "en": "Quang Ngai",
+      "slug": "quang-ngai-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ngãi",
+        "en": "Quang Ngai",
+        "slug": "quang-ngai-51"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.114",
+    "lon": "107.807"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phú Sơn, Huyện Chợ Lách, Tỉnh Bến Tre",
+  "ellapsedInMs": 7181,
+  "estimatedCost": 0.0037678,
+  "thought": "**Determining the New Administrative Unit for Xã Phú Sơn**\n\nOkay, so I've been tasked with figuring out what happened to \"Xã Phú Sơn, Huyện Chợ Lách, Tỉnh Bến Tre.\" My strategy is pretty straightforward: first, I need to understand the provincial changes, and then dive into the relevant resolutions to see where \"Phú Sơn\" ended up.\n\nMy initial step, as a geographer, is to confirm the provincial merger. The document `60-NQ/TW` is my starting point. After reviewing it, I confirm \"Tỉnh Bến Tre\" has merged into \"Tỉnh Vĩnh Long.\" Great, one step closer.\n\nNow, I'll scour the \"Other resolutions\" section, focusing on those concerning \"Tỉnh Vĩnh Long,\" specifically looking for mentions of \"Phú Sơn.\"  Based on my assessment, `1687/NQ-UBTVQH15` looks like the goldmine I'm after, and upon deeper study, line 65 clearly indicates that \"Xã Phú Sơn,\" along with \"Tân Thiềng,\" and \"Vĩnh Thành,\" has been merged into a new entity called \"Xã Vĩnh Thành.\" Bingo!\n\nThe next crucial step is to validate the existence of this new ward. I check my \"New wards\" list, specifically for \"Xã Vĩnh Thành\" within \"Tỉnh Vĩnh Long.\" And, lo and behold, I have a perfect match! Code 28894 corresponds with the name in the documents.\n\nGiven the directness of the resolution and the seamless match with the new ward data, I can confidently assess the situation. The resolution explicitly states that the merger into \"Xã Vĩnh Thành\" is complete, and the available data confirms this with a high degree of certainty.  Therefore, I'll flag this as having high confidence.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1687/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Vĩnh Long",
+        "line": "65. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xãPhú Sơn, Tân Thiềng và Vĩnh Thành thành xã mới có tên gọi là xã Vĩnh Thành."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Vĩnh Long",
+      "ward_code": "28894",
+      "ward_name": "Xã Vĩnh Thành"
+    }
+  ]
+}

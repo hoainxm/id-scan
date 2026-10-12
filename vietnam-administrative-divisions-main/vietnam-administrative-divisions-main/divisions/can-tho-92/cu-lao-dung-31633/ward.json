@@ -1,0 +1,45 @@
+{
+  "id": "31633",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Cù Lao Dung",
+    "en": "Cu Lao Dung",
+    "slug": "cu-lao-dung-31633"
+  },
+  "code": {
+    "id": "31633",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "Cần Thơ",
+      "en": "Can Tho",
+      "slug": "can-tho-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.615",
+    "lon": "106.193"
+  },
+  "metadata": {},
+  "source": {}
+}

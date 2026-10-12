@@ -1,0 +1,45 @@
+{
+  "id": "31333",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Vị Tân",
+    "en": "Vi Tan",
+    "slug": "vi-tan-31333"
+  },
+  "code": {
+    "id": "31333",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "Cần Thơ",
+      "en": "Can Tho",
+      "slug": "can-tho-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.753",
+    "lon": "105.449"
+  },
+  "metadata": {},
+  "source": {}
+}

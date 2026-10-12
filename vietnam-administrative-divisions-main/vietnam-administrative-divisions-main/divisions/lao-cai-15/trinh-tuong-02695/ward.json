@@ -1,0 +1,45 @@
+{
+  "id": "02695",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Trịnh Tường",
+    "en": "Trinh Tuong",
+    "slug": "trinh-tuong-02695"
+  },
+  "code": {
+    "id": "02695",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.638",
+    "lon": "103.744"
+  },
+  "metadata": {},
+  "source": {}
+}

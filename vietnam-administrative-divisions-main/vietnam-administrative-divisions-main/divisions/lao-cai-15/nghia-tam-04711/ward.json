@@ -1,0 +1,45 @@
+{
+  "id": "04711",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nghĩa Tâm",
+    "en": "Nghia Tam",
+    "slug": "nghia-tam-04711"
+  },
+  "code": {
+    "id": "04711",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.411",
+    "lon": "104.852"
+  },
+  "metadata": {},
+  "source": {}
+}

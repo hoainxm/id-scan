@@ -1,0 +1,45 @@
+{
+  "id": "12148",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phạm Ngũ Lão",
+    "en": "Pham Ngu Lao",
+    "slug": "pham-ngu-lao-12148"
+  },
+  "code": {
+    "id": "12148",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Hưng Yên",
+      "en": "Hung Yen",
+      "slug": "hung-yen-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.869",
+    "lon": "106.11"
+  },
+  "metadata": {},
+  "source": {}
+}

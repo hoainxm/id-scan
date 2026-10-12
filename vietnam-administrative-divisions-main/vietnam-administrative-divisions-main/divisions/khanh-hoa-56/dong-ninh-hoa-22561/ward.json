@@ -1,0 +1,45 @@
+{
+  "id": "22561",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đông Ninh Hòa",
+    "en": "Dong Ninh Hoa",
+    "slug": "dong-ninh-hoa-22561"
+  },
+  "code": {
+    "id": "22561",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.538",
+    "lon": "109.214"
+  },
+  "metadata": {},
+  "source": {}
+}

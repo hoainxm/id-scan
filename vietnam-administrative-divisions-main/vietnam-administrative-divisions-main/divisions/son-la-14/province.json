@@ -1,0 +1,33 @@
+{
+  "id": "14",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Sơn La",
+    "en": "Son La",
+    "slug": "son-la-14"
+  },
+  "code": {
+    "id": "14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.195",
+    "lon": "104.069"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/son-la-14/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Hà Nội",
+    "en": "Hanoi",
+    "slug": "ha-noi-01"
+  },
+  "code": {
+    "id": "01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 126
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21",
+    "lon": "105.698"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/ha-noi-01/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

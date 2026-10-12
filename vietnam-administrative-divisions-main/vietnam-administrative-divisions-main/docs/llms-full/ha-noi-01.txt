@@ -1,0 +1,639 @@
+# Hanoi — Vietnam Administrative Divisions
+
+> 126 commune/wards
+> Code: 01
+> Coordinates: 21, 105.698
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Khánh (An Khanh)
+
+Code: 09877, Coordinates: 21.002, 105.718
+
+
+### Ba Đình (Ba Dinh)
+
+Code: 00004, Coordinates: 21.04, 105.836
+
+
+### Ba Vì (Ba Vi)
+
+Code: 09700, Coordinates: 21.018, 105.393
+
+
+### Bạch Mai (Bach Mai)
+
+Code: 00292, Coordinates: 21.003, 105.851
+
+
+### Bất Bạt (Bat Bat)
+
+Code: 09676, Coordinates: 20.969, 105.908
+
+
+### Bát Tràng (Bat Trang)
+
+Code: 00577, Coordinates: 20.98, 105.915
+
+
+### Bình Minh (Binh Minh)
+
+Code: 10126, Coordinates: 21.021, 105.942
+
+
+### Bồ Đề (Bo De)
+
+Code: 00118, Coordinates: 21.057, 105.866
+
+
+### Cầu Giấy (Cau Giay)
+
+Code: 00166, Coordinates: 21.029, 105.803
+
+
+### Chương Dương (Chuong Duong)
+
+Code: 10237, Coordinates: 21.038, 105.86
+
+
+### Chương Mỹ (Chuong My)
+
+Code: 10015, Coordinates: 20.923, 105.704
+
+
+### Chuyên Mỹ (Chuyen My)
+
+Code: 10330, Coordinates: 20.739, 105.866
+
+
+### Cổ Đô (Co Do)
+
+Code: 09634, Coordinates: 21.284, 105.374
+
+
+### Cửa Nam (Cua Nam)
+
+Code: 00082, Coordinates: 21.023, 105.851
+
+
+### Đa Phúc (Da Phuc)
+
+Code: 00430, Coordinates: 21.233, 105.861
+
+
+### Đại Mỗ (Dai Mo)
+
+Code: 00637, Coordinates: 20.993, 105.777
+
+
+### Đại Thanh (Dai Thanh)
+
+Code: 00664, Coordinates: 20.934, 105.819
+
+
+### Đại Xuyên (Dai Xuyen)
+
+Code: 10342, Coordinates: 20.697, 105.915
+
+
+### Dân Hòa (Dan Hoa)
+
+Code: 10180, Coordinates: 21.022, 105.844
+
+
+### Đan Phượng (Dan Phuong)
+
+Code: 09784, Coordinates: 21.09, 105.665
+
+
+### Định Công (Dinh Cong)
+
+Code: 00316, Coordinates: 20.978, 105.824
+
+
+### Đoài Phương (Doai Phuong)
+
+Code: 09616, Coordinates: 21.039, 105.8
+
+
+### Đông Anh (Dong Anh)
+
+Code: 00454, Coordinates: 21.154, 105.852
+
+
+### Đống Đa (Dong Da)
+
+Code: 00235, Coordinates: 21.011, 105.818
+
+
+### Đông Ngạc (Dong Ngac)
+
+Code: 00602, Coordinates: 21.076, 105.779
+
+
+### Dương Hòa (Duong Hoa)
+
+Code: 09856, Coordinates: 21.071, 105.828
+
+
+### Dương Nội (Duong Noi)
+
+Code: 09886, Coordinates: 20.975, 105.751
+
+
+### Gia Lâm (Gia Lam)
+
+Code: 00565, Coordinates: 21.052, 105.879
+
+
+### Giảng Võ (Giang Vo)
+
+Code: 00025, Coordinates: 21.027, 105.817
+
+
+### Hạ Bằng (Ha Bang)
+
+Code: 09982, Coordinates: 21.01, 105.557
+
+
+### Hà Đông (Ha Dong)
+
+Code: 09556, Coordinates: 20.97, 105.775
+
+
+### Hai Bà Trưng (Hai Ba Trung)
+
+Code: 00256, Coordinates: 21.015, 105.852
+
+
+### Hát Môn (Hat Mon)
+
+Code: 09772, Coordinates: 21.128, 105.617
+
+
+### Hòa Lạc (Hoa Lac)
+
+Code: 09988, Coordinates: 20.99, 105.527
+
+
+### Hòa Phú (Hoa Phu)
+
+Code: 10096, Coordinates: 20.81, 105.721
+
+
+### Hòa Xá (Hoa Xa)
+
+Code: 10417, Coordinates: 21.011, 105.532
+
+
+### Hoài Đức (Hoai Duc)
+
+Code: 09832, Coordinates: 21.023, 105.704
+
+
+### Hoàn Kiếm (Hoan Kiem)
+
+Code: 00070, Coordinates: 21.032, 105.851
+
+
+### Hoàng Liệt (Hoang Liet)
+
+Code: 00337, Coordinates: 20.961, 105.827
+
+
+### Hoàng Mai (Hoang Mai)
+
+Code: 00331, Coordinates: 20.974, 105.862
+
+
+### Hồng Hà (Hong Ha)
+
+Code: 00097, Coordinates: 21.049, 105.852
+
+
+### Hồng Sơn (Hong Son)
+
+Code: 10465, Coordinates: 20.726, 105.711
+
+
+### Hồng Vân (Hong Van)
+
+Code: 10210, Coordinates: 20.876, 105.911
+
+
+### Hưng Đạo (Hung Dao)
+
+Code: 09931, Coordinates: 21.201, 105.426
+
+
+### Hương Sơn (Huong Son)
+
+Code: 10489, Coordinates: 20.62, 105.752
+
+
+### Khương Đình (Khuong Dinh)
+
+Code: 00364, Coordinates: 20.991, 105.813
+
+
+### Kiến Hưng (Kien Hung)
+
+Code: 09552, Coordinates: 20.954, 105.775
+
+
+### Kiều Phú (Kieu Phu)
+
+Code: 09910, Coordinates: 20.973, 105.602
+
+
+### Kim Anh
+
+Code: 00382, Coordinates: 21.295, 105.774
+
+
+### Kim Liên (Kim Lien)
+
+Code: 00229, Coordinates: 21.006, 105.831
+
+
+### Láng (Lang)
+
+Code: 00199, Coordinates: 21.006, 105.816
+
+
+### Liên Minh (Lien Minh)
+
+Code: 09787, Coordinates: 21.159, 105.412
+
+
+### Lĩnh Nam (Linh Nam)
+
+Code: 00328, Coordinates: 20.976, 105.896
+
+
+### Long Biên (Long Bien)
+
+Code: 00145, Coordinates: 21.023, 105.898
+
+
+### Mê Linh (Me Linh)
+
+Code: 09022, Coordinates: 21.157, 105.733
+
+
+### Minh Châu (Minh Chau)
+
+Code: 09661, Coordinates: 21.201, 105.459
+
+
+### Mỹ Đức (My Duc)
+
+Code: 10441, Coordinates: 21.017, 105.838
+
+
+### Nam Phù (Nam Phu)
+
+Code: 00685, Coordinates: 21.023, 105.852
+
+
+### Nghĩa Đô (Nghia Do)
+
+Code: 00160, Coordinates: 21.043, 105.794
+
+
+### Ngọc Hà (Ngoc Ha)
+
+Code: 00008, Coordinates: 21.039, 105.817
+
+
+### Ngọc Hồi (Ngoc Hoi)
+
+Code: 00679, Coordinates: 20.923, 105.843
+
+
+### Nội Bài (Noi Bai)
+
+Code: 00433, Coordinates: 21.205, 105.786
+
+
+### Ô Chợ Dừa (O Cho Dua)
+
+Code: 00190, Coordinates: 21.023, 105.826
+
+
+### Ô Diên (O Dien)
+
+Code: 09817, Coordinates: 21.093, 105.698
+
+
+### Phú Cát (Phu Cat)
+
+Code: 09952, Coordinates: 20.949, 105.557
+
+
+### Phú Diễn (Phu Dien)
+
+Code: 00619, Coordinates: 21.049, 105.763
+
+
+### Phù Đổng (Phu Dong)
+
+Code: 00541, Coordinates: 21.056, 105.96
+
+
+### Phú Lương (Phu Luong)
+
+Code: 09568, Coordinates: 20.939, 105.767
+
+
+### Phú Nghĩa (Phu Nghia)
+
+Code: 10030, Coordinates: 20.93, 105.657
+
+
+### Phú Thượng (Phu Thuong)
+
+Code: 00091, Coordinates: 21.084, 105.802
+
+
+### Phú Xuyên (Phu Xuyen)
+
+Code: 10273, Coordinates: 20.737, 105.913
+
+
+### Phúc Lộc (Phuc Loc)
+
+Code: 09739, Coordinates: 21.149, 105.572
+
+
+### Phúc Lợi (Phuc Loi)
+
+Code: 00136, Coordinates: 21.041, 105.919
+
+
+### Phúc Sơn (Phuc Son)
+
+Code: 10459, Coordinates: 20.781, 105.684
+
+
+### Phúc Thịnh (Phuc Thinh)
+
+Code: 00466, Coordinates: 21.159, 105.809
+
+
+### Phúc Thọ (Phuc Tho)
+
+Code: 09715, Coordinates: 21.11, 105.54
+
+
+### Phượng Dực (Phuong Duc)
+
+Code: 10279, Coordinates: 20.795, 105.845
+
+
+### Phương Liệt (Phuong Liet)
+
+Code: 00352, Coordinates: 20.994, 105.832
+
+
+### Quảng Bị (Quang Bi)
+
+Code: 10072, Coordinates: 20.863, 105.7
+
+
+### Quang Minh
+
+Code: 08974, Coordinates: 21.027, 105.85
+
+
+### Quảng Oai (Quang Oai)
+
+Code: 09619, Coordinates: 21.198, 105.425
+
+
+### Quốc Oai (Quoc Oai)
+
+Code: 09895, Coordinates: 20.992, 105.64
+
+
+### Sóc Sơn (Soc Son)
+
+Code: 00376, Coordinates: 21.26, 105.851
+
+
+### Sơn Đồng (Son Dong)
+
+Code: 09871, Coordinates: 21.044, 105.701
+
+
+### Sơn Tây (Son Tay)
+
+Code: 09574, Coordinates: 21.139, 105.505
+
+
+### Suối Hai (Suoi Hai)
+
+Code: 09694, Coordinates: 21.125, 105.391
+
+
+### Tam Hưng (Tam Hung)
+
+Code: 10144, Coordinates: 20.879, 105.793
+
+
+### Tây Hồ (Tay Ho)
+
+Code: 00103, Coordinates: 21.063, 105.818
+
+
+### Tây Mỗ (Tay Mo)
+
+Code: 00634, Coordinates: 21, 105.748
+
+
+### Tây Phương (Tay Phuong)
+
+Code: 10003, Coordinates: 21.026, 105.585
+
+
+### Tây Tựu (Tay Tuu)
+
+Code: 00613, Coordinates: 21.065, 105.739
+
+
+### Thạch Thất (Thach That)
+
+Code: 09955, Coordinates: 21.067, 105.562
+
+
+### Thanh Liệt (Thanh Liet)
+
+Code: 00643, Coordinates: 20.97, 105.802
+
+
+### Thanh Oai
+
+Code: 10114, Coordinates: 20.844, 105.768
+
+
+### Thanh Trì (Thanh Tri)
+
+Code: 00640, Coordinates: 20.942, 105.836
+
+
+### Thanh Xuân (Thanh Xuan)
+
+Code: 00367, Coordinates: 20.998, 105.804
+
+
+### Thiên Lộc (Thien Loc)
+
+Code: 00493, Coordinates: 21.126, 105.761
+
+
+### Thư Lâm (Thu Lam)
+
+Code: 00475, Coordinates: 21.163, 105.884
+
+
+### Thuận An (Thuan An)
+
+Code: 00562, Coordinates: 21.236, 105.372
+
+
+### Thượng Cát (Thuong Cat)
+
+Code: 00598, Coordinates: 21.086, 105.749
+
+
+### Thượng Phúc (Thuong Phuc)
+
+Code: 10231, Coordinates: 20.837, 105.714
+
+
+### Thường Tín (Thuong Tin)
+
+Code: 10183, Coordinates: 20.872, 105.864
+
+
+### Tiến Thắng (Tien Thang)
+
+Code: 08995, Coordinates: 21.233, 105.667
+
+
+### Trần Phú (Tran Phu)
+
+Code: 10081, Coordinates: 20.833, 105.671
+
+
+### Trung Giã (Trung Gia)
+
+Code: 00385, Coordinates: 21.313, 105.867
+
+
+### Từ Liêm (Tu Liem)
+
+Code: 00592, Coordinates: 21.022, 105.767
+
+
+### Tùng Thiện (Tung Thien)
+
+Code: 09604, Coordinates: 21.122, 105.459
+
+
+### Tương Mai (Tuong Mai)
+
+Code: 00322, Coordinates: 20.99, 105.853
+
+
+### Ứng Hòa (Ung Hoa)
+
+Code: 10402, Coordinates: 20.692, 105.84
+
+
+### Ứng Thiên (Ung Thien)
+
+Code: 10369, Coordinates: 20.773, 105.771
+
+
+### Vân Đình (Van Dinh)
+
+Code: 10354, Coordinates: 20.732, 105.77
+
+
+### Văn Miếu - Quốc Tử Giám (Van Mieu - Quoc Tu Giam)
+
+Code: 00226, Coordinates: 21.029, 105.836
+
+
+### Vật Lại (Vat Lai)
+
+Code: 09664, Coordinates: 21.196, 105.394
+
+
+### Việt Hưng (Viet Hung)
+
+Code: 00127, Coordinates: 21.064, 105.906
+
+
+### Vĩnh Hưng (Vinh Hung)
+
+Code: 00301, Coordinates: 20.991, 105.883
+
+
+### Vĩnh Thanh (Vinh Thanh)
+
+Code: 00508, Coordinates: 21.103, 105.818
+
+
+### Vĩnh Tuy (Vinh Tuy)
+
+Code: 00283, Coordinates: 20.998, 105.868
+
+
+### Xuân Đỉnh (Xuan Dinh)
+
+Code: 00611, Coordinates: 21.067, 105.796
+
+
+### Xuân Mai (Xuan Mai)
+
+Code: 10045, Coordinates: 20.884, 105.557
+
+
+### Xuân Phương (Xuan Phuong)
+
+Code: 00622, Coordinates: 21.052, 105.734
+
+
+### Yên Bài (Yen Bai)
+
+Code: 09706, Coordinates: 21.044, 105.432
+
+
+### Yên Hòa (Yen Hoa)
+
+Code: 00175, Coordinates: 21.014, 105.796
+
+
+### Yên Lãng (Yen Lang)
+
+Code: 08980, Coordinates: 21.019, 105.805
+
+
+### Yên Nghĩa (Yen Nghia)
+
+Code: 09562, Coordinates: 20.95, 105.748
+
+
+### Yên Sở (Yen So)
+
+Code: 00340, Coordinates: 20.956, 105.857
+
+
+### Yên Xuân (Yen Xuan)
+
+Code: 04930, Coordinates: 20.974, 105.479
+
+

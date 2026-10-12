@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hua Bun, Huyện Nậm Nhùn, Tỉnh Lai Châu",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1670/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lai Châu",
+        "line": "28. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xãVàng Sanvàxã Hua Bumthành xã mới có tên gọi là **xã Hua Bum**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lai Châu",
+      "ward_code": "03460",
+      "ward_name": "Xã Hua Bum"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "79",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Hồ Chí Minh",
+    "en": "Ho Chi Minh City",
+    "slug": "ho-chi-minh-79"
+  },
+  "code": {
+    "id": "79",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 168
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.993",
+    "lon": "106.638"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/ho-chi-minh-79/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

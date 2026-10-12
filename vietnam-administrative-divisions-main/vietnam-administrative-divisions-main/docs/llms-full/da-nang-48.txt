@@ -1,0 +1,479 @@
+# Da Nang — Vietnam Administrative Divisions
+
+> 94 commune/wards
+> Code: 48
+> Coordinates: 15.631, 107.966
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Hải (An Hai)
+
+Code: 20275, Coordinates: 16.07, 108.236
+
+
+### An Khê (An Khe)
+
+Code: 20305, Coordinates: 16.05, 108.186
+
+
+### An Thắng (An Thang)
+
+Code: 20575, Coordinates: 15.906, 108.225
+
+
+### Avương (Avuong)
+
+Code: 20458, Coordinates: 15.97, 107.555
+
+
+### Bà Nà (Ba Na)
+
+Code: 20308, Coordinates: 15.998, 107.995
+
+
+### Bàn Thạch (Ban Thach)
+
+Code: 20335, Coordinates: 15.585, 108.467
+
+
+### Bến Giằng (Ben Giang)
+
+Code: 20710, Coordinates: 15.69, 107.766
+
+
+### Bến Hiên (Ben Hien)
+
+Code: 20494, Coordinates: 15.847, 107.718
+
+
+### Cẩm Lệ (Cam Le)
+
+Code: 20260, Coordinates: 16.015, 108.201
+
+
+### Chiên Đàn (Chien Dan)
+
+Code: 20364, Coordinates: 15.564, 108.432
+
+
+### Đắc Pring (Dac Pring)
+
+Code: 20716, Coordinates: 15.5, 107.597
+
+
+### Đại Lộc (Dai Loc)
+
+Code: 20500, Coordinates: 15.895, 108.107
+
+
+### Điện Bàn (Dien Ban)
+
+Code: 20551, Coordinates: 15.889, 108.249
+
+
+### Điện Bàn Bắc (Dien Ban Bac)
+
+Code: 20557, Coordinates: 15.932, 108.194
+
+
+### Điện Bàn Đông (Dien Ban Dong)
+
+Code: 20579, Coordinates: 15.932, 108.27
+
+
+### Điện Bàn Tây (Dien Ban Tay)
+
+Code: 20569, Coordinates: 15.889, 108.176
+
+
+### Đồng Dương (Dong Duong)
+
+Code: 20818, Coordinates: 15.647, 108.29
+
+
+### Đông Giang (Dong Giang)
+
+Code: 20467, Coordinates: 16.06, 108.233
+
+
+### Đức Phú (Duc Phu)
+
+Code: 20977, Coordinates: 15.449, 108.579
+
+
+### Duy Nghĩa (Duy Nghia)
+
+Code: 20635, Coordinates: 15.842, 108.379
+
+
+### Duy Xuyên (Duy Xuyen)
+
+Code: 20623, Coordinates: 15.782, 108.205
+
+
+### Gò Nổi (Go Noi)
+
+Code: 20587, Coordinates: 15.855, 108.225
+
+
+### Hà Nha (Ha Nha)
+
+Code: 20515, Coordinates: 15.86, 108.008
+
+
+### Hải Châu (Hai Chau)
+
+Code: 20242, Coordinates: 16.059, 108.219
+
+
+### Hải Vân (Hai Van)
+
+Code: 20194, Coordinates: 16.135, 108.115
+
+
+### Hiệp Đức (Hiep Duc)
+
+Code: 20779, Coordinates: 15.571, 108.063
+
+
+### Hòa Cường (Hoa Cuong)
+
+Code: 20257, Coordinates: 16.042, 108.218
+
+
+### Hòa Khánh (Hoa Khanh)
+
+Code: 20200, Coordinates: 16.05, 108.155
+
+
+### Hòa Tiến (Hoa Tien)
+
+Code: 20332, Coordinates: 15.96, 108.133
+
+
+### Hòa Vang (Hoa Vang)
+
+Code: 20320, Coordinates: 15.97, 108.028
+
+
+### Hòa Xuân (Hoa Xuan)
+
+Code: 20314, Coordinates: 16.005, 108.22
+
+
+### Hoàng Sa (Hoang Sa)
+
+Code: 20333, Coordinates: 16.095, 108.252
+
+
+### Hội An (Hoi An)
+
+Code: 20410, Coordinates: 15.888, 108.337
+
+
+### Hội An Đông (Hoi An Dong)
+
+Code: 20413, Coordinates: 15.879, 108.364
+
+
+### Hội An Tây (Hoi An Tay)
+
+Code: 20401, Coordinates: 15.897, 108.311
+
+
+### Hùng Sơn (Hung Son)
+
+Code: 20443, Coordinates: 15.809, 107.307
+
+
+### Hương Trà (Huong Tra)
+
+Code: 20350, Coordinates: 15.559, 108.51
+
+
+### Khâm Đức (Kham Duc)
+
+Code: 20722, Coordinates: 15.44, 107.79
+
+
+### La Dêê (La Dee)
+
+Code: 20704, Coordinates: 15.553, 107.441
+
+
+### La Êê (La Ee)
+
+Code: 20698, Coordinates: 15.66, 107.352
+
+
+### Lãnh Ngọc (Lanh Ngoc)
+
+Code: 20875, Coordinates: 15.444, 108.203
+
+
+### Liên Chiểu (Lien Chieu)
+
+Code: 20197, Coordinates: 16.077, 108.139
+
+
+### Nam Giang
+
+Code: 20707, Coordinates: 15.675, 107.513
+
+
+### Nam Phước (Nam Phuoc)
+
+Code: 20599, Coordinates: 15.828, 108.258
+
+
+### Nam Trà My (Nam Tra My)
+
+Code: 20944, Coordinates: 15.125, 108.152
+
+
+### Ngũ Hành Sơn (Ngu Hanh Son)
+
+Code: 20285, Coordinates: 16.004, 108.263
+
+
+### Nông Sơn (Nong Son)
+
+Code: 20656, Coordinates: 15.887, 108.187
+
+
+### Núi Thành (Nui Thanh)
+
+Code: 20965, Coordinates: 15.434, 108.656
+
+
+### Phú Ninh (Phu Ninh)
+
+Code: 20392, Coordinates: 15.526, 108.423
+
+
+### Phú Thuận (Phu Thuan)
+
+Code: 20542, Coordinates: 15.783, 107.994
+
+
+### Phước Chánh (Phuoc Chanh)
+
+Code: 20740, Coordinates: 15.322, 107.804
+
+
+### Phước Hiệp (Phuoc Hiep)
+
+Code: 20728, Coordinates: 15.469, 107.917
+
+
+### Phước Năng (Phuoc Nang)
+
+Code: 20734, Coordinates: 16.061, 108.215
+
+
+### Phước Thành (Phuoc Thanh)
+
+Code: 20752, Coordinates: 15.314, 107.886
+
+
+### Phước Trà (Phuoc Tra)
+
+Code: 20770, Coordinates: 15.482, 108.066
+
+
+### Quảng Phú (Quang Phu)
+
+Code: 20356, Coordinates: 15.598, 108.496
+
+
+### Quế Phước (Que Phuoc)
+
+Code: 20669, Coordinates: 15.642, 107.986
+
+
+### Quế Sơn (Que Son)
+
+Code: 20641, Coordinates: 15.713, 108.25
+
+
+### Quế Sơn Trung (Que Son Trung)
+
+Code: 20662, Coordinates: 15.713, 108.25
+
+
+### Sơn Cẩm Hà (Son Cam Ha)
+
+Code: 20857, Coordinates: 15.538, 108.255
+
+
+### Sơn Trà (Son Tra)
+
+Code: 20263, Coordinates: 16.102, 108.249
+
+
+### Sông Kôn (Song Kon)
+
+Code: 20476, Coordinates: 15.867, 107.912
+
+
+### Sông Vàng (Song Vang)
+
+Code: 20485, Coordinates: 15.886, 107.878
+
+
+### Tam Anh
+
+Code: 20984, Coordinates: 15.483, 108.571
+
+
+### Tam Hải (Tam Hai)
+
+Code: 20992, Coordinates: 15.494, 108.664
+
+
+### Tam Kỳ (Tam Ky)
+
+Code: 20341, Coordinates: 15.576, 108.499
+
+
+### Tam Mỹ (Tam My)
+
+Code: 21004, Coordinates: 15.367, 108.555
+
+
+### Tam Xuân (Tam Xuan)
+
+Code: 20971, Coordinates: 15.561, 108.485
+
+
+### Tân Hiệp (Tan Hiep)
+
+Code: 20434, Coordinates: 15.958, 108.507
+
+
+### Tây Giang (Tay Giang)
+
+Code: 20455, Coordinates: 15.876, 107.489
+
+
+### Tây Hồ (Tay Ho)
+
+Code: 20380, Coordinates: 15.589, 108.377
+
+
+### Thăng An (Thang An)
+
+Code: 20794, Coordinates: 15.772, 108.403
+
+
+### Thăng Bình (Thang Binh)
+
+Code: 20791, Coordinates: 15.723, 108.362
+
+
+### Thăng Điền (Thang Dien)
+
+Code: 20848, Coordinates: 15.672, 108.42
+
+
+### Thăng Phú (Thang Phu)
+
+Code: 20827, Coordinates: 15.637, 108.353
+
+
+### Thăng Trường (Thang Truong)
+
+Code: 20836, Coordinates: 15.684, 108.467
+
+
+### Thạnh Bình (Thanh Binh)
+
+Code: 20878, Coordinates: 16.079, 108.213
+
+
+### Thanh Khê (Thanh Khe)
+
+Code: 20209, Coordinates: 16.066, 108.182
+
+
+### Thạnh Mỹ (Thanh My)
+
+Code: 20695, Coordinates: 15.75, 107.836
+
+
+### Thu Bồn (Thu Bon)
+
+Code: 20611, Coordinates: 15.868, 108.346
+
+
+### Thượng Đức (Thuong Duc)
+
+Code: 20506, Coordinates: 15.993, 108.256
+
+
+### Tiên Phước (Tien Phuoc)
+
+Code: 20854, Coordinates: 15.489, 108.308
+
+
+### Trà Đốc (Tra Doc)
+
+Code: 20920, Coordinates: 15.352, 108.064
+
+
+### Trà Giáp (Tra Giap)
+
+Code: 20929, Coordinates: 15.199, 108.248
+
+
+### Trà Leng (Tra Leng)
+
+Code: 20938, Coordinates: 15.229, 108
+
+
+### Trà Liên (Tra Lien)
+
+Code: 20908, Coordinates: 15.34, 108.374
+
+
+### Trà Linh (Tra Linh)
+
+Code: 20950, Coordinates: 15.024, 108.041
+
+
+### Trà My (Tra My)
+
+Code: 20900, Coordinates: 15.339, 108.22
+
+
+### Trà Tân (Tra Tan)
+
+Code: 20923, Coordinates: 15.257, 108.182
+
+
+### Trà Tập (Tra Tap)
+
+Code: 20941, Coordinates: 15.181, 108.076
+
+
+### Trà Vân (Tra Van)
+
+Code: 20959, Coordinates: 15.109, 108.204
+
+
+### Việt An (Viet An)
+
+Code: 20767, Coordinates: 15.568, 108.169
+
+
+### Vu Gia
+
+Code: 20539, Coordinates: 15.854, 108.068
+
+
+### Xuân Phú (Xuan Phu)
+
+Code: 20650, Coordinates: 16.082, 108.163
+
+

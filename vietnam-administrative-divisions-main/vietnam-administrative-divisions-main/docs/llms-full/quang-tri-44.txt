@@ -1,0 +1,399 @@
+# Quang Tri — Vietnam Administrative Divisions
+
+> 78 commune/wards
+> Code: 44
+> Coordinates: 17.241, 106.527
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### A Dơi (A Doi)
+
+Code: 19483, Coordinates: 16.481, 106.744
+
+
+### Ái Tử (Ai Tu)
+
+Code: 19669, Coordinates: 16.775, 107.14
+
+
+### Ba Đồn (Ba Don)
+
+Code: 19009, Coordinates: 17.735, 106.365
+
+
+### Ba Lòng (Ba Long)
+
+Code: 19567, Coordinates: 16.659, 106.951
+
+
+### Bắc Gianh (Bac Gianh)
+
+Code: 19066, Coordinates: 17.752, 106.442
+
+
+### Bắc Trạch (Bac Trach)
+
+Code: 19126, Coordinates: 17.698, 106.455
+
+
+### Bến Hải (Ben Hai)
+
+Code: 19501, Coordinates: 16.989, 107.076
+
+
+### Bến Quan (Ben Quan)
+
+Code: 19366, Coordinates: 17.022, 106.903
+
+
+### Bố Trạch (Bo Trach)
+
+Code: 19141, Coordinates: 17.487, 106.262
+
+
+### Cam Hồng (Cam Hong)
+
+Code: 19255, Coordinates: 17.267, 106.843
+
+
+### Cam Lộ (Cam Lo)
+
+Code: 19597, Coordinates: 16.785, 106.944
+
+
+### Cồn Cỏ (Con Co)
+
+Code: 19742, Coordinates: 17.159, 107.339
+
+
+### Cồn Tiên (Con Tien)
+
+Code: 19537, Coordinates: 16.899, 107.006
+
+
+### Cửa Tùng (Cua Tung)
+
+Code: 19414, Coordinates: 17.029, 107.106
+
+
+### Cửa Việt (Cua Viet)
+
+Code: 19496, Coordinates: 16.907, 107.178
+
+
+### Đakrông (Dakrong)
+
+Code: 19564, Coordinates: 16.568, 106.98
+
+
+### Dân Hóa (Dan Hoa)
+
+Code: 18904, Coordinates: 17.8, 105.781
+
+
+### Diên Sanh (Dien Sanh)
+
+Code: 19681, Coordinates: 16.687, 107.248
+
+
+### Đông Hà (Dong Ha)
+
+Code: 19333, Coordinates: 16.802, 107.095
+
+
+### Đồng Hới (Dong Hoi)
+
+Code: 18880, Coordinates: 17.449, 106.591
+
+
+### Đồng Lê (Dong Le)
+
+Code: 18949, Coordinates: 17.886, 106.021
+
+
+### Đồng Sơn (Dong Son)
+
+Code: 18871, Coordinates: 17.448, 106.577
+
+
+### Đồng Thuận (Dong Thuan)
+
+Code: 18859, Coordinates: 17.476, 106.594
+
+
+### Đông Trạch (Dong Trach)
+
+Code: 19159, Coordinates: 17.622, 106.53
+
+
+### Gio Linh
+
+Code: 19495, Coordinates: 16.913, 107.044
+
+
+### Hải Lăng (Hai Lang)
+
+Code: 19702, Coordinates: 16.684, 107.26
+
+
+### Hiếu Giang (Hieu Giang)
+
+Code: 19603, Coordinates: 16.829, 107.035
+
+
+### Hòa Trạch (Hoa Trach)
+
+Code: 19033, Coordinates: 17.868, 106.428
+
+
+### Hoàn Lão (Hoan Lao)
+
+Code: 19111, Coordinates: 17.583, 106.535
+
+
+### Hướng Hiệp (Huong Hiep)
+
+Code: 19555, Coordinates: 16.689, 106.887
+
+
+### Hướng Lập (Huong Lap)
+
+Code: 19435, Coordinates: 16.887, 106.568
+
+
+### Hướng Phùng (Huong Phung)
+
+Code: 19441, Coordinates: 16.742, 106.582
+
+
+### Khe Sanh
+
+Code: 19429, Coordinates: 16.627, 106.738
+
+
+### Kim Điền (Kim Dien)
+
+Code: 18922, Coordinates: 17.822, 105.894
+
+
+### Kim Ngân (Kim Ngan)
+
+Code: 19318, Coordinates: 17.096, 106.751
+
+
+### Kim Phú (Kim Phu)
+
+Code: 18943, Coordinates: 17.739, 105.962
+
+
+### La Lay
+
+Code: 19594, Coordinates: 16.374, 107.005
+
+
+### Lao Bảo (Lao Bao)
+
+Code: 19432, Coordinates: 16.614, 106.598
+
+
+### Lệ Ninh (Le Ninh)
+
+Code: 19246, Coordinates: 17.232, 106.693
+
+
+### Lệ Thủy (Le Thuy)
+
+Code: 19249, Coordinates: 17.127, 106.743
+
+
+### Lìa (Lia)
+
+Code: 19489, Coordinates: 16.492, 106.666
+
+
+### Minh Hóa (Minh Hoa)
+
+Code: 18901, Coordinates: 17.735, 105.921
+
+
+### Mỹ Thủy (My Thuy)
+
+Code: 19741, Coordinates: 16.743, 107.372
+
+
+### Nam Ba Đồn (Nam Ba Don)
+
+Code: 19075, Coordinates: 17.756, 106.343
+
+
+### Nam Cửa Việt (Nam Cua Viet)
+
+Code: 19639, Coordinates: 16.823, 107.216
+
+
+### Nam Đông Hà (Nam Dong Ha)
+
+Code: 19351, Coordinates: 16.802, 107.111
+
+
+### Nam Gianh
+
+Code: 19093, Coordinates: 17.735, 106.383
+
+
+### Nam Hải Lăng (Nam Hai Lang)
+
+Code: 19735, Coordinates: 16.638, 107.299
+
+
+### Nam Trạch (Nam Trach)
+
+Code: 19198, Coordinates: 17.535, 106.563
+
+
+### Ninh Châu (Ninh Chau)
+
+Code: 19225, Coordinates: 17.339, 106.699
+
+
+### Phong Nha
+
+Code: 19138, Coordinates: 17.648, 106.273
+
+
+### Phú Trạch (Phu Trach)
+
+Code: 19021, Coordinates: 17.886, 106.441
+
+
+### Quảng Ninh (Quang Ninh)
+
+Code: 19207, Coordinates: 17.254, 106.494
+
+
+### Quảng Trạch (Quang Trach)
+
+Code: 19057, Coordinates: 17.873, 106.363
+
+
+### Quảng Trị (Quang Tri)
+
+Code: 19360, Coordinates: 16.694, 107.157
+
+
+### Sen Ngư (Sen Ngu)
+
+Code: 19288, Coordinates: 17.21, 106.86
+
+
+### Tà Rụt (Ta Rut)
+
+Code: 19588, Coordinates: 16.393, 106.988
+
+
+### Tân Gianh (Tan Gianh)
+
+Code: 19051, Coordinates: 17.778, 106.317
+
+
+### Tân Lập (Tan Lap)
+
+Code: 19462, Coordinates: 16.61, 106.695
+
+
+### Tân Mỹ (Tan My)
+
+Code: 19291, Coordinates: 17.189, 106.826
+
+
+### Tân Thành (Tan Thanh)
+
+Code: 18919, Coordinates: 17.878, 105.84
+
+
+### Thượng Trạch (Thuong Trach)
+
+Code: 19147, Coordinates: 17.363, 106.187
+
+
+### Triệu Bình (Trieu Binh)
+
+Code: 19645, Coordinates: 16.818, 107.174
+
+
+### Triệu Cơ (Trieu Co)
+
+Code: 19654, Coordinates: 16.797, 107.247
+
+
+### Triệu Phong (Trieu Phong)
+
+Code: 19624, Coordinates: 16.777, 107.189
+
+
+### Trung Thuần (Trung Thuan)
+
+Code: 19030, Coordinates: 17.809, 106.376
+
+
+### Trường Ninh (Truong Ninh)
+
+Code: 19237, Coordinates: 17.317, 106.635
+
+
+### Trường Phú (Truong Phu)
+
+Code: 19309, Coordinates: 17.191, 106.786
+
+
+### Trường Sơn (Truong Son)
+
+Code: 19204, Coordinates: 17.219, 106.452
+
+
+### Tuyên Bình (Tuyen Binh)
+
+Code: 18991, Coordinates: 17.829, 106.169
+
+
+### Tuyên Hóa (Tuyen Hoa)
+
+Code: 18997, Coordinates: 17.9, 106.105
+
+
+### Tuyên Lâm (Tuyen Lam)
+
+Code: 18958, Coordinates: 17.984, 105.842
+
+
+### Tuyên Phú (Tuyen Phu)
+
+Code: 18985, Coordinates: 17.857, 106.112
+
+
+### Tuyên Sơn (Tuyen Son)
+
+Code: 18952, Coordinates: 18.029, 105.867
+
+
+### Vĩnh Định (Vinh Dinh)
+
+Code: 19699, Coordinates: 16.749, 107.27
+
+
+### Vĩnh Hoàng (Vinh Hoang)
+
+Code: 19372, Coordinates: 17.07, 107.033
+
+
+### Vĩnh Linh (Vinh Linh)
+
+Code: 19363, Coordinates: 17.027, 106.961
+
+
+### Vĩnh Thủy (Vinh Thuy)
+
+Code: 19405, Coordinates: 17.033, 107.019
+
+

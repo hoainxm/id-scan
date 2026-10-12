@@ -1,0 +1,504 @@
+# Lao Cai — Vietnam Administrative Divisions
+
+> 99 commune/wards
+> Code: 15
+> Coordinates: 22.061, 104.347
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### A Mú Sung (A Mu Sung)
+
+Code: 02686, Coordinates: 22.734, 103.662
+
+
+### Âu Lâu (Au Lau)
+
+Code: 04543, Coordinates: 21.698, 104.892
+
+
+### Bắc Hà (Bac Ha)
+
+Code: 02839, Coordinates: 22.502, 104.307
+
+
+### Bản Hồ (Ban Ho)
+
+Code: 03046, Coordinates: 22.264, 103.968
+
+
+### Bản Lầu (Ban Lau)
+
+Code: 02788, Coordinates: 22.597, 104.062
+
+
+### Bản Liền (Ban Lien)
+
+Code: 02869, Coordinates: 22.518, 104.399
+
+
+### Bản Xèo (Ban Xeo)
+
+Code: 02725, Coordinates: 22.516, 103.767
+
+
+### Bảo Ái (Bao Ai)
+
+Code: 04750, Coordinates: 21.897, 104.855
+
+
+### Bảo Hà (Bao Ha)
+
+Code: 02989, Coordinates: 22.177, 104.356
+
+
+### Bảo Nhai (Bao Nhai)
+
+Code: 02890, Coordinates: 22.463, 104.218
+
+
+### Bảo Thắng (Bao Thang)
+
+Code: 02905, Coordinates: 22.379, 104.172
+
+
+### Bảo Yên (Bao Yen)
+
+Code: 02947, Coordinates: 22.294, 104.418
+
+
+### Bát Xát (Bat Xat)
+
+Code: 02683, Coordinates: 22.597, 103.688
+
+
+### Cam Đường (Cam Duong)
+
+Code: 02671, Coordinates: 22.446, 104.027
+
+
+### Cảm Nhân (Cam Nhan)
+
+Code: 04726, Coordinates: 22.004, 104.93
+
+
+### Cao Sơn (Cao Son)
+
+Code: 02782, Coordinates: 22.624, 104.153
+
+
+### Cát Thịnh (Cat Thinh)
+
+Code: 04693, Coordinates: 21.464, 104.7
+
+
+### Cầu Thia (Cau Thia)
+
+Code: 04681, Coordinates: 21.59, 104.519
+
+
+### Chấn Thịnh (Chan Thinh)
+
+Code: 04699, Coordinates: 21.504, 104.814
+
+
+### Châu Quế (Chau Que)
+
+Code: 04387, Coordinates: 22.035, 104.455
+
+
+### Chế Tạo (Che Tao)
+
+Code: 04489, Coordinates: 21.707, 104.031
+
+
+### Chiềng Ken (Chieng Ken)
+
+Code: 03091, Coordinates: 22.001, 104.384
+
+
+### Cốc Lầu (Coc Lau)
+
+Code: 02896, Coordinates: 22.395, 104.353
+
+
+### Cốc San (Coc San)
+
+Code: 02746, Coordinates: 22.46, 103.936
+
+
+### Dền Sáng (Den Sang)
+
+Code: 02707, Coordinates: 22.571, 103.656
+
+
+### Đông Cuông (Dong Cuong)
+
+Code: 04399, Coordinates: 21.983, 104.602
+
+
+### Dương Quỳ (Duong Quy)
+
+Code: 03106, Coordinates: 22.024, 104.167
+
+
+### Gia Hội (Gia Hoi)
+
+Code: 04636, Coordinates: 21.735, 104.421
+
+
+### Gia Phú (Gia Phu)
+
+Code: 02923, Coordinates: 22.342, 104.086
+
+
+### Hạnh Phúc (Hanh Phuc)
+
+Code: 04585, Coordinates: 21.481, 104.35
+
+
+### Hợp Thành (Hop Thanh)
+
+Code: 02680, Coordinates: 22.371, 104.013
+
+
+### Hưng Khánh (Hung Khanh)
+
+Code: 04576, Coordinates: 21.598, 104.714
+
+
+### Khánh Hòa (Khanh Hoa)
+
+Code: 04342, Coordinates: 22.111, 104.638
+
+
+### Khánh Yên (Khanh Yen)
+
+Code: 03103, Coordinates: 22.089, 104.251
+
+
+### Khao Mang
+
+Code: 04465, Coordinates: 21.908, 103.975
+
+
+### Lâm Giang (Lam Giang)
+
+Code: 04381, Coordinates: 22.019, 104.534
+
+
+### Lâm Thượng (Lam Thuong)
+
+Code: 04309, Coordinates: 22.22, 104.684
+
+
+### Lào Cai (Lao Cai)
+
+Code: 02647, Coordinates: 22.419, 103.999
+
+
+### Lao Chải (Lao Chai)
+
+Code: 04474, Coordinates: 22.31, 103.876
+
+
+### Liên Sơn (Lien Son)
+
+Code: 04660, Coordinates: 21.643, 104.498
+
+
+### Lục Yên (Luc Yen)
+
+Code: 04303, Coordinates: 22.111, 104.721
+
+
+### Lùng Phình (Lung Phinh)
+
+Code: 02848, Coordinates: 22.594, 104.323
+
+
+### Lương Thịnh (Luong Thinh)
+
+Code: 04537, Coordinates: 21.643, 104.772
+
+
+### Mậu A (Mau A)
+
+Code: 04375, Coordinates: 21.879, 104.689
+
+
+### Minh Lương (Minh Luong)
+
+Code: 03121, Coordinates: 21.978, 104.094
+
+
+### Mỏ Vàng (Mo Vang)
+
+Code: 04450, Coordinates: 21.711, 104.625
+
+
+### Mù Cang Chải (Mu Cang Chai)
+
+Code: 04456, Coordinates: 21.805, 104.106
+
+
+### Mường Bo (Muong Bo)
+
+Code: 03043, Coordinates: 22.256, 103.989
+
+
+### Mường Hum (Muong Hum)
+
+Code: 02728, Coordinates: 22.47, 103.651
+
+
+### Mường Khương (Muong Khuong)
+
+Code: 02761, Coordinates: 22.686, 104.103
+
+
+### Mường Lai (Muong Lai)
+
+Code: 04345, Coordinates: 22.059, 104.844
+
+
+### Nậm Chày (Nam Chay)
+
+Code: 03076, Coordinates: 22.116, 104.096
+
+
+### Nậm Có (Nam Co)
+
+Code: 04462, Coordinates: 21.859, 104.276
+
+
+### Nam Cường (Nam Cuong)
+
+Code: 04273, Coordinates: 21.721, 104.873
+
+
+### Nậm Xé (Nam Xe)
+
+Code: 03085, Coordinates: 22.043, 104.002
+
+
+### Nghĩa Đô (Nghia Do)
+
+Code: 02953, Coordinates: 22.384, 104.467
+
+
+### Nghĩa Lộ (Nghia Lo)
+
+Code: 04288, Coordinates: 21.585, 104.506
+
+
+### Nghĩa Tâm (Nghia Tam)
+
+Code: 04711, Coordinates: 21.411, 104.852
+
+
+### Ngũ Chỉ Sơn (Ngu Chi Son)
+
+Code: 03004, Coordinates: 22.417, 103.785
+
+
+### Pha Long
+
+Code: 02752, Coordinates: 22.775, 104.216
+
+
+### Phình Hồ (Phinh Ho)
+
+Code: 04609, Coordinates: 21.529, 104.539
+
+
+### Phong Dụ Hạ (Phong Du Ha)
+
+Code: 04402, Coordinates: 21.896, 104.51
+
+
+### Phong Dụ Thượng (Phong Du Thuong)
+
+Code: 04423, Coordinates: 21.824, 104.431
+
+
+### Phong Hải (Phong Hai)
+
+Code: 02902, Coordinates: 22.472, 104.131
+
+
+### Phúc Khánh (Phuc Khanh)
+
+Code: 02998, Coordinates: 22.169, 104.551
+
+
+### Phúc Lợi (Phuc Loi)
+
+Code: 04363, Coordinates: 22.006, 104.707
+
+
+### Púng Luông (Pung Luong)
+
+Code: 04492, Coordinates: 21.747, 104.218
+
+
+### Quy Mông (Quy Mong)
+
+Code: 04531, Coordinates: 21.724, 104.766
+
+
+### Sa Pa
+
+Code: 03006, Coordinates: 22.315, 103.84
+
+
+### Si Ma Cai
+
+Code: 02809, Coordinates: 22.662, 104.273
+
+
+### Sín Chéng (Sin Cheng)
+
+Code: 02824, Coordinates: 22.661, 104.209
+
+
+### Sơn Lương (Son Luong)
+
+Code: 04651, Coordinates: 21.704, 104.509
+
+
+### Tả Củ Tỷ (Ta Cu Ty)
+
+Code: 02842, Coordinates: 22.626, 104.394
+
+
+### Tả Phìn (Ta Phin)
+
+Code: 03013, Coordinates: 22.395, 103.843
+
+
+### Tả Van (Ta Van)
+
+Code: 03037, Coordinates: 22.303, 103.889
+
+
+### Tà Xi Láng (Ta Xi Lang)
+
+Code: 04603, Coordinates: 21.47, 104.605
+
+
+### Tân Hợp (Tan Hop)
+
+Code: 04429, Coordinates: 21.825, 104.574
+
+
+### Tân Lĩnh (Tan Linh)
+
+Code: 04336, Coordinates: 22.078, 104.751
+
+
+### Tằng Loỏng (Tang Loong)
+
+Code: 02908, Coordinates: 22.308, 104.122
+
+
+### Thác Bà (Thac Ba)
+
+Code: 04717, Coordinates: 21.749, 105.029
+
+
+### Thượng Bằng La (Thuong Bang La)
+
+Code: 04705, Coordinates: 21.408, 104.766
+
+
+### Thượng Hà (Thuong Ha)
+
+Code: 02968, Coordinates: 22.291, 104.377
+
+
+### Trạm Tấu (Tram Tau)
+
+Code: 04606, Coordinates: 21.469, 104.378
+
+
+### Trấn Yên (Tran Yen)
+
+Code: 04498, Coordinates: 21.705, 104.756
+
+
+### Trịnh Tường (Trinh Tuong)
+
+Code: 02695, Coordinates: 22.638, 103.744
+
+
+### Trung Tâm (Trung Tam)
+
+Code: 04663, Coordinates: 21.598, 104.534
+
+
+### Tú Lệ (Tu Le)
+
+Code: 04630, Coordinates: 21.79, 104.3
+
+
+### Văn Bàn (Van Ban)
+
+Code: 03082, Coordinates: 22.155, 104.346
+
+
+### Văn Chấn (Van Chan)
+
+Code: 04672, Coordinates: 21.57, 104.618
+
+
+### Văn Phú (Van Phu)
+
+Code: 04279, Coordinates: 21.687, 104.919
+
+
+### Việt Hồng (Viet Hong)
+
+Code: 04564, Coordinates: 21.601, 104.852
+
+
+### Võ Lao (Vo Lao)
+
+Code: 03061, Coordinates: 22.175, 104.16
+
+
+### Xuân Ái (Xuan Ai)
+
+Code: 04441, Coordinates: 21.798, 104.71
+
+
+### Xuân Hòa (Xuan Hoa)
+
+Code: 02962, Coordinates: 22.292, 104.503
+
+
+### Xuân Quang (Xuan Quang)
+
+Code: 02926, Coordinates: 22.366, 104.232
+
+
+### Y Tý (Y Ty)
+
+Code: 02701, Coordinates: 22.658, 103.613
+
+
+### Yên Bái (Yen Bai)
+
+Code: 04252, Coordinates: 21.809, 104.518
+
+
+### Yên Bình (Yen Binh)
+
+Code: 04714, Coordinates: 21.859, 104.937
+
+
+### Yên Thành (Yen Thanh)
+
+Code: 04744, Coordinates: 21.722, 104.894
+
+

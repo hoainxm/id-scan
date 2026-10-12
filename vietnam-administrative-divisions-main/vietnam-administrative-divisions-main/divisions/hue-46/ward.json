@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "20056",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Lưới 1",
+      "en": "A Luoi 1",
+      "slug": "a-luoi-1-20056"
+    },
+    "code": {
+      "id": "20056",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.329",
+      "lon": "107.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20044",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Lưới 2",
+      "en": "A Luoi 2",
+      "slug": "a-luoi-2-20044"
+    },
+    "code": {
+      "id": "20044",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.272",
+      "lon": "107.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20071",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Lưới 3",
+      "en": "A Luoi 3",
+      "slug": "a-luoi-3-20071"
+    },
+    "code": {
+      "id": "20071",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.248",
+      "lon": "107.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20101",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Lưới 4",
+      "en": "A Luoi 4",
+      "slug": "a-luoi-4-20101"
+    },
+    "code": {
+      "id": "20101",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.117",
+      "lon": "107.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20050",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Lưới 5",
+      "en": "A Luoi 5",
+      "slug": "a-luoi-5-20050"
+    },
+    "code": {
+      "id": "20050",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.301",
+      "lon": "107.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19815",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Cựu",
+      "en": "An Cuu",
+      "slug": "an-cuu-19815"
+    },
+    "code": {
+      "id": "19815",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.453",
+      "lon": "107.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20035",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Điền",
+      "en": "Binh Dien",
+      "slug": "binh-dien-20035"
+    },
+    "code": {
+      "id": "20035",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.349",
+      "lon": "107.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20137",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chân Mây - Lăng Cô",
+      "en": "Chan May - Lang Co",
+      "slug": "chan-may-lang-co-20137"
+    },
+    "code": {
+      "id": "20137",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.274",
+      "lon": "107.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19885",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đan Điền",
+      "en": "Dan Dien",
+      "slug": "dan-dien-19885"
+    },
+    "code": {
+      "id": "19885",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.559",
+      "lon": "107.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19909",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dương Nỗ",
+      "en": "Duong No",
+      "slug": "duong-no-19909"
+    },
+    "code": {
+      "id": "19909",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.514",
+      "lon": "107.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20014",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hóa Châu",
+      "en": "Hoa Chau",
+      "slug": "hoa-chau-20014"
+    },
+    "code": {
+      "id": "20014",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.551",
+      "lon": "107.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20131",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Lộc",
+      "en": "Hung Loc",
+      "slug": "hung-loc-20131"
+    },
+    "code": {
+      "id": "20131",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.356",
+      "lon": "107.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19804",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương An",
+      "en": "Huong An",
+      "slug": "huong-an-19804"
+    },
+    "code": {
+      "id": "19804",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.486",
+      "lon": "107.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19975",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Thủy",
+      "en": "Huong Thuy",
+      "slug": "huong-thuy-19975"
+    },
+    "code": {
+      "id": "19975",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.424",
+      "lon": "107.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19996",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hương Trà",
+      "en": "Huong Tra",
+      "slug": "huong-tra-19996"
+    },
+    "code": {
+      "id": "19996",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.519",
+      "lon": "107.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20161",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khe Tre",
+      "en": "Khe Tre",
+      "slug": "khe-tre-20161"
+    },
+    "code": {
+      "id": "20161",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.168",
+      "lon": "107.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19774",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Long",
+      "en": "Kim Long",
+      "slug": "kim-long-19774"
+    },
+    "code": {
+      "id": "19774",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.465",
+      "lon": "107.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20017",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Trà",
+      "en": "Kim Tra",
+      "slug": "kim-tra-20017"
+    },
+    "code": {
+      "id": "20017",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.507",
+      "lon": "107.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20140",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lộc An",
+      "en": "Loc An",
+      "slug": "loc-an-20140"
+    },
+    "code": {
+      "id": "20140",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.323",
+      "lon": "107.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20182",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Quảng",
+      "en": "Long Quang",
+      "slug": "long-quang-20182"
+    },
+    "code": {
+      "id": "20182",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.128",
+      "lon": "107.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19930",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thượng",
+      "en": "My Thuong",
+      "slug": "my-thuong-19930"
+    },
+    "code": {
+      "id": "19930",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.496",
+      "lon": "107.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20179",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đông",
+      "en": "Nam Dong",
+      "slug": "nam-dong-20179"
+    },
+    "code": {
+      "id": "20179",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.16",
+      "lon": "107.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19819",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Điền",
+      "en": "Phong Dien",
+      "slug": "phong-dien-19819"
+    },
+    "code": {
+      "id": "19819",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.582",
+      "lon": "107.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19831",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Dinh",
+      "en": "Phong Dinh",
+      "slug": "phong-dinh-19831"
+    },
+    "code": {
+      "id": "19831",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.659",
+      "lon": "107.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19828",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Phú",
+      "en": "Phong Phu",
+      "slug": "phong-phu-19828"
+    },
+    "code": {
+      "id": "19828",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.683",
+      "lon": "107.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19873",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Quảng",
+      "en": "Phong Quang",
+      "slug": "phong-quang-19873"
+    },
+    "code": {
+      "id": "19873",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.652",
+      "lon": "107.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19858",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Thái",
+      "en": "Phong Thai",
+      "slug": "phong-thai-19858"
+    },
+    "code": {
+      "id": "19858",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.547",
+      "lon": "107.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19960",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Bài",
+      "en": "Phu Bai",
+      "slug": "phu-bai-19960"
+    },
+    "code": {
+      "id": "19960",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.409",
+      "lon": "107.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19918",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hồ",
+      "en": "Phu Ho",
+      "slug": "phu-ho-19918"
+    },
+    "code": {
+      "id": "19918",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.49",
+      "lon": "107.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20107",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lộc",
+      "en": "Phu Loc",
+      "slug": "phu-loc-20107"
+    },
+    "code": {
+      "id": "20107",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.28",
+      "lon": "107.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19942",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Vang",
+      "en": "Phu Vang",
+      "slug": "phu-vang-19942"
+    },
+    "code": {
+      "id": "19942",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.414",
+      "lon": "107.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19945",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Vinh",
+      "en": "Phu Vinh",
+      "slug": "phu-vinh-19945"
+    },
+    "code": {
+      "id": "19945",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.433",
+      "lon": "107.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19753",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Xuân",
+      "en": "Phu Xuan",
+      "slug": "phu-xuan-19753"
+    },
+    "code": {
+      "id": "19753",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.478",
+      "lon": "107.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19867",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Điền",
+      "en": "Quang Dien",
+      "slug": "quang-dien-19867"
+    },
+    "code": {
+      "id": "19867",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.564",
+      "lon": "107.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19969",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Thủy",
+      "en": "Thanh Thuy",
+      "slug": "thanh-thuy-19969"
+    },
+    "code": {
+      "id": "19969",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.438",
+      "lon": "107.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19900",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận An",
+      "en": "Thuan An",
+      "slug": "thuan-an-19900"
+    },
+    "code": {
+      "id": "19900",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.56",
+      "lon": "107.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19789",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Hóa",
+      "en": "Thuan Hoa",
+      "slug": "thuan-hoa-19789"
+    },
+    "code": {
+      "id": "19789",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.464",
+      "lon": "107.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19813",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thủy Xuân",
+      "en": "Thuy Xuan",
+      "slug": "thuy-xuan-19813"
+    },
+    "code": {
+      "id": "19813",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.435",
+      "lon": "107.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20122",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vinh Lộc",
+      "en": "Vinh Loc",
+      "slug": "vinh-loc-20122"
+    },
+    "code": {
+      "id": "20122",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.374",
+      "lon": "107.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19777",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vỹ Dạ",
+      "en": "Vy Da",
+      "slug": "vy-da-19777"
+    },
+    "code": {
+      "id": "19777",
+      "iso": null
+    },
+    "parent": {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "Huế",
+          "en": "Hue",
+          "slug": "hue-46"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.48",
+      "lon": "107.599"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

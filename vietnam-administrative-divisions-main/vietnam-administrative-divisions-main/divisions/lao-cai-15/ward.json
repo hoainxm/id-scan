@@ -1,0 +1,4457 @@
+[
+  {
+    "id": "02686",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Mú Sung",
+      "en": "A Mu Sung",
+      "slug": "a-mu-sung-02686"
+    },
+    "code": {
+      "id": "02686",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.734",
+      "lon": "103.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04543",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Âu Lâu",
+      "en": "Au Lau",
+      "slug": "au-lau-04543"
+    },
+    "code": {
+      "id": "04543",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.698",
+      "lon": "104.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02839",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Hà",
+      "en": "Bac Ha",
+      "slug": "bac-ha-02839"
+    },
+    "code": {
+      "id": "02839",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.502",
+      "lon": "104.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03046",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bản Hồ",
+      "en": "Ban Ho",
+      "slug": "ban-ho-03046"
+    },
+    "code": {
+      "id": "03046",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.264",
+      "lon": "103.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02788",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bản Lầu",
+      "en": "Ban Lau",
+      "slug": "ban-lau-02788"
+    },
+    "code": {
+      "id": "02788",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.597",
+      "lon": "104.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02869",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bản Liền",
+      "en": "Ban Lien",
+      "slug": "ban-lien-02869"
+    },
+    "code": {
+      "id": "02869",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.518",
+      "lon": "104.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02725",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bản Xèo",
+      "en": "Ban Xeo",
+      "slug": "ban-xeo-02725"
+    },
+    "code": {
+      "id": "02725",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.516",
+      "lon": "103.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04750",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Ái",
+      "en": "Bao Ai",
+      "slug": "bao-ai-04750"
+    },
+    "code": {
+      "id": "04750",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.897",
+      "lon": "104.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02989",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Hà",
+      "en": "Bao Ha",
+      "slug": "bao-ha-02989"
+    },
+    "code": {
+      "id": "02989",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.177",
+      "lon": "104.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02890",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Nhai",
+      "en": "Bao Nhai",
+      "slug": "bao-nhai-02890"
+    },
+    "code": {
+      "id": "02890",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.463",
+      "lon": "104.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02905",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Thắng",
+      "en": "Bao Thang",
+      "slug": "bao-thang-02905"
+    },
+    "code": {
+      "id": "02905",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.379",
+      "lon": "104.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02947",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo Yên",
+      "en": "Bao Yen",
+      "slug": "bao-yen-02947"
+    },
+    "code": {
+      "id": "02947",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.294",
+      "lon": "104.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02683",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bát Xát",
+      "en": "Bat Xat",
+      "slug": "bat-xat-02683"
+    },
+    "code": {
+      "id": "02683",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.597",
+      "lon": "103.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02671",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Đường",
+      "en": "Cam Duong",
+      "slug": "cam-duong-02671"
+    },
+    "code": {
+      "id": "02671",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.446",
+      "lon": "104.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04726",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cảm Nhân",
+      "en": "Cam Nhan",
+      "slug": "cam-nhan-04726"
+    },
+    "code": {
+      "id": "04726",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.004",
+      "lon": "104.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02782",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Sơn",
+      "en": "Cao Son",
+      "slug": "cao-son-02782"
+    },
+    "code": {
+      "id": "02782",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.624",
+      "lon": "104.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04693",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Thịnh",
+      "en": "Cat Thinh",
+      "slug": "cat-thinh-04693"
+    },
+    "code": {
+      "id": "04693",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.464",
+      "lon": "104.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04681",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cầu Thia",
+      "en": "Cau Thia",
+      "slug": "cau-thia-04681"
+    },
+    "code": {
+      "id": "04681",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.59",
+      "lon": "104.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04699",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chấn Thịnh",
+      "en": "Chan Thinh",
+      "slug": "chan-thinh-04699"
+    },
+    "code": {
+      "id": "04699",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.504",
+      "lon": "104.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04387",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Quế",
+      "en": "Chau Que",
+      "slug": "chau-que-04387"
+    },
+    "code": {
+      "id": "04387",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.035",
+      "lon": "104.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chế Tạo",
+      "en": "Che Tao",
+      "slug": "che-tao-04489"
+    },
+    "code": {
+      "id": "04489",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.707",
+      "lon": "104.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03091",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Ken",
+      "en": "Chieng Ken",
+      "slug": "chieng-ken-03091"
+    },
+    "code": {
+      "id": "03091",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.001",
+      "lon": "104.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02896",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cốc Lầu",
+      "en": "Coc Lau",
+      "slug": "coc-lau-02896"
+    },
+    "code": {
+      "id": "02896",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.395",
+      "lon": "104.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02746",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cốc San",
+      "en": "Coc San",
+      "slug": "coc-san-02746"
+    },
+    "code": {
+      "id": "02746",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.46",
+      "lon": "103.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02707",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dền Sáng",
+      "en": "Den Sang",
+      "slug": "den-sang-02707"
+    },
+    "code": {
+      "id": "02707",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.571",
+      "lon": "103.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04399",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Cuông",
+      "en": "Dong Cuong",
+      "slug": "dong-cuong-04399"
+    },
+    "code": {
+      "id": "04399",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.983",
+      "lon": "104.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03106",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dương Quỳ",
+      "en": "Duong Quy",
+      "slug": "duong-quy-03106"
+    },
+    "code": {
+      "id": "03106",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.024",
+      "lon": "104.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04636",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Hội",
+      "en": "Gia Hoi",
+      "slug": "gia-hoi-04636"
+    },
+    "code": {
+      "id": "04636",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.735",
+      "lon": "104.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02923",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Phú",
+      "en": "Gia Phu",
+      "slug": "gia-phu-02923"
+    },
+    "code": {
+      "id": "02923",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.342",
+      "lon": "104.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04585",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạnh Phúc",
+      "en": "Hanh Phuc",
+      "slug": "hanh-phuc-04585"
+    },
+    "code": {
+      "id": "04585",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.481",
+      "lon": "104.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02680",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hợp Thành",
+      "en": "Hop Thanh",
+      "slug": "hop-thanh-02680"
+    },
+    "code": {
+      "id": "02680",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.371",
+      "lon": "104.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04576",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Khánh",
+      "en": "Hung Khanh",
+      "slug": "hung-khanh-04576"
+    },
+    "code": {
+      "id": "04576",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.598",
+      "lon": "104.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04342",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-04342"
+    },
+    "code": {
+      "id": "04342",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.111",
+      "lon": "104.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03103",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Yên",
+      "en": "Khanh Yen",
+      "slug": "khanh-yen-03103"
+    },
+    "code": {
+      "id": "03103",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.089",
+      "lon": "104.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04465",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khao Mang",
+      "en": "Khao Mang",
+      "slug": "khao-mang-04465"
+    },
+    "code": {
+      "id": "04465",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.908",
+      "lon": "103.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04381",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Giang",
+      "en": "Lam Giang",
+      "slug": "lam-giang-04381"
+    },
+    "code": {
+      "id": "04381",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.019",
+      "lon": "104.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04309",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Thượng",
+      "en": "Lam Thuong",
+      "slug": "lam-thuong-04309"
+    },
+    "code": {
+      "id": "04309",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.22",
+      "lon": "104.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02647",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-02647"
+    },
+    "code": {
+      "id": "02647",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.419",
+      "lon": "103.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04474",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lao Chải",
+      "en": "Lao Chai",
+      "slug": "lao-chai-04474"
+    },
+    "code": {
+      "id": "04474",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.31",
+      "lon": "103.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04660",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Sơn",
+      "en": "Lien Son",
+      "slug": "lien-son-04660"
+    },
+    "code": {
+      "id": "04660",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.643",
+      "lon": "104.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04303",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lục Yên",
+      "en": "Luc Yen",
+      "slug": "luc-yen-04303"
+    },
+    "code": {
+      "id": "04303",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.111",
+      "lon": "104.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02848",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lùng Phình",
+      "en": "Lung Phinh",
+      "slug": "lung-phinh-02848"
+    },
+    "code": {
+      "id": "02848",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.594",
+      "lon": "104.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04537",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Thịnh",
+      "en": "Luong Thinh",
+      "slug": "luong-thinh-04537"
+    },
+    "code": {
+      "id": "04537",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.643",
+      "lon": "104.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04375",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mậu A",
+      "en": "Mau A",
+      "slug": "mau-a-04375"
+    },
+    "code": {
+      "id": "04375",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.879",
+      "lon": "104.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03121",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Lương",
+      "en": "Minh Luong",
+      "slug": "minh-luong-03121"
+    },
+    "code": {
+      "id": "03121",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.978",
+      "lon": "104.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04450",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỏ Vàng",
+      "en": "Mo Vang",
+      "slug": "mo-vang-04450"
+    },
+    "code": {
+      "id": "04450",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.711",
+      "lon": "104.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04456",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mù Cang Chải",
+      "en": "Mu Cang Chai",
+      "slug": "mu-cang-chai-04456"
+    },
+    "code": {
+      "id": "04456",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.805",
+      "lon": "104.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03043",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Bo",
+      "en": "Muong Bo",
+      "slug": "muong-bo-03043"
+    },
+    "code": {
+      "id": "03043",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.256",
+      "lon": "103.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02728",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Hum",
+      "en": "Muong Hum",
+      "slug": "muong-hum-02728"
+    },
+    "code": {
+      "id": "02728",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.47",
+      "lon": "103.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02761",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Khương",
+      "en": "Muong Khuong",
+      "slug": "muong-khuong-02761"
+    },
+    "code": {
+      "id": "02761",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.686",
+      "lon": "104.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04345",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lai",
+      "en": "Muong Lai",
+      "slug": "muong-lai-04345"
+    },
+    "code": {
+      "id": "04345",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.059",
+      "lon": "104.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03076",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Chày",
+      "en": "Nam Chay",
+      "slug": "nam-chay-03076"
+    },
+    "code": {
+      "id": "03076",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.116",
+      "lon": "104.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04462",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Có",
+      "en": "Nam Co",
+      "slug": "nam-co-04462"
+    },
+    "code": {
+      "id": "04462",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.859",
+      "lon": "104.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04273",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Cường",
+      "en": "Nam Cuong",
+      "slug": "nam-cuong-04273"
+    },
+    "code": {
+      "id": "04273",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.721",
+      "lon": "104.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03085",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Xé",
+      "en": "Nam Xe",
+      "slug": "nam-xe-03085"
+    },
+    "code": {
+      "id": "03085",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.043",
+      "lon": "104.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02953",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Đô",
+      "en": "Nghia Do",
+      "slug": "nghia-do-02953"
+    },
+    "code": {
+      "id": "02953",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.384",
+      "lon": "104.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04288",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Lộ",
+      "en": "Nghia Lo",
+      "slug": "nghia-lo-04288"
+    },
+    "code": {
+      "id": "04288",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.585",
+      "lon": "104.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04711",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Tâm",
+      "en": "Nghia Tam",
+      "slug": "nghia-tam-04711"
+    },
+    "code": {
+      "id": "04711",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.411",
+      "lon": "104.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03004",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngũ Chỉ Sơn",
+      "en": "Ngu Chi Son",
+      "slug": "ngu-chi-son-03004"
+    },
+    "code": {
+      "id": "03004",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.417",
+      "lon": "103.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02752",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pha Long",
+      "en": "Pha Long",
+      "slug": "pha-long-02752"
+    },
+    "code": {
+      "id": "02752",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.775",
+      "lon": "104.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04609",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phình Hồ",
+      "en": "Phinh Ho",
+      "slug": "phinh-ho-04609"
+    },
+    "code": {
+      "id": "04609",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.529",
+      "lon": "104.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04402",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Dụ Hạ",
+      "en": "Phong Du Ha",
+      "slug": "phong-du-ha-04402"
+    },
+    "code": {
+      "id": "04402",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.896",
+      "lon": "104.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04423",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Dụ Thượng",
+      "en": "Phong Du Thuong",
+      "slug": "phong-du-thuong-04423"
+    },
+    "code": {
+      "id": "04423",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.824",
+      "lon": "104.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02902",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Hải",
+      "en": "Phong Hai",
+      "slug": "phong-hai-02902"
+    },
+    "code": {
+      "id": "02902",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.472",
+      "lon": "104.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02998",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Khánh",
+      "en": "Phuc Khanh",
+      "slug": "phuc-khanh-02998"
+    },
+    "code": {
+      "id": "02998",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.169",
+      "lon": "104.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04363",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phúc Lợi",
+      "en": "Phuc Loi",
+      "slug": "phuc-loi-04363"
+    },
+    "code": {
+      "id": "04363",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.006",
+      "lon": "104.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04492",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Púng Luông",
+      "en": "Pung Luong",
+      "slug": "pung-luong-04492"
+    },
+    "code": {
+      "id": "04492",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.747",
+      "lon": "104.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04531",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quy Mông",
+      "en": "Quy Mong",
+      "slug": "quy-mong-04531"
+    },
+    "code": {
+      "id": "04531",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.724",
+      "lon": "104.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03006",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sa Pa",
+      "en": "Sa Pa",
+      "slug": "sa-pa-03006"
+    },
+    "code": {
+      "id": "03006",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.315",
+      "lon": "103.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02809",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Si Ma Cai",
+      "en": "Si Ma Cai",
+      "slug": "si-ma-cai-02809"
+    },
+    "code": {
+      "id": "02809",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.662",
+      "lon": "104.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02824",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sín Chéng",
+      "en": "Sin Cheng",
+      "slug": "sin-cheng-02824"
+    },
+    "code": {
+      "id": "02824",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.661",
+      "lon": "104.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04651",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Lương",
+      "en": "Son Luong",
+      "slug": "son-luong-04651"
+    },
+    "code": {
+      "id": "04651",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.704",
+      "lon": "104.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02842",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tả Củ Tỷ",
+      "en": "Ta Cu Ty",
+      "slug": "ta-cu-ty-02842"
+    },
+    "code": {
+      "id": "02842",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.626",
+      "lon": "104.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03013",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tả Phìn",
+      "en": "Ta Phin",
+      "slug": "ta-phin-03013"
+    },
+    "code": {
+      "id": "03013",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.395",
+      "lon": "103.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03037",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tả Van",
+      "en": "Ta Van",
+      "slug": "ta-van-03037"
+    },
+    "code": {
+      "id": "03037",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.303",
+      "lon": "103.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04603",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tà Xi Láng",
+      "en": "Ta Xi Lang",
+      "slug": "ta-xi-lang-04603"
+    },
+    "code": {
+      "id": "04603",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.47",
+      "lon": "104.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04429",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hợp",
+      "en": "Tan Hop",
+      "slug": "tan-hop-04429"
+    },
+    "code": {
+      "id": "04429",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.825",
+      "lon": "104.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04336",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Lĩnh",
+      "en": "Tan Linh",
+      "slug": "tan-linh-04336"
+    },
+    "code": {
+      "id": "04336",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.078",
+      "lon": "104.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02908",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tằng Loỏng",
+      "en": "Tang Loong",
+      "slug": "tang-loong-02908"
+    },
+    "code": {
+      "id": "02908",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.308",
+      "lon": "104.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04717",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thác Bà",
+      "en": "Thac Ba",
+      "slug": "thac-ba-04717"
+    },
+    "code": {
+      "id": "04717",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.749",
+      "lon": "105.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04705",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Bằng La",
+      "en": "Thuong Bang La",
+      "slug": "thuong-bang-la-04705"
+    },
+    "code": {
+      "id": "04705",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.408",
+      "lon": "104.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02968",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Hà",
+      "en": "Thuong Ha",
+      "slug": "thuong-ha-02968"
+    },
+    "code": {
+      "id": "02968",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.291",
+      "lon": "104.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04606",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trạm Tấu",
+      "en": "Tram Tau",
+      "slug": "tram-tau-04606"
+    },
+    "code": {
+      "id": "04606",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.469",
+      "lon": "104.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04498",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trấn Yên",
+      "en": "Tran Yen",
+      "slug": "tran-yen-04498"
+    },
+    "code": {
+      "id": "04498",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.705",
+      "lon": "104.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02695",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trịnh Tường",
+      "en": "Trinh Tuong",
+      "slug": "trinh-tuong-02695"
+    },
+    "code": {
+      "id": "02695",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.638",
+      "lon": "103.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04663",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Tâm",
+      "en": "Trung Tam",
+      "slug": "trung-tam-04663"
+    },
+    "code": {
+      "id": "04663",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.598",
+      "lon": "104.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04630",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tú Lệ",
+      "en": "Tu Le",
+      "slug": "tu-le-04630"
+    },
+    "code": {
+      "id": "04630",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.79",
+      "lon": "104.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03082",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Bàn",
+      "en": "Van Ban",
+      "slug": "van-ban-03082"
+    },
+    "code": {
+      "id": "03082",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.155",
+      "lon": "104.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04672",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Chấn",
+      "en": "Van Chan",
+      "slug": "van-chan-04672"
+    },
+    "code": {
+      "id": "04672",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.57",
+      "lon": "104.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04279",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Phú",
+      "en": "Van Phu",
+      "slug": "van-phu-04279"
+    },
+    "code": {
+      "id": "04279",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.687",
+      "lon": "104.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04564",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Hồng",
+      "en": "Viet Hong",
+      "slug": "viet-hong-04564"
+    },
+    "code": {
+      "id": "04564",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.601",
+      "lon": "104.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03061",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Võ Lao",
+      "en": "Vo Lao",
+      "slug": "vo-lao-03061"
+    },
+    "code": {
+      "id": "03061",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.175",
+      "lon": "104.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04441",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Ái",
+      "en": "Xuan Ai",
+      "slug": "xuan-ai-04441"
+    },
+    "code": {
+      "id": "04441",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.798",
+      "lon": "104.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02962",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hòa",
+      "en": "Xuan Hoa",
+      "slug": "xuan-hoa-02962"
+    },
+    "code": {
+      "id": "02962",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.292",
+      "lon": "104.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02926",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Quang",
+      "en": "Xuan Quang",
+      "slug": "xuan-quang-02926"
+    },
+    "code": {
+      "id": "02926",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.366",
+      "lon": "104.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02701",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Y Tý",
+      "en": "Y Ty",
+      "slug": "y-ty-02701"
+    },
+    "code": {
+      "id": "02701",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.658",
+      "lon": "103.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04252",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Bái",
+      "en": "Yen Bai",
+      "slug": "yen-bai-04252"
+    },
+    "code": {
+      "id": "04252",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.809",
+      "lon": "104.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04714",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Bình",
+      "en": "Yen Binh",
+      "slug": "yen-binh-04714"
+    },
+    "code": {
+      "id": "04714",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.859",
+      "lon": "104.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04744",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thành",
+      "en": "Yen Thanh",
+      "slug": "yen-thanh-04744"
+    },
+    "code": {
+      "id": "04744",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Lào Cai",
+          "en": "Lao Cai",
+          "slug": "lao-cai-15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.722",
+      "lon": "104.894"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

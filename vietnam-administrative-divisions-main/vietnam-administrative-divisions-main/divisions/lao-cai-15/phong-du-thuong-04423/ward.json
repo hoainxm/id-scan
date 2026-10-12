@@ -1,0 +1,45 @@
+{
+  "id": "04423",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phong Dụ Thượng",
+    "en": "Phong Du Thuong",
+    "slug": "phong-du-thuong-04423"
+  },
+  "code": {
+    "id": "04423",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.824",
+    "lon": "104.431"
+  },
+  "metadata": {},
+  "source": {}
+}

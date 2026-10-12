@@ -1,0 +1,18 @@
+{
+  "address": "Xã Cư Jang, Huyện Ea Kar, Tỉnh Đắk Lắk",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1660/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đắk Lắk",
+        "line": "33. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Bông và xã Cư Yang thành xã mới có tên gọi là xã Cư Yang."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Đắk Lắk",
+      "ward_code": "24406",
+      "ward_name": "Xã Cư Yang"
+    }
+  ]
+}

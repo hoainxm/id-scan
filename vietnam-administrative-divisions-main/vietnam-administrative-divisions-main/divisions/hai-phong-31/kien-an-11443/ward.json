@@ -1,0 +1,45 @@
+{
+  "id": "11443",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Kiến An",
+    "en": "Kien An",
+    "slug": "kien-an-11443"
+  },
+  "code": {
+    "id": "11443",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Hải Phòng",
+      "en": "Hai Phong",
+      "slug": "hai-phong-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.808",
+    "lon": "106.625"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "31186",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Cái Răng",
+    "en": "Cai Rang",
+    "slug": "cai-rang-31186"
+  },
+  "code": {
+    "id": "31186",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "Cần Thơ",
+      "en": "Can Tho",
+      "slug": "can-tho-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "Cần Thơ",
+        "en": "Can Tho",
+        "slug": "can-tho-92"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.006",
+    "lon": "105.751"
+  },
+  "metadata": {},
+  "source": {}
+}

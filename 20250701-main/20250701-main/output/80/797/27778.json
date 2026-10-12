@@ -1,0 +1,28 @@
+{
+  "address": "Xã Vĩnh Thuận, Huyện Vĩnh Hưng, Tỉnh Long An",
+  "ellapsedInMs": 11905,
+  "estimatedCost": 0.007221999999999999,
+  "thought": "**Identifying the New Administrative Units for \"Xã Vĩnh Thuận, Huyện Vĩnh Hưng, Tỉnh Long An\"**\n\nOkay, let's break this down systematically. My task is to determine what happened to \"Xã Vĩnh Thuận\" after the administrative changes.  I begin by acknowledging that \"Tỉnh Long An\" has become \"Tỉnh Tây Ninh\" due to a merger, per `60-NQ/TW`.  This is my initial understanding.\n\nNext, I need to find \"Xã Vĩnh Thuận\" within relevant resolutions. The key is to look in the `Other resolutions` for mentions of \"Vĩnh Thuận\" that also relate to \"Tây Ninh\" or the old \"Long An\" province.  I've systematically scanned through the available resolutions, carefully noting any relevant changes to wards.\n\nAfter careful scrutiny, I pinpointed two crucial lines from `1682/NQ-UBTVQH15`.  These lines explicitly state that the old \"Xã Vĩnh Thuận\" (now part of Tây Ninh) is being divided. One portion goes to the newly formed \"Xã Tuyên Bình,\" and the remaining part combines into \"Xã Vĩnh Hưng\".\n\nI've then checked the `New wards` list to verify the existence and details of these new administrative units. Finding both \"Xã Tuyên Bình\" (code 27775) and \"Xã Vĩnh Hưng\" (code 27757) within \"Tỉnh Tây Ninh\" confirms the restructuring.\n\nGiven the clear and direct wording of `1682/NQ-UBTVQH15`, I am confident in this mapping.\n\nTherefore, my final output will detail the two new wards created from the old \"Xã Vĩnh Thuận\" in Tây Ninh, accompanied by their respective resolution citations and confidence ratings.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1682/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tây Ninh",
+        "line": "5. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tuyên Bình, xã Tuyên Bình Tây và một phần diện tích tự nhiên, quy mô dân số của các xã Vĩnh Bình, Vĩnh Thuận, Thái Bình Trung thành xã mới có tên gọi là **xã Tuyên Bình**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Tây Ninh",
+      "ward_code": "27775",
+      "ward_name": "Xã Tuyên Bình"
+    },
+    {
+      "citation": {
+        "header": "1682/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tây Ninh",
+        "line": "6. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Vĩnh Hưng, một phần diện tích tự nhiên, quy mô dân số các xã Vĩnh Trị, Thái Trị, Khánh Hưng, Thái Bình Trung và phần còn lại của các xã Vĩnh Thuận, Vĩnh Bình sau khi sắp xếp theo quy định tại khoản 5 Điều này thành xã mới có tên gọi là **xã Vĩnh Hưng**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Tây Ninh",
+      "ward_code": "27757",
+      "ward_name": "Xã Vĩnh Hưng"
+    }
+  ]
+}

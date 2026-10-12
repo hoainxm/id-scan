@@ -1,0 +1,18 @@
+{
+  "address": "Xã Noong Lay, Huyện Thuận Châu, Tỉnh Sơn La",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1681/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Sơn La",
+        "line": "13. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Chiềng Ngàm, Nong Lay, Tông Cọ và Chiềng La thành xã mới có tên gọi là xã Chiềng La."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Sơn La",
+      "ward_code": "03754",
+      "ward_name": "Xã Chiềng La"
+    }
+  ]
+}

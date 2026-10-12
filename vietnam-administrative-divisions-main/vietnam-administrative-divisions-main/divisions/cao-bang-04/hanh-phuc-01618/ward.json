@@ -1,0 +1,45 @@
+{
+  "id": "01618",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hạnh Phúc",
+    "en": "Hanh Phuc",
+    "slug": "hanh-phuc-01618"
+  },
+  "code": {
+    "id": "01618",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.625",
+    "lon": "106.42"
+  },
+  "metadata": {},
+  "source": {}
+}

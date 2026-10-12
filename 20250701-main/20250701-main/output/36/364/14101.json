@@ -1,0 +1,18 @@
+{
+  "address": "Xã Xuân Thượng, Huyện Xuân Trường, Tỉnh Nam Định",
+  "ellapsedInMs": 19319,
+  "estimatedCost": 0.0044399999999999995,
+  "thought": "**Mapping Old Administrative Unit to New: Xã Xuân Thượng, Huyện Xuân Trường, Tỉnh Nam Định**\n\nAlright, let's break this down. First, I have to identify the new administrative unit for \"Xã Xuân Thượng, Huyện Xuân Trường, Tỉnh Nam Định\".  This requires a deep dive into the available resolutions and province data.\n\nMy initial analysis confirms the old structure: \"Xã Xuân Thượng\" (ward), \"Huyện Xuân Trường\" (district), and \"Tỉnh Nam Định\" (province). The critical factor is the province.  I know that \"Tỉnh Nam Định\" has been integrated into a larger entity. Checking the province merger information, it's now part of \"Tỉnh Ninh Bình\". This sets the direction for my search.\n\nNext, I need to sift through the available province resolutions (specifically, 60-NQ/TW).  I systematically examined resolutions from various provinces, looking for mentions of \"Xuân Thượng.\"\n\n*   **1657/NQ-UBTVQH15 (Cao Bằng), 1662/NQ-UBTVQH15 (Đồng Nai), 1671/NQ-UBTVQH15 (Lâm Đồng), and 1686/NQ-UBTVQH15 (Thanh Hóa):** These resolutions are irrelevant, as they don't involve \"Xuân Thượng.\"\n*   **1673/NQ-UBTVQH15 (Lào Cai):** This resolution does mention \"Xuân Thượng,\" but it's clearly a different place. The context is \"Tỉnh Lào Cai,\" not \"Tỉnh Nam Định.\" This is a helpful reminder to be thorough and aware of potential overlaps, but ultimately not relevant to the target unit.\n*   **1674/NQ-UBTVQH15 (Ninh Bình):**  Bingo! This resolution is for the correct new province. The resolution explicitly states that \"Xã Xuân Thượng\" is merged with \"Xuân Châu\", \"Xuân Thành\", and \"Xuân Hồng\" to form a new ward called \"Xã Xuân Hồng\". Line 44 is key here.\n\nNow, with the new ward identified, my task is to match it with the correct entry from the provided list of \"New wards\".  I'm looking for \"Xã Xuân Hồng\" within \"Tỉnh Ninh Bình\".  And there it is: `{\"ward_code\":\"14095\",\"ward_name\":\"Xã Xuân Hồng\",\"province_name\":\"Tỉnh Ninh Bình\"}`. This confirms the match.\n\nTherefore, the mapping is clear: the old \"Xã Xuân Thượng\" is now part of the new \"Xã Xuân Hồng\" in \"Tỉnh Ninh Bình\", with a ward code of 14095. My confidence in this mapping is very high because the resolution directly addresses the old unit and the new province and provides a complete merging.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1674/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình",
+        "line": "44. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Xuân Châu, Xuân Thành, Xuân Thượng và Xuân Hồng thành xã mới có tên gọi là **xã Xuân Hồng**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Ninh Bình",
+      "ward_code": "14095",
+      "ward_name": "Xã Xuân Hồng"
+    }
+  ]
+}

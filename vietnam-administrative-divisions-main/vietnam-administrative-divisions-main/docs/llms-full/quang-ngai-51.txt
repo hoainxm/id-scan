@@ -1,0 +1,489 @@
+# Quang Ngai — Vietnam Administrative Divisions
+
+> 96 commune/wards
+> Code: 51
+> Coordinates: 14.769, 108.143
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Phú (An Phu)
+
+Code: 21034, Coordinates: 15.121, 108.86
+
+
+### Ba Dinh
+
+Code: 21499, Coordinates: 15.302, 108.759
+
+
+### Ba Động (Ba Dong)
+
+Code: 21496, Coordinates: 14.823, 108.778
+
+
+### Ba Gia
+
+Code: 21205, Coordinates: 15.212, 108.655
+
+
+### Ba Tơ (Ba To)
+
+Code: 21484, Coordinates: 14.716, 108.741
+
+
+### Ba Tô (Ba To)
+
+Code: 21523, Coordinates: 14.716, 108.741
+
+
+### Ba Vì (Ba Vi)
+
+Code: 21529, Coordinates: 14.742, 108.559
+
+
+### Ba Vinh
+
+Code: 21490, Coordinates: 14.844, 108.664
+
+
+### Ba Xa
+
+Code: 21538, Coordinates: 14.742, 108.742
+
+
+### Bình Chương (Binh Chuong)
+
+Code: 21100, Coordinates: 15.27, 108.719
+
+
+### Bình Minh (Binh Minh)
+
+Code: 21085, Coordinates: 15.277, 108.664
+
+
+### Bình Sơn (Binh Son)
+
+Code: 21040, Coordinates: 15.287, 108.759
+
+
+### Bờ Y (Bo Y)
+
+Code: 23377, Coordinates: 14.705, 107.689
+
+
+### Cà Đam (Ca Dam)
+
+Code: 21136, Coordinates: 15.165, 108.534
+
+
+### Cẩm Thành (Cam Thanh)
+
+Code: 21025, Coordinates: 15.121, 108.804
+
+
+### Đăk Bla (Dak Bla)
+
+Code: 23302, Coordinates: 15.178, 107.803
+
+
+### Đăk Cấm (Dak Cam)
+
+Code: 23284, Coordinates: 14.369, 108
+
+
+### Đăk Hà (Dak Ha)
+
+Code: 23500, Coordinates: 14.513, 107.922
+
+
+### Đăk Kôi (Dak Koi)
+
+Code: 23485, Coordinates: 14.654, 108.126
+
+
+### Đăk Long (Dak Long)
+
+Code: 23368, Coordinates: 14.63, 107.926
+
+
+### Đăk Mar (Dak Mar)
+
+Code: 23512, Coordinates: 14.538, 107.921
+
+
+### Đăk Môn (Dak Mon)
+
+Code: 23374, Coordinates: 14.889, 107.709
+
+
+### Đăk Pék (Dak Pek)
+
+Code: 23341, Coordinates: 15.079, 107.74
+
+
+### Đăk Plô (Dak Plo)
+
+Code: 23344, Coordinates: 15.249, 107.672
+
+
+### Đăk Pxi (Dak Pxi)
+
+Code: 23504, Coordinates: 14.67, 107.952
+
+
+### Đăk Rơ Wa (Dak Ro Wa)
+
+Code: 23332, Coordinates: 14.318, 108.042
+
+
+### Đăk Rve (Dak Rve)
+
+Code: 23479, Coordinates: 14.507, 108.248
+
+
+### Đăk Sao (Dak Sao)
+
+Code: 23416, Coordinates: 14.927, 107.823
+
+
+### Đăk Tô (Dak To)
+
+Code: 23401, Coordinates: 14.661, 107.84
+
+
+### Đăk Tờ Kan (Dak To Kan)
+
+Code: 23419, Coordinates: 14.795, 107.866
+
+
+### Đăk Ui (Dak Ui)
+
+Code: 23510, Coordinates: 14.564, 108.002
+
+
+### Đặng Thùy Trâm (Dang Thuy Tram)
+
+Code: 21520, Coordinates: 14.739, 108.87
+
+
+### Đình Cương (Dinh Cuong)
+
+Code: 21385, Coordinates: 14.986, 108.833
+
+
+### Đông Sơn (Dong Son)
+
+Code: 21109, Coordinates: 15.241, 108.887
+
+
+### Đông Trà Bồng (Dong Tra Bong)
+
+Code: 21127, Coordinates: 15.277, 108.587
+
+
+### Dục Nông (Duc Nong)
+
+Code: 23383, Coordinates: 14.853, 107.676
+
+
+### Đức Phổ (Duc Pho)
+
+Code: 21439, Coordinates: 14.809, 108.957
+
+
+### Ia Chim
+
+Code: 23326, Coordinates: 14.308, 107.904
+
+
+### Ia Đal (Ia Dal)
+
+Code: 23535, Coordinates: 14.144, 107.424
+
+
+### Ia Tơi (Ia Toi)
+
+Code: 23538, Coordinates: 14.093, 107.545
+
+
+### Khánh Cường (Khanh Cuong)
+
+Code: 21472, Coordinates: 14.727, 109.016
+
+
+### Kon Braih
+
+Code: 23497, Coordinates: 14.43, 108.167
+
+
+### Kon Đào (Kon Dao)
+
+Code: 23430, Coordinates: 14.7, 107.837
+
+
+### Kon Plông (Kon Plong)
+
+Code: 23476, Coordinates: 14.601, 108.292
+
+
+### Kon Tum
+
+Code: 23293, Coordinates: 14.342, 107.982
+
+
+### Lân Phong (Lan Phong)
+
+Code: 21433, Coordinates: 14.889, 108.921
+
+
+### Long Phụng (Long Phung)
+
+Code: 21409, Coordinates: 15.04, 108.882
+
+
+### Lý Sơn (Ly Son)
+
+Code: 21548, Coordinates: 15.381, 109.117
+
+
+### Măng Bút (Mang But)
+
+Code: 23455, Coordinates: 14.834, 108.198
+
+
+### Măng Đen (Mang Den)
+
+Code: 23473, Coordinates: 14.601, 108.292
+
+
+### Măng Ri (Mang Ri)
+
+Code: 23446, Coordinates: 14.957, 107.927
+
+
+### Minh Long
+
+Code: 21361, Coordinates: 14.946, 108.676
+
+
+### Mỏ Cày (Mo Cay)
+
+Code: 21421, Coordinates: 14.991, 108.897
+
+
+### Mộ Đức (Mo Duc)
+
+Code: 21400, Coordinates: 14.988, 108.888
+
+
+### Mô Rai (Mo Rai)
+
+Code: 23536, Coordinates: 14.378, 107.546
+
+
+### Nghĩa Giang (Nghia Giang)
+
+Code: 21250, Coordinates: 15.114, 108.734
+
+
+### Nghĩa Hành (Nghia Hanh)
+
+Code: 21364, Coordinates: 14.969, 108.798
+
+
+### Nghĩa Lộ (Nghia Lo)
+
+Code: 21028, Coordinates: 15.106, 108.794
+
+
+### Ngọc Linh (Ngoc Linh)
+
+Code: 23365, Coordinates: 15.088, 107.929
+
+
+### Ngọk Bay (Ngok Bay)
+
+Code: 23317, Coordinates: 14.395, 107.916
+
+
+### Ngọk Réo (Ngok Reo)
+
+Code: 23515, Coordinates: 14.486, 108.039
+
+
+### Ngọk Tụ (Ngok Tu)
+
+Code: 23428, Coordinates: 14.764, 107.763
+
+
+### Nguyễn Nghiêm (Nguyen Nghiem)
+
+Code: 21457, Coordinates: 15.121, 108.806
+
+
+### Phước Giang (Phuoc Giang)
+
+Code: 21370, Coordinates: 15.04, 108.735
+
+
+### Rờ Kơi (Ro Koi)
+
+Code: 23530, Coordinates: 14.52, 107.739
+
+
+### Sa Bình (Sa Binh)
+
+Code: 23534, Coordinates: 14.38, 107.857
+
+
+### Sa Huỳnh (Sa Huynh)
+
+Code: 21478, Coordinates: 14.677, 109.066
+
+
+### Sa Loong
+
+Code: 23392, Coordinates: 14.618, 107.638
+
+
+### Sa Thầy (Sa Thay)
+
+Code: 23527, Coordinates: 14.41, 107.795
+
+
+### Sơn Hà (Son Ha)
+
+Code: 21289, Coordinates: 14.975, 108.525
+
+
+### Sơn Hạ (Son Ha)
+
+Code: 21292, Coordinates: 14.975, 108.525
+
+
+### Sơn Kỳ (Son Ky)
+
+Code: 21325, Coordinates: 14.863, 108.52
+
+
+### Sơn Linh (Son Linh)
+
+Code: 21307, Coordinates: 15.003, 108.59
+
+
+### Sơn Mai (Son Mai)
+
+Code: 21349, Coordinates: 14.988, 108.701
+
+
+### Sơn Tây (Son Tay)
+
+Code: 21340, Coordinates: 14.97, 108.355
+
+
+### Sơn Tây Hạ (Son Tay Ha)
+
+Code: 21343, Coordinates: 14.97, 108.355
+
+
+### Sơn Tây Thượng (Son Tay Thuong)
+
+Code: 21334, Coordinates: 14.97, 108.355
+
+
+### Sơn Thủy (Son Thuy)
+
+Code: 21319, Coordinates: 14.968, 108.499
+
+
+### Sơn Tịnh (Son Tinh)
+
+Code: 21220, Coordinates: 15.199, 108.708
+
+
+### Tây Trà (Tay Tra)
+
+Code: 21154, Coordinates: 15.161, 108.339
+
+
+### Tây Trà Bồng (Tay Tra Bong)
+
+Code: 21157, Coordinates: 15.148, 108.425
+
+
+### Thanh Bồng (Thanh Bong)
+
+Code: 21124, Coordinates: 15.256, 108.379
+
+
+### Thiện Tín (Thien Tin)
+
+Code: 21388, Coordinates: 14.923, 108.761
+
+
+### Thọ Phong (Tho Phong)
+
+Code: 21181, Coordinates: 15.22, 108.804
+
+
+### Tịnh Khê (Tinh Khe)
+
+Code: 21211, Coordinates: 15.18, 108.861
+
+
+### Trà Bồng (Tra Bong)
+
+Code: 21115, Coordinates: 15.209, 108.453
+
+
+### Trà Câu (Tra Cau)
+
+Code: 21451, Coordinates: 14.873, 108.896
+
+
+### Trà Giang (Tra Giang)
+
+Code: 21244, Coordinates: 15.092, 108.676
+
+
+### Trường Giang (Truong Giang)
+
+Code: 21196, Coordinates: 15.17, 108.632
+
+
+### Trương Quang Trọng (Truong Quang Trong)
+
+Code: 21172, Coordinates: 15.148, 108.798
+
+
+### Tu Mơ Rông (Tu Mo Rong)
+
+Code: 23425, Coordinates: 14.888, 107.955
+
+
+### Tư Nghĩa (Tu Nghia)
+
+Code: 21235, Coordinates: 15.091, 108.768
+
+
+### Vạn Tường (Van Tuong)
+
+Code: 21061, Coordinates: 15.121, 108.811
+
+
+### Vệ Giang (Ve Giang)
+
+Code: 21238, Coordinates: 15.042, 108.851
+
+
+### Xốp (Xop)
+
+Code: 23356, Coordinates: 15.114, 107.807
+
+
+### Ya Ly
+
+Code: 23548, Coordinates: 14.316, 107.834
+
+

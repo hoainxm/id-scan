@@ -1,0 +1,33 @@
+{
+  "id": "96",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Cà Mau",
+    "en": "Ca Mau",
+    "slug": "ca-mau-96"
+  },
+  "code": {
+    "id": "96",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.136",
+    "lon": "105.182"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/ca-mau-96/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "21775",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phù Mỹ Nam",
+    "en": "Phu My Nam",
+    "slug": "phu-my-nam-21775"
+  },
+  "code": {
+    "id": "21775",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.12",
+    "lon": "109.044"
+  },
+  "metadata": {},
+  "source": {}
+}

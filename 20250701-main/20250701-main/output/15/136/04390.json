@@ -1,0 +1,18 @@
+{
+  "address": "Xã An Bình, Huyện Văn Yên, Tỉnh Yên Bái",
+  "ellapsedInMs": 23024,
+  "estimatedCost": 0.0080315,
+  "thought": "**The Journey to the New Administrative Unit**\n\nOkay, so I need to figure out where \"Xã An Bình, Huyện Văn Yên, Tỉnh Yên Bái\" went. The first thing I remember is that Yên Bái province merged with Lào Cai, so we're looking in Lào Cai now. I'll need to check the resolutions.\n\nI've got the province merger in mind. Now, let's go through the resolutions one by one. I'm searching for \"An Bình\" and \"Yên Bái\" or \"Lào Cai\" to catch anything that might point to a change. I'm scanning through the resolutions, and it's mostly \"An Bình\" in other provinces, like An Giang, Hà Nội, Bắc Ninh, and so on. Not relevant.\n\nThen, bingo! Resolution `1673/NQ-UBTVQH15` for *Lào Cai* catches my eye. That's the correct province! I zero in on line 18: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Quang Minh, **An Bình**, Đông An và Đông Cuông thành xã mới có tên gọi là **xã Đông Cuông**.\" Perfect! \"Xã An Bình\" is being *merged* into \"Xã Đông Cuông\".\n\nNow, I'll confirm that in the provided `New wards` list. It should be in Lào Cai. And there it is: `Xã Đông Cuông, Tỉnh Lào Cai` with a ward code of `04399`. That seals it!\n\nI'm confident in this match. My confidence is high because it fits perfectly, merging the correct ward into the new one within the relevant province. The citation for this would be: 1673/NQ-UBTVQH15, Line 18. I've got a definitive answer.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1673/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lào Cai",
+        "line": "18. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Quang Minh, An Bình, Đông An và Đông Cuông thành xã mới có tên gọi là **xã Đông Cuông**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Lào Cai",
+      "ward_code": "04399",
+      "ward_name": "Xã Đông Cuông"
+    }
+  ]
+}

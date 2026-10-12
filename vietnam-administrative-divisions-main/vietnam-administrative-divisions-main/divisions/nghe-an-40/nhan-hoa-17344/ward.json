@@ -1,0 +1,45 @@
+{
+  "id": "17344",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nhân Hòa",
+    "en": "Nhan Hoa",
+    "slug": "nhan-hoa-17344"
+  },
+  "code": {
+    "id": "17344",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "Nghệ An",
+      "en": "Nghe An",
+      "slug": "nghe-an-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "Nghệ An",
+        "en": "Nghe An",
+        "slug": "nghe-an-40"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.195",
+    "lon": "106.127"
+  },
+  "metadata": {},
+  "source": {}
+}

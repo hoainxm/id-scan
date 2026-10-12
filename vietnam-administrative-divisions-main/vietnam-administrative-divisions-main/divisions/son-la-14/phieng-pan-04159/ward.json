@@ -1,0 +1,45 @@
+{
+  "id": "04159",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phiêng Pằn",
+    "en": "Phieng Pan",
+    "slug": "phieng-pan-04159"
+  },
+  "code": {
+    "id": "04159",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Sơn La",
+      "en": "Son La",
+      "slug": "son-la-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Sơn La",
+        "en": "Son La",
+        "slug": "son-la-14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.054",
+    "lon": "104.042"
+  },
+  "metadata": {},
+  "source": {}
+}

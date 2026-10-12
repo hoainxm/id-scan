@@ -1,0 +1,18 @@
+{
+  "address": "Xã Đắk N'Dung, Huyện Đắk Song, Tỉnh Đắk Nông",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1671/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lâm Đồng",
+        "line": "89. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Đức An, xã Đắk N'Drung và xã Nam Bình thành xã mới có tên gọi là **xã Đức An**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lâm Đồng",
+      "ward_code": "24717",
+      "ward_name": " Xã Đức An"
+    }
+  ]
+}

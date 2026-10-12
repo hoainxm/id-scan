@@ -1,0 +1,45 @@
+{
+  "id": "21670",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hoài Nhơn Đông",
+    "en": "Hoai Nhon Dong",
+    "slug": "hoai-nhon-dong-21670"
+  },
+  "code": {
+    "id": "21670",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.487",
+    "lon": "109.086"
+  },
+  "metadata": {},
+  "source": {}
+}

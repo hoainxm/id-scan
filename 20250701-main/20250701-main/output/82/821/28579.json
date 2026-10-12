@@ -1,0 +1,18 @@
+{
+  "address": "Xã Bình Đức, Huyện Châu Thành, Tỉnh Tiền Giang",
+  "ellapsedInMs": 19689,
+  "estimatedCost": 0.005961,
+  "thought": "**Identifying the New Administrative Unit for Xã Bình Đức, Huyện Châu Thành, Tỉnh Tiền Giang**\n\nOkay, let's break this down systematically. I need to figure out the current administrative location for the old ward \"Xã Bình Đức\" in \"Huyện Châu Thành, Tỉnh Tiền Giang\". First, I know that \"Tỉnh Tiền Giang\" was merged, so that's key. Looking at the province merger resolutions, I see that it merged with \"Đồng Tháp.\" That's the new province, so I'm now looking for mentions of \"Xã Bình Đức\" within resolutions related to Đồng Tháp.\n\nI started with the available resolutions, carefully scanning for references to \"Xã Bình Đức\" or relevant context (like \"Huyện Châu Thành\" or \"Tỉnh Tiền Giang\").  I quickly ruled out several resolutions from other provinces. Finally, I hit paydirt with Resolution 1663/NQ-UBTVQH15, concerning Đồng Tháp. Specifically, line 64 jumps out: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Song Thuận, Bình Đức và Kim Sơn thành xã mới có tên gọi là **xã Kim Sơn**.\" Bingo! \"Xã Bình Đức\" is mentioned in the context of the new province, and it's being merged into \"Xã Kim Sơn\".\n\nJust to be thorough, I continued to check the remaining resolutions, but found no further relevant matches. The other \"Bình Đức\" I found was in a different province/district context. I'm confident about this match.\n\nTherefore, the new ward is \"Xã Kim Sơn\" within \"Tỉnh Đồng Tháp\". This is a high-confidence match because the resolution directly addresses the merger. I'll package this into the requested JSON array:\n\n```json\n[\n  {\n    \"province_name\": \"Tỉnh Đồng Tháp\",\n    \"ward_name\": \"Xã Kim Sơn\",\n    \"ward_code\": \"28582\",\n    \"confidence\": \"high\",\n    \"citation\": {\n      \"header\": \"1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp\",\n      \"line\": \"64. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Song Thuận, Bình Đức và Kim Sơn thành xã mới có tên gọi là **xã Kim Sơn**.\"\n    }\n  }\n]\n```\nThat should be the correct output.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "64. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Song Thuận, Bình Đức và Kim Sơn thành xã mới có tên gọi là **xã Kim Sơn**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "28582",
+      "ward_name": "Xã Kim Sơn"
+    }
+  ]
+}

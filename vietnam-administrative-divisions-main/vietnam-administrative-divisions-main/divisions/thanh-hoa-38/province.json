@@ -1,0 +1,33 @@
+{
+  "id": "38",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Thanh Hóa",
+    "en": "Thanh Hoa",
+    "slug": "thanh-hoa-38"
+  },
+  "code": {
+    "id": "38",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 166
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.047",
+    "lon": "105.317"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/thanh-hoa-38/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

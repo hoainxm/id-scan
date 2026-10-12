@@ -1,0 +1,18 @@
+{
+  "address": "Xã Đông Sơn, Huyện Yên Thế, Tỉnh Bắc Giang",
+  "ellapsedInMs": 16808,
+  "estimatedCost": 0.0091085,
+  "thought": "**Identifying the New Administrative Unit for Xã Đông Sơn, Huyện Yên Thế, Tỉnh Bắc Giang**\n\nMy initial task is to pin down the new administrative unit for the old ward \"Xã Đông Sơn, Huyện Yên Thế, Tỉnh Bắc Giang\".  I need to scour the resolutions, particularly the \"Other resolutions\" section, focusing on those that touch upon \"Xã Đông Sơn\" and consider the relevant province merger. Since Bắc Giang merged with Bắc Ninh (per 60-NQ/TW), I need to filter for references to either.\n\nThe process unfolded as follows:\n\n1.  **Province Merge Check**:  I confirmed that \"Tỉnh Bắc Giang\" is now part of \"Tỉnh Bắc Ninh\" based on resolution 60-NQ/TW. This means my search needs to include both provinces.\n2.  **Resolution Scan**: I meticulously went through the \"Other resolutions\", focusing on the ones that dealt with administrative restructuring. The goal was to find a match for \"Xã Đông Sơn\".\n3.  **Key Finding**:  Resolution 1658/NQ-UBTVQH15 stood out. It's about restructuring in \"Tỉnh Bắc Ninh,\" and specifically line 52 states: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Bố Hạ, xã Đông Sơn và xã Hương Vĩ thành xã mới có tên gọi là **xã Bố Hạ**.\"\n    *   This directly names \"Xã Đông Sơn\" within the context of \"Tỉnh Bắc Ninh\" (which now encompasses Bắc Giang). This is the key piece of information.\n    *   The resolution implicitly links \"Xã Đông Sơn, Huyện Yên Thế, Tỉnh Bắc Giang\" with \"Xã Bố Hạ.\" While the resolution doesn't explicitly state \"huyện Yên Thế\" for \"xã Đông Sơn\", the context makes this connection clear.\n\n4.  **Verification**: After reviewing the \"New Wards\" list for \"Tỉnh Bắc Ninh,\" I found \"Xã Bố Hạ\" with a corresponding ward code, confirming the match.\n\n**Conclusion**: The new administrative unit for \"Xã Đông Sơn, Huyện Yên Thế, Tỉnh Bắc Giang\" is \"Xã Bố Hạ,\" as per resolution 1658/NQ-UBTVQH15, line 52.  The relevant ward code is 07294, according to the \"New Wards\" list. My analysis suggests a very high degree of confidence in this conclusion.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1658/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Bắc Ninh",
+        "line": "52. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Bố Hạ, xã Đông Sơn và xã Hương Vĩ thành xã mới có tên gọi là xã Bố Hạ."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Bắc Ninh",
+      "ward_code": "07294",
+      "ward_name": "Xã Bố Hạ"
+    }
+  ]
+}

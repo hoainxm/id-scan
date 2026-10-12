@@ -1,0 +1,21 @@
+# Bình An (Binh An)
+
+[Home](../../../) &gt; [Dong Nai](../) > **Binh An**
+
+Bình An (Binh An) is a commune/ward in Vietnam, under Dong Nai.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | 26389 |
+| Coordinates | 10.927, 106.853 |
+| Parent | Dong Nai |
+
+## Data Files
+
+- [ward.json](ward.json) — Commune/Ward metadata
+
+---
+
+<- Back to [Dong Nai](../)

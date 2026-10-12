@@ -1,0 +1,18 @@
+{
+  "address": "Thị trấn N.T Phong Hải, Huyện Bảo Thắng, Tỉnh Lào Cai",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1673/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lào Cai",
+        "line": "41. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Nông trường Phong Hải và xã Bản Cầm thành xã mới có tên gọi là xã Phong Hải."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lào Cai",
+      "ward_code": "02902",
+      "ward_name": "Xã Phong Hải"
+    }
+  ]
+}

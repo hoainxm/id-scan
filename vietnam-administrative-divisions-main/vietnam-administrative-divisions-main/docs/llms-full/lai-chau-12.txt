@@ -1,0 +1,199 @@
+# Lai Chau — Vietnam Administrative Divisions
+
+> 38 commune/wards
+> Code: 12
+> Coordinates: 22.318, 103.185
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Bản Bo (Ban Bo)
+
+Code: 03424, Coordinates: 22.486, 102.623
+
+
+### Bình Lư (Binh Lu)
+
+Code: 03390, Coordinates: 22.318, 103.643
+
+
+### Bum Nưa (Bum Nua)
+
+Code: 03466, Coordinates: 22.374, 102.847
+
+
+### Bum Tở (Bum To)
+
+Code: 03433, Coordinates: 22.415, 102.735
+
+
+### Dào San (Dao San)
+
+Code: 03571, Coordinates: 22.672, 103.361
+
+
+### Đoàn Kết (Doan Ket)
+
+Code: 03388, Coordinates: 22.398, 103.456
+
+
+### Hồng Thu (Hong Thu)
+
+Code: 03508, Coordinates: 22.434, 103.281
+
+
+### Hua Bum
+
+Code: 03460, Coordinates: 22.394, 102.972
+
+
+### Khoen On
+
+Code: 03640, Coordinates: 21.771, 103.849
+
+
+### Khổng Lào (Khong Lao)
+
+Code: 03583, Coordinates: 22.543, 103.35
+
+
+### Khun Há (Khun Ha)
+
+Code: 03430, Coordinates: 22.262, 103.572
+
+
+### Lê Lợi (Le Loi)
+
+Code: 03487, Coordinates: 22.092, 103.156
+
+
+### Mù Cả (Mu Ca)
+
+Code: 03451, Coordinates: 22.51, 102.47
+
+
+### Mường Khoa (Muong Khoa)
+
+Code: 03601, Coordinates: 22.222, 103.717
+
+
+### Mường Kim (Muong Kim)
+
+Code: 03637, Coordinates: 21.882, 103.802
+
+
+### Mường Mô (Muong Mo)
+
+Code: 03472, Coordinates: 22.226, 102.939
+
+
+### Mường Tè (Muong Te)
+
+Code: 03445, Coordinates: 22.379, 102.809
+
+
+### Mường Than (Muong Than)
+
+Code: 03618, Coordinates: 22.023, 103.862
+
+
+### Nậm Cuổi (Nam Cuoi)
+
+Code: 03544, Coordinates: 22.075, 103.478
+
+
+### Nậm Hàng (Nam Hang)
+
+Code: 03434, Coordinates: 22.146, 103.049
+
+
+### Nậm Mạ (Nam Ma)
+
+Code: 03538, Coordinates: 22.304, 103.378
+
+
+### Nậm Sỏ (Nam So)
+
+Code: 03613, Coordinates: 22.522, 103.345
+
+
+### Nậm Tăm (Nam Tam)
+
+Code: 03517, Coordinates: 22.28, 103.399
+
+
+### Pa Tần (Pa Tan)
+
+Code: 03503, Coordinates: 22.464, 103.198
+
+
+### Pa Ủ (Pa U)
+
+Code: 03442, Coordinates: 22.585, 102.653
+
+
+### Pắc Ta (Pac Ta)
+
+Code: 03616, Coordinates: 22.108, 103.857
+
+
+### Phong Thổ (Phong Tho)
+
+Code: 03549, Coordinates: 22.614, 103.333
+
+
+### Pu Sam Cáp (Pu Sam Cap)
+
+Code: 03532, Coordinates: 22.229, 103.496
+
+
+### Sì Lở Lầu (Si Lo Lau)
+
+Code: 03562, Coordinates: 22.763, 103.328
+
+
+### Sìn Hồ (Sin Ho)
+
+Code: 03478, Coordinates: 22.251, 103.353
+
+
+### Sin Suối Hồ (Sin Suoi Ho)
+
+Code: 03394, Coordinates: 22.52, 103.495
+
+
+### Tả Lèng (Ta Leng)
+
+Code: 03405, Coordinates: 22.402, 103.561
+
+
+### Tà Tổng (Ta Tong)
+
+Code: 03463, Coordinates: 22.377, 102.655
+
+
+### Tân Phong (Tan Phong)
+
+Code: 03408, Coordinates: 22.389, 103.466
+
+
+### Tân Uyên (Tan Uyen)
+
+Code: 03598, Coordinates: 22.126, 103.745
+
+
+### Than Uyên (Than Uyen)
+
+Code: 03595, Coordinates: 21.884, 103.802
+
+
+### Thu Lũm (Thu Lum)
+
+Code: 03439, Coordinates: 22.703, 102.459
+
+
+### Tủa Sín Chải (Tua Sin Chai)
+
+Code: 03529, Coordinates: 22.19, 103.275
+
+

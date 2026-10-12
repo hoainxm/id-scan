@@ -1,0 +1,18 @@
+{
+  "address": "Xã Nàn Xín, Huyện Si Ma Cai, Tỉnh Lào Cai",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1673/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lào Cai",
+        "line": "81. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bản Mế, Thào Chư Phìn, Nàn Sín và Sín Chéng thành xã mới có tên gọi là xã Sín Chéng."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lào Cai",
+      "ward_code": "02824",
+      "ward_name": "Xã Sín Chéng"
+    }
+  ]
+}

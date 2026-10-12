@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tân Thạnh, Huyện Tân Phú Đông, Tỉnh Tiền Giang",
+  "ellapsedInMs": 19276,
+  "estimatedCost": 0.0082115,
+  "thought": "**Analysis of Ward Restructuring: \"Xã Tân Thạnh, Huyện Tân Phú Đông, Tỉnh Tiền Giang\"**\n\nOkay, here's how I'm approaching this. First, the old information: \"Xã Tân Thạnh\" within \"Huyện Tân Phú Đông\" in \"Tỉnh Tiền Giang.\" My initial move is to determine the new province, and that means looking at province mergers. The key resolution, `60-NQ/TW`, tells me that \"Tiền Giang\" merged with \"Đồng Tháp,\" becoming \"Tỉnh Đồng Tháp.\"  This fundamentally shifts where I need to search.\n\nWith the new province established, I zeroed in on resolutions concerning \"Tỉnh Đồng Tháp\". My focus is on finding restructuring actions affecting \"Tân Thạnh\" and \"Tân Phú Đông.\" After a close examination of multiple resolutions, the crucial one emerged: `1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp`.  I painstakingly scrutinized each line, and finally, there it was! Line 81 was the key: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tân Phú và xã Tân Thạnh (huyện Tân Phú Đông), xã Tân Thới thành xã mới có tên gọi là **xã Tân Thới**.\" This is a direct match, precisely what I was looking for.\n\nConfirming the resolution, I double-checked the \"New wards\" list for \"Xã Tân Thới\" in \"Tỉnh Đồng Tháp\" and found a corresponding entry with code \"28693.\" The mapping is straightforward: the old \"Xã Tân Thạnh\" (Huyện Tân Phú Đông, Tỉnh Tiền Giang) is now \"Xã Tân Thới\" (Tỉnh Đồng Tháp), with a high confidence level due to the clear and unambiguous resolution text. I feel confident about my JSON output.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "81. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tân Phú và xã Tân Thạnh (huyện Tân Phú Đông), xã Tân Thới thành xã mới có tên gọi là **xã Tân Thới**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "28693",
+      "ward_name": "Xã Tân Thới"
+    }
+  ]
+}

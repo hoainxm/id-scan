@@ -1,0 +1,18 @@
+{
+  "address": "Xã Thuận Hưng, Huyện Long Mỹ, Tỉnh Hậu Giang",
+  "ellapsedInMs": 24737,
+  "estimatedCost": 0.0059912,
+  "thought": "**Analysis of \"Xã Thuận Hưng, Huyện Long Mỹ, Tỉnh Hậu Giang\"**\n\nOkay, so I need to find the new administrative unit for \"Xã Thuận Hưng\" in \"Huyện Long Mỹ\", part of the old \"Tỉnh Hậu Giang\".  First, I remember that \"Tỉnh Hậu Giang\" was merged into \"Thành phố Cần Thơ\" – that's crucial.  So, I start looking at resolutions related to Cần Thơ.\n\nI found `1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ`.  I'm scanning through this resolution, specifically looking for \"Thuận Hưng\".  Now, I see two possibilities:\n\n*   **Candidate 1 (High Confidence):** Line 50 of the resolution mentions merging \"Thuận Hưng\", \"Xà Phiên\", and \"Thuận Hòa (huyện Long Mỹ)\". That explicit \"huyện Long Mỹ\" reference is a strong indicator that this \"Thuận Hưng\" is *ours*. This led me to \"Xã Xà Phiên\" in the new wards list, confirmed by code `31495`. So, my top candidate is \"Xã Xà Phiên\" in Cần Thơ.  The resolution line is: \"50. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thuận Hòa (huyện Long Mỹ), Thuận Hưng và Xà Phiên thành xã mới có tên gọi là xã Xà Phiên.\"\n\n*   **Candidate 2 (Low Confidence):** Line 84 also mentions \"Thuận Hưng\" being merged into \"Xã Mỹ Hương\". However, the context is less clear.  It doesn't specify the district, so it's a bit of a wildcard.  This would be \"Xã Mỹ Hương\", with ward code `31591`, but I'm less sure. The line from the resolution is: \"84. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thuận Hưng, Phú Mỹ và Mỹ Hương thành xã mới có tên gọi là xã Mỹ Hương.\"\n\nTo be thorough, I've constructed my output, including both as potential options, acknowledging the confidence levels I have in each based on the clarity of their source context within the resolution.  It is very likely that \"Xã Xà Phiên\" is the more definitive choice.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "50. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thuận Hòa (huyện Long Mỹ), Thuận Hưng và Xà Phiên thành xã mới có tên gọi là xã Xà Phiên."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31495",
+      "ward_name": "Xã Xà Phiên"
+    }
+  ]
+}

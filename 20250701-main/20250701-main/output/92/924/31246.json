@@ -1,0 +1,18 @@
+{
+  "address": "Xã Thạnh Qưới, Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+  "ellapsedInMs": 16028,
+  "estimatedCost": 0.0049533,
+  "thought": "**Initial Assessment and Problem Identification**\n\nOkay, the user wants me to find the new administrative unit for \"Xã Thạnh Qưới, Huyện Vĩnh Thạnh, Thành phố Cần Thơ.\"  First, I break down the address: ward, district, and province. The province name \"Thành phố Cần Thơ\" is valid despite the previous mergers with Soc Trang and Hau Giang. Now, I need to consult the resolutions.\n\n**Analyzing the Resolutions**\n\nI quickly scan through the resolutions, focusing on those related to \"Thành phố Cần Thơ.\"  I find the relevant resolution: 1668/NQ-UBTVQH15. Here, I'm carefully reading the lines that mention \"Thạnh Qưới.\"\n\n**Ambiguity Discovered**\n\nI find two lines of particular interest, both mentioning \"Thạnh Qưới\" with a spelling variant (Thạnh Quới):\n\n*   Line 43:  States \"Thạnh Quới\" merged with Thạnh Tiến and Thạnh An, *forming a new xã named \"Thạnh Quới.\"*\n*   Line 66: States \"Thạnh Quới\" merged with Gia Hòa 2, *forming a new xã named \"Gia Hòa.\"*\n\nThis is where it gets tricky.  Both lines seem to describe the \"Thạnh Quới\" ward being part of two distinct mergers. This is a clear conflict.  It looks like there's an internal inconsistency. It's impossible to determine the final unit without more specific clarification. I need to flag this ambiguity for the user.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "43. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thạnh Tiến, Thạnh An và Thạnh Quới thành xã mới có tên gọi là **xã Thạnh Quới**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31246",
+      "ward_name": "Xã Thạnh Quới"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "68",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Lâm Đồng",
+    "en": "Lam Dong",
+    "slug": "lam-dong-68"
+  },
+  "code": {
+    "id": "68",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.674",
+    "lon": "107.968"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/lam-dong-68/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

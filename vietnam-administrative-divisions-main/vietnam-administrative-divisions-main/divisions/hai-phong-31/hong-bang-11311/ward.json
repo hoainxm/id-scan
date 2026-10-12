@@ -1,0 +1,45 @@
+{
+  "id": "11311",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hồng Bàng",
+    "en": "Hong Bang",
+    "slug": "hong-bang-11311"
+  },
+  "code": {
+    "id": "11311",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Hải Phòng",
+      "en": "Hai Phong",
+      "slug": "hai-phong-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Hải Phòng",
+        "en": "Hai Phong",
+        "slug": "hai-phong-31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.869",
+    "lon": "106.652"
+  },
+  "metadata": {},
+  "source": {}
+}

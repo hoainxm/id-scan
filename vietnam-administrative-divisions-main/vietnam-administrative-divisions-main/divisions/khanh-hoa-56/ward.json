@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "22828",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Anh Dũng",
+      "en": "Anh Dung",
+      "slug": "anh-dung-22828"
+    },
+    "code": {
+      "id": "22828",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.618",
+      "lon": "108.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22423",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Ngòi",
+      "en": "Ba Ngoi",
+      "slug": "ba-ngoi-22423"
+    },
+    "code": {
+      "id": "22423",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.912",
+      "lon": "109.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22795",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bác Ái",
+      "en": "Bac Ai",
+      "slug": "bac-ai-22795"
+    },
+    "code": {
+      "id": "22795",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.604",
+      "lon": "108.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22801",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bác Ái Đông",
+      "en": "Bac Ai Dong",
+      "slug": "bac-ai-dong-22801"
+    },
+    "code": {
+      "id": "22801",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.842",
+      "lon": "108.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22786",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bác Ái Tây",
+      "en": "Bac Ai Tay",
+      "slug": "bac-ai-tay-22786"
+    },
+    "code": {
+      "id": "22786",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.912",
+      "lon": "108.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22411",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Cam Ranh",
+      "en": "Bac Cam Ranh",
+      "slug": "bac-cam-ranh-22411"
+    },
+    "code": {
+      "id": "22411",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.959",
+      "lon": "109.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22615",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Khánh Vĩnh",
+      "en": "Bac Khanh Vinh",
+      "slug": "bac-khanh-vinh-22615"
+    },
+    "code": {
+      "id": "22615",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.417",
+      "lon": "108.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22333",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Nha Trang",
+      "en": "Bac Nha Trang",
+      "slug": "bac-nha-trang-22333"
+    },
+    "code": {
+      "id": "22333",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.281",
+      "lon": "109.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22546",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Ninh Hòa",
+      "en": "Bac Ninh Hoa",
+      "slug": "bac-ninh-hoa-22546"
+    },
+    "code": {
+      "id": "22546",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.492",
+      "lon": "109.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22741",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảo An",
+      "en": "Bao An",
+      "slug": "bao-an-22741"
+    },
+    "code": {
+      "id": "22741",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.578",
+      "lon": "108.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22909",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cà Ná",
+      "en": "Ca Na",
+      "slug": "ca-na-22909"
+    },
+    "code": {
+      "id": "22909",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.35",
+      "lon": "108.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22465",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam An",
+      "en": "Cam An",
+      "slug": "cam-an-22465"
+    },
+    "code": {
+      "id": "22465",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.995",
+      "lon": "109.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22435",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Hiệp",
+      "en": "Cam Hiep",
+      "slug": "cam-hiep-22435"
+    },
+    "code": {
+      "id": "22435",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.07",
+      "lon": "109.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22453",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Lâm",
+      "en": "Cam Lam",
+      "slug": "cam-lam-22453"
+    },
+    "code": {
+      "id": "22453",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.075",
+      "lon": "109.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22432",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Linh",
+      "en": "Cam Linh",
+      "slug": "cam-linh-22432"
+    },
+    "code": {
+      "id": "22432",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.907",
+      "lon": "109.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22420",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cam Ranh",
+      "en": "Cam Ranh",
+      "slug": "cam-ranh-22420"
+    },
+    "code": {
+      "id": "22420",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.918",
+      "lon": "109.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22840",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Công Hải",
+      "en": "Cong Hai",
+      "slug": "cong-hai-22840"
+    },
+    "code": {
+      "id": "22840",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.78",
+      "lon": "109.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22504",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Lãnh",
+      "en": "Dai Lanh",
+      "slug": "dai-lanh-22504"
+    },
+    "code": {
+      "id": "22504",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "109.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22657",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Điền",
+      "en": "Dien Dien",
+      "slug": "dien-dien-22657"
+    },
+    "code": {
+      "id": "22657",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.301",
+      "lon": "109.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22651",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Khánh",
+      "en": "Dien Khanh",
+      "slug": "dien-khanh-22651"
+    },
+    "code": {
+      "id": "22651",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.26",
+      "lon": "109.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22678",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Lạc",
+      "en": "Dien Lac",
+      "slug": "dien-lac-22678"
+    },
+    "code": {
+      "id": "22678",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.254",
+      "lon": "109.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22660",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Lâm",
+      "en": "Dien Lam",
+      "slug": "dien-lam-22660"
+    },
+    "code": {
+      "id": "22660",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.326",
+      "lon": "109.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22672",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Thọ",
+      "en": "Dien Tho",
+      "slug": "dien-tho-22672"
+    },
+    "code": {
+      "id": "22672",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "109.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22738",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đô Vinh",
+      "en": "Do Vinh",
+      "slug": "do-vinh-22738"
+    },
+    "code": {
+      "id": "22738",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.596",
+      "lon": "108.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22780",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hải",
+      "en": "Dong Hai",
+      "slug": "dong-hai-22780"
+    },
+    "code": {
+      "id": "22780",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.562",
+      "lon": "109.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22732",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Khánh Sơn",
+      "en": "Dong Khanh Son",
+      "slug": "dong-khanh-son-22732"
+    },
+    "code": {
+      "id": "22732",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.996",
+      "lon": "108.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22561",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Ninh Hòa",
+      "en": "Dong Ninh Hoa",
+      "slug": "dong-ninh-hoa-22561"
+    },
+    "code": {
+      "id": "22561",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.538",
+      "lon": "109.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22591",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Thắng",
+      "en": "Hoa Thang",
+      "slug": "hoa-thang-22591"
+    },
+    "code": {
+      "id": "22591",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.48",
+      "lon": "109.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22558",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Trí",
+      "en": "Hoa Tri",
+      "slug": "hoa-tri-22558"
+    },
+    "code": {
+      "id": "22558",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.601",
+      "lon": "109.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22714",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Sơn",
+      "en": "Khanh Son",
+      "slug": "khanh-son-22714"
+    },
+    "code": {
+      "id": "22714",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.038",
+      "lon": "108.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22609",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Vĩnh",
+      "en": "Khanh Vinh",
+      "slug": "khanh-vinh-22609"
+    },
+    "code": {
+      "id": "22609",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.176",
+      "lon": "108.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22813",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lâm Sơn",
+      "en": "Lam Son",
+      "slug": "lam-son-22813"
+    },
+    "code": {
+      "id": "22813",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.829",
+      "lon": "108.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22822",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Sơn",
+      "en": "My Son",
+      "slug": "my-son-22822"
+    },
+    "code": {
+      "id": "22822",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "108.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22480",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Cam Ranh",
+      "en": "Nam Cam Ranh",
+      "slug": "nam-cam-ranh-22480"
+    },
+    "code": {
+      "id": "22480",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "109.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22648",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Khánh Vĩnh",
+      "en": "Nam Khanh Vinh",
+      "slug": "nam-khanh-vinh-22648"
+    },
+    "code": {
+      "id": "22648",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.209",
+      "lon": "108.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22402",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Nha Trang",
+      "en": "Nam Nha Trang",
+      "slug": "nam-nha-trang-22402"
+    },
+    "code": {
+      "id": "22402",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.201",
+      "lon": "109.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22597",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Ninh Hòa",
+      "en": "Nam Ninh Hoa",
+      "slug": "nam-ninh-hoa-22597"
+    },
+    "code": {
+      "id": "22597",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.435",
+      "lon": "109.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22366",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nha Trang",
+      "en": "Nha Trang",
+      "slug": "nha-trang-22366"
+    },
+    "code": {
+      "id": "22366",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.208",
+      "lon": "109.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22834",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Chử",
+      "en": "Ninh Chu",
+      "slug": "ninh-chu-22834"
+    },
+    "code": {
+      "id": "22834",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.599",
+      "lon": "109.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22852",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Hải",
+      "en": "Ninh Hai",
+      "slug": "ninh-hai-22852"
+    },
+    "code": {
+      "id": "22852",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.652",
+      "lon": "109.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22528",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Hòa",
+      "en": "Ninh Hoa",
+      "slug": "ninh-hoa-22528"
+    },
+    "code": {
+      "id": "22528",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.548",
+      "lon": "109.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22870",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Phước",
+      "en": "Ninh Phuoc",
+      "slug": "ninh-phuoc-22870"
+    },
+    "code": {
+      "id": "22870",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.562",
+      "lon": "108.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22810",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ninh Sơn",
+      "en": "Ninh Son",
+      "slug": "ninh-son-22810"
+    },
+    "code": {
+      "id": "22810",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.607",
+      "lon": "109.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22759",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phan Rang",
+      "en": "Phan Rang",
+      "slug": "phan-rang-22759"
+    },
+    "code": {
+      "id": "22759",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.604",
+      "lon": "108.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22888",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Dinh",
+      "en": "Phuoc Dinh",
+      "slug": "phuoc-dinh-22888"
+    },
+    "code": {
+      "id": "22888",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "109.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22900",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Hà",
+      "en": "Phuoc Ha",
+      "slug": "phuoc-ha-22900"
+    },
+    "code": {
+      "id": "22900",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.482",
+      "lon": "108.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22873",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Hậu",
+      "en": "Phuoc Hau",
+      "slug": "phuoc-hau-22873"
+    },
+    "code": {
+      "id": "22873",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.572",
+      "lon": "108.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22891",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Hữu",
+      "en": "Phuoc Huu",
+      "slug": "phuoc-huu-22891"
+    },
+    "code": {
+      "id": "22891",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.524",
+      "lon": "108.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22708",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Suối Dầu",
+      "en": "Suoi Dau",
+      "slug": "suoi-dau-22708"
+    },
+    "code": {
+      "id": "22708",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.157",
+      "lon": "109.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22702",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Suối Hiệp",
+      "en": "Suoi Hiep",
+      "slug": "suoi-hiep-22702"
+    },
+    "code": {
+      "id": "22702",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.214",
+      "lon": "109.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22576",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Định",
+      "en": "Tan Dinh",
+      "slug": "tan-dinh-22576"
+    },
+    "code": {
+      "id": "22576",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.707",
+      "lon": "108.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22720",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Khánh Sơn",
+      "en": "Tay Khanh Son",
+      "slug": "tay-khanh-son-22720"
+    },
+    "code": {
+      "id": "22720",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.062",
+      "lon": "108.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22624",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Khánh Vĩnh",
+      "en": "Tay Khanh Vinh",
+      "slug": "tay-khanh-vinh-22624"
+    },
+    "code": {
+      "id": "22624",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.308",
+      "lon": "108.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22390",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Nha Trang",
+      "en": "Tay Nha Trang",
+      "slug": "tay-nha-trang-22390"
+    },
+    "code": {
+      "id": "22390",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.268",
+      "lon": "109.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22552",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Ninh Hòa",
+      "en": "Tay Ninh Hoa",
+      "slug": "tay-ninh-hoa-22552"
+    },
+    "code": {
+      "id": "22552",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.032",
+      "lon": "105.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22849",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Bắc",
+      "en": "Thuan Bac",
+      "slug": "thuan-bac-22849"
+    },
+    "code": {
+      "id": "22849",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.726",
+      "lon": "109.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22897",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Nam",
+      "en": "Thuan Nam",
+      "slug": "thuan-nam-22897"
+    },
+    "code": {
+      "id": "22897",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.469",
+      "lon": "108.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22612",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Khánh Vĩnh",
+      "en": "Trung Khanh Vinh",
+      "slug": "trung-khanh-vinh-22612"
+    },
+    "code": {
+      "id": "22612",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.284",
+      "lon": "108.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22736",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Sa",
+      "en": "Truong Sa",
+      "slug": "truong-sa-22736"
+    },
+    "code": {
+      "id": "22736",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.645",
+      "lon": "111.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22498",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tu Bông",
+      "en": "Tu Bong",
+      "slug": "tu-bong-22498"
+    },
+    "code": {
+      "id": "22498",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.778",
+      "lon": "109.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22525",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Hưng",
+      "en": "Van Hung",
+      "slug": "van-hung-22525"
+    },
+    "code": {
+      "id": "22525",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.652",
+      "lon": "109.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Ninh",
+      "en": "Van Ninh",
+      "slug": "van-ninh-22489"
+    },
+    "code": {
+      "id": "22489",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.716",
+      "lon": "109.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22516",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Thắng",
+      "en": "Van Thang",
+      "slug": "van-thang-22516"
+    },
+    "code": {
+      "id": "22516",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.25",
+      "lon": "109.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22846",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hải",
+      "en": "Vinh Hai",
+      "slug": "vinh-hai-22846"
+    },
+    "code": {
+      "id": "22846",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.668",
+      "lon": "109.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22861",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hải",
+      "en": "Xuan Hai",
+      "slug": "xuan-hai-22861"
+    },
+    "code": {
+      "id": "22861",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "Khánh Hòa",
+          "en": "Khanh Hoa",
+          "slug": "khanh-hoa-56"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.65",
+      "lon": "109.007"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

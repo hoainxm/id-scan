@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "03301",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Búng Lao",
+      "en": "Bung Lao",
+      "slug": "bung-lao-03301"
+    },
+    "code": {
+      "id": "03301",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.546",
+      "lon": "103.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03175",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chà Tở",
+      "en": "Cha To",
+      "slug": "cha-to-03175"
+    },
+    "code": {
+      "id": "03175",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.99",
+      "lon": "102.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03283",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chiềng Sinh",
+      "en": "Chieng Sinh",
+      "slug": "chieng-sinh-03283"
+    },
+    "code": {
+      "id": "03283",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.61",
+      "lon": "103.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03127",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điện Biên Phủ",
+      "en": "Dien Bien Phu",
+      "slug": "dien-bien-phu-03127"
+    },
+    "code": {
+      "id": "03127",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.49",
+      "lon": "103.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03256",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Ảng",
+      "en": "Muong Ang",
+      "slug": "muong-ang-03256"
+    },
+    "code": {
+      "id": "03256",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.527",
+      "lon": "103.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03166",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Chà",
+      "en": "Muong Cha",
+      "slug": "muong-cha-03166"
+    },
+    "code": {
+      "id": "03166",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.827",
+      "lon": "103.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03313",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lạn",
+      "en": "Muong Lan",
+      "slug": "muong-lan-03313"
+    },
+    "code": {
+      "id": "03313",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.451",
+      "lon": "103.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03151",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lay",
+      "en": "Muong Lay",
+      "slug": "muong-lay-03151"
+    },
+    "code": {
+      "id": "03151",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.031",
+      "lon": "103.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03214",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Luân",
+      "en": "Muong Luan",
+      "slug": "muong-luan-03214"
+    },
+    "code": {
+      "id": "03214",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.247",
+      "lon": "103.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03268",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Mùn",
+      "en": "Muong Mun",
+      "slug": "muong-mun-03268"
+    },
+    "code": {
+      "id": "03268",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.725",
+      "lon": "103.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03368",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Nhà",
+      "en": "Muong Nha",
+      "slug": "muong-nha-03368"
+    },
+    "code": {
+      "id": "03368",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.127",
+      "lon": "103.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03160",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Nhé",
+      "en": "Muong Nhe",
+      "slug": "muong-nhe-03160"
+    },
+    "code": {
+      "id": "03160",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.264",
+      "lon": "102.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03325",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Phăng",
+      "en": "Muong Phang",
+      "slug": "muong-phang-03325"
+    },
+    "code": {
+      "id": "03325",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.449",
+      "lon": "103.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03202",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Pồn",
+      "en": "Muong Pon",
+      "slug": "muong-pon-03202"
+    },
+    "code": {
+      "id": "03202",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.587",
+      "lon": "103.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03334",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Thanh",
+      "en": "Muong Thanh",
+      "slug": "muong-thanh-03334"
+    },
+    "code": {
+      "id": "03334",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.387",
+      "lon": "103.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03163",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Toong",
+      "en": "Muong Toong",
+      "slug": "muong-toong-03163"
+    },
+    "code": {
+      "id": "03163",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.157",
+      "lon": "102.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03181",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Tùng",
+      "en": "Muong Tung",
+      "slug": "muong-tung-03181"
+    },
+    "code": {
+      "id": "03181",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.952",
+      "lon": "103.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03176",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nà Bủng",
+      "en": "Na Bung",
+      "slug": "na-bung-03176"
+    },
+    "code": {
+      "id": "03176",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.726",
+      "lon": "102.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03169",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nà Hỳ",
+      "en": "Na Hy",
+      "slug": "na-hy-03169"
+    },
+    "code": {
+      "id": "03169",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.833",
+      "lon": "102.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03172",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Na Sang",
+      "en": "Na Sang",
+      "slug": "na-sang-03172"
+    },
+    "code": {
+      "id": "03172",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.759",
+      "lon": "103.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03203",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Na Son",
+      "en": "Na Son",
+      "slug": "na-son-03203"
+    },
+    "code": {
+      "id": "03203",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.297",
+      "lon": "103.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03316",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nà Tấu",
+      "en": "Na Tau",
+      "slug": "na-tau-03316"
+    },
+    "code": {
+      "id": "03316",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.562",
+      "lon": "103.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03162",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Kè",
+      "en": "Nam Ke",
+      "slug": "nam-ke-03162"
+    },
+    "code": {
+      "id": "03162",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.062",
+      "lon": "102.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03194",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nậm Nèn",
+      "en": "Nam Nen",
+      "slug": "nam-nen-03194"
+    },
+    "code": {
+      "id": "03194",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.804",
+      "lon": "103.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03358",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Núa Ngam",
+      "en": "Nua Ngam",
+      "slug": "nua-ngam-03358"
+    },
+    "code": {
+      "id": "03358",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.179",
+      "lon": "103.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03193",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pa Ham",
+      "en": "Pa Ham",
+      "slug": "pa-ham-03193"
+    },
+    "code": {
+      "id": "03193",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.931",
+      "lon": "103.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03382",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phình Giàng",
+      "en": "Phinh Giang",
+      "slug": "phinh-giang-03382"
+    },
+    "code": {
+      "id": "03382",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.125",
+      "lon": "103.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03370",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pu Nhi",
+      "en": "Pu Nhi",
+      "slug": "pu-nhi-03370"
+    },
+    "code": {
+      "id": "03370",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.346",
+      "lon": "103.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03260",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pú Nhung",
+      "en": "Pu Nhung",
+      "slug": "pu-nhung-03260"
+    },
+    "code": {
+      "id": "03260",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.723",
+      "lon": "103.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03295",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quài Tở",
+      "en": "Quai To",
+      "slug": "quai-to-03295"
+    },
+    "code": {
+      "id": "03295",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.542",
+      "lon": "103.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03164",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Lâm",
+      "en": "Quang Lam",
+      "slug": "quang-lam-03164"
+    },
+    "code": {
+      "id": "03164",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.986",
+      "lon": "102.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03356",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sam Mứn",
+      "en": "Sam Mun",
+      "slug": "sam-mun-03356"
+    },
+    "code": {
+      "id": "03356",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.207",
+      "lon": "102.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03244",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sáng Nhè",
+      "en": "Sang Nhe",
+      "slug": "sang-nhe-03244"
+    },
+    "code": {
+      "id": "03244",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.847",
+      "lon": "103.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03199",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Si Pa Phìn",
+      "en": "Si Pa Phin",
+      "slug": "si-pa-phin-03199"
+    },
+    "code": {
+      "id": "03199",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.81",
+      "lon": "102.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03226",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sín Chải",
+      "en": "Sin Chai",
+      "slug": "sin-chai-03226"
+    },
+    "code": {
+      "id": "03226",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.054",
+      "lon": "103.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03158",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sín Thầu",
+      "en": "Sin Thau",
+      "slug": "sin-thau-03158"
+    },
+    "code": {
+      "id": "03158",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.376",
+      "lon": "102.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03241",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sính Phình",
+      "en": "Sinh Phinh",
+      "slug": "sinh-phinh-03241"
+    },
+    "code": {
+      "id": "03241",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.944",
+      "lon": "103.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03352",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh An",
+      "en": "Thanh An",
+      "slug": "thanh-an-03352"
+    },
+    "code": {
+      "id": "03352",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.302",
+      "lon": "103.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03328",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Nưa",
+      "en": "Thanh Nua",
+      "slug": "thanh-nua-03328"
+    },
+    "code": {
+      "id": "03328",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.42",
+      "lon": "103.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03349",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Yên",
+      "en": "Thanh Yen",
+      "slug": "thanh-yen-03349"
+    },
+    "code": {
+      "id": "03349",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.306",
+      "lon": "102.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03385",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tìa Dình",
+      "en": "Tia Dinh",
+      "slug": "tia-dinh-03385"
+    },
+    "code": {
+      "id": "03385",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.141",
+      "lon": "103.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03217",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tủa Chùa",
+      "en": "Tua Chua",
+      "slug": "tua-chua-03217"
+    },
+    "code": {
+      "id": "03217",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.971",
+      "lon": "103.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03220",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tủa Thàng",
+      "en": "Tua Thang",
+      "slug": "tua-thang-03220"
+    },
+    "code": {
+      "id": "03220",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.032",
+      "lon": "103.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03253",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuần Giáo",
+      "en": "Tuan Giao",
+      "slug": "tuan-giao-03253"
+    },
+    "code": {
+      "id": "03253",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.646",
+      "lon": "103.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03208",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xa Dung",
+      "en": "Xa Dung",
+      "slug": "xa-dung-03208"
+    },
+    "code": {
+      "id": "03208",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Điện Biên",
+        "en": "Dien Bien",
+        "slug": "dien-bien-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Điện Biên",
+          "en": "Dien Bien",
+          "slug": "dien-bien-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.318",
+      "lon": "103.3"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

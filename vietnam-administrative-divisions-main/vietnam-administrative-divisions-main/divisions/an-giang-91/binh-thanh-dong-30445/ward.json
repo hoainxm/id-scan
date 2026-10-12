@@ -1,0 +1,45 @@
+{
+  "id": "30445",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Bình Thạnh Đông",
+    "en": "Binh Thanh Dong",
+    "slug": "binh-thanh-dong-30445"
+  },
+  "code": {
+    "id": "30445",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.553",
+    "lon": "105.285"
+  },
+  "metadata": {},
+  "source": {}
+}

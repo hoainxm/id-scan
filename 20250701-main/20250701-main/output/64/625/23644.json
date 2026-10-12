@@ -1,0 +1,18 @@
+{
+  "address": "Xã Đăk Roong, Huyện KBang, Tỉnh Gia Lai",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1664/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Gia Lai",
+        "line": "67. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Kon Pne và xã Đak Rong thành xã mới có tên gọi là xã Đak Rong."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Gia Lai",
+      "ward_code": "23644",
+      "ward_name": "Xã Đak Rong"
+    }
+  ]
+}

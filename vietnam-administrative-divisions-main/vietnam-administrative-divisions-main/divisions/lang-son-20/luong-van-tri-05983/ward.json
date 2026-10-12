@@ -1,0 +1,45 @@
+{
+  "id": "05983",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lương Văn Tri",
+    "en": "Luong Van Tri",
+    "slug": "luong-van-tri-05983"
+  },
+  "code": {
+    "id": "05983",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "Lạng Sơn",
+      "en": "Lang Son",
+      "slug": "lang-son-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "Lạng Sơn",
+        "en": "Lang Son",
+        "slug": "lang-son-20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.847",
+    "lon": "106.754"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "37",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Ninh Bình",
+    "en": "Ninh Binh",
+    "slug": "ninh-binh-37"
+  },
+  "code": {
+    "id": "37",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 129
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.312",
+    "lon": "106.046"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/ninh-binh-37/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "48",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Đà Nẵng",
+    "en": "Da Nang",
+    "slug": "da-nang-48"
+  },
+  "code": {
+    "id": "48",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 94
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.631",
+    "lon": "107.966"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/da-nang-48/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

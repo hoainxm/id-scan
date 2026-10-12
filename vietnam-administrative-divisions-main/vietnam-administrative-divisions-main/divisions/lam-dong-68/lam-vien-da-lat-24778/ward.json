@@ -1,0 +1,45 @@
+{
+  "id": "24778",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lâm Viên - Đà Lạt",
+    "en": "Lam Vien - Da Lat",
+    "slug": "lam-vien-da-lat-24778"
+  },
+  "code": {
+    "id": "24778",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.904",
+    "lon": "108.436"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Xá Tổng, Huyện Mường Chà, Tỉnh Điện Biên",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1661/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Điện Biên",
+        "line": "43. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Sông Đà, phường Na Lay, xã Lay Nưa và xã Sá Tổngthành phường mới có tên gọi là phường Mường Lay."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Điện Biên",
+      "ward_code": "03151",
+      "ward_name": "Phường Mường Lay"
+    }
+  ]
+}

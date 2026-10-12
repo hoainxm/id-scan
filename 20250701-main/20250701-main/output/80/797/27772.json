@@ -1,0 +1,38 @@
+{
+  "address": "Xã Thái Bình Trung, Huyện Vĩnh Hưng, Tỉnh Long An",
+  "ellapsedInMs": 12699,
+  "estimatedCost": 0.0069767,
+  "thought": "**Analyzing the Administrative Reorganization of \"Xã Thái Bình Trung, Huyện Vĩnh Hưng, Tỉnh Long An\"**\n\nOkay, here's how I'm approaching this: The user needs to find the new administrative units for \"Xã Thái Bình Trung, Huyện Vĩnh Hưng, Tỉnh Long An.\" First, I identified \"Tỉnh Long An\" as the old province and immediately checked for relevant resolutions regarding province mergers. Resolution 60-NQ/TW states that Long An merged with Tây Ninh, creating \"Tỉnh Tây Ninh.\"\n\nNext, I focused on resolutions related to Tây Ninh. Resolution 1682/NQ-UBTVQH15, concerning the rearrangement of communes in Tây Ninh, looked promising. I examined it closely, particularly for mentions of \"Xã Thái Bình Trung\" or \"Huyện Vĩnh Hưng.\"  The old district name might still appear in ward descriptions, even if districts are being eliminated.\n\nAnalyzing Resolution 1682/NQ-UBTVQH15 was key. It explicitly stated that *portions* of \"Xã Thái Bình Trung\" were absorbed into *three* new communes: \"Xã Tuyên Bình,\" \"Xã Vĩnh Hưng,\" and \"Xã Khánh Hưng.\"  The language (\"một phần diện tích,\" \"phần còn lại\") clearly indicates a split. My confidence is high here because the old ward's name is directly mentioned in each relevant section.\n\nI then cross-referenced these identified new communes with the \"New wards\" list to confirm their codes. The matches were perfect. The final output is a JSON array, meticulously detailing each new commune, its citation from the resolution, the confidence level (high), and the relevant codes and province (\"Tỉnh Tây Ninh\").  Essentially, \"Xã Thái Bình Trung\" is now divided between three new wards: \"Xã Tuyên Bình,\" \"Xã Vĩnh Hưng,\" and \"Xã Khánh Hưng\" all located in the new province of \"Tỉnh Tây Ninh.\"\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1682/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tây Ninh",
+        "line": "5. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tuyên Bình, xã Tuyên Bình Tây và một phần diện tích tự nhiên, quy mô dân số của các xã Vĩnh Bình, Vĩnh Thuận, Thái Bình Trung thành xã mới có tên gọi là xã Tuyên Bình."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Tây Ninh",
+      "ward_code": "27775",
+      "ward_name": "Xã Tuyên Bình"
+    },
+    {
+      "citation": {
+        "header": "1682/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tây Ninh",
+        "line": "6. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Vĩnh Hưng, một phần diện tích tự nhiên, quy mô dân số các xã Vĩnh Trị, Thái Trị, Khánh Hưng, Thái Bình Trung và phần còn lại của các xã Vĩnh Thuận, Vĩnh Bình sau khi sắp xếp theo quy định tại khoản 5 Điều này thành xã mới có tên gọi là xã Vĩnh Hưng."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Tây Ninh",
+      "ward_code": "27757",
+      "ward_name": "Xã Vĩnh Hưng"
+    },
+    {
+      "citation": {
+        "header": "1682/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tây Ninh",
+        "line": "7. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hưng Điền A, phần còn lại của xã Thái Bình Trung sau khi sắp xếp theo quy định tại khoản 5 và khoản 6 Điều này và phần còn lại của các xã Vĩnh Trị, Thái Trị, Khánh Hưng sau khi sắp xếp theo quy định tại khoản 6 Điều này thành xã mới có tên gọi là xã Khánh Hưng."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Tây Ninh",
+      "ward_code": "27763",
+      "ward_name": "Xã Khánh Hưng"
+    }
+  ]
+}

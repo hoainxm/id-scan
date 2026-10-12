@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phước Hưng, Huyện Long Đất, Tỉnh Bà Rịa - Vũng Tàu",
+  "ellapsedInMs": 29480,
+  "estimatedCost": 0.0073972000000000005,
+  "thought": "**Determining the Fate of \"Xã Phước Hưng, Huyện Long Đất, Tỉnh Bà Rịa - Vũng Tàu\"**\n\nAlright, let's see where this ward ended up. First, I know \"Tỉnh Bà Rịa - Vũng Tàu\" became part of \"Thành phố Hồ Chí Minh.\" So, any new ward will be in that province. I started by scanning the available resolutions. 1654, 1664, 1668, and 1687 were quickly dismissed as they mentioned provinces other than the one I needed (or didn't directly address the ward's name).\n\n**Resolution 1685/NQ-UBTVQH15 (Thành phố Hồ Chí Minh)** caught my attention. It’s for the correct province, but I had to investigate closely.  There were two potentially relevant lines: line 107 and line 149.\n\n*   **Line 107** mentions \"phường Phước Hưng\" being merged into \"phường Bà Rịa\". The original ward is a \"xã\". Could these be the same?  Possibly, but they are different administrative types (phường vs. xã) and they are in the city of Bà Rịa, not the Long Đất district where the original ward resides.  So, I marked this as *low confidence*.  It's a possible match but not likely.\n\n*   **Line 149** was a much better fit. It clearly states that  \"xã Phước Hưng\" along with \"thị trấn Long Hải\" and \"xã Phước Tỉnh\" were merged to form \"xã Long Hải\".  Excellent. This is what I was looking for! The ward type matches, and all units were in the same district, Long Đất.  This *high-confidence* match.\n\nSo, the original \"Xã Phước Hưng\" is now part of \"Xã Long Hải.\" I'll also add \"Phường Bà Rịa\" as a *low-confidence* possibility given line 107.\n\nThe final JSON structure I'll create includes both possibilities, each with the resolution line and confidence level. This way, the data is complete, and the reasoning is clear.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "149. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Long Hải, xã Phước Tỉnh và xã Phước Hưng thành xã mới có tên gọi là xã Long Hải."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "26662",
+      "ward_name": "Xã Long Hải"
+    }
+  ]
+}

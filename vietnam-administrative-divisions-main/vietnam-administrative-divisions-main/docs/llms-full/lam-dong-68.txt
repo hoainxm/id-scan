@@ -1,0 +1,629 @@
+# Lam Dong — Vietnam Administrative Divisions
+
+> 124 commune/wards
+> Code: 68
+> Coordinates: 11.674, 107.968
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### 1 Bảo Lộc (1 Bao Loc)
+
+Code: 24823, Coordinates: 11.549, 107.809
+
+
+### 2 Bảo Lộc (2 Bao Loc)
+
+Code: 24820, Coordinates: 11.549, 107.809
+
+
+### 3 Bảo Lộc (3 Bao Loc)
+
+Code: 24841, Coordinates: 11.549, 107.809
+
+
+### B&#39;Lao
+
+Code: 24829, Coordinates: 11.533, 107.815
+
+
+### Bắc Bình (Bac Binh)
+
+Code: 23005, Coordinates: 11.262, 108.363
+
+
+### Bắc Gia Nghĩa (Bac Gia Nghia)
+
+Code: 24611, Coordinates: 12.011, 107.712
+
+
+### Bắc Ruộng (Bac Ruong)
+
+Code: 23152, Coordinates: 11.266, 107.746
+
+
+### Bảo Lâm 1 (Bao Lam 1)
+
+Code: 25054, Coordinates: 11.626, 107.83
+
+
+### Bảo Lâm 2 (Bao Lam 2)
+
+Code: 25084, Coordinates: 11.626, 107.83
+
+
+### Bảo Lâm 3 (Bao Lam 3)
+
+Code: 25093, Coordinates: 11.626, 107.834
+
+
+### Bảo Lâm 4 (Bao Lam 4)
+
+Code: 25063, Coordinates: 11.626, 107.83
+
+
+### Bảo Lâm 5 (Bao Lam 5)
+
+Code: 25057, Coordinates: 11.626, 107.83
+
+
+### Bảo Thuận (Bao Thuan)
+
+Code: 25018, Coordinates: 11.492, 108.142
+
+
+### Bình Thuận (Binh Thuan)
+
+Code: 22960, Coordinates: 10.969, 108.003
+
+
+### Cam Ly - Đà Lạt (Cam Ly - Da Lat)
+
+Code: 24787, Coordinates: 11.955, 108.431
+
+
+### Cát Tiên (Cat Tien)
+
+Code: 25159, Coordinates: 11.585, 107.36
+
+
+### Cát Tiên 2 (Cat Tien 2)
+
+Code: 25180, Coordinates: 11.585, 107.36
+
+
+### Cát Tiên 3 (Cat Tien 3)
+
+Code: 25162, Coordinates: 11.585, 107.36
+
+
+### Cư Jút (Cu Jut)
+
+Code: 24640, Coordinates: 12.68, 107.771
+
+
+### D&#39;Ran
+
+Code: 24934, Coordinates: 11.843, 108.598
+
+
+### Đạ Huoai (Da Huoai)
+
+Code: 25099, Coordinates: 11.389, 107.546
+
+
+### Đạ Huoai 2 (Da Huoai 2)
+
+Code: 25105, Coordinates: 11.599, 107.743
+
+
+### Đạ Huoai 3 (Da Huoai 3)
+
+Code: 25114, Coordinates: 11.389, 107.546
+
+
+### Đạ Tẻh (Da Teh)
+
+Code: 25126, Coordinates: 11.507, 107.486
+
+
+### Đạ Tẻh 2 (Da Teh 2)
+
+Code: 25138, Coordinates: 11.507, 107.486
+
+
+### Đạ Tẻh 3 (Da Teh 3)
+
+Code: 25135, Coordinates: 11.507, 107.486
+
+
+### Đắk Mil (Dak Mil)
+
+Code: 24670, Coordinates: 12.449, 107.621
+
+
+### Đắk Sắk (Dak Sak)
+
+Code: 24678, Coordinates: 12.425, 107.69
+
+
+### Đắk Song (Dak Song)
+
+Code: 24718, Coordinates: 12.233, 107.62
+
+
+### Đắk Wil (Dak Wil)
+
+Code: 24646, Coordinates: 12.708, 107.73
+
+
+### Đam Rông 1 (Dam Rong 1)
+
+Code: 24886, Coordinates: 12.062, 108.148
+
+
+### Đam Rông 2 (Dam Rong 2)
+
+Code: 24877, Coordinates: 12.062, 108.148
+
+
+### Đam Rông 3 (Dam Rong 3)
+
+Code: 24875, Coordinates: 12.062, 108.148
+
+
+### Đam Rông 4 (Dam Rong 4)
+
+Code: 24853, Coordinates: 12.062, 108.148
+
+
+### Di Linh
+
+Code: 25000, Coordinates: 11.582, 108.076
+
+
+### Đinh Trang Thượng (Dinh Trang Thuong)
+
+Code: 25007, Coordinates: 11.716, 107.99
+
+
+### Đinh Văn Lâm Hà (Dinh Van Lam Ha)
+
+Code: 24871, Coordinates: 11.78, 108.262
+
+
+### Đơn Dương (Don Duong)
+
+Code: 24931, Coordinates: 11.806, 108.539
+
+
+### Đông Gia Nghĩa (Dong Gia Nghia)
+
+Code: 24617, Coordinates: 11.96, 107.729
+
+
+### Đông Giang (Dong Giang)
+
+Code: 23074, Coordinates: 11.25, 108.012
+
+
+### Đồng Kho (Dong Kho)
+
+Code: 23173, Coordinates: 11.172, 107.752
+
+
+### Đức An (Duc An)
+
+Code: 24717, Coordinates: 12.252, 107.612
+
+
+### Đức Lập (Duc Lap)
+
+Code: 24664, Coordinates: 12.544, 107.879
+
+
+### Đức Linh (Duc Linh)
+
+Code: 23191, Coordinates: 11.195, 107.534
+
+
+### Đức Trọng (Duc Trong)
+
+Code: 24958, Coordinates: 11.695, 108.318
+
+
+### Gia Hiệp (Gia Hiep)
+
+Code: 25015, Coordinates: 11.511, 108.226
+
+
+### Hải Ninh (Hai Ninh)
+
+Code: 23020, Coordinates: 11.314, 108.503
+
+
+### Hàm Kiệm (Ham Kiem)
+
+Code: 23128, Coordinates: 10.903, 107.965
+
+
+### Hàm Liêm (Ham Liem)
+
+Code: 23095, Coordinates: 11.027, 108.067
+
+
+### Hàm Tân (Ham Tan)
+
+Code: 23236, Coordinates: 10.814, 107.895
+
+
+### Hàm Thắng (Ham Thang)
+
+Code: 22933, Coordinates: 10.947, 108.107
+
+
+### Hàm Thạnh (Ham Thanh)
+
+Code: 23122, Coordinates: 11.052, 107.921
+
+
+### Hàm Thuận (Ham Thuan)
+
+Code: 23059, Coordinates: 10.814, 107.895
+
+
+### Hàm Thuận Bắc (Ham Thuan Bac)
+
+Code: 23089, Coordinates: 11.155, 108.099
+
+
+### Hàm Thuận Nam (Ham Thuan Nam)
+
+Code: 23110, Coordinates: 10.814, 107.895
+
+
+### Hiệp Thạnh (Hiep Thanh)
+
+Code: 24967, Coordinates: 11.779, 108.396
+
+
+### Hòa Bắc (Hoa Bac)
+
+Code: 25042, Coordinates: 11.424, 107.948
+
+
+### Hòa Ninh (Hoa Ninh)
+
+Code: 25036, Coordinates: 11.557, 107.95
+
+
+### Hòa Thắng (Hoa Thang)
+
+Code: 23053, Coordinates: 11.099, 108.395
+
+
+### Hoài Đức (Hoai Duc)
+
+Code: 23194, Coordinates: 11.163, 107.488
+
+
+### Hồng Sơn (Hong Son)
+
+Code: 23086, Coordinates: 11.121, 108.236
+
+
+### Hồng Thái (Hong Thai)
+
+Code: 23041, Coordinates: 11.207, 108.448
+
+
+### Ka Đô (Ka Do)
+
+Code: 24943, Coordinates: 11.743, 108.572
+
+
+### Kiến Đức (Kien Duc)
+
+Code: 24733, Coordinates: 11.995, 107.511
+
+
+### Krông Nô (Krong No)
+
+Code: 24688, Coordinates: 12.37, 107.822
+
+
+### La Dạ (La Da)
+
+Code: 23065, Coordinates: 11.955, 108.431
+
+
+### La Gi
+
+Code: 23235, Coordinates: 10.714, 107.802
+
+
+### Lạc Dương (Lac Duong)
+
+Code: 24848, Coordinates: 12.009, 108.419
+
+
+### Lâm Viên - Đà Lạt (Lam Vien - Da Lat)
+
+Code: 24778, Coordinates: 11.904, 108.436
+
+
+### Lang Biang - Đà Lạt (Lang Biang - Da Lat)
+
+Code: 24846, Coordinates: 11.945, 108.435
+
+
+### Liên Hương (Lien Huong)
+
+Code: 22969, Coordinates: 11.225, 108.733
+
+
+### Lương Sơn (Luong Son)
+
+Code: 23032, Coordinates: 11.194, 108.367
+
+
+### Mũi Né (Mui Ne)
+
+Code: 22918, Coordinates: 10.972, 108.266
+
+
+### Nam Ban Lâm Hà (Nam Ban Lam Ha)
+
+Code: 24868, Coordinates: 11.825, 108.337
+
+
+### Nam Đà (Nam Da)
+
+Code: 24697, Coordinates: 11.931, 108.425
+
+
+### Nam Dong
+
+Code: 24649, Coordinates: 12.658, 107.868
+
+
+### Nam Gia Nghĩa (Nam Gia Nghia)
+
+Code: 24615, Coordinates: 11.996, 107.678
+
+
+### Nam Hà Lâm Hà (Nam Ha Lam Ha)
+
+Code: 24883, Coordinates: 11.022, 107.501
+
+
+### Nâm Nung (Nam Nung)
+
+Code: 24703, Coordinates: 12.329, 107.793
+
+
+### Nam Thành (Nam Thanh)
+
+Code: 23200, Coordinates: 12.478, 107.876
+
+
+### Nghị Đức (Nghi Duc)
+
+Code: 23158, Coordinates: 11.271, 107.681
+
+
+### Nhân Cơ (Nhan Co)
+
+Code: 24751, Coordinates: 11.958, 107.599
+
+
+### Ninh Gia
+
+Code: 24985, Coordinates: 11.611, 108.275
+
+
+### Phan Rí Cửa (Phan Ri Cua)
+
+Code: 22972, Coordinates: 11.173, 108.567
+
+
+### Phan Sơn (Phan Son)
+
+Code: 23008, Coordinates: 11.411, 108.433
+
+
+### Phan Thiết (Phan Thiet)
+
+Code: 22945, Coordinates: 10.903, 108.063
+
+
+### Phú Quý (Phu Quy)
+
+Code: 23272, Coordinates: 10.926, 108.099
+
+
+### Phú Sơn Lâm Hà (Phu Son Lam Ha)
+
+Code: 24895, Coordinates: 11.809, 108.224
+
+
+### Phú Thủy (Phu Thuy)
+
+Code: 22924, Coordinates: 10.932, 108.113
+
+
+### Phúc Thọ Lâm Hà (Phuc Tho Lam Ha)
+
+Code: 24907, Coordinates: 11.728, 108.159
+
+
+### Phước Hội (Phuoc Hoi)
+
+Code: 23231, Coordinates: 10.659, 107.775
+
+
+### Quảng Hòa (Quang Hoa)
+
+Code: 24620, Coordinates: 11.745, 108.519
+
+
+### Quảng Khê (Quang Khe)
+
+Code: 24631, Coordinates: 11.909, 107.796
+
+
+### Quảng Lập (Quang Lap)
+
+Code: 24955, Coordinates: 11.703, 108.531
+
+
+### Quảng Phú (Quang Phu)
+
+Code: 24712, Coordinates: 12.282, 107.933
+
+
+### Quảng Sơn (Quang Son)
+
+Code: 24616, Coordinates: 11.959, 107.534
+
+
+### Quảng Tân (Quang Tan)
+
+Code: 24748, Coordinates: 11.753, 108.51
+
+
+### Quảng Tín (Quang Tin)
+
+Code: 24760, Coordinates: 11.872, 107.461
+
+
+### Quảng Trực (Quang Truc)
+
+Code: 24736, Coordinates: 12.17, 107.317
+
+
+### Sơn Điền (Son Dien)
+
+Code: 25051, Coordinates: 11.344, 108.065
+
+
+### Sơn Mỹ (Son My)
+
+Code: 23266, Coordinates: 10.661, 107.689
+
+
+### Sông Lũy (Song Luy)
+
+Code: 23023, Coordinates: 11.219, 108.405
+
+
+### Suối Kiết (Suoi Kiet)
+
+Code: 23188, Coordinates: 10.952, 107.657
+
+
+### Tà Đùng (Ta Dung)
+
+Code: 24637, Coordinates: 11.889, 108.036
+
+
+### Tà Hine (Ta Hine)
+
+Code: 24991, Coordinates: 11.59, 108.345
+
+
+### Tà Năng (Ta Nang)
+
+Code: 24988, Coordinates: 11.594, 108.491
+
+
+### Tân Hà Lâm Hà (Tan Ha Lam Ha)
+
+Code: 24916, Coordinates: 11.022, 107.501
+
+
+### Tân Hải (Tan Hai)
+
+Code: 23246, Coordinates: 10.745, 107.831
+
+
+### Tân Hội (Tan Hoi)
+
+Code: 24976, Coordinates: 11.742, 108.299
+
+
+### Tân Lập (Tan Lap)
+
+Code: 23134, Coordinates: 11.788, 108.236
+
+
+### Tân Minh (Tan Minh)
+
+Code: 23230, Coordinates: 10.842, 107.633
+
+
+### Tân Thành (Tan Thanh)
+
+Code: 23143, Coordinates: 11.753, 108.224
+
+
+### Tánh Linh (Tanh Linh)
+
+Code: 23149, Coordinates: 11.14, 107.684
+
+
+### Thuận An (Thuan An)
+
+Code: 24682, Coordinates: 12.52, 107.606
+
+
+### Thuận Hạnh (Thuan Hanh)
+
+Code: 24722, Coordinates: 12.412, 107.582
+
+
+### Tiến Thành (Tien Thanh)
+
+Code: 22954, Coordinates: 10.919, 108.085
+
+
+### Trà Tân (Tra Tan)
+
+Code: 23227, Coordinates: 11.057, 107.499
+
+
+### Trường Xuân (Truong Xuan)
+
+Code: 24730, Coordinates: 11.898, 108.539
+
+
+### Tuy Đức (Tuy Duc)
+
+Code: 24739, Coordinates: 12.229, 107.439
+
+
+### Tuy Phong
+
+Code: 22978, Coordinates: 11.345, 108.745
+
+
+### Tuyên Quang (Tuyen Quang)
+
+Code: 22963, Coordinates: 10.935, 108.108
+
+
+### Vĩnh Hảo (Vinh Hao)
+
+Code: 22981, Coordinates: 11.301, 108.72
+
+
+### Xuân Hương - Đà Lạt (Xuan Huong - Da Lat)
+
+Code: 24781, Coordinates: 11.905, 108.448
+
+
+### Xuân Trường - Đà Lạt (Xuan Truong - Da Lat)
+
+Code: 24805, Coordinates: 11.936, 108.446
+
+

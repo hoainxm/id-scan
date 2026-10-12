@@ -1,0 +1,18 @@
+{
+  "address": "Thị trấn Đắk Hà, Huyện Đắk Hà, Tỉnh Kon Tum",
+  "ellapsedInMs": 16969,
+  "estimatedCost": 0.0223,
+  "thought": "**Analysis of Administrative Unit Transformation**\n\nOkay, here's what I've determined based on the user's request.  I've received the administrative unit \"Thị trấn Đắk Hà, Huyện Đắk Hà, Tỉnh Kon Tum\" and need to find its new equivalent. My analysis will proceed as follows.\n\nFirst, I need to break down the input:  I've got \"Thị trấn Đắk Hà\" as the ward, \"Huyện Đắk Hà\" as the district, and \"Tỉnh Kon Tum\" as the province.  I'll start by checking province-level resolutions, since they often have the biggest impact.\n\nI see that \"Tỉnh Kon Tum\" isn't listed for any *non-merger* updates in `60-NQ/TW`. However, the resolution *does* state that \"Tỉnh Kon Tum\" and \"Tỉnh Quảng Ngãi\" will be combined into \"Tỉnh Quảng Ngãi\".  So, anything that *was* in Kon Tum now falls under Quảng Ngãi.\n\nNext, I'll need to check the ward and district level changes within the new province. I'll focus on resolutions that mention \"Huyện Đắk Hà\" and \"Thị trấn Đắk Hà\" within the context of \"Tỉnh Quảng Ngãi\".  Resolution `1677/NQ-UBTVQH15` is the right one. Looking at it, I see line 56. It explicitly states that \"Thị trấn Đắk Hà\" (along with \"Xã Hà Mòn\" and \"Xã Đắk La\") is merged to form a new unit with the name \"**Xã Đắk Hà**\".\n\nNow, time to synthesize.  \"Tỉnh Kon Tum\" is now part of \"Tỉnh Quảng Ngãi,\" and \"Thị trấn Đắk Hà\" is now \"**Xã Đắk Hà**\".  All that's left is to find the corresponding record in my provided list.  I need a unit named \"Xã Đắk Hà\" that's now in \"Tỉnh Quảng Ngãi\".  And there it is: `{\"code\":\"23500\",\"name\":\"Xã Đắk Hà\",\"province\":\"Tỉnh Quảng Ngãi\"}`.  That's a perfect match.\n\nFinally, the JSON output:\n\n`ward_name` is \"Xã Đắk Hà\", and the corresponding `ward_code` is \"23500\".  The `province_name` is correctly \"Tỉnh Quảng Ngãi\".  Since I have a very specific resolution, I'm confident in this and will give it a `confidence` level of \"high\".  The `citation` will include the relevant resolution, which is \"1677/NQ-UBTVQH15\" line 56.\n\nThe input unit, and its new equivalent have been definitively identified in a resolution.  The province's merger is also accounted for.  I will now create a single JSON object in an array as requested.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1677/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Ngãi",
+        "line": "56. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Đăk Hà, xã Hà Mòn và xã Đăk La thành xã mới có tên gọi là xã Đăk Hà."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Quảng Ngãi",
+      "ward_code": "23500",
+      "ward_name": "Xã Đăk Hà"
+    }
+  ]
+}

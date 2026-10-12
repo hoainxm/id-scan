@@ -1,0 +1,45 @@
+{
+  "id": "19996",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hương Trà",
+    "en": "Huong Tra",
+    "slug": "huong-tra-19996"
+  },
+  "code": {
+    "id": "19996",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.519",
+    "lon": "107.484"
+  },
+  "metadata": {},
+  "source": {}
+}

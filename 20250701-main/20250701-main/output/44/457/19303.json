@@ -1,0 +1,18 @@
+{
+  "address": "Xã Mỹ Thủy, Huyện Lệ Thủy, Tỉnh Quảng Bình",
+  "ellapsedInMs": 11647,
+  "estimatedCost": 0.0063719,
+  "thought": "**Finding the New Administrative Unit for \"Xã Mỹ Thủy, Huyện Lệ Thủy, Tỉnh Quảng Bình\"**\n\nOkay, here's how I figured this out:  First, I recognized that \"Tỉnh Quảng Bình\" was involved. Then, I needed to check the province-level resolutions, specifically \"60-NQ/TW\". That revealed that Quảng Bình was *merged* into Quảng Trị.  So, right away, I knew the province name would change.\n\nNext, I focused on resolutions concerning the *new* province, Quảng Trị, and looked for any mention of \"Mỹ Thủy\".  I carefully scanned the relevant resolutions, particularly `1680/NQ-UBTVQH15`. Bingo! Line 32 of that resolution was key: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Thủy, Dương Thủy, Mỹ Thủy và Thái Thủythành xã mới có tên gọi là **xã Tân Mỹ**.\"  It explicitly lists \"Mỹ Thủy\" as one of the contributing wards to the new \"Xã Tân Mỹ\".\n\nI then looked for \"Xã Tân Mỹ\" in the list of new wards, and it matched perfectly.  I am confident because I followed the correct provincial merger (Quảng Bình -> Quảng Trị) and found the specific mention of \"Mỹ Thủy\" as part of the new ward in the appropriate resolution.\n\nTherefore, the new administrative unit for \"Xã Mỹ Thủy, Huyện Lệ Thủy, Tỉnh Quảng Bình\" is \"Xã Tân Mỹ\" in \"Tỉnh Quảng Trị\". The primary citation is from the resolution about Quảng Trị (1680/NQ-UBTVQH15, Line 32).\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1680/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Trị",
+        "line": "32. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Thủy, Dương Thủy, Mỹ Thủy và Thái Thủythành xã mới có tên gọi là **xã Tân Mỹ**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Quảng Trị",
+      "ward_code": "19291",
+      "ward_name": "Xã Tân Mỹ"
+    }
+  ]
+}

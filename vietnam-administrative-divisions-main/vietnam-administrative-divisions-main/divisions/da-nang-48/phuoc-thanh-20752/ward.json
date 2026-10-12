@@ -1,0 +1,45 @@
+{
+  "id": "20752",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phước Thành",
+    "en": "Phuoc Thanh",
+    "slug": "phuoc-thanh-20752"
+  },
+  "code": {
+    "id": "20752",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.314",
+    "lon": "107.886"
+  },
+  "metadata": {},
+  "source": {}
+}

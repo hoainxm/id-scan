@@ -1,0 +1,45 @@
+{
+  "id": "21739",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phù Mỹ Bắc",
+    "en": "Phu My Bac",
+    "slug": "phu-my-bac-21739"
+  },
+  "code": {
+    "id": "21739",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.323",
+    "lon": "109.063"
+  },
+  "metadata": {},
+  "source": {}
+}

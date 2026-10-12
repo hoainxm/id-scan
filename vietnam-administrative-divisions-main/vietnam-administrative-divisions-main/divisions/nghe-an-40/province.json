@@ -1,0 +1,33 @@
+{
+  "id": "40",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Nghệ An",
+    "en": "Nghe An",
+    "slug": "nghe-an-40"
+  },
+  "code": {
+    "id": "40",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 130
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.237",
+    "lon": "104.944"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/nghe-an-40/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

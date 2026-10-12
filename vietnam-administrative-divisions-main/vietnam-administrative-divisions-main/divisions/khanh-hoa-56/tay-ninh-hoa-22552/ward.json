@@ -1,0 +1,45 @@
+{
+  "id": "22552",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tây Ninh Hòa",
+    "en": "Tay Ninh Hoa",
+    "slug": "tay-ninh-hoa-22552"
+  },
+  "code": {
+    "id": "22552",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.032",
+    "lon": "105.783"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "30985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Biên",
+      "en": "An Bien",
+      "slug": "an-bien-30985"
+    },
+    "code": {
+      "id": "30985",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.822",
+      "lon": "105.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30589",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Châu",
+      "en": "An Chau",
+      "slug": "an-chau-30589"
+    },
+    "code": {
+      "id": "30589",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.444",
+      "lon": "105.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30526",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Cư",
+      "en": "An Cu",
+      "slug": "an-cu-30526"
+    },
+    "code": {
+      "id": "30526",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.682",
+      "lon": "104.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31018",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Minh",
+      "en": "An Minh",
+      "slug": "an-minh-31018"
+    },
+    "code": {
+      "id": "31018",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.769",
+      "lon": "105.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30337",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phú",
+      "en": "An Phu",
+      "slug": "an-phu-30337"
+    },
+    "code": {
+      "id": "30337",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.834",
+      "lon": "105.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30547",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Chúc",
+      "en": "Ba Chuc",
+      "slug": "ba-chuc-30547"
+    },
+    "code": {
+      "id": "30547",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.494",
+      "lon": "104.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30898",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình An",
+      "en": "Binh An",
+      "slug": "binh-an-30898"
+    },
+    "code": {
+      "id": "30898",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.89",
+      "lon": "105.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30292",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Đức",
+      "en": "Binh Duc",
+      "slug": "binh-duc-30292"
+    },
+    "code": {
+      "id": "30292",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.399",
+      "lon": "105.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30826",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Giang",
+      "en": "Binh Giang",
+      "slug": "binh-giang-30826"
+    },
+    "code": {
+      "id": "30826",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.325",
+      "lon": "104.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30607",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hòa",
+      "en": "Binh Hoa",
+      "slug": "binh-hoa-30607"
+    },
+    "code": {
+      "id": "30607",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.27",
+      "lon": "104.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30487",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Mỹ",
+      "en": "Binh My",
+      "slug": "binh-my-30487"
+    },
+    "code": {
+      "id": "30487",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.508",
+      "lon": "105.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30823",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Sơn",
+      "en": "Binh Son",
+      "slug": "binh-son-30823"
+    },
+    "code": {
+      "id": "30823",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.264",
+      "lon": "104.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30445",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thạnh Đông",
+      "en": "Binh Thanh Dong",
+      "slug": "binh-thanh-dong-30445"
+    },
+    "code": {
+      "id": "30445",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.553",
+      "lon": "105.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30595",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cần Đăng",
+      "en": "Can Dang",
+      "slug": "can-dang-30595"
+    },
+    "code": {
+      "id": "30595",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.434",
+      "lon": "105.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30316",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Đốc",
+      "en": "Chau Doc",
+      "slug": "chau-doc-30316"
+    },
+    "code": {
+      "id": "30316",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.688",
+      "lon": "105.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30403",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Phong",
+      "en": "Chau Phong",
+      "slug": "chau-phong-30403"
+    },
+    "code": {
+      "id": "30403",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.745",
+      "lon": "105.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30463",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Phú",
+      "en": "Chau Phu",
+      "slug": "chau-phu-30463"
+    },
+    "code": {
+      "id": "30463",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.569",
+      "lon": "105.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30880",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Thành",
+      "en": "Chau Thanh",
+      "slug": "chau-thanh-30880"
+    },
+    "code": {
+      "id": "30880",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.959",
+      "lon": "105.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30505",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chi Lăng",
+      "en": "Chi Lang",
+      "slug": "chi-lang-30505"
+    },
+    "code": {
+      "id": "30505",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.711",
+      "lon": "105.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30628",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chợ Mới",
+      "en": "Cho Moi",
+      "slug": "cho-moi-30628"
+    },
+    "code": {
+      "id": "30628",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.455",
+      "lon": "105.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30409",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chợ Vàm",
+      "en": "Cho Vam",
+      "slug": "cho-vam-30409"
+    },
+    "code": {
+      "id": "30409",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.714",
+      "lon": "105.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30580",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cô Tô",
+      "en": "Co To",
+      "slug": "co-to-30580"
+    },
+    "code": {
+      "id": "30580",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.364",
+      "lon": "105.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30643",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cù Lao Giêng",
+      "en": "Cu Lao Gieng",
+      "slug": "cu-lao-gieng-30643"
+    },
+    "code": {
+      "id": "30643",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.48",
+      "lon": "105.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30958",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Hòa",
+      "en": "Dinh Hoa",
+      "slug": "dinh-hoa-30958"
+    },
+    "code": {
+      "id": "30958",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.786",
+      "lon": "105.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30709",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Mỹ",
+      "en": "Dinh My",
+      "slug": "dinh-my-30709"
+    },
+    "code": {
+      "id": "30709",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.314",
+      "lon": "105.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31024",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hòa",
+      "en": "Dong Hoa",
+      "slug": "dong-hoa-31024"
+    },
+    "code": {
+      "id": "31024",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.097",
+      "lon": "105.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31036",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hưng",
+      "en": "Dong Hung",
+      "slug": "dong-hung-31036"
+    },
+    "code": {
+      "id": "31036",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.107",
+      "lon": "105.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31006",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thái",
+      "en": "Dong Thai",
+      "slug": "dong-thai-31006"
+    },
+    "code": {
+      "id": "31006",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.123",
+      "lon": "105.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30796",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giang Thành",
+      "en": "Giang Thanh",
+      "slug": "giang-thanh-30796"
+    },
+    "code": {
+      "id": "30796",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.444",
+      "lon": "104.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30904",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giồng Riềng",
+      "en": "Giong Rieng",
+      "slug": "giong-rieng-30904"
+    },
+    "code": {
+      "id": "30904",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.909",
+      "lon": "105.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30952",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gò Quao",
+      "en": "Go Quao",
+      "slug": "go-quao-30952"
+    },
+    "code": {
+      "id": "30952",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.728",
+      "lon": "105.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30769",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Tiên",
+      "en": "Ha Tien",
+      "slug": "ha-tien-30769"
+    },
+    "code": {
+      "id": "30769",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.381",
+      "lon": "104.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30790",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Điền",
+      "en": "Hoa Dien",
+      "slug": "hoa-dien-30790"
+    },
+    "code": {
+      "id": "30790",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.328",
+      "lon": "104.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30934",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Hưng",
+      "en": "Hoa Hung",
+      "slug": "hoa-hung-30934"
+    },
+    "code": {
+      "id": "30934",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.883",
+      "lon": "105.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30430",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Lạc",
+      "en": "Hoa Lac",
+      "slug": "hoa-lac-30430"
+    },
+    "code": {
+      "id": "30430",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.319",
+      "lon": "104.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30949",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Thuận",
+      "en": "Hoa Thuan",
+      "slug": "hoa-thuan-30949"
+    },
+    "code": {
+      "id": "30949",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.26",
+      "lon": "104.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30673",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hội An",
+      "en": "Hoi An",
+      "slug": "hoi-an-30673"
+    },
+    "code": {
+      "id": "30673",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.432",
+      "lon": "105.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30817",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòn Đất",
+      "en": "Hon Dat",
+      "slug": "hon-dat-30817"
+    },
+    "code": {
+      "id": "30817",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.231",
+      "lon": "104.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30814",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòn Nghệ",
+      "en": "Hon Nghe",
+      "slug": "hon-nghe-30814"
+    },
+    "code": {
+      "id": "30814",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.027",
+      "lon": "104.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30341",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Bình",
+      "en": "Khanh Binh",
+      "slug": "khanh-binh-30341"
+    },
+    "code": {
+      "id": "30341",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.939",
+      "lon": "105.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31108",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiên Hải",
+      "en": "Kien Hai",
+      "slug": "kien-hai-31108"
+    },
+    "code": {
+      "id": "31108",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.809",
+      "lon": "104.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30787",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiên Lương",
+      "en": "Kien Luong",
+      "slug": "kien-luong-30787"
+    },
+    "code": {
+      "id": "30787",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.278",
+      "lon": "104.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30631",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Điền",
+      "en": "Long Dien",
+      "slug": "long-dien-30631"
+    },
+    "code": {
+      "id": "30631",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.513",
+      "lon": "105.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Kiến",
+      "en": "Long Kien",
+      "slug": "long-kien-30664"
+    },
+    "code": {
+      "id": "30664",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.449",
+      "lon": "105.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30377",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Phú",
+      "en": "Long Phu",
+      "slug": "long-phu-30377"
+    },
+    "code": {
+      "id": "30377",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.78",
+      "lon": "105.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30943",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Thạnh",
+      "en": "Long Thanh",
+      "slug": "long-thanh-30943"
+    },
+    "code": {
+      "id": "30943",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.372",
+      "lon": "105.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30307",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Xuyên",
+      "en": "Long Xuyen",
+      "slug": "long-xuyen-30307"
+    },
+    "code": {
+      "id": "30307",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.372",
+      "lon": "105.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30469",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Đức",
+      "en": "My Duc",
+      "slug": "my-duc-30469"
+    },
+    "code": {
+      "id": "30469",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.655",
+      "lon": "105.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30313",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Hòa Hưng",
+      "en": "My Hoa Hung",
+      "slug": "my-hoa-hung-30313"
+    },
+    "code": {
+      "id": "30313",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.408",
+      "lon": "105.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30301",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thới",
+      "en": "My Thoi",
+      "slug": "my-thoi-30301"
+    },
+    "code": {
+      "id": "30301",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.332",
+      "lon": "105.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30838",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Thuận",
+      "en": "My Thuan",
+      "slug": "my-thuan-30838"
+    },
+    "code": {
+      "id": "30838",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.176",
+      "lon": "105.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30928",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Chúc",
+      "en": "Ngoc Chuc",
+      "slug": "ngoc-chuc-30928"
+    },
+    "code": {
+      "id": "30928",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.912",
+      "lon": "105.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30346",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Hội",
+      "en": "Nhon Hoi",
+      "slug": "nhon-hoi-30346"
+    },
+    "code": {
+      "id": "30346",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.884",
+      "lon": "105.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30658",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhơn Mỹ",
+      "en": "Nhon My",
+      "slug": "nhon-my-30658"
+    },
+    "code": {
+      "id": "30658",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.499",
+      "lon": "105.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30538",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Núi Cấm",
+      "en": "Nui Cam",
+      "slug": "nui-cam-30538"
+    },
+    "code": {
+      "id": "30538",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.491",
+      "lon": "104.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30577",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ô Lâm",
+      "en": "O Lam",
+      "slug": "o-lam-30577"
+    },
+    "code": {
+      "id": "30577",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.401",
+      "lon": "104.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30688",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Óc Eo",
+      "en": "Oc Eo",
+      "slug": "oc-eo-30688"
+    },
+    "code": {
+      "id": "30688",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.256",
+      "lon": "105.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30436",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú An",
+      "en": "Phu An",
+      "slug": "phu-an-30436"
+    },
+    "code": {
+      "id": "30436",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.834",
+      "lon": "105.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30685",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hòa",
+      "en": "Phu Hoa",
+      "slug": "phu-hoa-30685"
+    },
+    "code": {
+      "id": "30685",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.359",
+      "lon": "105.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30352",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hữu",
+      "en": "Phu Huu",
+      "slug": "phu-huu-30352"
+    },
+    "code": {
+      "id": "30352",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.861",
+      "lon": "105.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30421",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lâm",
+      "en": "Phu Lam",
+      "slug": "phu-lam-30421"
+    },
+    "code": {
+      "id": "30421",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.735",
+      "lon": "105.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31078",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Quốc",
+      "en": "Phu Quoc",
+      "slug": "phu-quoc-31078"
+    },
+    "code": {
+      "id": "31078",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.229",
+      "lon": "104.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30406",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Tân",
+      "en": "Phu Tan",
+      "slug": "phu-tan-30406"
+    },
+    "code": {
+      "id": "30406",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.654",
+      "lon": "105.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30742",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Rạch Giá",
+      "en": "Rach Gia",
+      "slug": "rach-gia-30742"
+    },
+    "code": {
+      "id": "30742",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.027",
+      "lon": "105.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30811",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Hải",
+      "en": "Son Hai",
+      "slug": "son-hai-30811"
+    },
+    "code": {
+      "id": "30811",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.107",
+      "lon": "104.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30835",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Kiên",
+      "en": "Son Kien",
+      "slug": "son-kien-30835"
+    },
+    "code": {
+      "id": "30835",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.198",
+      "lon": "104.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30388",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An",
+      "en": "Tan An",
+      "slug": "tan-an-30388"
+    },
+    "code": {
+      "id": "30388",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.132",
+      "lon": "105.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30376",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Châu",
+      "en": "Tan Chau",
+      "slug": "tan-chau-30376"
+    },
+    "code": {
+      "id": "30376",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.813",
+      "lon": "105.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30850",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hiệp",
+      "en": "Tan Hiep",
+      "slug": "tan-hiep-30850"
+    },
+    "code": {
+      "id": "30850",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.116",
+      "lon": "105.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30856",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hội",
+      "en": "Tan Hoi",
+      "slug": "tan-hoi-30856"
+    },
+    "code": {
+      "id": "30856",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.143",
+      "lon": "105.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31031",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thạnh",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-31031"
+    },
+    "code": {
+      "id": "31031",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.018",
+      "lon": "105.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30691",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Phú",
+      "en": "Tay Phu",
+      "slug": "tay-phu-30691"
+    },
+    "code": {
+      "id": "30691",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.327",
+      "lon": "105.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30988",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Yên",
+      "en": "Tay Yen",
+      "slug": "tay-yen-30988"
+    },
+    "code": {
+      "id": "30988",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.885",
+      "lon": "105.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30874",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Đông",
+      "en": "Thanh Dong",
+      "slug": "thanh-dong-30874"
+    },
+    "code": {
+      "id": "30874",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.071",
+      "lon": "105.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30910",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Hưng",
+      "en": "Thanh Hung",
+      "slug": "thanh-hung-30910"
+    },
+    "code": {
+      "id": "30910",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.02",
+      "lon": "105.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30886",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Lộc",
+      "en": "Thanh Loc",
+      "slug": "thanh-loc-30886"
+    },
+    "code": {
+      "id": "30886",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.002",
+      "lon": "105.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30481",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Mỹ Tây",
+      "en": "Thanh My Tay",
+      "slug": "thanh-my-tay-30481"
+    },
+    "code": {
+      "id": "30481",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.537",
+      "lon": "105.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31105",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thổ Châu",
+      "en": "Tho Chau",
+      "slug": "tho-chau-31105"
+    },
+    "code": {
+      "id": "31105",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.303",
+      "lon": "103.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30682",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thoại Sơn",
+      "en": "Thoai Son",
+      "slug": "thoai-son-30682"
+    },
+    "code": {
+      "id": "30682",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.279",
+      "lon": "105.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30502",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới Sơn",
+      "en": "Thoi Son",
+      "slug": "thoi-son-30502"
+    },
+    "code": {
+      "id": "30502",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.633",
+      "lon": "105.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30781",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Hải",
+      "en": "Tien Hai",
+      "slug": "tien-hai-30781"
+    },
+    "code": {
+      "id": "30781",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.317",
+      "lon": "104.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30520",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tịnh Biên",
+      "en": "Tinh Bien",
+      "slug": "tinh-bien-30520"
+    },
+    "code": {
+      "id": "30520",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.556",
+      "lon": "104.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30766",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tô Châu",
+      "en": "To Chau",
+      "slug": "to-chau-30766"
+    },
+    "code": {
+      "id": "30766",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.385",
+      "lon": "104.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30544",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tri Tôn",
+      "en": "Tri Ton",
+      "slug": "tri-ton-30544"
+    },
+    "code": {
+      "id": "30544",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.412",
+      "lon": "104.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31027",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "U Minh Thượng",
+      "en": "U Minh Thuong",
+      "slug": "u-minh-thuong-31027"
+    },
+    "code": {
+      "id": "31027",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.624",
+      "lon": "105.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31042",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Khánh",
+      "en": "Van Khanh",
+      "slug": "van-khanh-31042"
+    },
+    "code": {
+      "id": "31042",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.555",
+      "lon": "104.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30604",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh An",
+      "en": "Vinh An",
+      "slug": "vinh-an-30604"
+    },
+    "code": {
+      "id": "30604",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.425",
+      "lon": "105.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31064",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Bình",
+      "en": "Vinh Binh",
+      "slug": "vinh-binh-31064"
+    },
+    "code": {
+      "id": "31064",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.441",
+      "lon": "105.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30793",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Điều",
+      "en": "Vinh Dieu",
+      "slug": "vinh-dieu-30793"
+    },
+    "code": {
+      "id": "30793",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.516",
+      "lon": "104.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30568",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Gia",
+      "en": "Vinh Gia",
+      "slug": "vinh-gia-30568"
+    },
+    "code": {
+      "id": "30568",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.428",
+      "lon": "104.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30619",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hanh",
+      "en": "Vinh Hanh",
+      "slug": "vinh-hanh-30619"
+    },
+    "code": {
+      "id": "30619",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.453",
+      "lon": "105.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30367",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hậu",
+      "en": "Vinh Hau",
+      "slug": "vinh-hau-30367"
+    },
+    "code": {
+      "id": "30367",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.769",
+      "lon": "105.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31012",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hòa",
+      "en": "Vinh Hoa",
+      "slug": "vinh-hoa-31012"
+    },
+    "code": {
+      "id": "31012",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.868",
+      "lon": "105.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30970",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hòa Hưng",
+      "en": "Vinh Hoa Hung",
+      "slug": "vinh-hoa-hung-30970"
+    },
+    "code": {
+      "id": "30970",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.941",
+      "lon": "105.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31051",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Phong",
+      "en": "Vinh Phong",
+      "slug": "vinh-phong-31051"
+    },
+    "code": {
+      "id": "31051",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.634",
+      "lon": "105.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30325",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tế",
+      "en": "Vinh Te",
+      "slug": "vinh-te-30325"
+    },
+    "code": {
+      "id": "30325",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.537",
+      "lon": "104.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30478",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thạnh Trung",
+      "en": "Vinh Thanh Trung",
+      "slug": "vinh-thanh-trung-30478"
+    },
+    "code": {
+      "id": "30478",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.586",
+      "lon": "105.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30760",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thông",
+      "en": "Vinh Thong",
+      "slug": "vinh-thong-30760"
+    },
+    "code": {
+      "id": "30760",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.065",
+      "lon": "105.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31069",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thuận",
+      "en": "Vinh Thuan",
+      "slug": "vinh-thuan-31069"
+    },
+    "code": {
+      "id": "31069",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.508",
+      "lon": "105.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30697",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Trạch",
+      "en": "Vinh Trach",
+      "slug": "vinh-trach-30697"
+    },
+    "code": {
+      "id": "30697",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "105.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30982",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tuy",
+      "en": "Vinh Tuy",
+      "slug": "vinh-tuy-30982"
+    },
+    "code": {
+      "id": "30982",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.659",
+      "lon": "105.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30385",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Xương",
+      "en": "Vinh Xuong",
+      "slug": "vinh-xuong-30385"
+    },
+    "code": {
+      "id": "30385",
+      "iso": null
+    },
+    "parent": {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "An Giang",
+          "en": "An Giang",
+          "slug": "an-giang-91"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.868",
+      "lon": "105.172"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

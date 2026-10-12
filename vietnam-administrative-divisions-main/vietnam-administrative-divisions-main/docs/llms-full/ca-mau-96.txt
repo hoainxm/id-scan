@@ -1,0 +1,329 @@
+# Ca Mau — Vietnam Administrative Divisions
+
+> 64 commune/wards
+> Code: 96
+> Coordinates: 9.136, 105.182
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Trạch (An Trach)
+
+Code: 31988, Coordinates: 9.164, 105.357
+
+
+### An Xuyên (An Xuyen)
+
+Code: 32002, Coordinates: 8.562, 104.829
+
+
+### Bạc Liêu (Bac Lieu)
+
+Code: 31825, Coordinates: 8.896, 105.697
+
+
+### Biển Bạch (Bien Bach)
+
+Code: 32069, Coordinates: 9.462, 105.075
+
+
+### Cái Đôi Vàm (Cai Doi Vam)
+
+Code: 32212, Coordinates: 8.859, 104.806
+
+
+### Cái Nước (Cai Nuoc)
+
+Code: 32128, Coordinates: 8.939, 105.016
+
+
+### Châu Thới (Chau Thoi)
+
+Code: 31894, Coordinates: 9.377, 105.621
+
+
+### Đá Bạc (Da Bac)
+
+Code: 32104, Coordinates: 9.208, 104.904
+
+
+### Đầm Dơi (Dam Doi)
+
+Code: 32152, Coordinates: 8.995, 105.198
+
+
+### Đất Mới (Dat Moi)
+
+Code: 32201, Coordinates: 8.772, 104.938
+
+
+### Đất Mũi (Dat Mui)
+
+Code: 32248, Coordinates: 8.562, 104.829
+
+
+### Định Thành (Dinh Thanh)
+
+Code: 31993, Coordinates: 9.121, 105.285
+
+
+### Đông Hải (Dong Hai)
+
+Code: 31975, Coordinates: 9.179, 105.532
+
+
+### Gành Hào (Ganh Hao)
+
+Code: 31972, Coordinates: 9.027, 105.421
+
+
+### Giá Rai (Gia Rai)
+
+Code: 31942, Coordinates: 9.238, 105.456
+
+
+### Hiệp Thành (Hiep Thanh)
+
+Code: 31840, Coordinates: 9.249, 105.771
+
+
+### Hồ Thị Kỷ (Ho Thi Ky)
+
+Code: 32092, Coordinates: 9.196, 105.131
+
+
+### Hòa Bình (Hoa Binh)
+
+Code: 31891, Coordinates: 9.284, 105.628
+
+
+### Hòa Thành (Hoa Thanh)
+
+Code: 32041, Coordinates: 9.128, 105.206
+
+
+### Hồng Dân (Hong Dan)
+
+Code: 31843, Coordinates: 9.538, 105.455
+
+
+### Hưng Hội (Hung Hoi)
+
+Code: 31906, Coordinates: 9.353, 105.799
+
+
+### Hưng Mỹ (Hung My)
+
+Code: 32140, Coordinates: 9.002, 104.999
+
+
+### Khánh An (Khanh An)
+
+Code: 32059, Coordinates: 9.257, 105.007
+
+
+### Khánh Bình (Khanh Binh)
+
+Code: 32110, Coordinates: 9.138, 105.013
+
+
+### Khánh Hưng (Khanh Hung)
+
+Code: 32119, Coordinates: 9.136, 104.894
+
+
+### Khánh Lâm (Khanh Lam)
+
+Code: 32062, Coordinates: 9.336, 104.918
+
+
+### Láng Tròn (Lang Tron)
+
+Code: 31951, Coordinates: 9.297, 105.473
+
+
+### Long Điền (Long Dien)
+
+Code: 31985, Coordinates: 9.157, 105.452
+
+
+### Lương Thế Trân (Luong The Tran)
+
+Code: 32134, Coordinates: 9.105, 105.09
+
+
+### Lý Văn Lâm (Ly Van Lam)
+
+Code: 32014, Coordinates: 9.192, 105.125
+
+
+### Năm Căn (Nam Can)
+
+Code: 32191, Coordinates: 8.76, 104.994
+
+
+### Nguyễn Phích (Nguyen Phich)
+
+Code: 32044, Coordinates: 9.405, 104.977
+
+
+### Nguyễn Việt Khái (Nguyen Viet Khai)
+
+Code: 32227, Coordinates: 9.184, 105.157
+
+
+### Ninh Quới (Ninh Quoi)
+
+Code: 31849, Coordinates: 9.524, 105.523
+
+
+### Ninh Thạnh Lợi (Ninh Thanh Loi)
+
+Code: 31864, Coordinates: 9.273, 105.726
+
+
+### Phan Ngọc Hiển (Phan Ngoc Hien)
+
+Code: 32244, Coordinates: 9.185, 105.144
+
+
+### Phong Hiệp (Phong Hiep)
+
+Code: 31885, Coordinates: 9.335, 105.316
+
+
+### Phong Thạnh (Phong Thanh)
+
+Code: 31957, Coordinates: 9.239, 105.326
+
+
+### Phú Mỹ (Phu My)
+
+Code: 32214, Coordinates: 8.959, 104.922
+
+
+### Phú Tân (Phu Tan)
+
+Code: 32218, Coordinates: 8.892, 104.889
+
+
+### Phước Long (Phuoc Long)
+
+Code: 31867, Coordinates: 9.436, 105.464
+
+
+### Quách Phẩm (Quach Pham)
+
+Code: 32182, Coordinates: 8.898, 105.119
+
+
+### Sông Đốc (Song Doc)
+
+Code: 32098, Coordinates: 9.038, 104.822
+
+
+### Tạ An Khương (Ta An Khuong)
+
+Code: 32155, Coordinates: 9.186, 105.163
+
+
+### Tam Giang
+
+Code: 32206, Coordinates: 9.136, 105.131
+
+
+### Tân Ân (Tan An)
+
+Code: 32236, Coordinates: 8.727, 105.077
+
+
+### Tân Hưng (Tan Hung)
+
+Code: 32137, Coordinates: 9.01, 105.079
+
+
+### Tân Lộc (Tan Loc)
+
+Code: 32083, Coordinates: 9.296, 105.228
+
+
+### Tân Thành (Tan Thanh)
+
+Code: 32025, Coordinates: 9.194, 105.213
+
+
+### Tân Thuận (Tan Thuan)
+
+Code: 32167, Coordinates: 9.014, 105.33
+
+
+### Tân Tiến (Tan Tien)
+
+Code: 32188, Coordinates: 8.903, 105.304
+
+
+### Thanh Tùng (Thanh Tung)
+
+Code: 32185, Coordinates: 9.538, 105
+
+
+### Thới Bình (Thoi Binh)
+
+Code: 32065, Coordinates: 9.347, 105.09
+
+
+### Trần Phán (Tran Phan)
+
+Code: 32161, Coordinates: 9.018, 105.14
+
+
+### Trần Văn Thời (Tran Van Thoi)
+
+Code: 32095, Coordinates: 9.073, 104.967
+
+
+### Trí Phải (Tri Phai)
+
+Code: 32071, Coordinates: 9.4, 105.192
+
+
+### U Minh
+
+Code: 32047, Coordinates: 9.41, 104.969
+
+
+### Vĩnh Hậu (Vinh Hau)
+
+Code: 31927, Coordinates: 9.206, 105.654
+
+
+### Vĩnh Lộc (Vinh Loc)
+
+Code: 31858, Coordinates: 9.577, 105.365
+
+
+### Vĩnh Lợi (Vinh Loi)
+
+Code: 31900, Coordinates: 9.286, 105.724
+
+
+### Vĩnh Mỹ (Vinh My)
+
+Code: 31918, Coordinates: 9.322, 105.575
+
+
+### Vĩnh Phước (Vinh Phuoc)
+
+Code: 31876, Coordinates: 9.409, 105.405
+
+
+### Vĩnh Thanh (Vinh Thanh)
+
+Code: 31882, Coordinates: 9.286, 105.724
+
+
+### Vĩnh Trạch (Vinh Trach)
+
+Code: 31834, Coordinates: 9.298, 105.774
+
+

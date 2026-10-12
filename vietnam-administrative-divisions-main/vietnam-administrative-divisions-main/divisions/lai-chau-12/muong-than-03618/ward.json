@@ -1,0 +1,45 @@
+{
+  "id": "03618",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Mường Than",
+    "en": "Muong Than",
+    "slug": "muong-than-03618"
+  },
+  "code": {
+    "id": "03618",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Lai Châu",
+      "en": "Lai Chau",
+      "slug": "lai-chau-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Lai Châu",
+        "en": "Lai Chau",
+        "slug": "lai-chau-12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.023",
+    "lon": "103.862"
+  },
+  "metadata": {},
+  "source": {}
+}

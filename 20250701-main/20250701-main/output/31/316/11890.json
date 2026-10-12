@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hoà Bình, Huyện Vĩnh Bảo, Thành phố Hải Phòng",
+  "ellapsedInMs": 28758,
+  "estimatedCost": 0.0075653000000000005,
+  "thought": "**Analyzing the Reorganization of \"Xã Hoà Bình, Huyện Vĩnh Bảo, Thành phố Hải Phòng\"**\n\nOkay, here's the breakdown of my thinking:  I started by breaking down the input: \"Xã Hoà Bình\" in \"Huyện Vĩnh Bảo\" of \"Thành phố Hải Phòng.\" I know that \"Thành phố Hải Phòng\" is still the correct province name, despite the merger with Hải Dương (confirmed by resolution 60-NQ/TW).  Then, I scoured the provided resolutions, specifically looking for mentions of \"Xã Hoà Bình.\" I systematically checked each resolution, carefully considering the context - particularly the district and province information, to avoid any confusion with similarly named wards in other provinces.\n\nSeveral resolutions referenced \"Xã Hòa Bình,\" but they all turned out to be irrelevant due to differing provincial contexts.  The key was **1669/NQ-UBTVQH15 (Hải Phòng)**. I had to read this one very carefully. I noted that lines 62, 63, and 66, all referring to \"Huyện Vĩnh Bảo,\" were crucial. Line 63 explicitly mentioned the merger of \"Xã Hòa Bình\" along with two others (Trấn Dương and Lý Học) to form the new \"Xã Nguyễn Bỉnh Khiêm.\" The surrounding context confirmed that this \"Xã Hòa Bình\" was indeed the one in Vĩnh Bảo district. Lines 79 and 112 mentioned other \"Xã Hòa Bình\" (from the former Hải Dương province), but those were dealt with in different ways.\n\nTherefore, \"Xã Hoà Bình\" from Huyện Vĩnh Bảo is fully integrated into \"Xã Nguyễn Bỉnh Khiêm,\" making this the correct new ward. Finally, after confirming \"Xã Nguyễn Bỉnh Khiêm\" was in the \"New wards\" list, I assembled the final output, including the ward code, and relevant citation information, setting \"confidence\" to \"high\" because the resolution line was very clear on the merger, with corroborating local context.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1669/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Hải Phòng",
+        "line": "63. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Trấn Dương, Hòa Bình và Lý Học thành xã mới có tên gọi là **xã Nguyễn Bỉnh Khiêm**."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hải Phòng",
+      "ward_code": "11911",
+      "ward_name": "Xã Nguyễn Bỉnh Khiêm"
+    }
+  ]
+}

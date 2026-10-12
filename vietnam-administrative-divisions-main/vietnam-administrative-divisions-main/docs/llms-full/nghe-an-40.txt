@@ -1,0 +1,659 @@
+# Nghe An — Vietnam Administrative Divisions
+
+> 130 commune/wards
+> Code: 40
+> Coordinates: 19.237, 104.944
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Châu (An Chau)
+
+Code: 17479, Coordinates: 18.921, 105.602
+
+
+### Anh Sơn (Anh Son)
+
+Code: 17329, Coordinates: 18.967, 105.105
+
+
+### Anh Sơn Đông (Anh Son Dong)
+
+Code: 17365, Coordinates: 18.955, 105.219
+
+
+### Bắc Lý (Bac Ly)
+
+Code: 16819, Coordinates: 19.595, 104.267
+
+
+### Bạch Hà (Bach Ha)
+
+Code: 17707, Coordinates: 18.847, 105.429
+
+
+### Bạch Ngọc (Bach Ngoc)
+
+Code: 17623, Coordinates: 18.938, 105.264
+
+
+### Bích Hào (Bich Hao)
+
+Code: 17818, Coordinates: 18.673, 105.416
+
+
+### Bình Chuẩn (Binh Chuan)
+
+Code: 17230, Coordinates: 19.234, 104.921
+
+
+### Bình Minh (Binh Minh)
+
+Code: 17515, Coordinates: 19.106, 105.491
+
+
+### Cam Phục (Cam Phuc)
+
+Code: 17242, Coordinates: 19.12, 104.863
+
+
+### Cát Ngạn (Cat Ngan)
+
+Code: 17728, Coordinates: 18.856, 105.242
+
+
+### Châu Bình (Chau Binh)
+
+Code: 16804, Coordinates: 19.506, 105.214
+
+
+### Châu Hồng (Chau Hong)
+
+Code: 17044, Coordinates: 19.393, 105.051
+
+
+### Châu Khê (Chau Khe)
+
+Code: 17248, Coordinates: 19.109, 104.784
+
+
+### Châu Lộc (Chau Loc)
+
+Code: 17056, Coordinates: 19.387, 105.186
+
+
+### Châu Tiến (Chau Tien)
+
+Code: 16792, Coordinates: 19.649, 105.08
+
+
+### Chiêu Lưu (Chieu Luu)
+
+Code: 16855, Coordinates: 19.375, 104.348
+
+
+### Con Cuông (Con Cuong)
+
+Code: 17254, Coordinates: 19.05, 104.882
+
+
+### Cửa Lò (Cua Lo)
+
+Code: 16732, Coordinates: 18.796, 105.727
+
+
+### Đại Đồng (Dai Dong)
+
+Code: 17713, Coordinates: 18.781, 105.337
+
+
+### Đại Huệ (Dai Hue)
+
+Code: 17944, Coordinates: 18.724, 105.536
+
+
+### Diễn Châu (Dien Chau)
+
+Code: 17464, Coordinates: 19.022, 105.578
+
+
+### Đô Lương (Do Luong)
+
+Code: 17662, Coordinates: 18.913, 105.319
+
+
+### Đông Hiếu (Dong Hieu)
+
+Code: 17017, Coordinates: 19.28, 105.477
+
+
+### Đông Lộc (Dong Loc)
+
+Code: 17878, Coordinates: 18.779, 105.695
+
+
+### Đông Thành (Dong Thanh)
+
+Code: 17530, Coordinates: 19.055, 105.541
+
+
+### Đức Châu (Duc Chau)
+
+Code: 17416, Coordinates: 19.039, 105.584
+
+
+### Giai Lạc (Giai Lac)
+
+Code: 17524, Coordinates: 19.092, 105.442
+
+
+### Giai Xuân (Giai Xuan)
+
+Code: 17278, Coordinates: 19.15, 105.24
+
+
+### Hải Châu (Hai Chau)
+
+Code: 17419, Coordinates: 19.051, 105.626
+
+
+### Hải Lộc (Hai Loc)
+
+Code: 17833, Coordinates: 18.867, 105.69
+
+
+### Hạnh Lâm (Hanh Lam)
+
+Code: 17722, Coordinates: 18.815, 105.173
+
+
+### Hoa Quân (Hoa Quan)
+
+Code: 17770, Coordinates: 18.766, 105.298
+
+
+### Hoàng Mai (Hoang Mai)
+
+Code: 17110, Coordinates: 19.266, 105.708
+
+
+### Hợp Minh (Hop Minh)
+
+Code: 17605, Coordinates: 18.93, 105.49
+
+
+### Hùng Chân (Hung Chan)
+
+Code: 16801, Coordinates: 19.411, 104.967
+
+
+### Hùng Châu (Hung Chau)
+
+Code: 17395, Coordinates: 19.113, 105.585
+
+
+### Hưng Nguyên (Hung Nguyen)
+
+Code: 18001, Coordinates: 18.686, 105.626
+
+
+### Hưng Nguyên Nam (Hung Nguyen Nam)
+
+Code: 18028, Coordinates: 18.615, 105.607
+
+
+### Huồi Tụ (Huoi Tu)
+
+Code: 16828, Coordinates: 19.522, 104.256
+
+
+### Hữu Khuông (Huu Khuong)
+
+Code: 16885, Coordinates: 19.48, 104.664
+
+
+### Hữu Kiệm (Huu Kiem)
+
+Code: 16849, Coordinates: 19.378, 104.206
+
+
+### Keng Đu (Keng Du)
+
+Code: 16822, Coordinates: 19.625, 104.106
+
+
+### Kim Bảng (Kim Bang)
+
+Code: 17791, Coordinates: 18.699, 105.386
+
+
+### Kim Liên (Kim Lien)
+
+Code: 17971, Coordinates: 18.676, 105.563
+
+
+### Lam Thành (Lam Thanh)
+
+Code: 18040, Coordinates: 18.604, 105.665
+
+
+### Lượng Minh (Luong Minh)
+
+Code: 16906, Coordinates: 19.398, 104.483
+
+
+### Lương Sơn (Luong Son)
+
+Code: 17641, Coordinates: 18.929, 105.309
+
+
+### Mậu Thạch (Mau Thach)
+
+Code: 17239, Coordinates: 19.069, 104.968
+
+
+### Minh Châu (Minh Chau)
+
+Code: 17476, Coordinates: 18.96, 105.553
+
+
+### Minh Hợp (Minh Hop)
+
+Code: 17071, Coordinates: 19.237, 105.288
+
+
+### Môn Sơn (Mon Son)
+
+Code: 17263, Coordinates: 18.941, 104.946
+
+
+### Mường Chọng (Muong Chong)
+
+Code: 17089, Coordinates: 19.223, 105.083
+
+
+### Mường Ham (Muong Ham)
+
+Code: 17077, Coordinates: 19.296, 105.144
+
+
+### Mường Lống (Muong Long)
+
+Code: 16831, Coordinates: 19.531, 104.335
+
+
+### Mường Quàng (Muong Quang)
+
+Code: 16774, Coordinates: 19.518, 104.851
+
+
+### Mường Típ (Muong Tip)
+
+Code: 16858, Coordinates: 19.285, 104.013
+
+
+### Mường Xén (Muong Xen)
+
+Code: 16813, Coordinates: 19.395, 104.157
+
+
+### Mỹ Lý (My Ly)
+
+Code: 16816, Coordinates: 19.59, 104.339
+
+
+### Na Loi
+
+Code: 16834, Coordinates: 19.569, 104.175
+
+
+### Na Ngoi
+
+Code: 16870, Coordinates: 19.244, 104.212
+
+
+### Nậm Cắn (Nam Can)
+
+Code: 16837, Coordinates: 19.468, 104.091
+
+
+### Nam Đàn (Nam Dan)
+
+Code: 17935, Coordinates: 18.673, 105.523
+
+
+### Nga My
+
+Code: 16903, Coordinates: 19.277, 104.786
+
+
+### Nghi Lộc (Nghi Loc)
+
+Code: 17827, Coordinates: 18.809, 105.589
+
+
+### Nghĩa Đàn (Nghia Dan)
+
+Code: 16941, Coordinates: 19.355, 105.51
+
+
+### Nghĩa Đồng (Nghia Dong)
+
+Code: 17284, Coordinates: 19.17, 105.347
+
+
+### Nghĩa Hành (Nghia Hanh)
+
+Code: 17326, Coordinates: 19.031, 105.108
+
+
+### Nghĩa Hưng (Nghia Hung)
+
+Code: 16972, Coordinates: 19.332, 105.352
+
+
+### Nghĩa Khánh (Nghia Khanh)
+
+Code: 17032, Coordinates: 19.256, 105.393
+
+
+### Nghĩa Lâm (Nghia Lam)
+
+Code: 16951, Coordinates: 19.414, 105.444
+
+
+### Nghĩa Lộc (Nghia Loc)
+
+Code: 17029, Coordinates: 19.22, 105.457
+
+
+### Nghĩa Mai (Nghia Mai)
+
+Code: 16975, Coordinates: 19.373, 105.391
+
+
+### Nghĩa Thọ (Nghia Tho)
+
+Code: 16969, Coordinates: 19.316, 105.54
+
+
+### Nhân Hòa (Nhan Hoa)
+
+Code: 17344, Coordinates: 21.195, 106.127
+
+
+### Nhôn Mai (Nhon Mai)
+
+Code: 16882, Coordinates: 19.544, 104.495
+
+
+### Phúc Lộc (Phuc Loc)
+
+Code: 17857, Coordinates: 18.807, 105.538
+
+
+### Quan Thành (Quan Thanh)
+
+Code: 17569, Coordinates: 18.983, 105.44
+
+
+### Quảng Châu (Quang Chau)
+
+Code: 17443, Coordinates: 19.012, 105.552
+
+
+### Quang Đồng (Quang Dong)
+
+Code: 17521, Coordinates: 19.044, 105.386
+
+
+### Quế Phong (Que Phong)
+
+Code: 16738, Coordinates: 19.707, 104.849
+
+
+### Quỳ Châu (Quy Chau)
+
+Code: 16777, Coordinates: 19.536, 105.132
+
+
+### Quỳ Hợp (Quy Hop)
+
+Code: 17035, Coordinates: 19.321, 105.16
+
+
+### Quỳnh Anh (Quynh Anh)
+
+Code: 17176, Coordinates: 19.168, 105.684
+
+
+### Quỳnh Lưu (Quynh Luu)
+
+Code: 17179, Coordinates: 19.232, 105.598
+
+
+### Quỳnh Mai (Quynh Mai)
+
+Code: 17125, Coordinates: 19.23, 105.742
+
+
+### Quỳnh Phú (Quynh Phu)
+
+Code: 17212, Coordinates: 19.104, 105.676
+
+
+### Quỳnh Sơn (Quynh Son)
+
+Code: 17170, Coordinates: 19.173, 105.602
+
+
+### Quỳnh Tam (Quynh Tam)
+
+Code: 17149, Coordinates: 19.203, 105.518
+
+
+### Quỳnh Thắng (Quynh Thang)
+
+Code: 17224, Coordinates: 19.278, 105.587
+
+
+### Quỳnh Văn (Quynh Van)
+
+Code: 17143, Coordinates: 19.208, 105.653
+
+
+### Sơn Lâm (Son Lam)
+
+Code: 17759, Coordinates: 18.748, 105.208
+
+
+### Tam Đồng (Tam Dong)
+
+Code: 17743, Coordinates: 18.82, 105.244
+
+
+### Tam Hợp (Tam Hop)
+
+Code: 17059, Coordinates: 19.356, 105.286
+
+
+### Tam Quang
+
+Code: 16933, Coordinates: 19.158, 104.677
+
+
+### Tam Thái (Tam Thai)
+
+Code: 16936, Coordinates: 19.226, 104.533
+
+
+### Tân An (Tan An)
+
+Code: 17305, Coordinates: 10.526, 106.399
+
+
+### Tân Châu (Tan Chau)
+
+Code: 17488, Coordinates: 18.905, 105.56
+
+
+### Tân Kỳ (Tan Ky)
+
+Code: 17266, Coordinates: 19.103, 105.221
+
+
+### Tân Mai (Tan Mai)
+
+Code: 17128, Coordinates: 19.278, 105.797
+
+
+### Tân Phú (Tan Phu)
+
+Code: 17272, Coordinates: 19.137, 105.276
+
+
+### Tây Hiếu (Tay Hieu)
+
+Code: 17011, Coordinates: 19.308, 105.415
+
+
+### Thái Hòa (Thai Hoa)
+
+Code: 16939, Coordinates: 19.294, 105.446
+
+
+### Thần Lĩnh (Than Linh)
+
+Code: 17842, Coordinates: 18.813, 105.591
+
+
+### Thành Bình Thọ (Thanh Binh Tho)
+
+Code: 17335, Coordinates: 19.088, 105.04
+
+
+### Thành Vinh (Thanh Vinh)
+
+Code: 16681, Coordinates: 18.672, 105.674
+
+
+### Thiên Nhẫn (Thien Nhan)
+
+Code: 17989, Coordinates: 18.606, 105.58
+
+
+### Thông Thụ (Thong Thu)
+
+Code: 16744, Coordinates: 19.796, 104.984
+
+
+### Thuần Trung (Thuan Trung)
+
+Code: 17689, Coordinates: 18.857, 105.329
+
+
+### Tiên Đồng (Tien Dong)
+
+Code: 17287, Coordinates: 19.118, 105.113
+
+
+### Tiền Phong (Tien Phong)
+
+Code: 16750, Coordinates: 19.641, 104.963
+
+
+### Tri Lễ (Tri Le)
+
+Code: 16756, Coordinates: 19.578, 104.72
+
+
+### Trung Lộc (Trung Loc)
+
+Code: 17866, Coordinates: 18.83, 105.651
+
+
+### Trường Vinh (Truong Vinh)
+
+Code: 16690, Coordinates: 18.66, 105.697
+
+
+### Tương Dương (Tuong Duong)
+
+Code: 16876, Coordinates: 19.32, 104.631
+
+
+### Vạn An (Van An)
+
+Code: 17950, Coordinates: 18.7, 105.497
+
+
+### Vân Du (Van Du)
+
+Code: 17560, Coordinates: 18.955, 105.38
+
+
+### Văn Hiến (Van Hien)
+
+Code: 17677, Coordinates: 18.887, 105.402
+
+
+### Văn Kiều (Van Kieu)
+
+Code: 17854, Coordinates: 18.813, 105.486
+
+
+### Vân Tụ (Van Tu)
+
+Code: 17611, Coordinates: 18.932, 105.431
+
+
+### Vinh Hưng (Vinh Hung)
+
+Code: 17920, Coordinates: 18.695, 105.669
+
+
+### Vinh Lộc (Vinh Loc)
+
+Code: 16708, Coordinates: 18.742, 105.729
+
+
+### Vinh Phú (Vinh Phu)
+
+Code: 16702, Coordinates: 18.703, 105.683
+
+
+### Vĩnh Tường (Vinh Tuong)
+
+Code: 17357, Coordinates: 18.966, 105.03
+
+
+### Xuân Lâm (Xuan Lam)
+
+Code: 17779, Coordinates: 18.704, 105.421
+
+
+### Yên Hòa (Yen Hoa)
+
+Code: 16909, Coordinates: 19.289, 104.664
+
+
+### Yên Na (Yen Na)
+
+Code: 16912, Coordinates: 19.308, 104.59
+
+
+### Yên Thành (Yen Thanh)
+
+Code: 17506, Coordinates: 19.021, 105.415
+
+
+### Yên Trung (Yen Trung)
+
+Code: 18007, Coordinates: 18.762, 105.585
+
+
+### Yên Xuân (Yen Xuan)
+
+Code: 17380, Coordinates: 18.905, 105.18
+
+

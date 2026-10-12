@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phong Thạnh Tây, Thị xã Giá Rai, Tỉnh Bạc Liêu",
+  "ellapsedInMs": 34168,
+  "estimatedCost": 0.047857500000000004,
+  "thought": "**Analyzing the New Administrative Unit for \"Xã Phong Thạnh Tây, Thị xã Giá Rai, Tỉnh Bạc Liêu\"**\n\nOkay, here's how I figured this out. First, I broke down the old unit: it was in \"Xã Phong Thạnh Tây,\" part of \"Thị xã Giá Rai,\" in the province of \"Tỉnh Bạc Liêu.\" My task was to find the new equivalent after recent administrative changes.\n\nI knew I needed to start by checking for provincial changes, and Resolution `60-NQ/TW` was the key. It didn't have any direct references to Tỉnh Bạc Liêu being merged, but line 22 was important: it stated that \"Tỉnh Bạc Liêu\" was now part of \"Tỉnh Cà Mau.\" So, my focus shifted to changes within Cà Mau.\n\nNext, I turned to Resolution `1655/NQ-UBTVQH15`, which dealt with administrative unit changes within Cà Mau. This one had the specific details I needed. Line 35 caught my eye immediately: it described merging \"Phong Thạnh Tây\" with \"Tân Thạnh\" and \"Tân Phong\" to create a new \"xã Phong Thạnh\". This was a significant clue! Line 50 wasn't right, but line 58 then showed how this new \"xã Phong Thạnh\" was then merged into a new \"phường Giá Rai.\" Therefore, based on the problem, I understood that \"Xã Phong Thạnh Tây\" is a part of \"Phường Giá Rai\" now.\n\nLooking at the provided list, I found `{\"code\":\"31942\",\"name\":\"Phường Giá Rai\",\"province\":\"Tỉnh Cà Mau\"}`. That's a perfect match!\n\nSo, the old \"Xã Phong Thạnh Tây\" now belongs to \"Phường Giá Rai\" in \"Tỉnh Cà Mau.\" My confidence level is high because these changes are clearly documented in the official resolutions. Specifically, the merger is described in resolution `1655/NQ-UBTVQH15`, line 35. This line directly references the unit.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1655/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Cà Mau",
+        "line": "35. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Thạnh, Phong Thạnh Tây và Tân Phong thành xã mới có tên gọi là **xã Phong Thạnh**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Cà Mau",
+      "ward_code": "31957",
+      "ward_name": "Xã Phong Thạnh"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "24846",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lang Biang - Đà Lạt",
+    "en": "Lang Biang - Da Lat",
+    "slug": "lang-biang-da-lat-24846"
+  },
+  "code": {
+    "id": "24846",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.945",
+    "lon": "108.435"
+  },
+  "metadata": {},
+  "source": {}
+}

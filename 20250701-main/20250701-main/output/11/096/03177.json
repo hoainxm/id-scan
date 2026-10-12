@@ -1,0 +1,18 @@
+{
+  "address": "Xã Huổi Lếnh, Huyện Mường Nhé, Tỉnh Điện Biên",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1661/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Điện Biên",
+        "line": "3. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Huổi Lếch và xã Mường Toong thành xã mới có tên gọi là xã Mường Toong."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Điện Biên",
+      "ward_code": "03163",
+      "ward_name": "Xã Mường Toong"
+    }
+  ]
+}

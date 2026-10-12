@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phú An, Huyện Cai Lậy, Tỉnh Tiền Giang",
+  "ellapsedInMs": 12101,
+  "estimatedCost": 0.0062279,
+  "thought": "**Determining the New Administrative Unit for \"Xã Phú An, Huyện Cai Lậy, Tỉnh Tiền Giang\"**\n\nMy analysis begins by recognizing that \"Tỉnh Tiền Giang\" has been merged into \"Tỉnh Đồng Tháp,\" a crucial step according to the \"60-NQ/TW\" document. This reframes the problem to identifying the new unit for \"Xã Phú An\" within \"Tỉnh Đồng Tháp.\"\n\nI meticulously reviewed several resolutions, focusing on those concerning \"Tỉnh Đồng Tháp.\" Specifically, `1663/NQ-UBTVQH15` stood out. This resolution explicitly addresses the administrative adjustments within \"Tỉnh Đồng Tháp,\" and crucially, line 50 mentions \"xã Phú An\" directly, stating its consolidation into the new ward, \"xã Bình Phú,\" alongside \"thị trấn Bình Phú\" and \"xã Cẩm Sơn.\" The repeated mentions of \"huyện Cai Lậy\" within this resolution strengthen the connection, confirming this resolution's scope includes the relevant geographic area.\n\nWhile other resolutions contain the name \"Phú An,\" they pertain to different provinces or involve different administrative restructurings and were therefore disregarded. Resolution `1663/NQ-UBTVQH15` presents a compelling fit.\n\nFurthermore, a check in the \"New wards\" list confirmed the existence of \"Xã Bình Phú\" within \"Tỉnh Đồng Tháp.\" This provides conclusive verification.\n\nMy analysis confidently concludes that \"Xã Phú An, Huyện Cai Lậy, Tỉnh Tiền Giang\" has been restructured into \"Xã Bình Phú, Tỉnh Đồng Tháp.\" This is validated by direct name matching in the correct province, reinforced by the pertinent resolution and further corroborated by the new ward data.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1663/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Đồng Tháp",
+        "line": "50. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Bình Phú, xã Phú An và xã Cẩm Sơn thành xã mới có tên gọi là xã Bình Phú."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Đồng Tháp",
+      "ward_code": "28471",
+      "ward_name": "Xã Bình Phú"
+    }
+  ]
+}

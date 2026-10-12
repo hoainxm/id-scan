@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hòa Tú II, Huyện Mỹ Xuyên, Tỉnh Sóc Trăng",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "65. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hòa Tú 1 và xã Hòa Tú 2 thành xã mới có tên gọi là xã Hòa Tú."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31717",
+      "ward_name": "Xã Hòa Tú"
+    }
+  ]
+}

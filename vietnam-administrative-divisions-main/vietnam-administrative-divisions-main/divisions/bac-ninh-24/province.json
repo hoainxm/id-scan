@@ -1,0 +1,33 @@
+{
+  "id": "24",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Bắc Ninh",
+    "en": "Bac Ninh",
+    "slug": "bac-ninh-24"
+  },
+  "code": {
+    "id": "24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 99
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.243",
+    "lon": "106.167"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/bac-ninh-24/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "07090",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Sinh",
+      "en": "An Sinh",
+      "slug": "an-sinh-07090"
+    },
+    "code": {
+      "id": "07090",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.131",
+      "lon": "106.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06978",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Chẽ",
+      "en": "Ba Che",
+      "slug": "ba-che-06978"
+    },
+    "code": {
+      "id": "06978",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.273",
+      "lon": "107.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06673",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bãi Cháy",
+      "en": "Bai Chay",
+      "slug": "bai-chay-06673"
+    },
+    "code": {
+      "id": "06673",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.955",
+      "lon": "107.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07081",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Khê",
+      "en": "Binh Khe",
+      "slug": "binh-khe-07081"
+    },
+    "code": {
+      "id": "07081",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.107",
+      "lon": "106.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06838",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Liêu",
+      "en": "Binh Lieu",
+      "slug": "binh-lieu-06838"
+    },
+    "code": {
+      "id": "06838",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.526",
+      "lon": "107.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06967",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cái Chiên",
+      "en": "Cai Chien",
+      "slug": "cai-chien-06967"
+    },
+    "code": {
+      "id": "06967",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.324",
+      "lon": "107.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06793",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Phả",
+      "en": "Cam Pha",
+      "slug": "cam-pha-06793"
+    },
+    "code": {
+      "id": "06793",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.01",
+      "lon": "107.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06658",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cao Xanh",
+      "en": "Cao Xanh",
+      "slug": "cao-xanh-06658"
+    },
+    "code": {
+      "id": "06658",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.974",
+      "lon": "107.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07192",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cô Tô",
+      "en": "Co To",
+      "slug": "co-to-07192"
+    },
+    "code": {
+      "id": "07192",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.99",
+      "lon": "107.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06781",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cửa Ông",
+      "en": "Cua Ong",
+      "slug": "cua-ong-06781"
+    },
+    "code": {
+      "id": "06781",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.005",
+      "lon": "107.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06895",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đầm Hà",
+      "en": "Dam Ha",
+      "slug": "dam-ha-06895"
+    },
+    "code": {
+      "id": "06895",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.353",
+      "lon": "107.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06874",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điền Xá",
+      "en": "Dien Xa",
+      "slug": "dien-xa-06874"
+    },
+    "code": {
+      "id": "06874",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.372",
+      "lon": "107.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07135",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Mai",
+      "en": "Dong Mai",
+      "slug": "dong-mai-07135"
+    },
+    "code": {
+      "id": "07135",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.004",
+      "lon": "106.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06877",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Ngũ",
+      "en": "Dong Ngu",
+      "slug": "dong-ngu-06877"
+    },
+    "code": {
+      "id": "06877",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.336",
+      "lon": "107.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07093",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Triều",
+      "en": "Dong Trieu",
+      "slug": "dong-trieu-07093"
+    },
+    "code": {
+      "id": "07093",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.084",
+      "lon": "106.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06946",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đường Hoa",
+      "en": "Duong Hoa",
+      "slug": "duong-hoa-06946"
+    },
+    "code": {
+      "id": "06946",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.454",
+      "lon": "107.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07168",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà An",
+      "en": "Ha An",
+      "slug": "ha-an-07168"
+    },
+    "code": {
+      "id": "07168",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.919",
+      "lon": "106.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06676",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Lầm",
+      "en": "Ha Lam",
+      "slug": "ha-lam-06676"
+    },
+    "code": {
+      "id": "06676",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.965",
+      "lon": "107.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06688",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạ Long",
+      "en": "Ha Long",
+      "slug": "ha-long-06688"
+    },
+    "code": {
+      "id": "06688",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.947",
+      "lon": "107.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06652",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Tu",
+      "en": "Ha Tu",
+      "slug": "ha-tu-06652"
+    },
+    "code": {
+      "id": "06652",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.968",
+      "lon": "107.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06799",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Hòa",
+      "en": "Hai Hoa",
+      "slug": "hai-hoa-06799"
+    },
+    "code": {
+      "id": "06799",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.146",
+      "lon": "107.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06886",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Lạng",
+      "en": "Hai Lang",
+      "slug": "hai-lang-06886"
+    },
+    "code": {
+      "id": "06886",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.319",
+      "lon": "107.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06733",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Ninh",
+      "en": "Hai Ninh",
+      "slug": "hai-ninh-06733"
+    },
+    "code": {
+      "id": "06733",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.528",
+      "lon": "107.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06724",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Sơn",
+      "en": "Hai Son",
+      "slug": "hai-son-06724"
+    },
+    "code": {
+      "id": "06724",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.642",
+      "lon": "107.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07147",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Hòa",
+      "en": "Hiep Hoa",
+      "slug": "hiep-hoa-07147"
+    },
+    "code": {
+      "id": "07147",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "106.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07114",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Quế",
+      "en": "Hoang Que",
+      "slug": "hoang-que-07114"
+    },
+    "code": {
+      "id": "07114",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.055",
+      "lon": "106.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07030",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoành Bồ",
+      "en": "Hoanh Bo",
+      "slug": "hoanh-bo-07030"
+    },
+    "code": {
+      "id": "07030",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.026",
+      "lon": "106.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06841",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoành Mô",
+      "en": "Hoanh Mo",
+      "slug": "hoanh-mo-06841"
+    },
+    "code": {
+      "id": "06841",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.596",
+      "lon": "107.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06685",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Gai",
+      "en": "Hong Gai",
+      "slug": "hong-gai-06685"
+    },
+    "code": {
+      "id": "06685",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "107.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06979",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kỳ Thượng",
+      "en": "Ky Thuong",
+      "slug": "ky-thuong-06979"
+    },
+    "code": {
+      "id": "06979",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.195",
+      "lon": "107.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07180",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Liên Hòa",
+      "en": "Lien Hoa",
+      "slug": "lien-hoa-07180"
+    },
+    "code": {
+      "id": "07180",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.887",
+      "lon": "106.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06856",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lục Hồn",
+      "en": "Luc Hon",
+      "slug": "luc-hon-06856"
+    },
+    "code": {
+      "id": "06856",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.558",
+      "lon": "107.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06985",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Minh",
+      "en": "Luong Minh",
+      "slug": "luong-minh-06985"
+    },
+    "code": {
+      "id": "06985",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.254",
+      "lon": "107.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07069",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mạo Khê",
+      "en": "Mao Khe",
+      "slug": "mao-khe-07069"
+    },
+    "code": {
+      "id": "07069",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.058",
+      "lon": "106.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06712",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Móng Cái 1",
+      "en": "Mong Cai 1",
+      "slug": "mong-cai-1-06712"
+    },
+    "code": {
+      "id": "06712",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.525",
+      "lon": "107.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06709",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Móng Cái 2",
+      "en": "Mong Cai 2",
+      "slug": "mong-cai-2-06709"
+    },
+    "code": {
+      "id": "06709",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.533",
+      "lon": "107.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06736",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Móng Cái 3",
+      "en": "Mong Cai 3",
+      "slug": "mong-cai-3-06736"
+    },
+    "code": {
+      "id": "06736",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.532",
+      "lon": "107.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06760",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mông Dương",
+      "en": "Mong Duong",
+      "slug": "mong-duong-06760"
+    },
+    "code": {
+      "id": "06760",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.066",
+      "lon": "107.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07183",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phong Cốc",
+      "en": "Phong Coc",
+      "slug": "phong-coc-07183"
+    },
+    "code": {
+      "id": "07183",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.892",
+      "lon": "106.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06931",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Đức",
+      "en": "Quang Duc",
+      "slug": "quang-duc-06931"
+    },
+    "code": {
+      "id": "06931",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.482",
+      "lon": "107.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06922",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Hà",
+      "en": "Quang Ha",
+      "slug": "quang-ha-06922"
+    },
+    "code": {
+      "id": "06922",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.451",
+      "lon": "107.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06778",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Hanh",
+      "en": "Quang Hanh",
+      "slug": "quang-hanh-06778"
+    },
+    "code": {
+      "id": "06778",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.003",
+      "lon": "107.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07054",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng La",
+      "en": "Quang La",
+      "slug": "quang-la-07054"
+    },
+    "code": {
+      "id": "07054",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.09",
+      "lon": "106.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06913",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Tân",
+      "en": "Quang Tan",
+      "slug": "quang-tan-06913"
+    },
+    "code": {
+      "id": "06913",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.361",
+      "lon": "107.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07132",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Yên",
+      "en": "Quang Yen",
+      "slug": "quang-yen-07132"
+    },
+    "code": {
+      "id": "07132",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.942",
+      "lon": "106.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07060",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thống Nhất",
+      "en": "Thong Nhat",
+      "slug": "thong-nhat-07060"
+    },
+    "code": {
+      "id": "07060",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.02",
+      "lon": "107.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06862",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Yên",
+      "en": "Tien Yen",
+      "slug": "tien-yen-06862"
+    },
+    "code": {
+      "id": "06862",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.331",
+      "lon": "107.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06706",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tuần Châu",
+      "en": "Tuan Chau",
+      "slug": "tuan-chau-06706"
+    },
+    "code": {
+      "id": "06706",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.973",
+      "lon": "106.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06811",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Uông Bí",
+      "en": "Uong Bi",
+      "slug": "uong-bi-06811"
+    },
+    "code": {
+      "id": "06811",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.036",
+      "lon": "106.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06994",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Đồn",
+      "en": "Van Don",
+      "slug": "van-don-06994"
+    },
+    "code": {
+      "id": "06994",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.018",
+      "lon": "107.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06820",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vàng Danh",
+      "en": "Vang Danh",
+      "slug": "vang-danh-06820"
+    },
+    "code": {
+      "id": "06820",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.034",
+      "lon": "106.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06661",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Hưng",
+      "en": "Viet Hung",
+      "slug": "viet-hung-06661"
+    },
+    "code": {
+      "id": "06661",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.995",
+      "lon": "106.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06757",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Thực",
+      "en": "Vinh Thuc",
+      "slug": "vinh-thuc-06757"
+    },
+    "code": {
+      "id": "06757",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.373",
+      "lon": "107.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06832",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Tử",
+      "en": "Yen Tu",
+      "slug": "yen-tu-06832"
+    },
+    "code": {
+      "id": "06832",
+      "iso": null
+    },
+    "parent": {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "Quảng Ninh",
+        "en": "Quang Ninh",
+        "slug": "quang-ninh-22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "Quảng Ninh",
+          "en": "Quang Ninh",
+          "slug": "quang-ninh-22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.044",
+      "lon": "106.711"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "30682",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Thoại Sơn",
+    "en": "Thoai Son",
+    "slug": "thoai-son-30682"
+  },
+  "code": {
+    "id": "30682",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.279",
+    "lon": "105.269"
+  },
+  "metadata": {},
+  "source": {}
+}

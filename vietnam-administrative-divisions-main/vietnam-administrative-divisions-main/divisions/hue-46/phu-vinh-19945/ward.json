@@ -1,0 +1,45 @@
+{
+  "id": "19945",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Phú Vinh",
+    "en": "Phu Vinh",
+    "slug": "phu-vinh-19945"
+  },
+  "code": {
+    "id": "19945",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.433",
+    "lon": "107.785"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Mi Hòa, Huyện Kim Bôi, Tỉnh Hoà Bình",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1676/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ",
+        "line": "102. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cuối Hạ, Mỵ Hòa và Nuông Dăm thành xã mới có tên gọi là xã Dũng Tiến."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Phú Thọ",
+      "ward_code": "05086",
+      "ward_name": "Xã Dũng Tiến"
+    }
+  ]
+}

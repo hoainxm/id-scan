@@ -1,0 +1,45 @@
+{
+  "id": "25007",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Đinh Trang Thượng",
+    "en": "Dinh Trang Thuong",
+    "slug": "dinh-trang-thuong-25007"
+  },
+  "code": {
+    "id": "25007",
+    "iso": null
+  },
+  "parent": {
+    "id": "68",
+    "level": 1,
+    "name": {
+      "local": "Lâm Đồng",
+      "en": "Lam Dong",
+      "slug": "lam-dong-68"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "68",
+      "level": 1,
+      "name": {
+        "local": "Lâm Đồng",
+        "en": "Lam Dong",
+        "slug": "lam-dong-68"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.716",
+    "lon": "107.99"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hòa Điền, Huyện Kiên Lương, Tỉnh Kiên Giang",
+  "ellapsedInMs": 11561,
+  "estimatedCost": 0.0046022,
+  "thought": "**Analyzing the Mapping of \"Xã Hòa Điền, Huyện Kiên Lương, Tỉnh Kiên Giang\" to New Administrative Units**\n\nOkay, so I'm looking at this old ward: \"Xã Hòa Điền, Huyện Kiên Lương, Tỉnh Kiên Giang.\" First, I need to break it down: \"Xã Hòa Điền\" is the ward, and the province is \"Tỉnh Kiên Giang.\" The user wants me to find the equivalent in the new administrative structure.\n\nMy initial thought is to check if there are any province-level mergers. And sure enough, Resolution 60-NQ/TW states that \"Tỉnh Kiên Giang\" merged with \"Tỉnh An Giang.\" So, we're now dealing with \"Tỉnh An Giang.\"\n\nNext, I'll dive into the resolutions, focusing on anything mentioning \"Xã Hòa Điền\" or \"Kiên Lương.\" Resolution 1654/NQ-UBTVQH15 (specifically, lines 76 and 77) for An Giang looks promising.  Line 76 is a clear winner: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Kiên Bình và xã Hòa Điền thành xã mới có tên gọi là **xã Hòa Điền**.\" This explicitly states that our old \"Xã Hòa Điền\" *becomes part of* a new \"Xã Hòa Điền\"! Bingo.\n\nLine 77 mentions \"Kiên Lương,\" the old district, and the formation of a new \"Xã Kiên Lương.\"  While interesting, my focus is on finding the corresponding new ward for the *old* \"Xã Hòa Điền,\" and that previous line provides the answer.\n\nNow, I cross-reference this with the list of new wards. And there it is:  `{\"ward_code\":\"30790\",\"ward_name\":\"Xã Hòa Điền\",\"province_name\":\"Tỉnh An Giang\"}`. Perfect match!  The old \"Xã Hòa Điền\" from Kiên Giang (now An Giang) maps directly to the new \"Xã Hòa Điền\". I feel confident because the resolution directly supports this mapping.\n\nLet me just quickly check if any other wards are a possibility. Resolution 1654 does mention a new \"Xã Kiên Lương\". However, the old ward \"Xã Hòa Điền\" is *not* mentioned as contributing to the new \"Xã Kiên Lương.\" Therefore,  \"Xã Hòa Điền\" is the correct and only ward in this instance.\n\nSo, the final answer:  \"Xã Hòa Điền\" from the input maps directly to the new \"Xã Hòa Điền\" (with code 30790) in \"Tỉnh An Giang,\" based on the explicit language in Resolution 1654/NQ-UBTVQH15. I'll flag the confidence as \"high\" because this is a direct, clear mapping. I'll include the cited resolution and line for provenance.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1654/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh An Giang",
+        "line": "76. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Kiên Bình và xã Hòa Điền thành xã mới có tên gọi là xã Hòa Điền."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh An Giang",
+      "ward_code": "30790",
+      "ward_name": "Xã Hòa Điền"
+    }
+  ]
+}

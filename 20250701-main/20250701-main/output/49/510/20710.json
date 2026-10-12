@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tà Bhinh, Huyện Nam Giang, Tỉnh Quảng Nam",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1659/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Đà Nẵng",
+        "line": "72. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cà Dy, Tà Bhing và Tà Pơơ thành xã mới có tên gọi là xã Bến Giằng."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Đà Nẵng",
+      "ward_code": "20710",
+      "ward_name": "Xã Bến Giằng"
+    }
+  ]
+}

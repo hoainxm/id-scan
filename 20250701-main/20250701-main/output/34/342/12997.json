@@ -1,0 +1,18 @@
+{
+  "address": "Xã Đông Quang, Huyện Tiền Hải, Tỉnh Thái Bình",
+  "ellapsedInMs": 8829,
+  "estimatedCost": 0.0043552,
+  "thought": "**Identifying the New Administrative Unit for Xã Đông Quang**\n\nOkay, so I've got a query to find the current administrative unit for \"Xã Đông Quang, Huyện Tiền Hải, Tỉnh Thái Bình.\" My initial thought process is to break this down into a few steps.\n\nFirst, I need to account for any province mergers. Checking my resources, I see that \"Tỉnh Thái Bình\" merged with \"Hưng Yên\" to form \"Tỉnh Hưng Yên.\"  This means I'll need to look for resolutions that mention Hưng Yên, as well as the old Thái Bình, just to be thorough.\n\nNext, I need to scour the resolutions, particularly focusing on \"Đông Quang\" and \"Tiền Hải.\" I'll be looking for any mention of these names, especially if they are related to a restructuring or merger.\n\nBased on the information, I've identified the relevant resolution:  1666/NQ-UBTVQH15.  This one deals with restructuring in Hưng Yên, the new province.\n\nI looked through the relevant parts of that resolution, and finally, on line 49, I found it!  It explicitly states: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đông Xuyên, **Đông Quang**, Đông Long và Đông Trà thành xã mới có tên gọi là **xã Đông Tiền Hải**.\"  Excellent!\n\nNow, I'll quickly check my \"New wards\" list and confirm the code for \"Xã Đông Tiền Hải\" in \"Tỉnh Hưng Yên\" to be:  {\"ward_code\":\"12988\",\"ward_name\":\"Xã Đông Tiền Hải\",\"province_name\":\"Tỉnh Hưng Yên\"}.\n\nSo, based on this, I'm highly confident that the new ward is \"Xã Đông Tiền Hải,\" now part of \"Tỉnh Hưng Yên.\" This should be a straightforward answer for the user.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1666/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Hưng Yên",
+        "line": "49. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đông Xuyên, Đông Quang, Đông Long và Đông Trà thành xã mới có tên gọi là xã Đông Tiền Hải."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Hưng Yên",
+      "ward_code": "12988",
+      "ward_name": "Xã Đông Tiền Hải"
+    }
+  ]
+}

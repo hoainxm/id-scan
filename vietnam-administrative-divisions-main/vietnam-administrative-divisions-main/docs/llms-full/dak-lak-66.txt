@@ -1,0 +1,519 @@
+# Dak Lak — Vietnam Administrative Divisions
+
+> 102 commune/wards
+> Code: 66
+> Coordinates: 12.707, 108.47
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Bình Kiến (Binh Kien)
+
+Code: 22045, Coordinates: 13.126, 109.279
+
+
+### Buôn Đôn (Buon Don)
+
+Code: 24235, Coordinates: 12.879, 107.712
+
+
+### Buôn Hồ (Buon Ho)
+
+Code: 24305, Coordinates: 12.851, 108.286
+
+
+### Buôn Ma Thuột (Buon Ma Thuot)
+
+Code: 24133, Coordinates: 12.661, 108.031
+
+
+### Cư Bao (Cu Bao)
+
+Code: 24340, Coordinates: 12.79, 108.218
+
+
+### Cư M&#39;gar (Cu M&#39;gar)
+
+Code: 24280, Coordinates: 12.896, 108.07
+
+
+### Cư M&#39;ta (Cu M&#39;ta)
+
+Code: 24436, Coordinates: 12.731, 108.867
+
+
+### Cư Pơng (Cu Pong)
+
+Code: 24313, Coordinates: 13.045, 108.148
+
+
+### Cư Prao (Cu Prao)
+
+Code: 24415, Coordinates: 12.803, 108.757
+
+
+### Cư Pui (Cu Pui)
+
+Code: 24478, Coordinates: 12.512, 108.528
+
+
+### Cư Yang (Cu Yang)
+
+Code: 24406, Coordinates: 12.644, 108.632
+
+
+### Cuôr Đăng (Cuor Dang)
+
+Code: 24301, Coordinates: 12.775, 108.177
+
+
+### Đắk Liêng (Dak Lieng)
+
+Code: 24595, Coordinates: 12.397, 108.092
+
+
+### Đắk Phơi (Dak Phoi)
+
+Code: 24598, Coordinates: 12.314, 108.224
+
+
+### Dang Kang
+
+Code: 24454, Coordinates: 12.601, 108.327
+
+
+### Dliê Ya (Dlie Ya)
+
+Code: 24346, Coordinates: 13.073, 108.339
+
+
+### Đông Hòa (Dong Hoa)
+
+Code: 22258, Coordinates: 12.954, 109.349
+
+
+### Đồng Xuân (Dong Xuan)
+
+Code: 22081, Coordinates: 12.905, 108.292
+
+
+### Dray Bhăng (Dray Bhang)
+
+Code: 24561, Coordinates: 12.544, 108.172
+
+
+### Đức Bình (Duc Binh)
+
+Code: 22222, Coordinates: 12.979, 108.99
+
+
+### Dur Kmăl (Dur Kmal)
+
+Code: 24568, Coordinates: 12.47, 108.118
+
+
+### Ea Bá (Ea Ba)
+
+Code: 22225, Coordinates: 12.963, 108.825
+
+
+### Ea Bung
+
+Code: 24229, Coordinates: 13.143, 107.682
+
+
+### Ea Drăng (Ea Drang)
+
+Code: 24181, Coordinates: 13.206, 108.209
+
+
+### Ea Drông (Ea Drong)
+
+Code: 24328, Coordinates: 12.862, 108.32
+
+
+### Ea H&#39;Leo
+
+Code: 24184, Coordinates: 13.232, 108.2
+
+
+### Ea Hiao
+
+Code: 24187, Coordinates: 13.25, 108.336
+
+
+### Ea Kao
+
+Code: 24169, Coordinates: 12.598, 108.035
+
+
+### Ea Kar
+
+Code: 24373, Coordinates: 12.804, 108.505
+
+
+### Ea Khăl (Ea Khal)
+
+Code: 24208, Coordinates: 13.197, 108.189
+
+
+### Ea Kiết (Ea Kiet)
+
+Code: 24265, Coordinates: 12.996, 108.036
+
+
+### Ea Kly
+
+Code: 24496, Coordinates: 12.76, 108.409
+
+
+### Ea Knốp (Ea Knop)
+
+Code: 24376, Coordinates: 12.807, 108.541
+
+
+### Ea Knuếc (Ea Knuec)
+
+Code: 24505, Coordinates: 12.695, 108.201
+
+
+### Ea Ktur
+
+Code: 24544, Coordinates: 12.634, 108.191
+
+
+### Ea Ly
+
+Code: 22237, Coordinates: 12.818, 107.905
+
+
+### Ea M&#39;Droh
+
+Code: 24286, Coordinates: 12.903, 107.952
+
+
+### Ea Na
+
+Code: 24559, Coordinates: 12.548, 107.989
+
+
+### Ea Ning
+
+Code: 24540, Coordinates: 12.603, 108.23
+
+
+### Ea Nuôl (Ea Nuol)
+
+Code: 24250, Coordinates: 12.742, 107.937
+
+
+### Ea Ô (Ea O)
+
+Code: 24403, Coordinates: 12.653, 108.532
+
+
+### Ea Păl (Ea Pal)
+
+Code: 24400, Coordinates: 12.794, 108.462
+
+
+### Ea Phê (Ea Phe)
+
+Code: 24502, Coordinates: 12.725, 108.362
+
+
+### Ea Riêng (Ea Rieng)
+
+Code: 24433, Coordinates: 12.807, 108.867
+
+
+### Ea Rốk (Ea Rok)
+
+Code: 24217, Coordinates: 12.643, 108.51
+
+
+### Ea Súp (Ea Sup)
+
+Code: 24211, Coordinates: 13.181, 107.774
+
+
+### Ea Trang
+
+Code: 24445, Coordinates: 12.615, 108.835
+
+
+### Ea Tul
+
+Code: 24277, Coordinates: 12.903, 108.158
+
+
+### Ea Wer
+
+Code: 24241, Coordinates: 12.828, 107.868
+
+
+### Ea Wy
+
+Code: 24193, Coordinates: 13.215, 108.065
+
+
+### Hòa Hiệp (Hoa Hiep)
+
+Code: 22261, Coordinates: 13.523, 109.249
+
+
+### Hòa Mỹ (Hoa My)
+
+Code: 22285, Coordinates: 13.546, 109.252
+
+
+### Hòa Phú (Hoa Phu)
+
+Code: 24175, Coordinates: 12.683, 107.978
+
+
+### Hòa Sơn (Hoa Son)
+
+Code: 24472, Coordinates: 12.834, 108.922
+
+
+### Hòa Thịnh (Hoa Thinh)
+
+Code: 22276, Coordinates: 12.901, 109.262
+
+
+### Hòa Xuân (Hoa Xuan)
+
+Code: 22291, Coordinates: 12.501, 108.324
+
+
+### Ia Lốp (Ia Lop)
+
+Code: 24214, Coordinates: 13.314, 107.719
+
+
+### Ia Rvê (Ia Rve)
+
+Code: 24221, Coordinates: 13.228, 107.669
+
+
+### Krông Á (Krong A)
+
+Code: 24444, Coordinates: 12.877, 108.583
+
+
+### Krông Ana (Krong Ana)
+
+Code: 24538, Coordinates: 12.495, 108.077
+
+
+### Krông Bông (Krong Bong)
+
+Code: 24448, Coordinates: 12.452, 108.487
+
+
+### Krông Búk (Krong Buk)
+
+Code: 24310, Coordinates: 13.014, 108.194
+
+
+### Krông Năng (Krong Nang)
+
+Code: 24343, Coordinates: 13.001, 108.385
+
+
+### Krông Nô (Krong No)
+
+Code: 24604, Coordinates: 12.37, 107.822
+
+
+### Krông Pắc (Krong Pac)
+
+Code: 24490, Coordinates: 12.687, 108.295
+
+
+### Liên Sơn Lắk (Lien Son Lak)
+
+Code: 24580, Coordinates: 12.409, 108.174
+
+
+### M&#39;Drắk (M&#39;Drak)
+
+Code: 24412, Coordinates: 12.703, 108.831
+
+
+### Nam Ka
+
+Code: 24607, Coordinates: 12.339, 108.016
+
+
+### Ô Loan (O Loan)
+
+Code: 22147, Coordinates: 13.255, 109.258
+
+
+### Phú Hòa 1 (Phu Hoa 1)
+
+Code: 22319, Coordinates: 13.02, 109.212
+
+
+### Phú Hòa 2 (Phu Hoa 2)
+
+Code: 22303, Coordinates: 13.02, 109.212
+
+
+### Phú Mỡ (Phu Mo)
+
+Code: 22096, Coordinates: 13.433, 108.895
+
+
+### Phú Xuân (Phu Xuan)
+
+Code: 24364, Coordinates: 12.923, 108.491
+
+
+### Phú Yên (Phu Yen)
+
+Code: 22240, Coordinates: 13.2, 109.239
+
+
+### Pơng Drang (Pong Drang)
+
+Code: 24316, Coordinates: 12.963, 108.247
+
+
+### Quảng Phú (Quang Phu)
+
+Code: 24259, Coordinates: 12.817, 108.08
+
+
+### Sơn Hòa (Son Hoa)
+
+Code: 22165, Coordinates: 13.207, 108.987
+
+
+### Sơn Thành (Son Thanh)
+
+Code: 22250, Coordinates: 12.95, 109.102
+
+
+### Sông Cầu (Song Cau)
+
+Code: 22051, Coordinates: 13.526, 109.177
+
+
+### Sông Hinh (Song Hinh)
+
+Code: 22207, Coordinates: 12.8, 108.936
+
+
+### Suối Trai (Suoi Trai)
+
+Code: 22192, Coordinates: 13.094, 108.86
+
+
+### Tam Giang
+
+Code: 24352, Coordinates: 13.039, 108.443
+
+
+### Tân An (Tan An)
+
+Code: 24163, Coordinates: 12.71, 108.109
+
+
+### Tân Lập (Tan Lap)
+
+Code: 24121, Coordinates: 12.686, 108.094
+
+
+### Tân Tiến (Tan Tien)
+
+Code: 24526, Coordinates: 12.778, 108.068
+
+
+### Tây Hòa (Tay Hoa)
+
+Code: 22255, Coordinates: 12.915, 109.164
+
+
+### Tây Sơn (Tay Son)
+
+Code: 22171, Coordinates: 13.281, 108.942
+
+
+### Thành Nhất (Thanh Nhat)
+
+Code: 24154, Coordinates: 12.644, 108.005
+
+
+### Tuy An Bắc (Tuy An Bac)
+
+Code: 22114, Coordinates: 13.306, 109.213
+
+
+### Tuy An Đông (Tuy An Dong)
+
+Code: 22120, Coordinates: 13.259, 109.211
+
+
+### Tuy An Nam
+
+Code: 22153, Coordinates: 13.259, 109.211
+
+
+### Tuy An Tây (Tuy An Tay)
+
+Code: 22132, Coordinates: 13.259, 109.211
+
+
+### Tuy Hòa (Tuy Hoa)
+
+Code: 22015, Coordinates: 13.095, 109.299
+
+
+### Vân Hòa (Van Hoa)
+
+Code: 22177, Coordinates: 13.179, 109.082
+
+
+### Vụ Bổn (Vu Bon)
+
+Code: 24529, Coordinates: 12.617, 108.452
+
+
+### Xuân Cảnh (Xuan Canh)
+
+Code: 22060, Coordinates: 13.563, 109.221
+
+
+### Xuân Đài (Xuan Dai)
+
+Code: 22076, Coordinates: 13.397, 109.213
+
+
+### Xuân Lãnh (Xuan Lanh)
+
+Code: 22090, Coordinates: 13.502, 109.038
+
+
+### Xuân Lộc (Xuan Loc)
+
+Code: 22057, Coordinates: 12.924, 108.356
+
+
+### Xuân Phước (Xuan Phuoc)
+
+Code: 22111, Coordinates: 13.3, 109.062
+
+
+### Xuân Thọ (Xuan Tho)
+
+Code: 22075, Coordinates: 13.489, 109.163
+
+
+### Yang Mao
+
+Code: 24484, Coordinates: 12.414, 108.572
+
+

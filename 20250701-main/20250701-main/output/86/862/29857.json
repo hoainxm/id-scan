@@ -1,0 +1,18 @@
+{
+  "address": "Xã Lục Sỹ Thành, Huyện Trà Ôn, Tỉnh Vĩnh Long",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1687/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Vĩnh Long",
+        "line": "15. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phú Thành và xã Lục Sĩ Thành thành xã mới có tên gọi là**xã Lục Sĩ Thành**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Vĩnh Long",
+      "ward_code": "29857",
+      "ward_name": "Xã Lục Sĩ Thành"
+    }
+  ]
+}

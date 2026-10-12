@@ -1,0 +1,45 @@
+{
+  "id": "03004",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Ngũ Chỉ Sơn",
+    "en": "Ngu Chi Son",
+    "slug": "ngu-chi-son-03004"
+  },
+  "code": {
+    "id": "03004",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.417",
+    "lon": "103.785"
+  },
+  "metadata": {},
+  "source": {}
+}

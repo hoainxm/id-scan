@@ -1,0 +1,45 @@
+{
+  "id": "01279",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nùng Trí Cao",
+    "en": "Nung Tri Cao",
+    "slug": "nung-tri-cao-01279"
+  },
+  "code": {
+    "id": "01279",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.688",
+    "lon": "106.249"
+  },
+  "metadata": {},
+  "source": {}
+}

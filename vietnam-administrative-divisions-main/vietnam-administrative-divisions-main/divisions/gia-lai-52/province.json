@@ -1,0 +1,33 @@
+{
+  "id": "52",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Gia Lai",
+    "en": "Gia Lai",
+    "slug": "gia-lai-52"
+  },
+  "code": {
+    "id": "52",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 135
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.89",
+    "lon": "108.438"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/gia-lai-52/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

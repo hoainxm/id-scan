@@ -1,0 +1,33 @@
+{
+  "id": "44",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Quảng Trị",
+    "en": "Quang Tri",
+    "slug": "quang-tri-44"
+  },
+  "code": {
+    "id": "44",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 78
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.241",
+    "lon": "106.527"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/quang-tri-44/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

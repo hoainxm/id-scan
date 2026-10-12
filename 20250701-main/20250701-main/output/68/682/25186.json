@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phù Mỹ, Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: Thị trấn Cát Tiên là đơn vị hành chính cấp xã, trực thuộc huyện Đạ Huoai, trên cơ sở sáp nhập xã Phù Mỹ và thị trấn Đồng Nai, theo Nghị quyết 134/NQ-CP ngày 29/12/2013 của Chính Phủ.",
+  "result": [
+    {
+      "citation": {
+        "header": "1671/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lâm Đồng",
+        "line": "38. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Cát Tiên, xã Nam Ninh và xã Quảng Ngãi thành xã mới có tên gọi là xã Cát Tiên."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lâm Đồng",
+      "ward_code": "25159",
+      "ward_name": "Xã Cát Tiên"
+    }
+  ]
+}

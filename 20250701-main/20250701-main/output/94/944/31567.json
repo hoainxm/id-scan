@@ -1,0 +1,18 @@
+{
+  "address": "Thị trấn Huỳnh Hữu Nghĩa, Huyện Mỹ Tú, Tỉnh Sóc Trăng",
+  "ellapsedInMs": 15554,
+  "estimatedCost": 0.003653,
+  "thought": "**Navigating the Administrative Unit Restructuring for Huỳnh Hữu Nghĩa**\n\nOkay, let's break this down. The user's request is clear: find the new administrative unit for \"Thị trấn Huỳnh Hữu Nghĩa, Huyện Mỹ Tú, Tỉnh Sóc Trăng.\"  First, I need to understand that the user mentioned districts are being eliminated, so the focus will be on ward-level changes within the new provinces.\n\nKnowing that \"Tỉnh Sóc Trăng\" is now part of something else, I quickly consult the provided list of province-level reorganizations (specifically, based on Resolution 60-NQ/TW). Bingo! Item 19 confirms that Sóc Trăng merged with Hậu Giang to form \"Thành phố Cần Thơ.\"  This means my search now centers around Cần Thơ.\n\nNext, I need to identify any specific changes to wards and communes within Cần Thơ. I carefully examine the resolutions provided, focusing on those related to ward-level reorganization within Cần Thơ.  Resolution `1668/NQ-UBTVQH15` catches my eye because it specifically deals with reorganization within Cần Thơ.\n\nLine 82 of that resolution is the key. It clearly states that \"Thị trấn Huỳnh Hữu Nghĩa,\" along with \"xã Mỹ Thuận\" and \"xã Mỹ Tú,\" were merged to form a new ward named \"Xã Mỹ Tú.\" This is precisely what I needed!\n\nNow, I cross-reference this finding with the provided list of new wards.  I confirm the new ward \"Xã Mỹ Tú\" with the code \"31567\" and its location within \"Thành phố Cần Thơ.\" This data aligns perfectly with the information from Resolution 1668.\n\nFinally, I'll compile this information into the required JSON structure.  The resolution serves as my primary source, and I'll cite the relevant line directly.  Given the explicit mention of \"Thị trấn Huỳnh Hữu Nghĩa\" in the resolution, I'm highly confident in this finding.  I have the ward name, code, and province name, completing the response.  The JSON output will represent this accurately and efficiently.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "82. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Huỳnh Hữu Nghĩa, xã Mỹ Thuận và xã Mỹ Tú thành xã mới có tên gọi là xã Mỹ Tú."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31567",
+      "ward_name": "Xã Mỹ Tú"
+    }
+  ]
+}

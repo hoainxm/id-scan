@@ -1,0 +1,118 @@
+# Vietnam Administrative Divisions
+
+> Open dataset of Vietnam's administrative hierarchy:
+> 34 province/citys, 3,321 commune/wards.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total province/citys: 34
+- Total commune/wards: 3,321
+- Coordinates: included (all levels)
+- Last updated: 2026-09-08
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All province/citys (JSON)](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/data/all-province.json)
+- [All commune/wards (JSON)](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/data/all-ward.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/data/schema.json)
+
+## Browse by Province/City
+
+- [Hanoi](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/ha-noi-01/) — 126 commune/wards
+- [Cao Bang](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/cao-bang-04/) — 56 commune/wards
+- [Tuyen Quang](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/tuyen-quang-08/) — 124 commune/wards
+- [Dien Bien](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/dien-bien-11/) — 45 commune/wards
+- [Lai Chau](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/lai-chau-12/) — 38 commune/wards
+- [Son La](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/son-la-14/) — 75 commune/wards
+- [Lao Cai](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/lao-cai-15/) — 99 commune/wards
+- [Thai Nguyen](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/thai-nguyen-19/) — 92 commune/wards
+- [Lang Son](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/lang-son-20/) — 65 commune/wards
+- [Quang Ninh](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/quang-ninh-22/) — 54 commune/wards
+- [Bac Ninh](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/bac-ninh-24/) — 99 commune/wards
+- [Phu Tho](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/phu-tho-25/) — 148 commune/wards
+- [Hai Phong](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/hai-phong-31/) — 114 commune/wards
+- [Hung Yen](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/hung-yen-33/) — 104 commune/wards
+- [Ninh Binh](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/ninh-binh-37/) — 129 commune/wards
+- [Thanh Hoa](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/thanh-hoa-38/) — 166 commune/wards
+- [Nghe An](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/nghe-an-40/) — 130 commune/wards
+- [Ha Tinh](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/ha-tinh-42/) — 69 commune/wards
+- [Quang Tri](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/quang-tri-44/) — 78 commune/wards
+- [Hue](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/hue-46/) — 40 commune/wards
+- [Da Nang](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/da-nang-48/) — 94 commune/wards
+- [Quang Ngai](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/quang-ngai-51/) — 96 commune/wards
+- [Gia Lai](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/gia-lai-52/) — 135 commune/wards
+- [Khanh Hoa](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/khanh-hoa-56/) — 65 commune/wards
+- [Dak Lak](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/dak-lak-66/) — 102 commune/wards
+- [Lam Dong](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/lam-dong-68/) — 124 commune/wards
+- [Dong Nai](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/dong-nai-75/) — 95 commune/wards
+- [Ho Chi Minh City](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/ho-chi-minh-79/) — 168 commune/wards
+- [Tay Ninh](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/tay-ninh-80/) — 96 commune/wards
+- [Dong Thap](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/dong-thap-82/) — 102 commune/wards
+- [Vinh Long](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/vinh-long-86/) — 124 commune/wards
+- [An Giang](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/an-giang-91/) — 102 commune/wards
+- [Can Tho](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/can-tho-92/) — 103 commune/wards
+- [Ca Mau](https://github.com/open-admin-data/vietnam-administrative-divisions/tree/main/divisions/ca-mau-96/) — 64 commune/wards
+
+## Per-Province/City Full Data
+
+- [Hanoi](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/ha-noi-01.txt)
+- [Cao Bang](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/cao-bang-04.txt)
+- [Tuyen Quang](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/tuyen-quang-08.txt)
+- [Dien Bien](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/dien-bien-11.txt)
+- [Lai Chau](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/lai-chau-12.txt)
+- [Son La](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/son-la-14.txt)
+- [Lao Cai](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/lao-cai-15.txt)
+- [Thai Nguyen](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/thai-nguyen-19.txt)
+- [Lang Son](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/lang-son-20.txt)
+- [Quang Ninh](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/quang-ninh-22.txt)
+- [Bac Ninh](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/bac-ninh-24.txt)
+- [Phu Tho](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/phu-tho-25.txt)
+- [Hai Phong](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/hai-phong-31.txt)
+- [Hung Yen](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/hung-yen-33.txt)
+- [Ninh Binh](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/ninh-binh-37.txt)
+- [Thanh Hoa](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/thanh-hoa-38.txt)
+- [Nghe An](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/nghe-an-40.txt)
+- [Ha Tinh](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/ha-tinh-42.txt)
+- [Quang Tri](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/quang-tri-44.txt)
+- [Hue](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/hue-46.txt)
+- [Da Nang](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/da-nang-48.txt)
+- [Quang Ngai](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/quang-ngai-51.txt)
+- [Gia Lai](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/gia-lai-52.txt)
+- [Khanh Hoa](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/khanh-hoa-56.txt)
+- [Dak Lak](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/dak-lak-66.txt)
+- [Lam Dong](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/lam-dong-68.txt)
+- [Dong Nai](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/dong-nai-75.txt)
+- [Ho Chi Minh City](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/ho-chi-minh-79.txt)
+- [Tay Ninh](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/tay-ninh-80.txt)
+- [Dong Thap](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/dong-thap-82.txt)
+- [Vinh Long](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/vinh-long-86.txt)
+- [An Giang](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/an-giang-91.txt)
+- [Can Tho](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/can-tho-92.txt)
+- [Ca Mau](https://raw.githubusercontent.com/open-admin-data/vietnam-administrative-divisions/main/docs/llms-full/ca-mau-96.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province/city), 2 (commune/ward)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Vietnam Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/vietnam-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

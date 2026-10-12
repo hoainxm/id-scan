@@ -1,0 +1,18 @@
+{
+  "address": "Xã Thanh Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình",
+  "ellapsedInMs": 17966,
+  "estimatedCost": 0.0049752,
+  "thought": "**Analyzing the Administrative Change of Xã Thanh Sơn**\n\nOkay, I'm dealing with \"Xã Thanh Sơn, Huyện Lương Sơn, Tỉnh Hoà Bình\" and need to find its current administrative unit. First, I know Hòa Bình merged into Phú Thọ, so I need to focus on Phú Thọ's resolutions. I'll analyze resolution 1676 for Phú Thọ.\n\nLine 117 catches my eye: it mentions \"Xã Thanh Sơn\" and a merger with two other wards to create \"Xã Cao Dương\". The surrounding lines (116 & 118) explicitly mention \"huyện Lương Sơn\", which strongly suggests this \"Thanh Sơn\" is the one from the old Lương Sơn district in Hòa Bình. So, this confirms that \"Xã Thanh Sơn\" is now part of the new \"Xã Cao Dương\" within Phú Thọ.\n\nTo be sure, I'll check for any other \"Xã Thanh Sơn\" mentions. Line 41 is a good check; it's about the old town \"thị trấn Thanh Sơn\" merging into a new \"xã Thanh Sơn\", which is clearly about an area of Thanh Sơn district and does not apply here. Line 43 is about \"huyện Thanh Sơn\", another irrelevant district.\n\nLine 117 is the key here. The confidence is high as I've found an entry with a specific merger. I'll provide a JSON with the new ward details. My JSON response will include the new province name, the new ward name from the resolution, the relevant ward code from the provided data, a high confidence level, and a citation to the resolution line.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1676/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ",
+        "line": "117. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thanh Cao, Thanh Sơn và Cao Dương thành xã mới có tên gọi là xã Cao Dương."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Phú Thọ",
+      "ward_code": "05047",
+      "ward_name": "Xã Cao Dương"
+    }
+  ]
+}

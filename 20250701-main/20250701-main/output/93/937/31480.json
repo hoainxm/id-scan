@@ -1,0 +1,18 @@
+{
+  "address": "Xã Long Phú, Thị xã Long Mỹ, Tỉnh Hậu Giang",
+  "ellapsedInMs": 25814,
+  "estimatedCost": 0.0067824,
+  "thought": "**Finding the New Administrative Unit for Xã Long Phú**\n\nOkay, here's the deal: I'm trying to figure out what happened to \"Xã Long Phú, Thị xã Long Mỹ, Tỉnh Hậu Giang.\" First, I know that \"Tỉnh Hậu Giang\" merged into \"Thành phố Cần Thơ\" – that's settled by Resolution 60-NQ/TW. Now, I need to check Resolution 1668/NQ-UBTVQH15, the one about restructuring wards in Cần Thơ.\n\nI scanned the resolution and found two potential matches: line 20 mentions \"xã Long Phú\" being reorganized into \"**phường Long Phú 1**,\" and line 72 merges \"thị trấn Long Phú\" and \"xã Long Phú\" to form a new \"**xã Long Phú**.\" The problem is, neither line specifically links that \"xã Long Phú\" to the \"Thị xã Long Mỹ\" I started with.\n\nWhile the resolution *does* contain mentions of units from \"Thị xã Long Mỹ,\" like \"phường Thuận An,\" it doesn't confirm these specific two *phường* and *xã* names are of from the Thị xã. It's possible that there were other \"Xã Long Phú\" units from other merged provinces, like \"Huyện Long Phú,\" which is now a part of \"Thành phố Cần Thơ.\"\n\nBoth the new unit \"phường Long Phú 1\" and the new unit \"xã Long Phú\" appear in the list of new wards for \"Thành phố Cần Thơ\" with codes 31480 and 31639, respectively.\n\nSince I can't definitively connect the original \"Xã Long Phú\" from \"Thị xã Long Mỹ\" to either \"phường Long Phú 1\" or \"xã Long Phú\" in the resolution with certainty, I'll have to present both options with low confidence:\n*   **\"Phường Long Phú 1\" (31480):** Cited from line 20.\n*   **\"Xã Long Phú\" (31639):** Cited from line 72.\n\nI need to flag this ambiguity, but this is the best I can do with the available information.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "20. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Trà Lồng, xã Tân Phú và xã Long Phú thành phường mới có tên gọi là **phường Long Phú 1**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31480",
+      "ward_name": "Phường Long Phú 1"
+    }
+  ]
+}

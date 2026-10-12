@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tân Phong, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",
+  "ellapsedInMs": 18092,
+  "estimatedCost": 0.0042299,
+  "thought": "**Analysis of Ward Restructuring in Light of Province Mergers**\n\nOkay, here's my thought process. I need to figure out the new administrative unit for \"Xã Tân Phong, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc.\" First, I break down the old unit's information: ward, district, and province.  Then, I consult Resolution 60-NQ/TW regarding province mergers.  This tells me Vĩnh Phúc merged with other provinces to become Phú Thọ.  Now, the hunt begins for resolutions concerning ward changes within the new province, Phú Thọ.\n\nI focused on Resolution `1676/NQ-UBTVQH15`, specifically targeting ward restructuring within Phú Thọ. Line 87 of this resolution immediately catches my eye: it details the merger of \"xã Tân Phong\" along with other entities into a new unit named \"xã Xuân Lãng.\" Bingo! This is a perfect match. I also note that \"xã Bình Xuyên\" is mentioned in the same resolution in a separate line, but that's likely a coincidence, although potentially helpful to cross-check later.\n\nThe key is line 87: the explicit mention of \"xã Tân Phong\" being subsumed into \"xã Xuân Lãng\" within the Phú Thọ context provides strong and direct evidence.  Now, I just need to verify this against the available data.  I look for \"Xã Xuân Lãng\" in the provided list. There it is, with the province and the ward code:  `{\"ward_code\":\"08971\",\"ward_name\":\"Xã Xuân Lãng\",\"province_name\":\"Tỉnh Phú Thọ\"}`. Excellent.  This confirms my findings.\n\nThe old ward's name and its connection to Phú Thọ through the province merger, directly cited in the resolution, gives me high confidence.  I construct my JSON response with the information. The province will be Phú Thọ, the new ward is Xuân Lãng, and the code is 08971, with a high confidence level due to the clear link provided by the resolution. I'll cite the relevant portion of Resolution `1676/NQ-UBTVQH15`, line 87 as the basis for my answer. The logic is sound, the evidence is strong, and I've found my answer. This is a very clear mapping. I'm ready to proceed with the single JSON object.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1676/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ",
+        "line": "87. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Thanh Lãng, thị trấn Đạo Đức, xã Tân Phong và xã Phú Xuân thành xã mới có tên gọi là xã Xuân Lãng."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Phú Thọ",
+      "ward_code": "08971",
+      "ward_name": "Xã Xuân Lãng"
+    }
+  ]
+}

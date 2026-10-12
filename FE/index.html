@@ -1,0 +1,1057 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Trích xuất tự động từ giấy tờ</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!-- SheetJS để xuất Excel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+  </head>
+
+  <body>
+    <!-- =========================================================
+         TRANG CHÍNH
+    ========================================================== -->
+
+    <div class="page-bg">
+      <div class="logo-container">
+        <img src="images/anviet-logo-512h.png" alt="AnViet" class="logo" />
+
+        <button id="openModalBtn" class="btn btn-primary" type="button">
+          Mở Trích xuất tự động từ giấy tờ
+        </button>
+      </div>
+    </div>
+
+    <!-- =========================================================
+         MODAL: TRÍCH XUẤT TỰ ĐỘNG
+    ========================================================== -->
+
+    <div id="extractModal" class="modal-overlay hidden">
+      <div class="modal-box">
+        <!-- ================= HEADER ================= -->
+
+        <div class="modal-header">
+          <h2 id="extractTitle">Trích xuất tự động từ giấy tờ</h2>
+
+          <div class="header-actions">
+            <button class="btn btn-link" id="openProfileListBtn" type="button">
+              🗂 Danh sách hồ sơ
+            </button>
+
+            <button class="icon-btn" id="closeExtractBtn" type="button">
+              &times;
+            </button>
+          </div>
+        </div>
+
+        <!-- ================= BODY ================= -->
+
+        <div class="modal-body">
+          <!-- =====================================================
+               CỘT 1: SIDEBAR
+          ====================================================== -->
+
+          <aside class="doc-sidebar" id="docSidebar">
+            <div class="doc-sidebar-item active" data-type="cmnd">
+              <span class="doc-icon">🪪</span>
+              CMND/CCCD
+            </div>
+
+            <div class="doc-sidebar-item" data-type="passport">
+              <span class="doc-icon">📘</span>
+              Hộ chiếu
+            </div>
+
+            <div class="doc-sidebar-item" data-type="degree">
+              <span class="doc-icon">🎓</span>
+              Bằng cấp
+            </div>
+
+            <div class="doc-sidebar-item" data-type="cert">
+              <span class="doc-icon">📜</span>
+              Chứng chỉ
+            </div>
+
+            <div class="doc-sidebar-item" data-type="cv">
+              <span class="doc-icon">📄</span>
+              CV
+            </div>
+          </aside>
+
+          <!-- =====================================================
+               CỘT 2: UPLOAD
+          ====================================================== -->
+
+          <section class="doc-upload-panel" id="docUploadPanel">
+            <!-- Lưu ý -->
+
+            <div class="note-box">
+              <strong>Lưu ý:</strong>
+
+              <ul>
+                <li>
+                  Sử dụng cùng 1 loại giấy tờ để chụp ảnh mặt trước và mặt sau.
+                </li>
+
+                <li>Bảo đảm giấy tờ không bị mất góc, bấm lỗ.</li>
+
+                <li>Bảo đảm ảnh sáng không quá chói hay quá tối.</li>
+
+                <li>Là bản gốc.</li>
+
+                <li>
+                  Với Thẻ căn cước từ năm 2024 thì chỉ cần chụp ảnh mặt sau để
+                  trích rút thông tin.
+                </li>
+              </ul>
+            </div>
+
+            <!-- Tiêu đề upload -->
+
+            <div class="upload-title">
+              <span class="upload-icon">📷</span>
+              Tải lên ảnh CMND/CCCD
+            </div>
+
+            <!-- ================= MẶT TRƯỚC ================= -->
+
+            <label class="upload-box" for="frontImageInput">
+              <input
+                type="file"
+                id="frontImageInput"
+                accept=".png,.jpg,.jpeg"
+                hidden
+              />
+
+              <div class="upload-inner" id="frontPreviewWrap">
+                <div class="upload-placeholder" id="frontPlaceholder">
+                  <div class="upload-circle">⬆</div>
+
+                  <div>
+                    <span class="link-text"> Chọn ảnh </span>
+                    hoặc kéo ảnh
+                    <b>mặt trước</b>
+                    vào đây
+                  </div>
+
+                  <div class="upload-hint">
+                    Lưu ý: Kích thước ảnh lớn hơn 640 x 480
+                    <br />
+                    định dạng .PNG, .JPG, .JPEG
+                  </div>
+                </div>
+              </div>
+            </label>
+
+            <!-- ================= MẶT SAU ================= -->
+
+            <label class="upload-box" for="backImageInput">
+              <input
+                type="file"
+                id="backImageInput"
+                accept=".png,.jpg,.jpeg"
+                hidden
+              />
+
+              <div class="upload-inner" id="backPreviewWrap">
+                <div class="upload-placeholder" id="backPlaceholder">
+                  <div class="upload-circle">⬆</div>
+
+                  <div>
+                    <span class="link-text"> Chọn ảnh </span>
+                    hoặc kéo ảnh
+                    <b>mặt sau</b>
+                    vào đây
+                  </div>
+
+                  <div class="upload-hint">
+                    Lưu ý: Kích thước ảnh lớn hơn 640 x 480
+                    <br />
+                    định dạng .PNG, .JPG, .JPEG
+                  </div>
+                </div>
+              </div>
+            </label>
+          </section>
+
+          <!-- =====================================================
+               CỘT 3: FORM
+          ====================================================== -->
+
+          <section class="doc-form-panel">
+            <!-- ================= ẢNH CHÂN DUNG ================= -->
+
+            <div class="avatar-row">
+              <div class="avatar-circle" id="avatarCircle">
+                <span id="avatarPlaceholderIcon"> 👤 </span>
+
+                <img id="avatarImg" class="hidden" alt="Ảnh chân dung" />
+
+                <div class="avatar-camera">📷</div>
+              </div>
+            </div>
+
+            <!-- =================================================
+                 FORM
+            ================================================== -->
+
+            <form id="profileForm">
+              <!-- =================================================
+                   THÔNG TIN CHUNG
+              ================================================== -->
+
+              <div class="form-section">
+                <div class="form-section-title" data-target="secChung">
+                  Thông tin chung
+                  <span class="chev">⌃</span>
+                </div>
+
+                <div class="form-grid" id="secChung">
+                  <!-- Họ và đệm -->
+
+                  <div class="field">
+                    <label for="hoDem"> Họ và đệm </label>
+
+                    <input type="text" id="hoDem" name="hoDem" />
+                  </div>
+
+                  <!-- Ngày sinh -->
+
+                  <div class="field">
+                    <label for="ngaySinh"> Ngày sinh </label>
+
+                    <input
+                      type="text"
+                      id="ngaySinh"
+                      name="ngaySinh"
+                      placeholder="DD/MM/YYYY"
+                    />
+                  </div>
+
+                  <!-- Tên -->
+
+                  <div class="field">
+                    <label for="ten"> Tên </label>
+
+                    <input type="text" id="ten" name="ten" />
+                  </div>
+
+                  <!-- Nguyên quán -->
+
+                  <div class="field">
+                    <label for="nguyenQuan"> Nguyên quán </label>
+
+                    <input type="text" id="nguyenQuan" name="nguyenQuan" />
+                  </div>
+
+                  <!-- Họ và tên -->
+
+                  <div class="field">
+                    <label for="hoTen"> Họ và tên </label>
+
+                    <input
+                      type="text"
+                      id="hoTen"
+                      name="hoTen"
+                      readonly
+                      class="readonly-field"
+                    />
+                  </div>
+
+                  <!-- ================= DÂN TỘC ================= -->
+
+                  <div class="field">
+                    <label for="danToc"> Dân tộc </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="danToc"
+                          name="danToc"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách dân tộc"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="danTocOptions">
+                        <div class="combobox-option">Kinh</div>
+
+                        <div class="combobox-option">Tày</div>
+
+                        <div class="combobox-option">Mường</div>
+
+                        <div class="combobox-option">Dao</div>
+
+                        <div class="combobox-option">Thái</div>
+
+                        <div class="combobox-option">Nùng</div>
+
+                        <div class="combobox-option">Hmông</div>
+
+                        <div class="combobox-option">Khmer</div>
+
+                        <div class="combobox-option">Hoa</div>
+
+                        <div class="combobox-option">Chăm</div>
+
+                        <div class="combobox-option">Gia Rai</div>
+
+                        <div class="combobox-option">Ê Đê</div>
+
+                        <div class="combobox-option">Ba Na</div>
+
+                        <div class="combobox-option">Xơ Đăng</div>
+
+                        <div class="combobox-option">Sán Dìu</div>
+
+                        <div class="combobox-option">Thổ</div>
+
+                        <div class="combobox-option">Cơ Ho</div>
+
+                        <div class="combobox-option">Mạ</div>
+
+                        <div class="combobox-option">Chơ Ro</div>
+
+                        <div class="combobox-option">Khác</div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- ================= GIỚI TÍNH ================= -->
+
+                  <div class="field">
+                    <label for="gioiTinh"> Giới tính </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="gioiTinh"
+                          name="gioiTinh"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách giới tính"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="gioiTinhOptions">
+                        <div class="combobox-option" data-value="Nam">Nam</div>
+
+                        <div class="combobox-option" data-value="Nữ">Nữ</div>
+
+                        <div class="combobox-option" data-value="Khác">
+                          Khác
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- ================= QUỐC TỊCH ================= -->
+
+                  <div class="field">
+                    <label for="quocTich"> Quốc tịch </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="quocTich"
+                          name="quocTich"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách quốc tịch"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="quocTichOptions">
+                        <div class="combobox-option">Việt Nam</div>
+
+                        <div class="combobox-option">Lào</div>
+
+                        <div class="combobox-option">Trung Quốc</div>
+
+                        <div class="combobox-option">Campuchia</div>
+
+                        <div class="combobox-option">Thái Lan</div>
+
+                        <div class="combobox-option">Myanmar</div>
+
+                        <div class="combobox-option">Malaysia</div>
+
+                        <div class="combobox-option">Singapore</div>
+
+                        <div class="combobox-option">Indonesia</div>
+
+                        <div class="combobox-option">Philippines</div>
+
+                        <div class="combobox-option">Nhật Bản</div>
+
+                        <div class="combobox-option">Hàn Quốc</div>
+
+                        <div class="combobox-option">Hoa Kỳ</div>
+
+                        <div class="combobox-option">Úc</div>
+
+                        <div class="combobox-option">Canada</div>
+
+                        <div class="combobox-option">Pháp</div>
+
+                        <div class="combobox-option">Đức</div>
+
+                        <div class="combobox-option">Anh</div>
+
+                        <div class="combobox-option">Khác</div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Nơi sinh -->
+
+                  <div class="field">
+                    <label for="noiSinh"> Nơi sinh </label>
+
+                    <input type="text" id="noiSinh" name="noiSinh" />
+                  </div>
+                </div>
+              </div>
+
+              <!-- =================================================
+                   GIẤY TỜ
+              ================================================== -->
+
+              <div class="form-section">
+                <div class="form-section-title" data-target="secGiayTo">
+                  CMND/Thẻ căn cước/Hộ chiếu
+                  <span class="chev">⌃</span>
+                </div>
+
+                <div class="form-grid" id="secGiayTo">
+                  <!-- Loại giấy tờ -->
+
+                  <div class="field">
+                    <label for="loaiGiayTo"> Loại giấy tờ </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="loaiGiayTo"
+                          name="loaiGiayTo"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách loại giấy tờ"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="loaiGiayToOptions">
+                        <div class="combobox-option">CCCD</div>
+
+                        <div class="combobox-option">CMND</div>
+
+                        <div class="combobox-option">Căn cước</div>
+
+                        <div class="combobox-option">Hộ chiếu</div>
+
+                        <div class="combobox-option">Giấy khai sinh</div>
+
+                        <div class="combobox-option">
+                          Giấy chứng nhận kết hôn
+                        </div>
+
+                        <div class="combobox-option">Giấy phép lái xe</div>
+
+                        <div class="combobox-option">Khác</div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Nơi cấp -->
+
+                  <div class="field">
+                    <label for="noiCapGiayTo"> Nơi cấp giấy tờ </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="noiCapGiayTo"
+                          name="noiCapGiayTo"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách nơi cấp"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="noiCapGiayToOptions">
+                        <div class="combobox-option">
+                          Cục trưởng Cục Cảnh sát QLHC về trật tự XH
+                        </div>
+
+                        <div class="combobox-option">Bộ Công An</div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Số giấy tờ -->
+
+                  <div class="field">
+                    <label for="soGiayTo"> Số giấy tờ </label>
+
+                    <input type="text" id="soGiayTo" name="soGiayTo" />
+                  </div>
+
+                  <!-- Ngày hết hạn -->
+
+                  <div class="field">
+                    <label for="ngayHetHan"> Ngày hết hạn giấy tờ </label>
+
+                    <input
+                      type="text"
+                      id="ngayHetHan"
+                      name="ngayHetHan"
+                      placeholder="DD/MM/YYYY"
+                    />
+                  </div>
+
+                  <!-- Ngày cấp -->
+
+                  <div class="field">
+                    <label for="ngayCap"> Ngày cấp giấy tờ </label>
+
+                    <input
+                      type="text"
+                      id="ngayCap"
+                      name="ngayCap"
+                      placeholder="DD/MM/YYYY"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <!-- =================================================
+                   LIÊN HỆ
+              ================================================== -->
+
+              <div class="form-section">
+                <div class="form-section-title" data-target="secLienHe">
+                  Số điện thoại/Email/Khác
+                  <span class="chev">⌃</span>
+                </div>
+
+                <div class="form-grid" id="secLienHe">
+                  <div class="field">
+                    <label for="dienThoai"> ĐT di động </label>
+
+                    <input type="text" id="dienThoai" name="dienThoai" />
+                  </div>
+
+                  <div class="field">
+                    <label for="skype"> Skype </label>
+
+                    <input type="text" id="skype" name="skype" />
+                  </div>
+
+                  <div class="field">
+                    <label for="email"> Email cá nhân </label>
+
+                    <input type="text" id="email" name="email" />
+                  </div>
+
+                  <div class="field">
+                    <label for="facebook"> Facebook </label>
+
+                    <input type="text" id="facebook" name="facebook" />
+                  </div>
+                </div>
+              </div>
+
+              <!-- =================================================
+                   HỘ KHẨU THƯỜNG TRÚ
+              ================================================== -->
+
+              <div class="form-section">
+                <div class="form-section-title" data-target="secHKTT">
+                  Hộ khẩu thường trú
+                  <span class="chev">⌃</span>
+                </div>
+
+                <div class="form-grid" id="secHKTT">
+                  <!-- ================= QUỐC GIA ================= -->
+
+                  <div class="field">
+                    <label for="quocGiaHKTT"> Quốc gia (HKTT) </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="quocGiaHKTT"
+                          name="quocGiaHKTT"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách quốc gia"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div
+                        class="combobox-options"
+                        id="quocGiaHKTTOptions"
+                      ></div>
+                    </div>
+                  </div>
+
+                  <!-- ================= TỈNH / THÀNH ================= -->
+
+                  <div class="field">
+                    <label for="HKTT_Tinh"> Tỉnh / Thành phố </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="HKTT_Tinh"
+                          name="HKTT_Tinh"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách tỉnh thành"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="HKTT_TinhOptions"></div>
+                    </div>
+                  </div>
+
+                  <!-- ================= XÃ / PHƯỜNG ================= -->
+
+                  <div class="field">
+                    <label for="phuongXaHKTT"> Xã / Phường / Đặc khu </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="phuongXaHKTT"
+                          name="phuongXaHKTT"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách xã phường"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div
+                        class="combobox-options"
+                        id="phuongXaHKTTOptions"
+                      ></div>
+                    </div>
+                  </div>
+
+                  <!-- ================= SỐ NHÀ ================= -->
+
+                  <div class="field">
+                    <label for="soNhaHKTT"> Số nhà, đường phố </label>
+
+                    <input
+                      type="text"
+                      id="soNhaHKTT"
+                      name="soNhaHKTT"
+                      placeholder="Nhập số nhà, tên đường..."
+                    />
+                  </div>
+
+                  <!-- ================= QUẬN / HUYỆN ================= -->
+
+                  <div class="field">
+                    <label for="quanHuyenHKTT"> Quận / Huyện </label>
+
+                    <input
+                      type="text"
+                      id="quanHuyenHKTT"
+                      name="quanHuyenHKTT"
+                      value="Không áp dụng"
+                      readonly
+                      class="readonly-field"
+                    />
+                  </div>
+
+                  <!-- ================= ĐỊA CHỈ ================= -->
+
+                  <div class="field">
+                    <label for="diaChiHKTT"> Địa chỉ đầy đủ </label>
+
+                    <input
+                      type="text"
+                      id="diaChiHKTT"
+                      name="diaChiHKTT"
+                      readonly
+                      class="readonly-field"
+                      placeholder="Địa chỉ sẽ tự động ghép"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <!-- =================================================
+                   CHỖ Ở HIỆN NAY
+              ================================================== -->
+
+              <div class="form-section">
+                <div class="form-section-title" data-target="secHienNay">
+                  Chỗ ở hiện nay
+                  <span class="chev">⌃</span>
+                </div>
+
+                <div class="form-grid" id="secHienNay">
+                  <!-- ================= QUỐC GIA ================= -->
+
+                  <div class="field">
+                    <label for="quocGiaHienNay"> Quốc gia </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="quocGiaHienNay"
+                          name="quocGiaHienNay"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách quốc gia"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div
+                        class="combobox-options"
+                        id="quocGiaHienNayOptions"
+                      ></div>
+                    </div>
+                  </div>
+
+                  <!-- ================= TỈNH / THÀNH ================= -->
+
+                  <div class="field">
+                    <label for="tinhHienNay"> Tỉnh / Thành phố </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="tinhHienNay"
+                          name="tinhHienNay"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách tỉnh thành"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div
+                        class="combobox-options"
+                        id="tinhHienNayOptions"
+                      ></div>
+                    </div>
+                  </div>
+
+                  <!-- ================= XÃ / PHƯỜNG ================= -->
+
+                  <div class="field">
+                    <label for="phuongXaHienNay"> Xã / Phường / Đặc khu </label>
+
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="phuongXaHienNay"
+                          name="phuongXaHienNay"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách xã phường"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div
+                        class="combobox-options"
+                        id="phuongXaHienNayOptions"
+                      ></div>
+                    </div>
+                  </div>
+
+                  <!-- ================= SỐ NHÀ ================= -->
+
+                  <div class="field">
+                    <label for="soNhaHienNay"> Số nhà, đường phố </label>
+
+                    <input
+                      type="text"
+                      id="soNhaHienNay"
+                      name="soNhaHienNay"
+                      placeholder="Nhập số nhà, tên đường..."
+                    />
+                  </div>
+
+                  <!-- ================= QUẬN / HUYỆN ================= -->
+
+                  <div class="field">
+                    <label for="quanHuyenHienNay"> Quận / Huyện </label>
+
+                    <input
+                      type="text"
+                      id="quanHuyenHienNay"
+                      name="quanHuyenHienNay"
+                      value="Không áp dụng"
+                      readonly
+                      class="readonly-field"
+                    />
+                  </div>
+
+                  <!-- ================= ĐỊA CHỈ ================= -->
+
+                  <div class="field">
+                    <label for="diaChiHienNay"> Địa chỉ đầy đủ </label>
+
+                    <input
+                      type="text"
+                      id="diaChiHienNay"
+                      name="diaChiHienNay"
+                      readonly
+                      class="readonly-field"
+                      placeholder="Địa chỉ sẽ tự động ghép"
+                    />
+                  </div>
+                </div>
+              </div>
+            </form>
+          </section>
+        </div>
+
+        <!-- =====================================================
+             FOOTER
+        ====================================================== -->
+
+        <div class="modal-footer">
+          <div class="footer-right">
+            <button class="btn btn-outline" id="cancelBtn" type="button">
+              Hủy
+            </button>
+
+            <button class="btn btn-primary" id="saveProfileBtn" type="button">
+              Lưu vào hồ sơ
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- =========================================================
+         MODAL: DANH SÁCH HỒ SƠ
+    ========================================================== -->
+
+    <div id="profileListModal" class="modal-overlay hidden">
+      <div class="modal-box">
+        <!-- Header -->
+
+        <div class="modal-header list-header">
+          <div>
+            <a href="#" class="back-link" id="backToExtractBtn">
+              &larr; Quay lại trích xuất
+            </a>
+
+            <h2>Danh sách hồ sơ</h2>
+
+            <div class="sub-count" id="profileCount">0 hồ sơ đã lưu</div>
+          </div>
+
+          <div class="list-header-actions">
+            <button class="btn btn-outline" id="selectAllBtn" type="button">
+              ☑ Chọn tất cả
+            </button>
+
+            <button
+              class="btn btn-danger-text"
+              id="deleteSelectedBtn"
+              type="button"
+            >
+              Xóa đã chọn
+            </button>
+
+            <button class="icon-btn" id="closeListBtn" type="button">
+              &times;
+            </button>
+          </div>
+        </div>
+
+        <!-- Body -->
+
+        <div class="modal-body list-body">
+          <div class="search-row">
+            <input
+              type="text"
+              id="searchInput"
+              placeholder="🔍 Tìm theo họ tên, số giấy tờ..."
+            />
+          </div>
+
+          <div id="profileTableWrap">
+            <table class="profile-table hidden" id="profileTable">
+              <thead>
+                <tr>
+                  <th></th>
+                  <th>Ảnh</th>
+                  <th>Họ và tên</th>
+                  <th>Số giấy tờ</th>
+                  <th>Ngày sinh</th>
+                  <th>Giới tính</th>
+                  <th>Số điện thoại</th>
+                  <th></th>
+                </tr>
+              </thead>
+
+              <tbody id="profileTableBody"></tbody>
+            </table>
+
+            <div class="empty-state" id="emptyState">
+              <div class="empty-icon">▱</div>
+
+              <div class="empty-title">Chưa có hồ sơ</div>
+
+              <div class="empty-sub">
+                Hồ sơ sau khi lưu sẽ xuất hiện tại đây.
+              </div>
+
+              <button
+                class="btn btn-link-primary"
+                id="createNewBtn"
+                type="button"
+              >
+                Tạo hồ sơ mới
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Footer -->
+
+        <div class="modal-footer">
+          <div class="footer-left" id="selectedCountWrap">
+            0 hồ sơ được chọn
+          </div>
+
+          <div class="footer-right">
+            <button class="btn btn-primary" id="exportExcelBtn" type="button">
+              ⬇ Xuất file Excel
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- =========================================================
+         JAVASCRIPT
+    ========================================================== -->
+
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

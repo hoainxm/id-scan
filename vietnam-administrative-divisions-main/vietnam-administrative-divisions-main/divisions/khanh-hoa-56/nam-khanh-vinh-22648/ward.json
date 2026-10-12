@@ -1,0 +1,45 @@
+{
+  "id": "22648",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nam Khánh Vĩnh",
+    "en": "Nam Khanh Vinh",
+    "slug": "nam-khanh-vinh-22648"
+  },
+  "code": {
+    "id": "22648",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "Khánh Hòa",
+      "en": "Khanh Hoa",
+      "slug": "khanh-hoa-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "Khánh Hòa",
+        "en": "Khanh Hoa",
+        "slug": "khanh-hoa-56"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.209",
+    "lon": "108.8"
+  },
+  "metadata": {},
+  "source": {}
+}

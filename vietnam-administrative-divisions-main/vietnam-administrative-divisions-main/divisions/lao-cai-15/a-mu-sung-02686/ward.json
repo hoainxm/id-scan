@@ -1,0 +1,45 @@
+{
+  "id": "02686",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "A Mú Sung",
+    "en": "A Mu Sung",
+    "slug": "a-mu-sung-02686"
+  },
+  "code": {
+    "id": "02686",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Lào Cai",
+      "en": "Lao Cai",
+      "slug": "lao-cai-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Lào Cai",
+        "en": "Lao Cai",
+        "slug": "lao-cai-15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.734",
+    "lon": "103.662"
+  },
+  "metadata": {},
+  "source": {}
+}

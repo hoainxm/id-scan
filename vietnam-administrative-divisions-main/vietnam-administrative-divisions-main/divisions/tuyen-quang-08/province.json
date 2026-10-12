@@ -1,0 +1,33 @@
+{
+  "id": "08",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Tuyên Quang",
+    "en": "Tuyen Quang",
+    "slug": "tuyen-quang-08"
+  },
+  "code": {
+    "id": "08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.49",
+    "lon": "105.099"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/tuyen-quang-08/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

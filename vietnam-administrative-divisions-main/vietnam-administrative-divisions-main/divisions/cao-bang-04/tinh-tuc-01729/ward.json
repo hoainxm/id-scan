@@ -1,0 +1,45 @@
+{
+  "id": "01729",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tĩnh Túc",
+    "en": "Tinh Tuc",
+    "slug": "tinh-tuc-01729"
+  },
+  "code": {
+    "id": "01729",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.649",
+    "lon": "105.889"
+  },
+  "metadata": {},
+  "source": {}
+}

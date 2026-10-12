@@ -1,0 +1,18 @@
+{
+  "address": "Thị trấn NT Lệ Ninh, Huyện Lệ Thủy, Tỉnh Quảng Bình",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1680/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Trị",
+        "line": "34. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Nông trường Lệ Ninh, xã Sơn Thủy và xã Hoa Thủythành xã mới có tên gọi là xã Lệ Ninh."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Quảng Trị",
+      "ward_code": "19246",
+      "ward_name": "Xã Lệ Ninh"
+    }
+  ]
+}

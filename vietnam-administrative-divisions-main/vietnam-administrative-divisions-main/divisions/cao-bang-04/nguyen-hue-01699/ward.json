@@ -1,0 +1,45 @@
+{
+  "id": "01699",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Nguyễn Huệ",
+    "en": "Nguyen Hue",
+    "slug": "nguyen-hue-01699"
+  },
+  "code": {
+    "id": "01699",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "Cao Bằng",
+      "en": "Cao Bang",
+      "slug": "cao-bang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "Cao Bằng",
+        "en": "Cao Bang",
+        "slug": "cao-bang-04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.7",
+    "lon": "106.299"
+  },
+  "metadata": {},
+  "source": {}
+}

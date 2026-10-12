@@ -1,0 +1,7472 @@
+[
+  {
+    "id": "15766",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nông",
+      "en": "An Nong",
+      "slug": "an-nong-15766"
+    },
+    "code": {
+      "id": "15766",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.789",
+      "lon": "105.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16171",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ba Đình",
+      "en": "Ba Dinh",
+      "slug": "ba-dinh-16171"
+    },
+    "code": {
+      "id": "16171",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.801",
+      "lon": "105.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14923",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bá Thước",
+      "en": "Ba Thuoc",
+      "slug": "ba-thuoc-14923"
+    },
+    "code": {
+      "id": "14923",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.379",
+      "lon": "105.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15607",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bát Mọt",
+      "en": "Bat Mot",
+      "slug": "bat-mot-15607"
+    },
+    "code": {
+      "id": "15607",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.995",
+      "lon": "104.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15382",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Biện Thượng",
+      "en": "Bien Thuong",
+      "slug": "bien-thuong-15382"
+    },
+    "code": {
+      "id": "15382",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.008",
+      "lon": "105.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14812",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bỉm Sơn",
+      "en": "Bim Son",
+      "slug": "bim-son-14812"
+    },
+    "code": {
+      "id": "14812",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.088",
+      "lon": "105.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16591",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Các Sơn",
+      "en": "Cac Son",
+      "slug": "cac-son-16591"
+    },
+    "code": {
+      "id": "16591",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.515",
+      "lon": "105.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15178",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Tân",
+      "en": "Cam Tan",
+      "slug": "cam-tan-15178"
+    },
+    "code": {
+      "id": "15178",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.165",
+      "lon": "105.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15142",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Thạch",
+      "en": "Cam Thach",
+      "slug": "cam-thach-15142"
+    },
+    "code": {
+      "id": "15142",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.233",
+      "lon": "105.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15127",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Thủy",
+      "en": "Cam Thuy",
+      "slug": "cam-thuy-15127"
+    },
+    "code": {
+      "id": "15127",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.204",
+      "lon": "105.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15148",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Tú",
+      "en": "Cam Tu",
+      "slug": "cam-tu-15148"
+    },
+    "code": {
+      "id": "15148",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.246",
+      "lon": "105.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15163",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cẩm Vân",
+      "en": "Cam Van",
+      "slug": "cam-van-15163"
+    },
+    "code": {
+      "id": "15163",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.152",
+      "lon": "105.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14959",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cổ Lũng",
+      "en": "Co Lung",
+      "slug": "co-lung-14959"
+    },
+    "code": {
+      "id": "14959",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.463",
+      "lon": "105.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16369",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Công Chính",
+      "en": "Cong Chinh",
+      "slug": "cong-chinh-16369"
+    },
+    "code": {
+      "id": "16369",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.564",
+      "lon": "105.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16609",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đào Duy Từ",
+      "en": "Dao Duy Tu",
+      "slug": "dao-duy-tu-16609"
+    },
+    "code": {
+      "id": "16609",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.433",
+      "lon": "105.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14950",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điền Lư",
+      "en": "Dien Lu",
+      "slug": "dien-lu-14950"
+    },
+    "code": {
+      "id": "14950",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.298",
+      "lon": "105.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14932",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Điền Quang",
+      "en": "Dien Quang",
+      "slug": "dien-quang-14932"
+    },
+    "code": {
+      "id": "14932",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.254",
+      "lon": "105.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15448",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Hòa",
+      "en": "Dinh Hoa",
+      "slug": "dinh-hoa-15448"
+    },
+    "code": {
+      "id": "15448",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.959",
+      "lon": "105.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15457",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Định Tân",
+      "en": "Dinh Tan",
+      "slug": "dinh-tan-15457"
+    },
+    "code": {
+      "id": "15457",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.998",
+      "lon": "105.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15058",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Lương",
+      "en": "Dong Luong",
+      "slug": "dong-luong-15058"
+    },
+    "code": {
+      "id": "15058",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.181",
+      "lon": "105.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16417",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Quang",
+      "en": "Dong Quang",
+      "slug": "dong-quang-16417"
+    },
+    "code": {
+      "id": "16417",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.761",
+      "lon": "105.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16378",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Sơn",
+      "en": "Dong Son",
+      "slug": "dong-son-16378"
+    },
+    "code": {
+      "id": "16378",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.794",
+      "lon": "105.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16033",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thành",
+      "en": "Dong Thanh",
+      "slug": "dong-thanh-16033"
+    },
+    "code": {
+      "id": "16033",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.961",
+      "lon": "105.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15853",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Tiến",
+      "en": "Dong Tien",
+      "slug": "dong-tien-15853"
+    },
+    "code": {
+      "id": "15853",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.842",
+      "lon": "105.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15724",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Tiến",
+      "en": "Dong Tien",
+      "slug": "dong-tien-15724"
+    },
+    "code": {
+      "id": "15724",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.767",
+      "lon": "105.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15043",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Giao An",
+      "en": "Giao An",
+      "slug": "giao-an-15043"
+    },
+    "code": {
+      "id": "15043",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.031",
+      "lon": "105.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15274",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Long",
+      "en": "Ha Long",
+      "slug": "ha-long-15274"
+    },
+    "code": {
+      "id": "15274",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.092",
+      "lon": "105.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15271",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hà Trung",
+      "en": "Ha Trung",
+      "slug": "ha-trung-15271"
+    },
+    "code": {
+      "id": "15271",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.055",
+      "lon": "105.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14797",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạc Thành",
+      "en": "Hac Thanh",
+      "slug": "hac-thanh-14797"
+    },
+    "code": {
+      "id": "14797",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.8",
+      "lon": "105.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16645",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Bình",
+      "en": "Hai Binh",
+      "slug": "hai-binh-16645"
+    },
+    "code": {
+      "id": "16645",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.401",
+      "lon": "105.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16597",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hải Lĩnh",
+      "en": "Hai Linh",
+      "slug": "hai-linh-16597"
+    },
+    "code": {
+      "id": "16597",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.504",
+      "lon": "105.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14758",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hàm Rồng",
+      "en": "Ham Rong",
+      "slug": "ham-rong-14758"
+    },
+    "code": {
+      "id": "14758",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.839",
+      "lon": "105.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16012",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hậu Lộc",
+      "en": "Hau Loc",
+      "slug": "hau-loc-16012"
+    },
+    "code": {
+      "id": "16012",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.934",
+      "lon": "105.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14896",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiền Kiệt",
+      "en": "Hien Kiet",
+      "slug": "hien-kiet-14896"
+    },
+    "code": {
+      "id": "14896",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.434",
+      "lon": "104.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16138",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồ Vương",
+      "en": "Ho Vuong",
+      "slug": "ho-vuong-16138"
+    },
+    "code": {
+      "id": "16138",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.019",
+      "lon": "106.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16072",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoa Lộc",
+      "en": "Hoa Loc",
+      "slug": "hoa-loc-16072"
+    },
+    "code": {
+      "id": "16072",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.92",
+      "lon": "105.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16186",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hóa Quỳ",
+      "en": "Hoa Quy",
+      "slug": "hoa-quy-16186"
+    },
+    "code": {
+      "id": "16186",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.612",
+      "lon": "105.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15976",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Châu",
+      "en": "Hoang Chau",
+      "slug": "hoang-chau-15976"
+    },
+    "code": {
+      "id": "15976",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.827",
+      "lon": "105.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15880",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Giang",
+      "en": "Hoang Giang",
+      "slug": "hoang-giang-15880"
+    },
+    "code": {
+      "id": "15880",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.888",
+      "lon": "105.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15865",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Hóa",
+      "en": "Hoang Hoa",
+      "slug": "hoang-hoa-15865"
+    },
+    "code": {
+      "id": "15865",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.866",
+      "lon": "105.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15961",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Lộc",
+      "en": "Hoang Loc",
+      "slug": "hoang-loc-15961"
+    },
+    "code": {
+      "id": "15961",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.814",
+      "lon": "105.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15889",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Phú",
+      "en": "Hoang Phu",
+      "slug": "hoang-phu-15889"
+    },
+    "code": {
+      "id": "15889",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.907",
+      "lon": "105.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15910",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Sơn",
+      "en": "Hoang Son",
+      "slug": "hoang-son-15910"
+    },
+    "code": {
+      "id": "15910",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.906",
+      "lon": "105.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16000",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Thanh",
+      "en": "Hoang Thanh",
+      "slug": "hoang-thanh-16000"
+    },
+    "code": {
+      "id": "16000",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.813",
+      "lon": "105.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15991",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoằng Tiến",
+      "en": "Hoang Tien",
+      "slug": "hoang-tien-15991"
+    },
+    "code": {
+      "id": "15991",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.865",
+      "lon": "105.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15286",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoạt Giang",
+      "en": "Hoat Giang",
+      "slug": "hoat-giang-15286"
+    },
+    "code": {
+      "id": "15286",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.044",
+      "lon": "105.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14869",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồi Xuân",
+      "en": "Hoi Xuan",
+      "slug": "hoi-xuan-14869"
+    },
+    "code": {
+      "id": "14869",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.381",
+      "lon": "105.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15682",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hợp Tiến",
+      "en": "Hop Tien",
+      "slug": "hop-tien-15682"
+    },
+    "code": {
+      "id": "15682",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.8",
+      "lon": "105.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15112",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiên Thọ",
+      "en": "Kien Tho",
+      "slug": "kien-tho-15112"
+    },
+    "code": {
+      "id": "15112",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.967",
+      "lon": "105.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15187",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Tân",
+      "en": "Kim Tan",
+      "slug": "kim-tan-15187"
+    },
+    "code": {
+      "id": "15187",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.131",
+      "lon": "105.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15544",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lam Sơn",
+      "en": "Lam Son",
+      "slug": "lam-son-15544"
+    },
+    "code": {
+      "id": "15544",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.805",
+      "lon": "105.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15055",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Linh Sơn",
+      "en": "Linh Son",
+      "slug": "linh-son-15055"
+    },
+    "code": {
+      "id": "15055",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.129",
+      "lon": "105.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15298",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lĩnh Toại",
+      "en": "Linh Toai",
+      "slug": "linh-toai-15298"
+    },
+    "code": {
+      "id": "15298",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.006",
+      "lon": "105.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15634",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Luận Thành",
+      "en": "Luan Thanh",
+      "slug": "luan-thanh-15634"
+    },
+    "code": {
+      "id": "15634",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.819",
+      "lon": "105.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15628",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Sơn",
+      "en": "Luong Son",
+      "slug": "luong-son-15628"
+    },
+    "code": {
+      "id": "15628",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.96",
+      "lon": "105.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16438",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lưu Vệ",
+      "en": "Luu Ve",
+      "slug": "luu-ve-16438"
+    },
+    "code": {
+      "id": "16438",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.73",
+      "lon": "105.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16249",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mậu Lâm",
+      "en": "Mau Lam",
+      "slug": "mau-lam-16249"
+    },
+    "code": {
+      "id": "16249",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.677",
+      "lon": "105.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15124",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Sơn",
+      "en": "Minh Son",
+      "slug": "minh-son-15124"
+    },
+    "code": {
+      "id": "15124",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.014",
+      "lon": "105.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14866",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Chanh",
+      "en": "Muong Chanh",
+      "slug": "muong-chanh-14866"
+    },
+    "code": {
+      "id": "14866",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.402",
+      "lon": "104.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14845",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lát",
+      "en": "Muong Lat",
+      "slug": "muong-lat-14845"
+    },
+    "code": {
+      "id": "14845",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.528",
+      "lon": "104.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14854",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Lý",
+      "en": "Muong Ly",
+      "slug": "muong-ly-14854"
+    },
+    "code": {
+      "id": "14854",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.546",
+      "lon": "104.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15025",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mường Mìn",
+      "en": "Muong Min",
+      "slug": "muong-min-15025"
+    },
+    "code": {
+      "id": "15025",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.278",
+      "lon": "104.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15013",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Na Mèo",
+      "en": "Na Meo",
+      "slug": "na-meo-15013"
+    },
+    "code": {
+      "id": "15013",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "104.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16516",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Sầm Sơn",
+      "en": "Nam Sam Son",
+      "slug": "nam-sam-son-16516"
+    },
+    "code": {
+      "id": "16516",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.722",
+      "lon": "105.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14902",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Xuân",
+      "en": "Nam Xuan",
+      "slug": "nam-xuan-14902"
+    },
+    "code": {
+      "id": "14902",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.405",
+      "lon": "104.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16144",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nga An",
+      "en": "Nga An",
+      "slug": "nga-an-16144"
+    },
+    "code": {
+      "id": "16144",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.041",
+      "lon": "106.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16093",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nga Sơn",
+      "en": "Nga Son",
+      "slug": "nga-son-16093"
+    },
+    "code": {
+      "id": "16093",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.004",
+      "lon": "105.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16114",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nga Thắng",
+      "en": "Nga Thang",
+      "slug": "nga-thang-16114"
+    },
+    "code": {
+      "id": "16114",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.986",
+      "lon": "105.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16654",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghi Sơn",
+      "en": "Nghi Son",
+      "slug": "nghi-son-16654"
+    },
+    "code": {
+      "id": "16654",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.453",
+      "lon": "105.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15061",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Lặc",
+      "en": "Ngoc Lac",
+      "slug": "ngoc-lac-15061"
+    },
+    "code": {
+      "id": "15061",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.068",
+      "lon": "105.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15091",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Liên",
+      "en": "Ngoc Lien",
+      "slug": "ngoc-lien-15091"
+    },
+    "code": {
+      "id": "15091",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.1",
+      "lon": "105.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16576",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Sơn",
+      "en": "Ngoc Son",
+      "slug": "ngoc-son-16576"
+    },
+    "code": {
+      "id": "16576",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.576",
+      "lon": "105.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15250",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Trạo",
+      "en": "Ngoc Trao",
+      "slug": "ngoc-trao-15250"
+    },
+    "code": {
+      "id": "15250",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.795",
+      "lon": "105.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15106",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyệt Ấn",
+      "en": "Nguyet An",
+      "slug": "nguyet-an-15106"
+    },
+    "code": {
+      "id": "15106",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.997",
+      "lon": "105.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15925",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyệt Viên",
+      "en": "Nguyet Vien",
+      "slug": "nguyet-vien-15925"
+    },
+    "code": {
+      "id": "15925",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.823",
+      "lon": "105.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14864",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhi Sơn",
+      "en": "Nhi Son",
+      "slug": "nhi-son-14864"
+    },
+    "code": {
+      "id": "14864",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.478",
+      "lon": "104.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16228",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Như Thanh",
+      "en": "Nhu Thanh",
+      "slug": "nhu-thanh-16228"
+    },
+    "code": {
+      "id": "16228",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.588",
+      "lon": "105.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16174",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Như Xuân",
+      "en": "Nhu Xuan",
+      "slug": "nhu-xuan-16174"
+    },
+    "code": {
+      "id": "16174",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.598",
+      "lon": "105.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16279",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nông Cống",
+      "en": "Nong Cong",
+      "slug": "nong-cong-16279"
+    },
+    "code": {
+      "id": "16279",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.626",
+      "lon": "105.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14878",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lệ",
+      "en": "Phu Le",
+      "slug": "phu-le-14878"
+    },
+    "code": {
+      "id": "14878",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.554",
+      "lon": "105.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14890",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Xuân",
+      "en": "Phu Xuan",
+      "slug": "phu-xuan-14890"
+    },
+    "code": {
+      "id": "14890",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.462",
+      "lon": "105.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14956",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pù Luông",
+      "en": "Pu Luong",
+      "slug": "pu-luong-14956"
+    },
+    "code": {
+      "id": "14956",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.421",
+      "lon": "105.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14863",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Pù Nhi",
+      "en": "Pu Nhi",
+      "slug": "pu-nhi-14863"
+    },
+    "code": {
+      "id": "14863",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.475",
+      "lon": "104.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15016",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quan Sơn",
+      "en": "Quan Son",
+      "slug": "quan-son-15016"
+    },
+    "code": {
+      "id": "15016",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.254",
+      "lon": "104.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16543",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Bình",
+      "en": "Quang Binh",
+      "slug": "quang-binh-16543"
+    },
+    "code": {
+      "id": "16543",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.665",
+      "lon": "105.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14860",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Chiểu",
+      "en": "Quang Chieu",
+      "slug": "quang-chieu-14860"
+    },
+    "code": {
+      "id": "14860",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.463",
+      "lon": "104.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16489",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Chính",
+      "en": "Quang Chinh",
+      "slug": "quang-chinh-16489"
+    },
+    "code": {
+      "id": "16489",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.62",
+      "lon": "105.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16498",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Ngọc",
+      "en": "Quang Ngoc",
+      "slug": "quang-ngoc-16498"
+    },
+    "code": {
+      "id": "16498",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.67",
+      "lon": "105.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16540",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Ninh",
+      "en": "Quang Ninh",
+      "slug": "quang-ninh-16540"
+    },
+    "code": {
+      "id": "16540",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.701",
+      "lon": "105.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16522",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Phú",
+      "en": "Quang Phu",
+      "slug": "quang-phu-16522"
+    },
+    "code": {
+      "id": "16522",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.768",
+      "lon": "105.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14818",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Trung",
+      "en": "Quang Trung",
+      "slug": "quang-trung-14818"
+    },
+    "code": {
+      "id": "14818",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.08",
+      "lon": "105.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16480",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quảng Yên",
+      "en": "Quang Yen",
+      "slug": "quang-yen-16480"
+    },
+    "code": {
+      "id": "16480",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.714",
+      "lon": "105.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15412",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quý Lộc",
+      "en": "Quy Loc",
+      "slug": "quy-loc-15412"
+    },
+    "code": {
+      "id": "15412",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.067",
+      "lon": "105.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14953",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quý Lương",
+      "en": "Quy Luong",
+      "slug": "quy-luong-14953"
+    },
+    "code": {
+      "id": "14953",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.331",
+      "lon": "105.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16531",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sầm Sơn",
+      "en": "Sam Son",
+      "slug": "sam-son-16531"
+    },
+    "code": {
+      "id": "16531",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.737",
+      "lon": "105.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15553",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sao Vàng",
+      "en": "Sao Vang",
+      "slug": "sao-vang-15553"
+    },
+    "code": {
+      "id": "15553",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.904",
+      "lon": "105.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15022",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Điện",
+      "en": "Son Dien",
+      "slug": "son-dien-15022"
+    },
+    "code": {
+      "id": "15022",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.275",
+      "lon": "104.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15010",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Thủy",
+      "en": "Son Thuy",
+      "slug": "son-thuy-15010"
+    },
+    "code": {
+      "id": "15010",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.314",
+      "lon": "104.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14848",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Chung",
+      "en": "Tam Chung",
+      "slug": "tam-chung-14848"
+    },
+    "code": {
+      "id": "14848",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.573",
+      "lon": "104.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15019",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Lư",
+      "en": "Tam Lu",
+      "slug": "tam-lu-15019"
+    },
+    "code": {
+      "id": "15019",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.232",
+      "lon": "104.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15007",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Thanh",
+      "en": "Tam Thanh",
+      "slug": "tam-thanh-15007"
+    },
+    "code": {
+      "id": "15007",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.19",
+      "lon": "104.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16594",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Dân",
+      "en": "Tan Dan",
+      "slug": "tan-dan-16594"
+    },
+    "code": {
+      "id": "16594",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.527",
+      "lon": "105.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15715",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Ninh",
+      "en": "Tan Ninh",
+      "slug": "tan-ninh-15715"
+    },
+    "code": {
+      "id": "15715",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.75",
+      "lon": "105.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15661",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-15661"
+    },
+    "code": {
+      "id": "15661",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.785",
+      "lon": "105.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16108",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-16108"
+    },
+    "code": {
+      "id": "16108",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.018",
+      "lon": "106.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15361",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Đô",
+      "en": "Tay Do",
+      "slug": "tay-do-15361"
+    },
+    "code": {
+      "id": "15361",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.078",
+      "lon": "105.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15211",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Bình",
+      "en": "Thach Binh",
+      "slug": "thach-binh-15211"
+    },
+    "code": {
+      "id": "15211",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.164",
+      "lon": "105.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15085",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Lập",
+      "en": "Thach Lap",
+      "slug": "thach-lap-15085"
+    },
+    "code": {
+      "id": "15085",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.15",
+      "lon": "105.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15199",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạch Quảng",
+      "en": "Thach Quang",
+      "slug": "thach-quang-15199"
+    },
+    "code": {
+      "id": "15199",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.282",
+      "lon": "105.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16342",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thăng Bình",
+      "en": "Thang Binh",
+      "slug": "thang-binh-16342"
+    },
+    "code": {
+      "id": "16342",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.588",
+      "lon": "105.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15643",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thắng Lộc",
+      "en": "Thang Loc",
+      "slug": "thang-loc-15643"
+    },
+    "code": {
+      "id": "15643",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.769",
+      "lon": "105.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16309",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thắng Lợi",
+      "en": "Thang Loi",
+      "slug": "thang-loi-16309"
+    },
+    "code": {
+      "id": "16309",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.682",
+      "lon": "105.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16273",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Kỳ",
+      "en": "Thanh Ky",
+      "slug": "thanh-ky-16273"
+    },
+    "code": {
+      "id": "16273",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.457",
+      "lon": "105.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16213",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Phong",
+      "en": "Thanh Phong",
+      "slug": "thanh-phong-16213"
+    },
+    "code": {
+      "id": "16213",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.641",
+      "lon": "105.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16222",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh Quân",
+      "en": "Thanh Quan",
+      "slug": "thanh-quan-16222"
+    },
+    "code": {
+      "id": "16222",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.703",
+      "lon": "105.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15229",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thành Vinh",
+      "en": "Thanh Vinh",
+      "slug": "thanh-vinh-15229"
+    },
+    "code": {
+      "id": "15229",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.242",
+      "lon": "105.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14908",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiên Phủ",
+      "en": "Thien Phu",
+      "slug": "thien-phu-14908"
+    },
+    "code": {
+      "id": "14908",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.361",
+      "lon": "104.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14980",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiết Ống",
+      "en": "Thiet Ong",
+      "slug": "thiet-ong-14980"
+    },
+    "code": {
+      "id": "14980",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.293",
+      "lon": "105.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15772",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiệu Hóa",
+      "en": "Thieu Hoa",
+      "slug": "thieu-hoa-15772"
+    },
+    "code": {
+      "id": "15772",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.886",
+      "lon": "105.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15796",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiệu Quang",
+      "en": "Thieu Quang",
+      "slug": "thieu-quang-15796"
+    },
+    "code": {
+      "id": "15796",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.918",
+      "lon": "105.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15778",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiệu Tiến",
+      "en": "Thieu Tien",
+      "slug": "thieu-tien-15778"
+    },
+    "code": {
+      "id": "15778",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.926",
+      "lon": "105.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15820",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiệu Toán",
+      "en": "Thieu Toan",
+      "slug": "thieu-toan-15820"
+    },
+    "code": {
+      "id": "15820",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.897",
+      "lon": "105.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15835",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thiệu Trung",
+      "en": "Thieu Trung",
+      "slug": "thieu-trung-15835"
+    },
+    "code": {
+      "id": "15835",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.852",
+      "lon": "105.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15667",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Bình",
+      "en": "Tho Binh",
+      "slug": "tho-binh-15667"
+    },
+    "code": {
+      "id": "15667",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.854",
+      "lon": "105.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15568",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Lập",
+      "en": "Tho Lap",
+      "slug": "tho-lap-15568"
+    },
+    "code": {
+      "id": "15568",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.966",
+      "lon": "105.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15505",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Long",
+      "en": "Tho Long",
+      "slug": "tho-long-15505"
+    },
+    "code": {
+      "id": "15505",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.908",
+      "lon": "105.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15754",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Ngọc",
+      "en": "Tho Ngoc",
+      "slug": "tho-ngoc-15754"
+    },
+    "code": {
+      "id": "15754",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.865",
+      "lon": "105.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15763",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Phú",
+      "en": "Tho Phu",
+      "slug": "tho-phu-15763"
+    },
+    "code": {
+      "id": "15763",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.874",
+      "lon": "105.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15499",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thọ Xuân",
+      "en": "Tho Xuan",
+      "slug": "tho-xuan-15499"
+    },
+    "code": {
+      "id": "15499",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.931",
+      "lon": "105.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16225",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Ninh",
+      "en": "Thuong Ninh",
+      "slug": "thuong-ninh-16225"
+    },
+    "code": {
+      "id": "16225",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.706",
+      "lon": "105.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15646",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thường Xuân",
+      "en": "Thuong Xuan",
+      "slug": "thuong-xuan-15646"
+    },
+    "code": {
+      "id": "15646",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.904",
+      "lon": "105.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16549",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Trang",
+      "en": "Tien Trang",
+      "slug": "tien-trang-16549"
+    },
+    "code": {
+      "id": "16549",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.619",
+      "lon": "105.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16561",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tĩnh Gia",
+      "en": "Tinh Gia",
+      "slug": "tinh-gia-16561"
+    },
+    "code": {
+      "id": "16561",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.448",
+      "lon": "105.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15316",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tống Sơn",
+      "en": "Tong Son",
+      "slug": "tong-son-15316"
+    },
+    "code": {
+      "id": "15316",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.997",
+      "lon": "105.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16021",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Triệu Lộc",
+      "en": "Trieu Loc",
+      "slug": "trieu-loc-16021"
+    },
+    "code": {
+      "id": "16021",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.942",
+      "lon": "105.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Triệu Sơn",
+      "en": "Trieu Son",
+      "slug": "trieu-son-15664"
+    },
+    "code": {
+      "id": "15664",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.802",
+      "lon": "105.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16624",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trúc Lâm",
+      "en": "Truc Lam",
+      "slug": "truc-lam-16624"
+    },
+    "code": {
+      "id": "16624",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.399",
+      "lon": "105.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16297",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Chính",
+      "en": "Trung Chinh",
+      "slug": "trung-chinh-16297"
+    },
+    "code": {
+      "id": "16297",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.727",
+      "lon": "105.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15001",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Hạ",
+      "en": "Trung Ha",
+      "slug": "trung-ha-15001"
+    },
+    "code": {
+      "id": "15001",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3",
+      "lon": "105.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14857",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Lý",
+      "en": "Trung Ly",
+      "slug": "trung-ly-14857"
+    },
+    "code": {
+      "id": "14857",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.46",
+      "lon": "104.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14875",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Sơn",
+      "en": "Trung Son",
+      "slug": "trung-son-14875"
+    },
+    "code": {
+      "id": "14875",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.616",
+      "lon": "104.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14872",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Thành",
+      "en": "Trung Thanh",
+      "slug": "trung-thanh-14872"
+    },
+    "code": {
+      "id": "14872",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.569",
+      "lon": "104.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16636",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Lâm",
+      "en": "Truong Lam",
+      "slug": "truong-lam-16636"
+    },
+    "code": {
+      "id": "16636",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.328",
+      "lon": "105.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16348",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trường Văn",
+      "en": "Truong Van",
+      "slug": "truong-van-16348"
+    },
+    "code": {
+      "id": "16348",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.614",
+      "lon": "105.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16363",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tượng Lĩnh",
+      "en": "Tuong Linh",
+      "slug": "tuong-linh-16363"
+    },
+    "code": {
+      "id": "16363",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.567",
+      "lon": "105.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15190",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vân Du",
+      "en": "Van Du",
+      "slug": "van-du-15190"
+    },
+    "code": {
+      "id": "15190",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.151",
+      "lon": "105.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16078",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Lộc",
+      "en": "Van Loc",
+      "slug": "van-loc-16078"
+    },
+    "code": {
+      "id": "16078",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.933",
+      "lon": "105.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14974",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Nho",
+      "en": "Van Nho",
+      "slug": "van-nho-14974"
+    },
+    "code": {
+      "id": "14974",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.265",
+      "lon": "105.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15049",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Phú",
+      "en": "Van Phu",
+      "slug": "van-phu-15049"
+    },
+    "code": {
+      "id": "15049",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.224",
+      "lon": "105.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15622",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Xuân",
+      "en": "Van Xuan",
+      "slug": "van-xuan-15622"
+    },
+    "code": {
+      "id": "15622",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.825",
+      "lon": "105.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15349",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Lộc",
+      "en": "Vinh Loc",
+      "slug": "vinh-loc-15349"
+    },
+    "code": {
+      "id": "15349",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.041",
+      "lon": "105.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16177",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Bình",
+      "en": "Xuan Binh",
+      "slug": "xuan-binh-16177"
+    },
+    "code": {
+      "id": "16177",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.533",
+      "lon": "105.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15658",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Chinh",
+      "en": "Xuan Chinh",
+      "slug": "xuan-chinh-15658"
+    },
+    "code": {
+      "id": "15658",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.794",
+      "lon": "105.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16234",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Du",
+      "en": "Xuan Du",
+      "slug": "xuan-du-16234"
+    },
+    "code": {
+      "id": "16234",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.766",
+      "lon": "105.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15520",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hòa",
+      "en": "Xuan Hoa",
+      "slug": "xuan-hoa-15520"
+    },
+    "code": {
+      "id": "15520",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.942",
+      "lon": "105.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15592",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Lập",
+      "en": "Xuan Lap",
+      "slug": "xuan-lap-15592"
+    },
+    "code": {
+      "id": "15592",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.949",
+      "lon": "105.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16258",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Thái",
+      "en": "Xuan Thai",
+      "slug": "xuan-thai-16258"
+    },
+    "code": {
+      "id": "16258",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.542",
+      "lon": "105.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15574",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Tín",
+      "en": "Xuan Tin",
+      "slug": "xuan-tin-15574"
+    },
+    "code": {
+      "id": "15574",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.997",
+      "lon": "105.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15469",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Định",
+      "en": "Yen Dinh",
+      "slug": "yen-dinh-15469"
+    },
+    "code": {
+      "id": "15469",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.008",
+      "lon": "105.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15031",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Khương",
+      "en": "Yen Khuong",
+      "slug": "yen-khuong-15031"
+    },
+    "code": {
+      "id": "15031",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.157",
+      "lon": "105.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15610",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Nhân",
+      "en": "Yen Nhan",
+      "slug": "yen-nhan-15610"
+    },
+    "code": {
+      "id": "15610",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.024",
+      "lon": "105.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15442",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Ninh",
+      "en": "Yen Ninh",
+      "slug": "yen-ninh-15442"
+    },
+    "code": {
+      "id": "15442",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.984",
+      "lon": "105.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15409",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Phú",
+      "en": "Yen Phu",
+      "slug": "yen-phu-15409"
+    },
+    "code": {
+      "id": "15409",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.021",
+      "lon": "105.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15034",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thắng",
+      "en": "Yen Thang",
+      "slug": "yen-thang-15034"
+    },
+    "code": {
+      "id": "15034",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.148",
+      "lon": "105.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16264",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Thọ",
+      "en": "Yen Tho",
+      "slug": "yen-tho-16264"
+    },
+    "code": {
+      "id": "16264",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.591",
+      "lon": "105.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15421",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Trường",
+      "en": "Yen Truong",
+      "slug": "yen-truong-15421"
+    },
+    "code": {
+      "id": "15421",
+      "iso": null
+    },
+    "parent": {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "Thanh Hóa",
+        "en": "Thanh Hoa",
+        "slug": "thanh-hoa-38"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "Thanh Hóa",
+          "en": "Thanh Hoa",
+          "slug": "thanh-hoa-38"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.019",
+      "lon": "105.594"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

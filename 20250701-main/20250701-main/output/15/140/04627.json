@@ -1,0 +1,18 @@
+{
+  "address": "Thị trấn NT Trần Phú, Huyện Văn Chấn, Tỉnh Yên Bái",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1673/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Lào Cai",
+        "line": "12. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Nông trường Trần Phú và xã Thượng Bằng La thành xã mới có tên gọi là xã Thượng Bằng La."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Lào Cai",
+      "ward_code": "04705",
+      "ward_name": "Xã Thượng Bằng La"
+    }
+  ]
+}

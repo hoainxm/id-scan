@@ -1,0 +1,18 @@
+{
+  "address": "Xã Thắng Lợi, Huyện Văn Giang, Tỉnh Hưng Yên",
+  "ellapsedInMs": 35325,
+  "estimatedCost": 0.0083816,
+  "thought": "**My Analysis of \"Xã Thắng Lợi, Huyện Văn Giang, Tỉnh Hưng Yên\"**\n\nOkay, here's what I've got. I need to figure out the current administrative unit for the old ward \"Xã Thắng Lợi, Huyện Văn Giang, Tỉnh Hưng Yên\". First, the province is still valid, \"Tỉnh Hưng Yên,\" according to Resolution 60-NQ/TW. Great. Now, the main task: I'm digging into various resolutions, specifically 1666/NQ-UBTVQH15, because it deals with Hưng Yên.\n\nI've carefully read through the resolutions, and it's looking tricky. Line 33 of Resolution 1666 mentions a \"xã Thắng Lợi\" being merged into a new \"Xã Mễ Sở\". However, the resolution specifically mentions that this \"Thắng Lợi\" is in Huyện Khoái Châu, *not* Huyện Văn Giang which is what my input has. That's a huge red flag – district mismatch!  I've re-read it several times because it's the only direct reference to a \"Thắng Lợi\" in Hưng Yên.\n\nOn the other hand, line 32 in the same resolution is specifically dealing with Huyện Văn Giang, but it doesn't mention \"Xã Thắng Lợi\". I checked the new ward data, and \"Xã Văn Giang\" is mentioned, but \"Xã Thắng Lợi\" is not one of the old wards listed in the merged units. \"Xã Mễ Sở\" is also mentioned, but it contains a \"Thắng Lợi\" that is from a different district.\n\nThis makes the task hard. I'm hesitant, but \"Xã Mễ Sở\" seems to be the closest match because of the name even though the districts don't match. It's the only one I can find that includes the ward name. I will output that, but the confidence level is low because the district is different (Khoái Châu vs Văn Giang). There is a *slim* chance that the resolution is ambiguous, or there's a missing link.\n\nSo, in conclusion, my top, but low-confidence, candidate is \"Xã Mễ Sở\". I'll flag it clearly as such because of the district mismatch, but it's the best option given the information. I had no other matches.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1666/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Hưng Yên",
+        "line": "33. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bình Minh (huyện Khoái Châu), Thắng Lợi và Mễ Sở thành xã mới có tên gọi là xã Mễ Sở."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Hưng Yên",
+      "ward_code": "12049",
+      "ward_name": "Xã Mễ Sở"
+    }
+  ]
+}

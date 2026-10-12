@@ -1,0 +1,33 @@
+{
+  "id": "19",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Thái Nguyên",
+    "en": "Thai Nguyen",
+    "slug": "thai-nguyen-19"
+  },
+  "code": {
+    "id": "19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 92
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.024",
+    "lon": "105.824"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/thai-nguyen-19/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

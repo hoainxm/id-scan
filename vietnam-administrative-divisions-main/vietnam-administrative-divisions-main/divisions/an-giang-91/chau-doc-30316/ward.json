@@ -1,0 +1,45 @@
+{
+  "id": "30316",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Châu Đốc",
+    "en": "Chau Doc",
+    "slug": "chau-doc-30316"
+  },
+  "code": {
+    "id": "30316",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.688",
+    "lon": "105.097"
+  },
+  "metadata": {},
+  "source": {}
+}

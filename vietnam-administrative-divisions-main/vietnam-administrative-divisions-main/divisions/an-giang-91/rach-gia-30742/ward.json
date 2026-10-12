@@ -1,0 +1,45 @@
+{
+  "id": "30742",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Rạch Giá",
+    "en": "Rach Gia",
+    "slug": "rach-gia-30742"
+  },
+  "code": {
+    "id": "30742",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "An Giang",
+      "en": "An Giang",
+      "slug": "an-giang-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "An Giang",
+        "en": "An Giang",
+        "slug": "an-giang-91"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.027",
+    "lon": "105.09"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "20875",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Lãnh Ngọc",
+    "en": "Lanh Ngoc",
+    "slug": "lanh-ngoc-20875"
+  },
+  "code": {
+    "id": "20875",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.444",
+    "lon": "108.203"
+  },
+  "metadata": {},
+  "source": {}
+}

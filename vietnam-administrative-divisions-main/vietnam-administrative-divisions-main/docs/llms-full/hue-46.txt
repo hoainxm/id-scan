@@ -1,0 +1,209 @@
+# Hue — Vietnam Administrative Divisions
+
+> 40 commune/wards
+> Code: 46
+> Coordinates: 16.332, 107.517
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### A Lưới 1 (A Luoi 1)
+
+Code: 20056, Coordinates: 16.329, 107.173
+
+
+### A Lưới 2 (A Luoi 2)
+
+Code: 20044, Coordinates: 16.272, 107.231
+
+
+### A Lưới 3 (A Luoi 3)
+
+Code: 20071, Coordinates: 16.248, 107.254
+
+
+### A Lưới 4 (A Luoi 4)
+
+Code: 20101, Coordinates: 16.117, 107.346
+
+
+### A Lưới 5 (A Luoi 5)
+
+Code: 20050, Coordinates: 16.301, 107.337
+
+
+### An Cựu (An Cuu)
+
+Code: 19815, Coordinates: 16.453, 107.598
+
+
+### Bình Điền (Binh Dien)
+
+Code: 20035, Coordinates: 16.349, 107.505
+
+
+### Chân Mây - Lăng Cô (Chan May - Lang Co)
+
+Code: 20137, Coordinates: 16.274, 107.991
+
+
+### Đan Điền (Dan Dien)
+
+Code: 19885, Coordinates: 16.559, 107.496
+
+
+### Dương Nỗ (Duong No)
+
+Code: 19909, Coordinates: 16.514, 107.604
+
+
+### Hóa Châu (Hoa Chau)
+
+Code: 20014, Coordinates: 16.551, 107.577
+
+
+### Hưng Lộc (Hung Loc)
+
+Code: 20131, Coordinates: 16.356, 107.738
+
+
+### Hương An (Huong An)
+
+Code: 19804, Coordinates: 16.486, 107.555
+
+
+### Hương Thủy (Huong Thuy)
+
+Code: 19975, Coordinates: 16.424, 107.667
+
+
+### Hương Trà (Huong Tra)
+
+Code: 19996, Coordinates: 16.519, 107.484
+
+
+### Khe Tre
+
+Code: 20161, Coordinates: 16.168, 107.718
+
+
+### Kim Long
+
+Code: 19774, Coordinates: 16.465, 107.561
+
+
+### Kim Trà (Kim Tra)
+
+Code: 20017, Coordinates: 16.507, 107.509
+
+
+### Lộc An (Loc An)
+
+Code: 20140, Coordinates: 16.323, 107.773
+
+
+### Long Quảng (Long Quang)
+
+Code: 20182, Coordinates: 16.128, 107.669
+
+
+### Mỹ Thượng (My Thuong)
+
+Code: 19930, Coordinates: 16.496, 107.604
+
+
+### Nam Đông (Nam Dong)
+
+Code: 20179, Coordinates: 16.16, 107.711
+
+
+### Phong Điền (Phong Dien)
+
+Code: 19819, Coordinates: 16.582, 107.365
+
+
+### Phong Dinh
+
+Code: 19831, Coordinates: 16.659, 107.326
+
+
+### Phong Phú (Phong Phu)
+
+Code: 19828, Coordinates: 16.683, 107.414
+
+
+### Phong Quảng (Phong Quang)
+
+Code: 19873, Coordinates: 16.652, 107.472
+
+
+### Phong Thái (Phong Thai)
+
+Code: 19858, Coordinates: 16.547, 107.454
+
+
+### Phú Bài (Phu Bai)
+
+Code: 19960, Coordinates: 16.409, 107.678
+
+
+### Phú Hồ (Phu Ho)
+
+Code: 19918, Coordinates: 16.49, 107.702
+
+
+### Phú Lộc (Phu Loc)
+
+Code: 20107, Coordinates: 16.28, 107.859
+
+
+### Phú Vang (Phu Vang)
+
+Code: 19942, Coordinates: 16.414, 107.776
+
+
+### Phú Vinh (Phu Vinh)
+
+Code: 19945, Coordinates: 16.433, 107.785
+
+
+### Phú Xuân (Phu Xuan)
+
+Code: 19753, Coordinates: 16.478, 107.58
+
+
+### Quảng Điền (Quang Dien)
+
+Code: 19867, Coordinates: 16.564, 107.55
+
+
+### Thanh Thủy (Thanh Thuy)
+
+Code: 19969, Coordinates: 16.438, 107.621
+
+
+### Thuận An (Thuan An)
+
+Code: 19900, Coordinates: 16.56, 107.645
+
+
+### Thuận Hóa (Thuan Hoa)
+
+Code: 19789, Coordinates: 16.464, 107.598
+
+
+### Thủy Xuân (Thuy Xuan)
+
+Code: 19813, Coordinates: 16.435, 107.573
+
+
+### Vinh Lộc (Vinh Loc)
+
+Code: 20122, Coordinates: 16.374, 107.843
+
+
+### Vỹ Dạ (Vy Da)
+
+Code: 19777, Coordinates: 16.48, 107.599
+
+

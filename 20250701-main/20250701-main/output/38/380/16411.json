@@ -1,0 +1,18 @@
+{
+  "address": "Xã Đông Xuân, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: Sáp nhập toàn bộ 190,67 ha diện tích tự nhiên, 2.808 người của xã Đông Xuân; điều chỉnh 291,37 ha diện tích tự nhiên, 4.585 người (gồm toàn bộ 93,07 ha, 1.970 người của thôn Toàn Tân; 181,04 ha, 2.615 người của thôn Đại Đồng, 17,26 ha của thôn Triệu Xá 1) thuộc xã Đông Tiến",
+  "result": [
+    {
+      "citation": {
+        "header": "1686/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Thanh Hóa",
+        "line": "131. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Đông Lĩnh, phường Thiệu Khánh và các xã Đông Thanh, Thiệu Vân, Tân Châu, Thiệu Giao, Đông Tiến thành phường mới có tên gọi là **phường Đông Tiến**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Thanh Hóa",
+      "ward_code": "15853",
+      "ward_name": "Phường Đông Tiến"
+    }
+  ]
+}

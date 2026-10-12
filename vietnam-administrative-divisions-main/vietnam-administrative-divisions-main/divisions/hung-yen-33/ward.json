@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "12499",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "A Sào",
+      "en": "A Sao",
+      "slug": "a-sao-12499"
+    },
+    "code": {
+      "id": "12499",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.697",
+      "lon": "106.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13021",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ái Quốc",
+      "en": "Ai Quoc",
+      "slug": "ai-quoc-13021"
+    },
+    "code": {
+      "id": "13021",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.375",
+      "lon": "106.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12142",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ân Thi",
+      "en": "An Thi",
+      "slug": "an-thi-12142"
+    },
+    "code": {
+      "id": "12142",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.813",
+      "lon": "106.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12694",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Đông Hưng",
+      "en": "Bac Dong Hung",
+      "slug": "bac-dong-hung-12694"
+    },
+    "code": {
+      "id": "12694",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.578",
+      "lon": "106.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12745",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Đông Quan",
+      "en": "Bac Dong Quan",
+      "slug": "bac-dong-quan-12745"
+    },
+    "code": {
+      "id": "12745",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.539",
+      "lon": "106.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12916",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Thái Ninh",
+      "en": "Bac Thai Ninh",
+      "slug": "bac-thai-ninh-12916"
+    },
+    "code": {
+      "id": "12916",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.52",
+      "lon": "106.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12859",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Thụy Anh",
+      "en": "Bac Thuy Anh",
+      "slug": "bac-thuy-anh-12859"
+    },
+    "code": {
+      "id": "12859",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.597",
+      "lon": "106.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12700",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Tiên Hưng",
+      "en": "Bac Tien Hung",
+      "slug": "bac-tien-hung-12700"
+    },
+    "code": {
+      "id": "12700",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.581",
+      "lon": "106.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13186",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Định",
+      "en": "Binh Dinh",
+      "slug": "binh-dinh-13186"
+    },
+    "code": {
+      "id": "13186",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.319",
+      "lon": "106.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13096",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Nguyên",
+      "en": "Binh Nguyen",
+      "slug": "binh-nguyen-13096"
+    },
+    "code": {
+      "id": "13096",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.458",
+      "lon": "106.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13183",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thanh",
+      "en": "Binh Thanh",
+      "slug": "binh-thanh-13183"
+    },
+    "code": {
+      "id": "13183",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.321",
+      "lon": "106.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12247",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Ninh",
+      "en": "Chau Ninh",
+      "slug": "chau-ninh-12247"
+    },
+    "code": {
+      "id": "12247",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.807",
+      "lon": "105.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12271",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chí Minh",
+      "en": "Chi Minh",
+      "slug": "chi-minh-12271"
+    },
+    "code": {
+      "id": "12271",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.778",
+      "lon": "105.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11995",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đại Đồng",
+      "en": "Dai Dong",
+      "slug": "dai-dong-11995"
+    },
+    "code": {
+      "id": "11995",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.991",
+      "lon": "106.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12619",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Hà",
+      "en": "Dien Ha",
+      "slug": "dien-ha-12619"
+    },
+    "code": {
+      "id": "12619",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.642",
+      "lon": "106.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12406",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đoàn Đào",
+      "en": "Doan Dao",
+      "slug": "doan-dao-12406"
+    },
+    "code": {
+      "id": "12406",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.73",
+      "lon": "106.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12526",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Bằng",
+      "en": "Dong Bang",
+      "slug": "dong-bang-12526"
+    },
+    "code": {
+      "id": "12526",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.652",
+      "lon": "106.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13003",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đồng Châu",
+      "en": "Dong Chau",
+      "slug": "dong-chau-13003"
+    },
+    "code": {
+      "id": "13003",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.393",
+      "lon": "106.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12688",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hưng",
+      "en": "Dong Hung",
+      "slug": "dong-hung-12688"
+    },
+    "code": {
+      "id": "12688",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.549",
+      "lon": "106.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12793",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Quan",
+      "en": "Dong Quan",
+      "slug": "dong-quan-12793"
+    },
+    "code": {
+      "id": "12793",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.512",
+      "lon": "106.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12943",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thái Ninh",
+      "en": "Dong Thai Ninh",
+      "slug": "dong-thai-ninh-12943"
+    },
+    "code": {
+      "id": "12943",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.489",
+      "lon": "106.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12862",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thụy Anh",
+      "en": "Dong Thuy Anh",
+      "slug": "dong-thuy-anh-12862"
+    },
+    "code": {
+      "id": "12862",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.596",
+      "lon": "106.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12988",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Tiền Hải",
+      "en": "Dong Tien Hai",
+      "slug": "dong-tien-hai-12988"
+    },
+    "code": {
+      "id": "12988",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.445",
+      "lon": "106.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12736",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Tiên Hưng",
+      "en": "Dong Tien Hung",
+      "slug": "dong-tien-hung-12736"
+    },
+    "code": {
+      "id": "12736",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.549",
+      "lon": "106.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12313",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Hợp",
+      "en": "Duc Hop",
+      "slug": "duc-hop-12313"
+    },
+    "code": {
+      "id": "12313",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.729",
+      "lon": "105.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12133",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đường Hào",
+      "en": "Duong Hao",
+      "slug": "duong-hao-12133"
+    },
+    "code": {
+      "id": "12133",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.902",
+      "lon": "106.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12322",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Cường",
+      "en": "Hiep Cuong",
+      "slug": "hiep-cuong-12322"
+    },
+    "code": {
+      "id": "12322",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.726",
+      "lon": "106.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12070",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàn Long",
+      "en": "Hoan Long",
+      "slug": "hoan-long-12070"
+    },
+    "code": {
+      "id": "12070",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.903",
+      "lon": "105.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12337",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hoàng Hoa Thám",
+      "en": "Hoang Hoa Tham",
+      "slug": "hoang-hoa-tham-12337"
+    },
+    "code": {
+      "id": "12337",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.698",
+      "lon": "106.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11980",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Châu",
+      "en": "Hong Chau",
+      "slug": "hong-chau-11980"
+    },
+    "code": {
+      "id": "11980",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.632",
+      "lon": "106.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12685",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Minh",
+      "en": "Hong Minh",
+      "slug": "hong-minh-12685"
+    },
+    "code": {
+      "id": "12685",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.536",
+      "lon": "106.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12196",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Quang",
+      "en": "Hong Quang",
+      "slug": "hong-quang-12196"
+    },
+    "code": {
+      "id": "12196",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.753",
+      "lon": "106.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13159",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồng Vũ",
+      "en": "Hong Vu",
+      "slug": "hong-vu-13159"
+    },
+    "code": {
+      "id": "13159",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.365",
+      "lon": "106.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12586",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Hà",
+      "en": "Hung Ha",
+      "slug": "hung-ha-12586"
+    },
+    "code": {
+      "id": "12586",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.593",
+      "lon": "106.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13066",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Phú",
+      "en": "Hung Phu",
+      "slug": "hung-phu-13066"
+    },
+    "code": {
+      "id": "13066",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "106.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12205",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khoái Châu",
+      "en": "Khoai Chau",
+      "slug": "khoai-chau-12205"
+    },
+    "code": {
+      "id": "12205",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.84",
+      "lon": "105.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13075",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kiến Xương",
+      "en": "Kien Xuong",
+      "slug": "kien-xuong-13075"
+    },
+    "code": {
+      "id": "13075",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.397",
+      "lon": "106.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11992",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lạc Đạo",
+      "en": "Lac Dao",
+      "slug": "lac-dao-11992"
+    },
+    "code": {
+      "id": "11992",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.978",
+      "lon": "106.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13120",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Lợi",
+      "en": "Le Loi",
+      "slug": "le-loi-13120"
+    },
+    "code": {
+      "id": "13120",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.431",
+      "lon": "106.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12676",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lê Quý Đôn",
+      "en": "Le Quy Don",
+      "slug": "le-quy-don-12676"
+    },
+    "code": {
+      "id": "12676",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.56",
+      "lon": "106.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12613",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hưng",
+      "en": "Long Hung",
+      "slug": "long-hung-12613"
+    },
+    "code": {
+      "id": "12613",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.617",
+      "lon": "106.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12280",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lương Bằng",
+      "en": "Luong Bang",
+      "slug": "luong-bang-12280"
+    },
+    "code": {
+      "id": "12280",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.748",
+      "lon": "106.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12049",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mễ Sở",
+      "en": "Me So",
+      "slug": "me-so-12049"
+    },
+    "code": {
+      "id": "12049",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.893",
+      "lon": "105.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12511",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Thọ",
+      "en": "Minh Tho",
+      "slug": "minh-tho-12511"
+    },
+    "code": {
+      "id": "12511",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.686",
+      "lon": "106.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12103",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Mỹ Hào",
+      "en": "My Hao",
+      "slug": "my-hao-12103"
+    },
+    "code": {
+      "id": "12103",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.941",
+      "lon": "106.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13057",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Cường",
+      "en": "Nam Cuong",
+      "slug": "nam-cuong-13057"
+    },
+    "code": {
+      "id": "13057",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.36",
+      "lon": "106.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12775",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Đông Hưng",
+      "en": "Nam Dong Hung",
+      "slug": "nam-dong-hung-12775"
+    },
+    "code": {
+      "id": "12775",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.51",
+      "lon": "106.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12961",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Thái Ninh",
+      "en": "Nam Thai Ninh",
+      "slug": "nam-thai-ninh-12961"
+    },
+    "code": {
+      "id": "12961",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.477",
+      "lon": "106.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12904",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Thụy Anh",
+      "en": "Nam Thuy Anh",
+      "slug": "nam-thuy-anh-12904"
+    },
+    "code": {
+      "id": "12904",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.55",
+      "lon": "106.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13063",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Tiền Hải",
+      "en": "Nam Tien Hai",
+      "slug": "nam-tien-hai-13063"
+    },
+    "code": {
+      "id": "13063",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.329",
+      "lon": "106.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12763",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nam Tiên Hưng",
+      "en": "Nam Tien Hung",
+      "slug": "nam-tien-hung-12763"
+    },
+    "code": {
+      "id": "12763",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.517",
+      "lon": "106.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12286",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Dân",
+      "en": "Nghia Dan",
+      "slug": "nghia-dan-12286"
+    },
+    "code": {
+      "id": "12286",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.778",
+      "lon": "106.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12031",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Trụ",
+      "en": "Nghia Tru",
+      "slug": "nghia-tru-12031"
+    },
+    "code": {
+      "id": "12031",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.94",
+      "lon": "105.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12517",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngọc Lâm",
+      "en": "Ngoc Lam",
+      "slug": "ngoc-lam-12517"
+    },
+    "code": {
+      "id": "12517",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.679",
+      "lon": "106.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12595",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngự Thiên",
+      "en": "Ngu Thien",
+      "slug": "ngu-thien-12595"
+    },
+    "code": {
+      "id": "12595",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.635",
+      "lon": "106.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12532",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Du",
+      "en": "Nguyen Du",
+      "slug": "nguyen-du-12532"
+    },
+    "code": {
+      "id": "12532",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.647",
+      "lon": "106.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12184",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Trãi",
+      "en": "Nguyen Trai",
+      "slug": "nguyen-trai-12184"
+    },
+    "code": {
+      "id": "12184",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.798",
+      "lon": "106.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12064",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nguyễn Văn Linh",
+      "en": "Nguyen Van Linh",
+      "slug": "nguyen-van-linh-12064"
+    },
+    "code": {
+      "id": "12064",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.915",
+      "lon": "106.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12004",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Như Quỳnh",
+      "en": "Nhu Quynh",
+      "slug": "nhu-quynh-12004"
+    },
+    "code": {
+      "id": "12004",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.983",
+      "lon": "105.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12148",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phạm Ngũ Lão",
+      "en": "Pham Ngu Lao",
+      "slug": "pham-ngu-lao-12148"
+    },
+    "code": {
+      "id": "12148",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.869",
+      "lon": "106.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11953",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phố Hiến",
+      "en": "Pho Hien",
+      "slug": "pho-hien-11953"
+    },
+    "code": {
+      "id": "11953",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.663",
+      "lon": "106.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12523",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phụ Dực",
+      "en": "Phu Duc",
+      "slug": "phu-duc-12523"
+    },
+    "code": {
+      "id": "12523",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.647",
+      "lon": "106.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12025",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phụng Công",
+      "en": "Phung Cong",
+      "slug": "phung-cong-12025"
+    },
+    "code": {
+      "id": "12025",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.961",
+      "lon": "105.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12391",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Hưng",
+      "en": "Quang Hung",
+      "slug": "quang-hung-12391"
+    },
+    "code": {
+      "id": "12391",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.741",
+      "lon": "106.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13132",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quang Lịch",
+      "en": "Quang Lich",
+      "slug": "quang-lich-13132"
+    },
+    "code": {
+      "id": "13132",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.422",
+      "lon": "106.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12577",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh An",
+      "en": "Quynh An",
+      "slug": "quynh-an-12577"
+    },
+    "code": {
+      "id": "12577",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.613",
+      "lon": "106.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12472",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Quỳnh Phụ",
+      "en": "Quynh Phu",
+      "slug": "quynh-phu-12472"
+    },
+    "code": {
+      "id": "12472",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.648",
+      "lon": "106.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11983",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sơn Nam",
+      "en": "Son Nam",
+      "slug": "son-nam-11983"
+    },
+    "code": {
+      "id": "11983",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.684",
+      "lon": "106.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11977",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hưng",
+      "en": "Tan Hung",
+      "slug": "tan-hung-11977"
+    },
+    "code": {
+      "id": "11977",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.631",
+      "lon": "106.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13246",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thuận",
+      "en": "Tan Thuan",
+      "slug": "tan-thuan-13246"
+    },
+    "code": {
+      "id": "13246",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.424",
+      "lon": "106.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12583",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tiến",
+      "en": "Tan Tien",
+      "slug": "tan-tien-12583"
+    },
+    "code": {
+      "id": "12583",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.594",
+      "lon": "106.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12919",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Thái Ninh",
+      "en": "Tay Thai Ninh",
+      "slug": "tay-thai-ninh-12919"
+    },
+    "code": {
+      "id": "12919",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.509",
+      "lon": "106.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12850",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Thụy Anh",
+      "en": "Tay Thuy Anh",
+      "slug": "tay-thuy-anh-12850"
+    },
+    "code": {
+      "id": "12850",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.587",
+      "lon": "106.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13039",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Tiền Hải",
+      "en": "Tay Tien Hai",
+      "slug": "tay-tien-hai-13039"
+    },
+    "code": {
+      "id": "13039",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.358",
+      "lon": "106.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13225",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Bình",
+      "en": "Thai Binh",
+      "slug": "thai-binh-13225"
+    },
+    "code": {
+      "id": "13225",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.403",
+      "lon": "106.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12922",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Ninh",
+      "en": "Thai Ninh",
+      "slug": "thai-ninh-12922"
+    },
+    "code": {
+      "id": "12922",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.537",
+      "lon": "106.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12826",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Thụy",
+      "en": "Thai Thuy",
+      "slug": "thai-thuy-12826"
+    },
+    "code": {
+      "id": "12826",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.541",
+      "lon": "106.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12631",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thần Khê",
+      "en": "Than Khe",
+      "slug": "than-khe-12631"
+    },
+    "code": {
+      "id": "12631",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.596",
+      "lon": "106.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13222",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thư Trì",
+      "en": "Thu Tri",
+      "slug": "thu-tri-13222"
+    },
+    "code": {
+      "id": "13222",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.489",
+      "lon": "106.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13264",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thư Vũ",
+      "en": "Thu Vu",
+      "slug": "thu-vu-13264"
+    },
+    "code": {
+      "id": "13264",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.386",
+      "lon": "106.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12127",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thượng Hồng",
+      "en": "Thuong Hong",
+      "slug": "thuong-hong-12127"
+    },
+    "code": {
+      "id": "12127",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.936",
+      "lon": "106.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12865",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thụy Anh",
+      "en": "Thuy Anh",
+      "slug": "thuy-anh-12865"
+    },
+    "code": {
+      "id": "12865",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.571",
+      "lon": "106.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12970",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiền Hải",
+      "en": "Tien Hai",
+      "slug": "tien-hai-12970"
+    },
+    "code": {
+      "id": "12970",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.377",
+      "lon": "106.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12361",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Hoa",
+      "en": "Tien Hoa",
+      "slug": "tien-hoa-12361"
+    },
+    "code": {
+      "id": "12361",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.681",
+      "lon": "106.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12754",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Hưng",
+      "en": "Tien Hung",
+      "slug": "tien-hung-12754"
+    },
+    "code": {
+      "id": "12754",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.54",
+      "lon": "106.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12634",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên La",
+      "en": "Tien La",
+      "slug": "tien-la-12634"
+    },
+    "code": {
+      "id": "12634",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.607",
+      "lon": "106.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Lữ",
+      "en": "Tien Lu",
+      "slug": "tien-lu-12364"
+    },
+    "code": {
+      "id": "12364",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.682",
+      "lon": "106.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12424",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tiên Tiến",
+      "en": "Tien Tien",
+      "slug": "tien-tien-12424"
+    },
+    "code": {
+      "id": "12424",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.697",
+      "lon": "106.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12427",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tống Trân",
+      "en": "Tong Tran",
+      "slug": "tong-tran-12427"
+    },
+    "code": {
+      "id": "12427",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.673",
+      "lon": "106.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13093",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Giang",
+      "en": "Tra Giang",
+      "slug": "tra-giang-13093"
+    },
+    "code": {
+      "id": "13093",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.474",
+      "lon": "106.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12817",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trà Lý",
+      "en": "Tra Ly",
+      "slug": "tra-ly-12817"
+    },
+    "code": {
+      "id": "12817",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.48",
+      "lon": "106.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12452",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Hưng Đạo",
+      "en": "Tran Hung Dao",
+      "slug": "tran-hung-dao-12452"
+    },
+    "code": {
+      "id": "12452",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.449",
+      "lon": "106.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12454",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trần Lãm",
+      "en": "Tran Lam",
+      "slug": "tran-lam-12454"
+    },
+    "code": {
+      "id": "12454",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.44",
+      "lon": "106.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12223",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Triệu Việt Vương",
+      "en": "Trieu Viet Vuong",
+      "slug": "trieu-viet-vuong-12223"
+    },
+    "code": {
+      "id": "12223",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.858",
+      "lon": "105.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12019",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Văn Giang",
+      "en": "Van Giang",
+      "slug": "van-giang-12019"
+    },
+    "code": {
+      "id": "12019",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.929",
+      "lon": "105.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13219",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vạn Xuân",
+      "en": "Van Xuan",
+      "slug": "van-xuan-13219"
+    },
+    "code": {
+      "id": "13219",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.487",
+      "lon": "106.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12238",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Tiến",
+      "en": "Viet Tien",
+      "slug": "viet-tien-12238"
+    },
+    "code": {
+      "id": "12238",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.824",
+      "lon": "106.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12091",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Việt Yên",
+      "en": "Viet Yen",
+      "slug": "viet-yen-12091"
+    },
+    "code": {
+      "id": "12091",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.88",
+      "lon": "105.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12466",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Phúc",
+      "en": "Vu Phuc",
+      "slug": "vu-phuc-12466"
+    },
+    "code": {
+      "id": "12466",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.415",
+      "lon": "106.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13141",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Quý",
+      "en": "Vu Quy",
+      "slug": "vu-quy-13141"
+    },
+    "code": {
+      "id": "13141",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.402",
+      "lon": "106.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13192",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Thư",
+      "en": "Vu Thu",
+      "slug": "vu-thu-13192"
+    },
+    "code": {
+      "id": "13192",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.426",
+      "lon": "106.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13279",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũ Tiên",
+      "en": "Vu Tien",
+      "slug": "vu-tien-13279"
+    },
+    "code": {
+      "id": "13279",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.358",
+      "lon": "106.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12166",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Trúc",
+      "en": "Xuan Truc",
+      "slug": "xuan-truc-12166"
+    },
+    "code": {
+      "id": "12166",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.826",
+      "lon": "106.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12073",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Yên Mỹ",
+      "en": "Yen My",
+      "slug": "yen-my-12073"
+    },
+    "code": {
+      "id": "12073",
+      "iso": null
+    },
+    "parent": {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Hưng Yên",
+        "en": "Hung Yen",
+        "slug": "hung-yen-33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Hưng Yên",
+          "en": "Hung Yen",
+          "slug": "hung-yen-33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.878",
+      "lon": "106.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

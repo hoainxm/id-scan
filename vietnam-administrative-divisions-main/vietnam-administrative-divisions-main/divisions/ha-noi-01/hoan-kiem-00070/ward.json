@@ -1,0 +1,45 @@
+{
+  "id": "00070",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Hoàn Kiếm",
+    "en": "Hoan Kiem",
+    "slug": "hoan-kiem-00070"
+  },
+  "code": {
+    "id": "00070",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "Hà Nội",
+      "en": "Hanoi",
+      "slug": "ha-noi-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "Hà Nội",
+        "en": "Hanoi",
+        "slug": "ha-noi-01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.032",
+    "lon": "105.851"
+  },
+  "metadata": {},
+  "source": {}
+}

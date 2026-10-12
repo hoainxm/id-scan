@@ -1,0 +1,18 @@
+{
+  "address": "Xã Kim Chung, Huyện Hưng Hà, Tỉnh Thái Bình",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1666/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Hưng Yên",
+        "line": "71. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hòa Bình, Minh Khai và Thống Nhất (huyện Hưng Hà), các xã Kim Trung, Hồng Lĩnh, Văn Lang, thị trấn Hưng Hà thành xã mới có tên gọi là xã Hưng Hà."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Hưng Yên",
+      "ward_code": "12586",
+      "ward_name": "Xã Hưng Hà"
+    }
+  ]
+}

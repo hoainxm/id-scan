@@ -1,0 +1,33 @@
+{
+  "id": "25",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Phú Thọ",
+    "en": "Phu Tho",
+    "slug": "phu-tho-25"
+  },
+  "code": {
+    "id": "25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 148
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.707",
+    "lon": "105.333"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/phu-tho-25/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

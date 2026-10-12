@@ -1,0 +1,18 @@
+{
+  "address": "Xã Bình Lộc, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: Ngày 21 tháng 11 năm 2019, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 819/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Hà Tĩnh (nghị quyết có hiệu lực từ ngày 1 tháng 1 năm 2020)[1]. Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã An Lộc và Bình Lộc thành xã Bình An.",
+  "result": [
+    {
+      "citation": {
+        "header": "1665/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Hà Tĩnh",
+        "line": "24. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Lộc Hà và các xã Bình An, Thịnh Lộc, Thạch Kim thành xã mới có tên gọi là xã Lộc Hà."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Hà Tĩnh",
+      "ward_code": "18568",
+      "ward_name": "Xã Lộc Hà"
+    }
+  ]
+}

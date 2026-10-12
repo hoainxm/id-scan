@@ -1,0 +1,354 @@
+# Ha Tinh — Vietnam Administrative Divisions
+
+> 69 commune/wards
+> Code: 42
+> Coordinates: 18.291, 105.735
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Bắc Hồng Lĩnh (Bac Hong Linh)
+
+Code: 18115, Coordinates: 18.534, 105.705
+
+
+### Cẩm Bình (Cam Binh)
+
+Code: 18685, Coordinates: 18.304, 105.962
+
+
+### Cẩm Duệ (Cam Due)
+
+Code: 18739, Coordinates: 18.248, 105.937
+
+
+### Cẩm Hưng (Cam Hung)
+
+Code: 18736, Coordinates: 18.21, 106.021
+
+
+### Cẩm Lạc (Cam Lac)
+
+Code: 18748, Coordinates: 18.198, 106.1
+
+
+### Cẩm Trung (Cam Trung)
+
+Code: 18742, Coordinates: 18.242, 106.114
+
+
+### Cẩm Xuyên (Cam Xuyen)
+
+Code: 18673, Coordinates: 18.189, 106.01
+
+
+### Can Lộc (Can Loc)
+
+Code: 18406, Coordinates: 18.444, 105.732
+
+
+### Cổ Đạm (Co Dam)
+
+Code: 18394, Coordinates: 18.574, 105.834
+
+
+### Đan Hải (Dan Hai)
+
+Code: 18364, Coordinates: 18.722, 105.779
+
+
+### Đông Kinh (Dong Kinh)
+
+Code: 18586, Coordinates: 18.451, 105.838
+
+
+### Đồng Lộc (Dong Loc)
+
+Code: 18484, Coordinates: 18.405, 105.727
+
+
+### Đồng Tiến (Dong Tien)
+
+Code: 18619, Coordinates: 18.349, 106.007
+
+
+### Đức Đồng (Duc Dong)
+
+Code: 18304, Coordinates: 18.457, 105.567
+
+
+### Đức Minh (Duc Minh)
+
+Code: 18244, Coordinates: 18.55, 105.579
+
+
+### Đức Quang (Duc Quang)
+
+Code: 18262, Coordinates: 18.551, 105.643
+
+
+### Đức Thịnh (Duc Thinh)
+
+Code: 18277, Coordinates: 18.478, 105.644
+
+
+### Đức Thọ (Duc Tho)
+
+Code: 18229, Coordinates: 18.489, 105.605
+
+
+### Gia Hanh
+
+Code: 18466, Coordinates: 18.443, 105.695
+
+
+### Hà Huy Tập (Ha Huy Tap)
+
+Code: 18652, Coordinates: 18.295, 105.914
+
+
+### Hà Linh (Ha Linh)
+
+Code: 18502, Coordinates: 18.292, 105.668
+
+
+### Hải Ninh (Hai Ninh)
+
+Code: 18781, Coordinates: 18.124, 106.329
+
+
+### Hoành Sơn (Hoanh Son)
+
+Code: 18832, Coordinates: 18.007, 106.438
+
+
+### Hồng Lộc (Hong Loc)
+
+Code: 18409, Coordinates: 18.485, 105.85
+
+
+### Hương Bình (Huong Binh)
+
+Code: 18523, Coordinates: 18.248, 105.654
+
+
+### Hương Đô (Huong Do)
+
+Code: 18550, Coordinates: 18.141, 105.725
+
+
+### Hương Khê (Huong Khe)
+
+Code: 18496, Coordinates: 18.193, 105.679
+
+
+### Hương Phố (Huong Pho)
+
+Code: 18532, Coordinates: 18.219, 105.725
+
+
+### Hương Sơn (Huong Son)
+
+Code: 18133, Coordinates: 18.446, 105.248
+
+
+### Hương Xuân (Huong Xuan)
+
+Code: 18544, Coordinates: 18.082, 105.713
+
+
+### Kim Hoa
+
+Code: 18223, Coordinates: 18.497, 105.473
+
+
+### Kỳ Anh (Ky Anh)
+
+Code: 18775, Coordinates: 18.053, 106.357
+
+
+### Kỳ Hoa (Ky Hoa)
+
+Code: 18814, Coordinates: 18.072, 106.272
+
+
+### Kỳ Khang (Ky Khang)
+
+Code: 18790, Coordinates: 18.123, 106.261
+
+
+### Kỳ Lạc (Ky Lac)
+
+Code: 18838, Coordinates: 18.012, 106.188
+
+
+### Kỳ Thượng (Ky Thuong)
+
+Code: 18844, Coordinates: 18, 106.158
+
+
+### Kỳ Văn (Ky Van)
+
+Code: 18787, Coordinates: 18.087, 106.163
+
+
+### Kỳ Xuân (Ky Xuan)
+
+Code: 18766, Coordinates: 18.203, 106.168
+
+
+### Lộc Hà (Loc Ha)
+
+Code: 18568, Coordinates: 18.462, 105.912
+
+
+### Mai Hoa
+
+Code: 18322, Coordinates: 18.463, 105.538
+
+
+### Mai Phụ (Mai Phu)
+
+Code: 18583, Coordinates: 18.433, 105.892
+
+
+### Nam Hồng Lĩnh (Nam Hong Linh)
+
+Code: 18118, Coordinates: 18.519, 105.702
+
+
+### Nghi Xuân (Nghi Xuan)
+
+Code: 18352, Coordinates: 18.644, 105.758
+
+
+### Phúc Trạch (Phuc Trach)
+
+Code: 18547, Coordinates: 18.07, 105.822
+
+
+### Sơn Giang (Son Giang)
+
+Code: 18184, Coordinates: 18.554, 105.359
+
+
+### Sơn Hồng (Son Hong)
+
+Code: 18160, Coordinates: 18.559, 105.295
+
+
+### Sơn Kim 1 (Son Kim 1)
+
+Code: 18196, Coordinates: 18.452, 105.26
+
+
+### Sơn Kim 2 (Son Kim 2)
+
+Code: 18199, Coordinates: 18.428, 105.318
+
+
+### Sơn Tây (Son Tay)
+
+Code: 18172, Coordinates: 18.456, 105.343
+
+
+### Sơn Tiến (Son Tien)
+
+Code: 18163, Coordinates: 18.553, 105.503
+
+
+### Sông Trí (Song Tri)
+
+Code: 18754, Coordinates: 18.063, 106.299
+
+
+### Thạch Hà (Thach Ha)
+
+Code: 18562, Coordinates: 18.358, 105.821
+
+
+### Thạch Khê (Thach Khe)
+
+Code: 18604, Coordinates: 18.385, 105.95
+
+
+### Thạch Lạc (Thach Lac)
+
+Code: 18628, Coordinates: 18.367, 105.961
+
+
+### Thạch Xuân (Thach Xuan)
+
+Code: 18667, Coordinates: 18.304, 105.862
+
+
+### Thành Sen (Thanh Sen)
+
+Code: 18073, Coordinates: 18.339, 105.903
+
+
+### Thiên Cầm (Thien Cam)
+
+Code: 18676, Coordinates: 18.268, 106.103
+
+
+### Thượng Đức (Thuong Duc)
+
+Code: 18328, Coordinates: 18.408, 105.564
+
+
+### Tiên Điền (Tien Dien)
+
+Code: 18373, Coordinates: 18.659, 105.795
+
+
+### Toàn Lưu (Toan Luu)
+
+Code: 18634, Coordinates: 18.325, 105.824
+
+
+### Trần Phú (Tran Phu)
+
+Code: 18100, Coordinates: 18.385, 105.892
+
+
+### Trường Lưu (Truong Luu)
+
+Code: 18436, Coordinates: 18.443, 105.672
+
+
+### Tứ Mỹ (Tu My)
+
+Code: 18202, Coordinates: 18.511, 105.528
+
+
+### Tùng Lộc (Tung Loc)
+
+Code: 18418, Coordinates: 18.47, 105.796
+
+
+### Việt Xuyên (Viet Xuyen)
+
+Code: 18601, Coordinates: 18.366, 105.817
+
+
+### Vũ Quang (Vu Quang)
+
+Code: 18313, Coordinates: 18.324, 105.455
+
+
+### Vũng Áng (Vung Ang)
+
+Code: 18823, Coordinates: 18.037, 106.376
+
+
+### Xuân Lộc (Xuan Loc)
+
+Code: 18481, Coordinates: 18.385, 105.777
+
+
+### Yên Hòa (Yen Hoa)
+
+Code: 18682, Coordinates: 18.316, 106.019
+
+

@@ -1,0 +1,334 @@
+# Lang Son — Vietnam Administrative Divisions
+
+> 65 commune/wards
+> Code: 20
+> Coordinates: 21.774, 106.728
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Ba Sơn (Ba Son)
+
+Code: 06196, Coordinates: 21.907, 106.97
+
+
+### Bắc Sơn (Bac Son)
+
+Code: 06325, Coordinates: 21.814, 106.251
+
+
+### Bằng Mạc (Bang Mac)
+
+Code: 06475, Coordinates: 21.717, 106.523
+
+
+### Bình Gia (Binh Gia)
+
+Code: 06112, Coordinates: 22.058, 106.279
+
+
+### Cai Kinh
+
+Code: 06427, Coordinates: 21.585, 106.369
+
+
+### Cao Lộc (Cao Loc)
+
+Code: 06211, Coordinates: 21.885, 106.907
+
+
+### Châu Sơn (Chau Son)
+
+Code: 06637, Coordinates: 21.464, 107.14
+
+
+### Chi Lăng (Chi Lang)
+
+Code: 06463, Coordinates: 21.667, 106.594
+
+
+### Chiến Thắng (Chien Thang)
+
+Code: 06481, Coordinates: 21.838, 106.21
+
+
+### Công Sơn (Cong Son)
+
+Code: 06220, Coordinates: 21.88, 106.887
+
+
+### Điềm He (Diem He)
+
+Code: 06280, Coordinates: 21.892, 106.601
+
+
+### Đình Lập (Dinh Lap)
+
+Code: 06613, Coordinates: 21.548, 107.097
+
+
+### Đoàn Kết (Doan Ket)
+
+Code: 06001, Coordinates: 22.388, 106.264
+
+
+### Đồng Đăng (Dong Dang)
+
+Code: 06184, Coordinates: 21.943, 106.698
+
+
+### Đông Kinh (Dong Kinh)
+
+Code: 05977, Coordinates: 21.842, 106.765
+
+
+### Hoa Thám (Hoa Tham)
+
+Code: 06073, Coordinates: 22.18, 106.368
+
+
+### Hoàng Văn Thụ (Hoang Van Thu)
+
+Code: 06172, Coordinates: 21.949, 106.629
+
+
+### Hội Hoan (Hoi Hoan)
+
+Code: 06151, Coordinates: 22.046, 106.48
+
+
+### Hồng Phong (Hong Phong)
+
+Code: 06079, Coordinates: 21.932, 106.684
+
+
+### Hưng Vũ (Hung Vu)
+
+Code: 06349, Coordinates: 21.855, 106.359
+
+
+### Hữu Liên (Huu Lien)
+
+Code: 06400, Coordinates: 21.672, 106.374
+
+
+### Hữu Lũng (Huu Lung)
+
+Code: 06385, Coordinates: 21.502, 106.345
+
+
+### Kháng Chiến (Khang Chien)
+
+Code: 06037, Coordinates: 22.266, 106.602
+
+
+### Khánh Khê (Khanh Khe)
+
+Code: 06286, Coordinates: 21.878, 106.651
+
+
+### Khuất Xá (Khuat Xa)
+
+Code: 06565, Coordinates: 21.742, 107.021
+
+
+### Kiên Mộc (Kien Moc)
+
+Code: 06625, Coordinates: 21.642, 107.226
+
+
+### Kỳ Lừa (Ky Lua)
+
+Code: 06187, Coordinates: 21.866, 106.768
+
+
+### Lộc Bình (Loc Binh)
+
+Code: 06529, Coordinates: 21.669, 106.912
+
+
+### Lợi Bác (Loi Bac)
+
+Code: 06601, Coordinates: 21.638, 106.977
+
+
+### Lương Văn Tri (Luong Van Tri)
+
+Code: 05983, Coordinates: 21.847, 106.754
+
+
+### Mẫu Sơn (Mau Son)
+
+Code: 06541, Coordinates: 21.839, 106.957
+
+
+### Na Dương (Na Duong)
+
+Code: 06526, Coordinates: 21.703, 106.956
+
+
+### Na Sầm (Na Sam)
+
+Code: 06124, Coordinates: 22.057, 106.616
+
+
+### Nhân Lý (Nhan Ly)
+
+Code: 06496, Coordinates: 21.697, 106.656
+
+
+### Nhất Hòa (Nhat Hoa)
+
+Code: 06376, Coordinates: 21.763, 106.255
+
+
+### Quan Sơn (Quan Son)
+
+Code: 06517, Coordinates: 21.605, 106.725
+
+
+### Quốc Khánh (Quoc Khanh)
+
+Code: 06004, Coordinates: 22.366, 106.541
+
+
+### Quốc Việt (Quoc Viet)
+
+Code: 06058, Coordinates: 22.216, 106.633
+
+
+### Quý Hòa (Quy Hoa)
+
+Code: 06076, Coordinates: 22.178, 106.276
+
+
+### Tam Thanh
+
+Code: 05986, Coordinates: 21.857, 106.752
+
+
+### Tân Đoàn (Tan Doan)
+
+Code: 06316, Coordinates: 21.799, 106.607
+
+
+### Tân Thành (Tan Thanh)
+
+Code: 06445, Coordinates: 22.004, 106.678
+
+
+### Tân Tiến (Tan Tien)
+
+Code: 06019, Coordinates: 22.308, 106.324
+
+
+### Tân Tri (Tan Tri)
+
+Code: 06337, Coordinates: 21.876, 106.165
+
+
+### Tân Văn (Tan Van)
+
+Code: 06115, Coordinates: 21.924, 106.476
+
+
+### Thái Bình (Thai Binh)
+
+Code: 06616, Coordinates: 21.48, 107.02
+
+
+### Thất Khê (That Khe)
+
+Code: 06040, Coordinates: 22.256, 106.476
+
+
+### Thiện Hòa (Thien Hoa)
+
+Code: 06085, Coordinates: 22.081, 106.19
+
+
+### Thiện Long (Thien Long)
+
+Code: 06103, Coordinates: 21.981, 106.193
+
+
+### Thiện Tân (Thien Tan)
+
+Code: 06436, Coordinates: 21.57, 106.188
+
+
+### Thiện Thuật (Thien Thuat)
+
+Code: 06091, Coordinates: 22.051, 106.308
+
+
+### Thống Nhất (Thong Nhat)
+
+Code: 06577, Coordinates: 21.679, 106.816
+
+
+### Thụy Hùng (Thuy Hung)
+
+Code: 06148, Coordinates: 21.914, 106.724
+
+
+### Tràng Định (Trang Dinh)
+
+Code: 06046, Coordinates: 22.314, 106.431
+
+
+### Tri Lễ (Tri Le)
+
+Code: 06313, Coordinates: 21.778, 106.464
+
+
+### Tuấn Sơn (Tuan Son)
+
+Code: 06457, Coordinates: 21.46, 106.349
+
+
+### Văn Lãng (Van Lang)
+
+Code: 06154, Coordinates: 22.048, 106.6
+
+
+### Vạn Linh (Van Linh)
+
+Code: 06505, Coordinates: 21.631, 106.484
+
+
+### Vân Nham (Van Nham)
+
+Code: 06415, Coordinates: 21.533, 106.286
+
+
+### Văn Quan (Van Quan)
+
+Code: 06253, Coordinates: 21.85, 106.561
+
+
+### Vũ Lăng (Vu Lang)
+
+Code: 06367, Coordinates: 21.834, 106.275
+
+
+### Vũ Lễ (Vu Le)
+
+Code: 06364, Coordinates: 21.797, 106.165
+
+
+### Xuân Dương (Xuan Duong)
+
+Code: 06607, Coordinates: 21.587, 106.892
+
+
+### Yên Bình (Yen Binh)
+
+Code: 06391, Coordinates: 21.639, 106.265
+
+
+### Yên Phúc (Yen Phuc)
+
+Code: 06298, Coordinates: 21.787, 106.541
+
+

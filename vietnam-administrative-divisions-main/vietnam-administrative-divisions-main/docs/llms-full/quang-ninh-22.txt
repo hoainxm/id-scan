@@ -1,0 +1,279 @@
+# Quang Ninh — Vietnam Administrative Divisions
+
+> 54 commune/wards
+> Code: 22
+> Coordinates: 21.264, 107.223
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### An Sinh
+
+Code: 07090, Coordinates: 21.131, 106.502
+
+
+### Ba Chẽ (Ba Che)
+
+Code: 06978, Coordinates: 21.273, 107.281
+
+
+### Bãi Cháy (Bai Chay)
+
+Code: 06673, Coordinates: 20.955, 107.024
+
+
+### Bình Khê (Binh Khe)
+
+Code: 07081, Coordinates: 21.107, 106.584
+
+
+### Bình Liêu (Binh Lieu)
+
+Code: 06838, Coordinates: 21.526, 107.401
+
+
+### Cái Chiên (Cai Chien)
+
+Code: 06967, Coordinates: 21.324, 107.769
+
+
+### Cẩm Phả (Cam Pha)
+
+Code: 06793, Coordinates: 21.01, 107.273
+
+
+### Cao Xanh
+
+Code: 06658, Coordinates: 20.974, 107.081
+
+
+### Cô Tô (Co To)
+
+Code: 07192, Coordinates: 20.99, 107.098
+
+
+### Cửa Ông (Cua Ong)
+
+Code: 06781, Coordinates: 21.005, 107.309
+
+
+### Đầm Hà (Dam Ha)
+
+Code: 06895, Coordinates: 21.353, 107.589
+
+
+### Điền Xá (Dien Xa)
+
+Code: 06874, Coordinates: 21.372, 107.305
+
+
+### Đông Mai (Dong Mai)
+
+Code: 07135, Coordinates: 21.004, 106.847
+
+
+### Đông Ngũ (Dong Ngu)
+
+Code: 06877, Coordinates: 21.336, 107.484
+
+
+### Đông Triều (Dong Trieu)
+
+Code: 07093, Coordinates: 21.084, 106.514
+
+
+### Đường Hoa (Duong Hoa)
+
+Code: 06946, Coordinates: 21.454, 107.707
+
+
+### Hà An (Ha An)
+
+Code: 07168, Coordinates: 20.919, 106.879
+
+
+### Hà Lầm (Ha Lam)
+
+Code: 06676, Coordinates: 20.965, 107.098
+
+
+### Hạ Long (Ha Long)
+
+Code: 06688, Coordinates: 20.947, 107.116
+
+
+### Hà Tu (Ha Tu)
+
+Code: 06652, Coordinates: 20.968, 107.159
+
+
+### Hải Hòa (Hai Hoa)
+
+Code: 06799, Coordinates: 21.146, 107.352
+
+
+### Hải Lạng (Hai Lang)
+
+Code: 06886, Coordinates: 21.319, 107.357
+
+
+### Hải Ninh (Hai Ninh)
+
+Code: 06733, Coordinates: 21.528, 107.814
+
+
+### Hải Sơn (Hai Son)
+
+Code: 06724, Coordinates: 21.642, 107.764
+
+
+### Hiệp Hòa (Hiep Hoa)
+
+Code: 07147, Coordinates: 20.956, 106.801
+
+
+### Hoàng Quế (Hoang Que)
+
+Code: 07114, Coordinates: 21.055, 106.642
+
+
+### Hoành Bồ (Hoanh Bo)
+
+Code: 07030, Coordinates: 21.026, 106.992
+
+
+### Hoành Mô (Hoanh Mo)
+
+Code: 06841, Coordinates: 21.596, 107.489
+
+
+### Hồng Gai (Hong Gai)
+
+Code: 06685, Coordinates: 20.956, 107.083
+
+
+### Kỳ Thượng (Ky Thuong)
+
+Code: 06979, Coordinates: 21.195, 107.119
+
+
+### Liên Hòa (Lien Hoa)
+
+Code: 07180, Coordinates: 20.887, 106.84
+
+
+### Lục Hồn (Luc Hon)
+
+Code: 06856, Coordinates: 21.558, 107.436
+
+
+### Lương Minh (Luong Minh)
+
+Code: 06985, Coordinates: 21.254, 107.019
+
+
+### Mạo Khê (Mao Khe)
+
+Code: 07069, Coordinates: 21.058, 106.599
+
+
+### Móng Cái 1 (Mong Cai 1)
+
+Code: 06712, Coordinates: 21.525, 107.966
+
+
+### Móng Cái 2 (Mong Cai 2)
+
+Code: 06709, Coordinates: 21.533, 107.954
+
+
+### Móng Cái 3 (Mong Cai 3)
+
+Code: 06736, Coordinates: 21.532, 107.93
+
+
+### Mông Dương (Mong Duong)
+
+Code: 06760, Coordinates: 21.066, 107.324
+
+
+### Phong Cốc (Phong Coc)
+
+Code: 07183, Coordinates: 20.892, 106.81
+
+
+### Quảng Đức (Quang Duc)
+
+Code: 06931, Coordinates: 21.482, 107.75
+
+
+### Quảng Hà (Quang Ha)
+
+Code: 06922, Coordinates: 21.451, 107.758
+
+
+### Quang Hanh
+
+Code: 06778, Coordinates: 21.003, 107.218
+
+
+### Quảng La (Quang La)
+
+Code: 07054, Coordinates: 21.09, 106.884
+
+
+### Quảng Tân (Quang Tan)
+
+Code: 06913, Coordinates: 21.361, 107.583
+
+
+### Quảng Yên (Quang Yen)
+
+Code: 07132, Coordinates: 20.942, 106.803
+
+
+### Thống Nhất (Thong Nhat)
+
+Code: 07060, Coordinates: 21.02, 107.107
+
+
+### Tiên Yên (Tien Yen)
+
+Code: 06862, Coordinates: 21.331, 107.405
+
+
+### Tuần Châu (Tuan Chau)
+
+Code: 06706, Coordinates: 20.973, 106.932
+
+
+### Uông Bí (Uong Bi)
+
+Code: 06811, Coordinates: 21.036, 106.765
+
+
+### Vân Đồn (Van Don)
+
+Code: 06994, Coordinates: 21.018, 107.511
+
+
+### Vàng Danh (Vang Danh)
+
+Code: 06820, Coordinates: 21.034, 106.789
+
+
+### Việt Hưng (Viet Hung)
+
+Code: 06661, Coordinates: 20.995, 106.972
+
+
+### Vĩnh Thực (Vinh Thuc)
+
+Code: 06757, Coordinates: 21.373, 107.951
+
+
+### Yên Tử (Yen Tu)
+
+Code: 06832, Coordinates: 21.044, 106.711
+
+

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Tân Hội, Huyện Tân Hiệp, Tỉnh Kiên Giang",
+  "ellapsedInMs": 14946,
+  "estimatedCost": 0.0091521,
+  "thought": "**The Search for Tân Hội in An Giang**\n\nAlright, let's break this down. We're looking for the new administrative unit for \"Xã Tân Hội, Huyện Tân Hiệp, Tỉnh Kiên Giang.\" First, I noted that \"Tỉnh Kiên Giang\" is now part of \"Tỉnh An Giang\" due to a merger. So, we're essentially searching within An Giang.\n\nMy search began by looking through the provided resolutions, focusing on any mentions of \"Tân Hội\" or \"Tân Hiệp.\" The key finding was in Resolution 1654/NQ-UBTVQH15, concerning An Giang. This one was gold! Line 67 explicitly states that \"Xã Tân Hội\" is one of the components merged to form the *new* \"Xã Tân Hội\".  It also references \"Huyện Tân Hiệp,\" confirming the district we're interested in.\n\nThis means the *old* \"Xã Tân Hội\" is being incorporated into a *new* \"Xã Tân Hội\" – the name stays the same, but the composition and boundaries have likely changed, considering the mergers.\n\nChecking the `New Wards` list, I find a matching entry: `{\"ward_code\":\"30856\",\"ward_name\":\"Xã Tân Hội\",\"province_name\":\"Tỉnh An Giang\"}`.\n\nGiven the direct mention in the resolution, the matching ward name, and the provincial merger, I'm highly confident in this mapping. We've successfully identified the new administrative unit for the old \"Xã Tân Hội\": **Xã Tân Hội, in Tỉnh An Giang**, with code 30856.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1654/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh An Giang",
+        "line": "67. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tân Hòa và xã Tân An (huyện Tân Hiệp), xã Tân Thành, xã Tân Hội thành xã mới có tên gọi là xã Tân Hội."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh An Giang",
+      "ward_code": "30856",
+      "ward_name": "Xã Tân Hội"
+    }
+  ]
+}

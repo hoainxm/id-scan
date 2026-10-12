@@ -1,0 +1,18 @@
+{
+  "address": "Xã An Quy, Huyện Thạnh Phú, Tỉnh Bến Tre",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1687/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Vĩnh Long",
+        "line": "78. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Thuận,An Nhơn và An Quithành xã mới có tên gọi là **xã An Qui**."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Vĩnh Long",
+      "ward_code": "29224",
+      "ward_name": "Xã An Qui"
+    }
+  ]
+}

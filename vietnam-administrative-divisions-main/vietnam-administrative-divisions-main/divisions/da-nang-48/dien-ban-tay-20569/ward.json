@@ -1,0 +1,45 @@
+{
+  "id": "20569",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Điện Bàn Tây",
+    "en": "Dien Ban Tay",
+    "slug": "dien-ban-tay-20569"
+  },
+  "code": {
+    "id": "20569",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.889",
+    "lon": "108.176"
+  },
+  "metadata": {},
+  "source": {}
+}

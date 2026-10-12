@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phú Cường, Huyện Tân Lạc, Tỉnh Hoà Bình",
+  "ellapsedInMs": 14089,
+  "estimatedCost": 0.0261575,
+  "thought": "**Determining the New Administrative Unit for \"Xã Phú Cường\"**\n\nOkay, here's what I've figured out.  First, the user wants me to find the current administrative location of \"Xã Phú Cường, Huyện Tân Lạc, Tỉnh Hoà Bình\".  To do this properly, I broke it down:\n\n1.  **Analyze the Input:** I recognized the request. The original location is in Hòa Bình province.\n2.  **Province Check:**  I needed to account for any province-level changes.  Using Resolution 60-NQ/TW, I found that Hòa Bình was merged into Phú Thọ, now officially \"Tỉnh Phú Thọ\".\n3.  **Ward/Commune Check:** Next, I had to see what happened to \"Xã Phú Cường\". Resolution 1676/NQ-UBTVQH15, concerning commune rearrangements within the *new* Phú Thọ, was key. Scanning this document, I found line 125, which confirmed that \"Xã Phú Cường\" was merged with other communes to form the new \"Xã Mường Bi\".  Since the resolution is specifically about rearrangements within the new province, this is a strong confirmation. I'm also confident because it directly mentions the former Hòa Bình and the old district of Tân Lạc.\n4.  **Identify the new unit:**  My analysis revealed that the new commune is \"Xã Mường Bi\" and the province is \"Tỉnh Phú Thọ\".\n5.  **Find the Code:** I searched my list of new administrative units for \"Xã Mường Bi\" in \"Tỉnh Phú Thọ\" and found a perfect match with the code \"05158\".\n6.  **Construct the JSON Response:** I have assembled all this information into a JSON response.  I have high confidence in this result because the resolution directly addresses the merging of \"Xã Phú Cường\" into \"Xã Mường Bi\". The citation information is included.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1676/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ",
+        "line": "125. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Mỹ Hòa, Phong Phú và Phú Cường thành xã mới có tên gọi là xã Mường Bi."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Phú Thọ",
+      "ward_code": "05158",
+      "ward_name": "Xã Mường Bi"
+    }
+  ]
+}

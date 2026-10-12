@@ -1,0 +1,18 @@
+{
+  "address": "Xã Phú Mỹ, Huyện Mỹ Tú, Tỉnh Sóc Trăng",
+  "ellapsedInMs": 12431,
+  "estimatedCost": 0.0077728,
+  "thought": "**Analyzing the Transformation of Xã Phú Mỹ, Huyện Mỹ Tú, Tỉnh Sóc Trăng**\n\nOkay, here's the breakdown of my thought process: The user's request is pretty clear: identify the new administrative unit for \"Xã Phú Mỹ, Huyện Mỹ Tú, Tỉnh Sóc Trăng\". My initial steps involve recognizing the province merger – Sóc Trăng becoming part of Cần Thơ. Then, I dive into the resolutions, specifically looking for any mention of \"Phú Mỹ\" and \"Mỹ Tú\" within the context of Cần Thơ.\n\nI systematically went through each resolution, eliminating those unrelated to Cần Thơ. The key insight came from resolution `1668/NQ-UBTVQH15`. I immediately zeroed in on the line that mentions \"xã Phú Mỹ.\" It stated that the old ward \"Xã Phú Mỹ\" was merged with \"Xã Thuận Hưng\" and \"Xã Mỹ Hương,\" forming a *new* \"Xã Mỹ Hương.\" Bingo!\n\nWith that match, I now knew the new name. I then cross-referenced that information with the \"New wards\" list, where I found a perfect match for \"Xã Mỹ Hương\" under \"Thành phố Cần Thơ.\"  Since the resolution clearly outlines the restructuring, I can confidently say that the old \"Xã Phú Mỹ\" is now part of the new \"Xã Mỹ Hương\" in the new province of \"Thành phố Cần Thơ.\" Confidence is high here as this direct match is unambiguous.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1668/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Cần Thơ",
+        "line": "84. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thuận Hưng, Phú Mỹ và Mỹ Hương thành xã mới có tên gọi là **xã Mỹ Hương**."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Cần Thơ",
+      "ward_code": "31591",
+      "ward_name": "Xã Mỹ Hương"
+    }
+  ]
+}

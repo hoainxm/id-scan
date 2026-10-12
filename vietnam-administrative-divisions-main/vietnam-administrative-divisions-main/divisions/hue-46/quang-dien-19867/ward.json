@@ -1,0 +1,45 @@
+{
+  "id": "19867",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Quảng Điền",
+    "en": "Quang Dien",
+    "slug": "quang-dien-19867"
+  },
+  "code": {
+    "id": "19867",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "Huế",
+      "en": "Hue",
+      "slug": "hue-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "Huế",
+        "en": "Hue",
+        "slug": "hue-46"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.564",
+    "lon": "107.55"
+  },
+  "metadata": {},
+  "source": {}
+}

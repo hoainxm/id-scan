@@ -1,0 +1,18 @@
+{
+  "address": "Phường Tân Hiệp, Thành phố Tân Uyên, Tỉnh Bình Dương",
+  "ellapsedInMs": 12028,
+  "estimatedCost": 0.006849200000000001,
+  "thought": "**Determining the New Administrative Unit for Phường Tân Hiệp**\n\nMy analysis begins by recognizing that the old ward \"Phường Tân Hiệp, Thành phố Tân Uyên, Tỉnh Bình Dương\" resides within Bình Dương province. The first step involves checking for province-level mergers, and resolution 60-NQ/TW reveals that Bình Dương has been absorbed into Thành phố Hồ Chí Minh. This greatly narrows my search.\n\nWith the new province established, I zeroed in on resolution 1685/NQ-UBTVQH15, specifically concerning administrative changes within Hồ Chí Minh.  Scanning this document, I found direct confirmation. Line 100 explicitly states that *Phường Khánh Bình and Phường Tân Hiệp merge to become Phường Tân Hiệp*. This is a crucial finding, as it directly addresses the ward I am looking for.  While there are mentions of \"Tân Hiệp\" in resolutions for other provinces, like An Giang, Bắc Ninh, and Đồng Nai, those are clearly different administrative units. Moreover, the merging of *phường Khánh Bình and phường Tân Hiệp* to form *phường Tân Hiệp* perfectly aligns with the new ward data.\n\nTherefore, my final conclusion, with high confidence, is:\n\n*   **Province:** Thành phố Hồ Chí Minh\n*   **Ward Name:** Phường Tân Hiệp\n*   **Ward Code:** 25920\n*   **Citation:** 1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh, line 100.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1685/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của Thành phố Hồ Chí Minh",
+        "line": "100. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Khánh Bình và phường Tân Hiệp thành phường mới có tên gọi là **phường Tân Hiệp**."
+      },
+      "confidence": "high",
+      "province_name": "Thành phố Hồ Chí Minh",
+      "ward_code": "25920",
+      "ward_name": "Phường Tân Hiệp"
+    }
+  ]
+}

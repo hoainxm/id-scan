@@ -1,0 +1,18 @@
+{
+  "address": "Xã Bình Hòa Hưng, Huyện Đức Huệ, Tỉnh Long An",
+  "ellapsedInMs": 20713,
+  "estimatedCost": 0.027215,
+  "thought": "**My Analysis of the Administrative Unit Change**\n\nOkay, here's my breakdown of how I'm approaching this: The user wants to find the new administrative unit for \"Xã Bình Hòa Hưng, Huyện Đức Huệ, Tỉnh Long An.\" I'll need to work through this systematically, step by step.\n\nFirst, I identified the components: \"Xã Bình Hòa Hưng\" (ward), \"Huyện Đức Huệ\" (district), and \"Tỉnh Long An\" (province). I know I need to account for potential mergers and reorganizations across provinces and districts.\n\nI started by looking at province-level changes. Resolution `60-NQ/TW` reveals that \"Tỉnh Long An\" was merged with \"Tỉnh Tây Ninh\" to form the new \"Tỉnh Tây Ninh.\" That's the crucial first piece. Now I know I'm operating within the context of Tây Ninh.\n\nWith the new province established, I shifted my focus to ward-level changes within Tây Ninh. Resolution `1682/NQ-UBTVQH15`, which details the reorganization of communes in Tây Ninh, is key here. Examining line 16, I found an explicit mention of \"Bình Hòa Hưng\": \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Hiệp (huyện Thạnh Hóa), Thuận Bình và **Bình Hòa Hưng** thành xã mới có tên gọi là **xã Bình Thành**.\" Bingo! \"Bình Hòa Hưng\" is merged into \"xã Bình Thành.\"\n\nI was initially a bit thrown off by line 26, which refers to a \"Bình Thành\" being merged into \"xã Đức Huệ.\" But after carefully re-reading, it's apparent that this is a separate, *pre-existing* \"Bình Thành\" being absorbed, not the new one created in line 16. So line 26 is irrelevant.\n\nNow I have a strong candidate: \"xã Bình Thành\" in \"Tỉnh Tây Ninh.\" I checked the provided unit list and confirmed the code: `{\"code\":\"27868\",\"name\":\"Xã Bình Thành\",\"province\":\"Tỉnh Tây Ninh\"}`. It's a perfect match.\n\nFinally, I'm confident with this result, so I'll create a JSON object with a \"high\" confidence level and include the relevant citation from Resolution `1682/NQ-UBTVQH15`. The output will be a single JSON object inside an array. I'm ready to present my findings.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1682/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Tây Ninh",
+        "line": "16. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Hiệp (huyện Thạnh Hóa), Thuận Bình và Bình Hòa Hưng thành xã mới có tên gọi là **xã Bình Thành**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Tây Ninh",
+      "ward_code": "27868",
+      "ward_name": "Xã Bình Thành"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "address": "Xã Hà Mòn, Huyện Đắk Hà, Tỉnh Kon Tum",
+  "ellapsedInMs": 9717,
+  "estimatedCost": 0.0039244,
+  "thought": "**Identifying the New Administrative Unit for Xã Hà Mòn**\n\nOkay, so the user wants to know the new administrative unit for \"Xã Hà Mòn, Huyện Đắk Hà, Tỉnh Kon Tum.\"  My first step is to check the relevant resolutions and the new ward data, keeping in mind that \"Tỉnh Kon Tum\" is now part of \"Tỉnh Quảng Ngãi\" based on resolution \"60-NQ/TW\".\n\nI'll focus on the \"Other resolutions\" section and specifically look at those pertaining to \"Tỉnh Quảng Ngãi\". Resolution \"1677/NQ-UBTVQH15\" is the one that's likely to contain the answer.\n\nScanning through this resolution, I see line \"56\" is key. It states that \"thị trấn Đăk Hà, xã Hà Mòn và xã Đăk La\" are merged into a *new* ward called \"xã Đăk Hà\". This explicitly includes \"Xã Hà Mòn\". Great!\n\nHowever, further down in the resolution, line \"62\" complicates things a bit. It mentions that the *new* \"xã Đăk Hà\" is merged with \"xã Tu Mơ Rông\" to create a *new* \"xã Tu Mơ Rông\". This is a two-step process:  \"Xã Hà Mòn\" becomes part of the *new* \"xã Đăk Hà\", which then becomes part of the *new* \"xã Tu Mơ Rông\".\n\nSo, to be absolutely clear, I need to check the \"New wards\" data.  I'm looking for \"Xã Đăk Hà\" in \"Tỉnh Quảng Ngãi\", and I do indeed find it: `{\"ward_code\":\"23500\",\"ward_name\":\"Xã Đăk Hà\",\"province_name\":\"Tỉnh Quảng Ngãi\"}`. But the *final* destination is \"Xã Tu Mơ Rông\". I then look for \"Xã Tu Mơ Rông\" and find: `{\"ward_code\":\"23425\",\"ward_name\":\"Xã Tu Mơ Rông\",\"province_name\":\"Tỉnh Quảng Ngãi\"}`. This confirms that line \"62\" is the final destination for the \"Xã Hà Mòn.\"\n\nTherefore, based on the explicit language in resolution \"1677/NQ-UBTVQH15\", specifically lines \"56\" and \"62\", \"Xã Hà Mòn\" is part of the *new* ward \"Xã Tu Mơ Rông\".  The confidence level here is high, because the resolution clearly and explicitly describes the merging process. So, I will structure my output with the final new ward.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1677/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Quảng Ngãi",
+        "line": "56. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Đăk Hà, xã Hà Mòn và xã Đăk La thành xã mới có tên gọi là xã Đăk Hà. 62. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Đăk Hà và xã Tu Mơ Rông thành xã mới có tên gọi là xã Tu Mơ Rông."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Quảng Ngãi",
+      "ward_code": "23425",
+      "ward_name": "Xã Tu Mơ Rông"
+    }
+  ]
+}

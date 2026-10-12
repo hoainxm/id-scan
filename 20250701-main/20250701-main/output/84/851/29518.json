@@ -1,0 +1,18 @@
+{
+  "address": "Xã Long Hữu, Thị xã Duyên Hải, Tỉnh Trà Vinh",
+  "ellapsedInMs": 15704,
+  "estimatedCost": 0.0080436,
+  "thought": "**The Process of Identifying the New Administrative Unit for \"Xã Long Hữu\"**\n\nMy analysis started by identifying the old province, \"Tỉnh Trà Vinh,\" and confirming its merger into \"Tỉnh Vĩnh Long\" per Resolution 60-NQ/TW.  Then, I scoured various resolutions, particularly 1687/NQ-UBTVQH15, focusing on mentions of \"Xã Long Hữu\" or \"Thị xã Duyên Hải\". The crucial find was line 28 of Resolution 1687/NQ-UBTVQH15, which explicitly states, \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hiệp Thạnh và xã Long Hữu thành xã mới có tên gọi là **xã Long Hữu**.\"  This was a key clue, indicating a direct mapping.  Since the resolution is for Vĩnh Long, the implication is that the old \"Xã Long Hữu\" (from Trà Vinh) becomes part of the new \"Xã Long Hữu\" in Vĩnh Long.\n\nI then cross-referenced this with the available data, confirming the existence of a \"Xã Long Hữu\" with the code \"29518\" in \"Tỉnh Vĩnh Long\". This strengthens the confidence in the mapping. The prompt specified finding *all* relevant matches.\n\nWhile the context of \"Thị xã Duyên Hải\" was present, lines 114 and 115 dealt with *phường*s, not *xã*s. Therefore, it's unlikely that \"Xã Long Hữu\" was directly merged into \"Phường Duyên Hải\" or \"Phường Trường Long Hoà\" based on those specific entries. The crucial element is the direct mention of \"Xã Long Hữu\" in line 28.\n\nGiven the explicit nature of the resolution, merging \"Xã Hiệp Thạnh and Xã Long Hữu into a new Xã Long Hữu\", and the consistent naming, the most confident outcome is that the new ward is indeed **\"Xã Long Hữu\" (Ward Code: 29518, Province: Tỉnh Vĩnh Long)**.  This is a high-confidence match because the resolution directly addresses the old ward, merging it into a new unit of the same name.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1687/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Vĩnh Long",
+        "line": "28. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hiệp Thạnh và xã Long Hữu thành xã mới có tên gọi là xã Long Hữu."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Vĩnh Long",
+      "ward_code": "29518",
+      "ward_name": "Xã Long Hữu"
+    }
+  ]
+}

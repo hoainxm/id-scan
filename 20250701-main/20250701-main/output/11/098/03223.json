@@ -1,0 +1,18 @@
+{
+  "address": "Xã Xín Chải, Huyện Tủa Chùa, Tỉnh Điện Biên",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1661/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Điện Biên",
+        "line": "17. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tả Sìn Thàng, Lao Xả Phình và Sín Chải thành xã mới có tên gọi là xã Sín Chải."
+      },
+      "confidence": "manual:high",
+      "province_name": "Tỉnh Điện Biên",
+      "ward_code": "03226",
+      "ward_name": "Xã Sín Chải"
+    }
+  ]
+}

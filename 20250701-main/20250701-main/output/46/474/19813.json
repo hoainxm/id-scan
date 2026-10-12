@@ -1,0 +1,18 @@
+{
+  "address": "Phường Thuỷ Xuân, Quận Thuận Hóa, Thành phố Huế",
+  "ellapsedInMs": 0,
+  "estimatedCost": 0,
+  "thought": "daohoangson: typo",
+  "result": [
+    {
+      "citation": {
+        "header": "1675/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của thành phố Huế",
+        "line": "17. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Thủy Biều, Thủy Bằng và Thủy Xuân thành phường mới có tên gọi là phường Thủy Xuân."
+      },
+      "confidence": "manual:high",
+      "province_name": "Thành phố Huế",
+      "ward_code": "19813",
+      "ward_name": "Phường Thủy Xuân"
+    }
+  ]
+}

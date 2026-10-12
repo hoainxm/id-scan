@@ -1,0 +1,33 @@
+{
+  "id": "80",
+  "level": 1,
+  "level_name": {
+    "local": "Tỉnh/Thành phố",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "Tây Ninh",
+    "en": "Tay Ninh",
+    "slug": "tay-ninh-80"
+  },
+  "code": {
+    "id": "80",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 96
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.694",
+    "lon": "106.123"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/tay-ninh-80/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
+}

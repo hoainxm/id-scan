@@ -1,0 +1,7562 @@
+[
+  {
+    "id": "27316",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Đông",
+      "en": "An Dong",
+      "slug": "an-dong-27316"
+    },
+    "code": {
+      "id": "27316",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "106.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26878",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hội Đông",
+      "en": "An Hoi Dong",
+      "slug": "an-hoi-dong-26878"
+    },
+    "code": {
+      "id": "26878",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.85",
+      "lon": "106.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26882",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Hội Tây",
+      "en": "An Hoi Tay",
+      "slug": "an-hoi-tay-26882"
+    },
+    "code": {
+      "id": "26882",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.842",
+      "lon": "106.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27094",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Khánh",
+      "en": "An Khanh",
+      "slug": "an-khanh-27094"
+    },
+    "code": {
+      "id": "27094",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.785",
+      "lon": "106.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27460",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Lạc",
+      "en": "An Lac",
+      "slug": "an-lac-27460"
+    },
+    "code": {
+      "id": "27460",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.738",
+      "lon": "106.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25867",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Long",
+      "en": "An Long",
+      "slug": "an-long-25867"
+    },
+    "code": {
+      "id": "25867",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.805",
+      "lon": "106.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26876",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nhơn",
+      "en": "An Nhon",
+      "slug": "an-nhon-26876"
+    },
+    "code": {
+      "id": "26876",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.837",
+      "lon": "106.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27508",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Nhơn Tây",
+      "en": "An Nhon Tay",
+      "slug": "an-nhon-tay-27508"
+    },
+    "code": {
+      "id": "27508",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.089",
+      "lon": "106.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25975",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phú",
+      "en": "An Phu",
+      "slug": "an-phu-25975"
+    },
+    "code": {
+      "id": "25975",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.958",
+      "lon": "106.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26767",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Phú Đông",
+      "en": "An Phu Dong",
+      "slug": "an-phu-dong-26767"
+    },
+    "code": {
+      "id": "26767",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.861",
+      "lon": "106.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27673",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "An Thới Đông",
+      "en": "An Thoi Dong",
+      "slug": "an-thoi-dong-27673"
+    },
+    "code": {
+      "id": "27673",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.591",
+      "lon": "106.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27592",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bà Điểm",
+      "en": "Ba Diem",
+      "slug": "ba-diem-27592"
+    },
+    "code": {
+      "id": "27592",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.84",
+      "lon": "106.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26560",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bà Rịa",
+      "en": "Ba Ria",
+      "slug": "ba-ria-26560"
+    },
+    "code": {
+      "id": "26560",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.497",
+      "lon": "107.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25906",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bắc Tân Uyên",
+      "en": "Bac Tan Uyen",
+      "slug": "bac-tan-uyen-25906"
+    },
+    "code": {
+      "id": "25906",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "106.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27154",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bàn Cờ",
+      "en": "Ban Co",
+      "slug": "ban-co-27154"
+    },
+    "code": {
+      "id": "27154",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.77",
+      "lon": "106.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25822",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bàu Bàng",
+      "en": "Bau Bang",
+      "slug": "bau-bang-25822"
+    },
+    "code": {
+      "id": "25822",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.265",
+      "lon": "106.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26638",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bàu Lâm",
+      "en": "Bau Lam",
+      "slug": "bau-lam-26638"
+    },
+    "code": {
+      "id": "26638",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.737",
+      "lon": "107.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26983",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bảy Hiền",
+      "en": "Bay Hien",
+      "slug": "bay-hien-26983"
+    },
+    "code": {
+      "id": "26983",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.79",
+      "lon": "106.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25813",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Cát",
+      "en": "Ben Cat",
+      "slug": "ben-cat-25813"
+    },
+    "code": {
+      "id": "25813",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.153",
+      "lon": "106.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26743",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bến Thành",
+      "en": "Ben Thanh",
+      "slug": "ben-thanh-26743"
+    },
+    "code": {
+      "id": "26743",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.77",
+      "lon": "106.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27637",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Chánh",
+      "en": "Binh Chanh",
+      "slug": "binh-chanh-27637"
+    },
+    "code": {
+      "id": "27637",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.664",
+      "lon": "106.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26656",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Châu",
+      "en": "Binh Chau",
+      "slug": "binh-chau-26656"
+    },
+    "code": {
+      "id": "26656",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.552",
+      "lon": "107.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25915",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Cơ",
+      "en": "Binh Co",
+      "slug": "binh-co-25915"
+    },
+    "code": {
+      "id": "25915",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.105",
+      "lon": "106.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27424",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Đông",
+      "en": "Binh Dong",
+      "slug": "binh-dong-27424"
+    },
+    "code": {
+      "id": "27424",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.728",
+      "lon": "106.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25760",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Dương",
+      "en": "Binh Duong",
+      "slug": "binh-duong-25760"
+    },
+    "code": {
+      "id": "25760",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.06",
+      "lon": "106.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26590",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Giã",
+      "en": "Binh Gia",
+      "slug": "binh-gia-26590"
+    },
+    "code": {
+      "id": "26590",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.65",
+      "lon": "107.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25987",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hòa",
+      "en": "Binh Hoa",
+      "slug": "binh-hoa-25987"
+    },
+    "code": {
+      "id": "25987",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.905",
+      "lon": "106.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27619",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hưng",
+      "en": "Binh Hung",
+      "slug": "binh-hung-27619"
+    },
+    "code": {
+      "id": "27619",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.719",
+      "lon": "106.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27439",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Hưng Hòa",
+      "en": "Binh Hung Hoa",
+      "slug": "binh-hung-hoa-27439"
+    },
+    "code": {
+      "id": "27439",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.798",
+      "lon": "106.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27667",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Khánh",
+      "en": "Binh Khanh",
+      "slug": "binh-khanh-27667"
+    },
+    "code": {
+      "id": "27667",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.643",
+      "lon": "106.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27610",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Lợi",
+      "en": "Binh Loi",
+      "slug": "binh-loi-27610"
+    },
+    "code": {
+      "id": "27610",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.754",
+      "lon": "106.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26905",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Lợi Trung",
+      "en": "Binh Loi Trung",
+      "slug": "binh-loi-trung-26905"
+    },
+    "code": {
+      "id": "26905",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.823",
+      "lon": "106.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27544",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Mỹ",
+      "en": "Binh My",
+      "slug": "binh-my-27544"
+    },
+    "code": {
+      "id": "27544",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.66",
+      "lon": "106.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27364",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Phú",
+      "en": "Binh Phu",
+      "slug": "binh-phu-27364"
+    },
+    "code": {
+      "id": "27364",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.739",
+      "lon": "106.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26911",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Quới",
+      "en": "Binh Quoi",
+      "slug": "binh-quoi-26911"
+    },
+    "code": {
+      "id": "26911",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.827",
+      "lon": "106.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27442",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Tân",
+      "en": "Binh Tan",
+      "slug": "binh-tan-27442"
+    },
+    "code": {
+      "id": "27442",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.794",
+      "lon": "106.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27367",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Tây",
+      "en": "Binh Tay",
+      "slug": "binh-tay-27367"
+    },
+    "code": {
+      "id": "27367",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.749",
+      "lon": "106.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26929",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thạnh",
+      "en": "Binh Thanh",
+      "slug": "binh-thanh-26929"
+    },
+    "code": {
+      "id": "26929",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.811",
+      "lon": "106.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27232",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Thới",
+      "en": "Binh Thoi",
+      "slug": "binh-thoi-27232"
+    },
+    "code": {
+      "id": "27232",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.763",
+      "lon": "106.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27373",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Tiên",
+      "en": "Binh Tien",
+      "slug": "binh-tien-27373"
+    },
+    "code": {
+      "id": "27373",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "106.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27448",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Trị Đông",
+      "en": "Binh Tri Dong",
+      "slug": "binh-tri-dong-27448"
+    },
+    "code": {
+      "id": "27448",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.768",
+      "lon": "106.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27097",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Bình Trưng",
+      "en": "Binh Trung",
+      "slug": "binh-trung-27097"
+    },
+    "code": {
+      "id": "27097",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.789",
+      "lon": "106.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27664",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cần Giờ",
+      "en": "Can Gio",
+      "slug": "can-gio-27664"
+    },
+    "code": {
+      "id": "27664",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.393",
+      "lon": "106.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27112",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cát Lái",
+      "en": "Cat Lai",
+      "slug": "cat-lai-27112"
+    },
+    "code": {
+      "id": "27112",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.77",
+      "lon": "106.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27058",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cầu Kiệu",
+      "en": "Cau Kieu",
+      "slug": "cau-kieu-27058"
+    },
+    "code": {
+      "id": "27058",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.8",
+      "lon": "106.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26758",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Cầu Ông Lãnh",
+      "en": "Cau Ong Lanh",
+      "slug": "cau-ong-lanh-26758"
+    },
+    "code": {
+      "id": "26758",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.763",
+      "lon": "106.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25771",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chánh Hiệp",
+      "en": "Chanh Hiep",
+      "slug": "chanh-hiep-25771"
+    },
+    "code": {
+      "id": "25771",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.831",
+      "lon": "106.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27418",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chánh Hưng",
+      "en": "Chanh Hung",
+      "slug": "chanh-hung-27418"
+    },
+    "code": {
+      "id": "27418",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.745",
+      "lon": "106.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25837",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chánh Phú Hòa",
+      "en": "Chanh Phu Hoa",
+      "slug": "chanh-phu-hoa-25837"
+    },
+    "code": {
+      "id": "25837",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.143",
+      "lon": "106.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26596",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Đức",
+      "en": "Chau Duc",
+      "slug": "chau-duc-26596"
+    },
+    "code": {
+      "id": "26596",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.728",
+      "lon": "107.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26728",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Châu Pha",
+      "en": "Chau Pha",
+      "slug": "chau-pha-26728"
+    },
+    "code": {
+      "id": "26728",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.591",
+      "lon": "107.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27343",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chợ Lớn",
+      "en": "Cho Lon",
+      "slug": "cho-lon-27343"
+    },
+    "code": {
+      "id": "27343",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.752",
+      "lon": "106.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27301",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Chợ Quán",
+      "en": "Cho Quan",
+      "slug": "cho-quan-27301"
+    },
+    "code": {
+      "id": "27301",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.758",
+      "lon": "106.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26732",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Côn Đảo",
+      "en": "Con Dao",
+      "slug": "con-dao-26732"
+    },
+    "code": {
+      "id": "26732",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.7",
+      "lon": "106.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27553",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Củ Chi",
+      "en": "Cu Chi",
+      "slug": "cu-chi-27553"
+    },
+    "code": {
+      "id": "27553",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.974",
+      "lon": "106.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26680",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đất Đỏ",
+      "en": "Dat Do",
+      "slug": "dat-do-26680"
+    },
+    "code": {
+      "id": "26680",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.49",
+      "lon": "107.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25777",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dầu Tiếng",
+      "en": "Dau Tieng",
+      "slug": "dau-tieng-25777"
+    },
+    "code": {
+      "id": "25777",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.28",
+      "lon": "106.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25942",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Dĩ An",
+      "en": "Di An",
+      "slug": "di-an-25942"
+    },
+    "code": {
+      "id": "25942",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.908",
+      "lon": "106.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27169",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Diên Hồng",
+      "en": "Dien Hong",
+      "slug": "dien-hong-27169"
+    },
+    "code": {
+      "id": "27169",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.766",
+      "lon": "106.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25951",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hòa",
+      "en": "Dong Hoa",
+      "slug": "dong-hoa-25951"
+    },
+    "code": {
+      "id": "25951",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.893",
+      "lon": "106.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26791",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Hưng Thuận",
+      "en": "Dong Hung Thuan",
+      "slug": "dong-hung-thuan-26791"
+    },
+    "code": {
+      "id": "26791",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.836",
+      "lon": "106.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27568",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đông Thạnh",
+      "en": "Dong Thanh",
+      "slug": "dong-thanh-27568"
+    },
+    "code": {
+      "id": "27568",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.923",
+      "lon": "106.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27043",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Đức Nhuận",
+      "en": "Duc Nhuan",
+      "slug": "duc-nhuan-27043"
+    },
+    "code": {
+      "id": "27043",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.806",
+      "lon": "106.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26944",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gia Định",
+      "en": "Gia Dinh",
+      "slug": "gia-dinh-26944"
+    },
+    "code": {
+      "id": "26944",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.801",
+      "lon": "106.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26884",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Gò Vấp",
+      "en": "Go Vap",
+      "slug": "go-vap-26884"
+    },
+    "code": {
+      "id": "26884",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.816",
+      "lon": "106.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26890",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hạnh Thông",
+      "en": "Hanh Thong",
+      "slug": "hanh-thong-26890"
+    },
+    "code": {
+      "id": "26890",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.82",
+      "lon": "106.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26809",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Bình",
+      "en": "Hiep Binh",
+      "slug": "hiep-binh-26809"
+    },
+    "code": {
+      "id": "26809",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.85",
+      "lon": "106.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27658",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hiệp Phước",
+      "en": "Hiep Phuoc",
+      "slug": "hiep-phuoc-27658"
+    },
+    "code": {
+      "id": "27658",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.308",
+      "lon": "106.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26620",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hồ Tràm",
+      "en": "Ho Tram",
+      "slug": "ho-tram-26620"
+    },
+    "code": {
+      "id": "26620",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.475",
+      "lon": "107.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27211",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Bình",
+      "en": "Hoa Binh",
+      "slug": "hoa-binh-27211"
+    },
+    "code": {
+      "id": "27211",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.77",
+      "lon": "106.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26647",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Hiệp",
+      "en": "Hoa Hiep",
+      "slug": "hoa-hiep-26647"
+    },
+    "code": {
+      "id": "26647",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.793",
+      "lon": "106.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26641",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Hội",
+      "en": "Hoa Hoi",
+      "slug": "hoa-hoi-26641"
+    },
+    "code": {
+      "id": "26641",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.479",
+      "lon": "107.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27163",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Hưng",
+      "en": "Hoa Hung",
+      "slug": "hoa-hung-27163"
+    },
+    "code": {
+      "id": "27163",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.781",
+      "lon": "106.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25849",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hòa Lợi",
+      "en": "Hoa Loi",
+      "slug": "hoa-loi-25849"
+    },
+    "code": {
+      "id": "25849",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.083",
+      "lon": "106.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27559",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hóc Môn",
+      "en": "Hoc Mon",
+      "slug": "hoc-mon-27559"
+    },
+    "code": {
+      "id": "27559",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.886",
+      "lon": "106.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27628",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Hưng Long",
+      "en": "Hung Long",
+      "slug": "hung-long-27628"
+    },
+    "code": {
+      "id": "27628",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.659",
+      "lon": "106.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27265",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Khánh Hội",
+      "en": "Khanh Hoi",
+      "slug": "khanh-hoi-27265"
+    },
+    "code": {
+      "id": "27265",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.76",
+      "lon": "106.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26608",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Kim Long",
+      "en": "Kim Long",
+      "slug": "kim-long-26608"
+    },
+    "code": {
+      "id": "26608",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.699",
+      "lon": "107.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25966",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Lái Thiêu",
+      "en": "Lai Thieu",
+      "slug": "lai-thieu-25966"
+    },
+    "code": {
+      "id": "25966",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.905",
+      "lon": "106.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26800",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Linh Xuân",
+      "en": "Linh Xuan",
+      "slug": "linh-xuan-26800"
+    },
+    "code": {
+      "id": "26800",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.873",
+      "lon": "106.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26833",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Bình",
+      "en": "Long Binh",
+      "slug": "long-binh-26833"
+    },
+    "code": {
+      "id": "26833",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.848",
+      "lon": "106.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26659",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Điền",
+      "en": "Long Dien",
+      "slug": "long-dien-26659"
+    },
+    "code": {
+      "id": "26659",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.485",
+      "lon": "107.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26662",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hải",
+      "en": "Long Hai",
+      "slug": "long-hai-26662"
+    },
+    "code": {
+      "id": "26662",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.404",
+      "lon": "107.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25792",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hòa",
+      "en": "Long Hoa",
+      "slug": "long-hoa-25792"
+    },
+    "code": {
+      "id": "25792",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "106.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26566",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Hương",
+      "en": "Long Huong",
+      "slug": "long-huong-26566"
+    },
+    "code": {
+      "id": "26566",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.5",
+      "lon": "107.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25840",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Nguyên",
+      "en": "Long Nguyen",
+      "slug": "long-nguyen-25840"
+    },
+    "code": {
+      "id": "25840",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.304",
+      "lon": "106.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26857",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Phước",
+      "en": "Long Phuoc",
+      "slug": "long-phuoc-26857"
+    },
+    "code": {
+      "id": "26857",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.812",
+      "lon": "106.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26545",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Sơn",
+      "en": "Long Son",
+      "slug": "long-son-26545"
+    },
+    "code": {
+      "id": "26545",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.483",
+      "lon": "107.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26860",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Long Trường",
+      "en": "Long Truong",
+      "slug": "long-truong-26860"
+    },
+    "code": {
+      "id": "26860",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.798",
+      "lon": "106.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27238",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Phụng",
+      "en": "Minh Phung",
+      "slug": "minh-phung-27238"
+    },
+    "code": {
+      "id": "27238",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.757",
+      "lon": "106.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25780",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Minh Thạnh",
+      "en": "Minh Thanh",
+      "slug": "minh-thanh-25780"
+    },
+    "code": {
+      "id": "25780",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.552",
+      "lon": "107.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26575",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Ngãi Giao",
+      "en": "Ngai Giao",
+      "slug": "ngai-giao-26575"
+    },
+    "code": {
+      "id": "26575",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.647",
+      "lon": "107.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26617",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nghĩa Thành",
+      "en": "Nghia Thanh",
+      "slug": "nghia-thanh-26617"
+    },
+    "code": {
+      "id": "26617",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.583",
+      "lon": "107.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27655",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhà Bè",
+      "en": "Nha Be",
+      "slug": "nha-be-27655"
+    },
+    "code": {
+      "id": "27655",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.696",
+      "lon": "106.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27142",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhiêu Lộc",
+      "en": "Nhieu Loc",
+      "slug": "nhieu-loc-27142"
+    },
+    "code": {
+      "id": "27142",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.786",
+      "lon": "106.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27511",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Nhuận Đức",
+      "en": "Nhuan Duc",
+      "slug": "nhuan-duc-27511"
+    },
+    "code": {
+      "id": "27511",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.06",
+      "lon": "106.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25768",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú An",
+      "en": "Phu An",
+      "slug": "phu-an-25768"
+    },
+    "code": {
+      "id": "25768",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.03",
+      "lon": "106.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27427",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Định",
+      "en": "Phu Dinh",
+      "slug": "phu-dinh-27427"
+    },
+    "code": {
+      "id": "27427",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.724",
+      "lon": "106.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25858",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Giáo",
+      "en": "Phu Giao",
+      "slug": "phu-giao-25858"
+    },
+    "code": {
+      "id": "25858",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.307",
+      "lon": "106.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27541",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Hòa Đông",
+      "en": "Phu Hoa Dong",
+      "slug": "phu-hoa-dong-27541"
+    },
+    "code": {
+      "id": "27541",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.989",
+      "lon": "106.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27349",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lâm",
+      "en": "Phu Lam",
+      "slug": "phu-lam-27349"
+    },
+    "code": {
+      "id": "27349",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.754",
+      "lon": "106.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25750",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Lợi",
+      "en": "Phu Loi",
+      "slug": "phu-loi-25750"
+    },
+    "code": {
+      "id": "25750",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.131",
+      "lon": "106.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26704",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Mỹ",
+      "en": "Phu My",
+      "slug": "phu-my-26704"
+    },
+    "code": {
+      "id": "26704",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.588",
+      "lon": "107.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27073",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Nhuận",
+      "en": "Phu Nhuan",
+      "slug": "phu-nhuan-27073"
+    },
+    "code": {
+      "id": "27073",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.795",
+      "lon": "106.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27028",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thạnh",
+      "en": "Phu Thanh",
+      "slug": "phu-thanh-27028"
+    },
+    "code": {
+      "id": "27028",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.772",
+      "lon": "106.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27226",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thọ",
+      "en": "Phu Tho",
+      "slug": "phu-tho-27226"
+    },
+    "code": {
+      "id": "27226",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.766",
+      "lon": "106.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27022",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thọ Hòa",
+      "en": "Phu Tho Hoa",
+      "slug": "phu-tho-hoa-27022"
+    },
+    "code": {
+      "id": "27022",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.789",
+      "lon": "106.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27484",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phú Thuận",
+      "en": "Phu Thuan",
+      "slug": "phu-thuan-27484"
+    },
+    "code": {
+      "id": "27484",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.731",
+      "lon": "106.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26686",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Hải",
+      "en": "Phuoc Hai",
+      "slug": "phuoc-hai-26686"
+    },
+    "code": {
+      "id": "26686",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.426",
+      "lon": "107.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25882",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Hòa",
+      "en": "Phuoc Hoa",
+      "slug": "phuoc-hoa-25882"
+    },
+    "code": {
+      "id": "25882",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.391",
+      "lon": "107.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26848",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Long",
+      "en": "Phuoc Long",
+      "slug": "phuoc-long-26848"
+    },
+    "code": {
+      "id": "26848",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.825",
+      "lon": "106.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26542",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Thắng",
+      "en": "Phuoc Thang",
+      "slug": "phuoc-thang-26542"
+    },
+    "code": {
+      "id": "26542",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.417",
+      "lon": "107.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25864",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Phước Thành",
+      "en": "Phuoc Thanh",
+      "slug": "phuoc-thanh-25864"
+    },
+    "code": {
+      "id": "25864",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.533",
+      "lon": "107.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26536",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Rạch Dừa",
+      "en": "Rach Dua",
+      "slug": "rach-dua-26536"
+    },
+    "code": {
+      "id": "26536",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.391",
+      "lon": "107.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26740",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Sài Gòn",
+      "en": "Sai Gon",
+      "slug": "sai-gon-26740"
+    },
+    "code": {
+      "id": "26740",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.782",
+      "lon": "106.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26803",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Bình",
+      "en": "Tam Binh",
+      "slug": "tam-binh-26803"
+    },
+    "code": {
+      "id": "26803",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.869",
+      "lon": "106.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26572",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Long",
+      "en": "Tam Long",
+      "slug": "tam-long-26572"
+    },
+    "code": {
+      "id": "26572",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.722",
+      "lon": "107.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26526",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tam Thắng",
+      "en": "Tam Thang",
+      "slug": "tam-thang-26526"
+    },
+    "code": {
+      "id": "26526",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.364",
+      "lon": "107.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27496",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân An Hội",
+      "en": "Tan An Hoi",
+      "slug": "tan-an-hoi-27496"
+    },
+    "code": {
+      "id": "27496",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.97",
+      "lon": "106.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27004",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Bình",
+      "en": "Tan Binh",
+      "slug": "tan-binh-27004"
+    },
+    "code": {
+      "id": "27004",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.8",
+      "lon": "106.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26737",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Định",
+      "en": "Tan Dinh",
+      "slug": "tan-dinh-26737"
+    },
+    "code": {
+      "id": "26737",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.791",
+      "lon": "106.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25945",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Đông Hiệp",
+      "en": "Tan Dong Hiep",
+      "slug": "tan-dong-hiep-25945"
+    },
+    "code": {
+      "id": "25945",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.937",
+      "lon": "106.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26710",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hải",
+      "en": "Tan Hai",
+      "slug": "tan-hai-26710"
+    },
+    "code": {
+      "id": "26710",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.802",
+      "lon": "106.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25920",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hiệp",
+      "en": "Tan Hiep",
+      "slug": "tan-hiep-25920"
+    },
+    "code": {
+      "id": "25920",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.552",
+      "lon": "107.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26995",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hòa",
+      "en": "Tan Hoa",
+      "slug": "tan-hoa-26995"
+    },
+    "code": {
+      "id": "26995",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.781",
+      "lon": "106.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27475",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Hưng",
+      "en": "Tan Hung",
+      "slug": "tan-hung-27475"
+    },
+    "code": {
+      "id": "27475",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.74",
+      "lon": "106.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25891",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Khánh",
+      "en": "Tan Khanh",
+      "slug": "tan-khanh-25891"
+    },
+    "code": {
+      "id": "25891",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.005",
+      "lon": "106.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27487",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Mỹ",
+      "en": "Tan My",
+      "slug": "tan-my-27487"
+    },
+    "code": {
+      "id": "27487",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.726",
+      "lon": "106.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27595",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Nhựt",
+      "en": "Tan Nhut",
+      "slug": "tan-nhut-27595"
+    },
+    "code": {
+      "id": "27595",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.698",
+      "lon": "106.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27031",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phú",
+      "en": "Tan Phu",
+      "slug": "tan-phu-27031"
+    },
+    "code": {
+      "id": "27031",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.776",
+      "lon": "106.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26713",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Phước",
+      "en": "Tan Phuoc",
+      "slug": "tan-phuoc-26713"
+    },
+    "code": {
+      "id": "26713",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.947",
+      "lon": "106.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27007",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Sơn",
+      "en": "Tan Son",
+      "slug": "tan-son-27007"
+    },
+    "code": {
+      "id": "27007",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.821",
+      "lon": "106.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26977",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Sơn Hòa",
+      "en": "Tan Son Hoa",
+      "slug": "tan-son-hoa-26977"
+    },
+    "code": {
+      "id": "26977",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.797",
+      "lon": "106.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26968",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Sơn Nhất",
+      "en": "Tan Son Nhat",
+      "slug": "tan-son-nhat-26968"
+    },
+    "code": {
+      "id": "26968",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.798",
+      "lon": "106.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27019",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Sơn Nhì",
+      "en": "Tan Son Nhi",
+      "slug": "tan-son-nhi-27019"
+    },
+    "code": {
+      "id": "27019",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.801",
+      "lon": "106.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27457",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Tạo",
+      "en": "Tan Tao",
+      "slug": "tan-tao-27457"
+    },
+    "code": {
+      "id": "27457",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.748",
+      "lon": "106.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26725",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thành",
+      "en": "Tan Thanh",
+      "slug": "tan-thanh-26725"
+    },
+    "code": {
+      "id": "26725",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.15",
+      "lon": "106.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26782",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thới Hiệp",
+      "en": "Tan Thoi Hiep",
+      "slug": "tan-thoi-hiep-26782"
+    },
+    "code": {
+      "id": "26782",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.877",
+      "lon": "106.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27478",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Thuận",
+      "en": "Tan Thuan",
+      "slug": "tan-thuan-27478"
+    },
+    "code": {
+      "id": "27478",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.753",
+      "lon": "106.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25888",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Uyên",
+      "en": "Tan Uyen",
+      "slug": "tan-uyen-25888"
+    },
+    "code": {
+      "id": "25888",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.06",
+      "lon": "106.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27604",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tân Vĩnh Lộc",
+      "en": "Tan Vinh Loc",
+      "slug": "tan-vinh-loc-27604"
+    },
+    "code": {
+      "id": "27604",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "106.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26842",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tăng Nhơn Phú",
+      "en": "Tang Nhon Phu",
+      "slug": "tang-nhon-phu-26842"
+    },
+    "code": {
+      "id": "26842",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.845",
+      "lon": "106.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25843",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Nam",
+      "en": "Tay Nam",
+      "slug": "tay-nam-25843"
+    },
+    "code": {
+      "id": "25843",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.131",
+      "lon": "106.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27013",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Tây Thạnh",
+      "en": "Tay Thanh",
+      "slug": "tay-thanh-27013"
+    },
+    "code": {
+      "id": "27013",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.813",
+      "lon": "106.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27526",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thái Mỹ",
+      "en": "Thai My",
+      "slug": "thai-my-27526"
+    },
+    "code": {
+      "id": "27526",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.037",
+      "lon": "106.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25807",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thanh An",
+      "en": "Thanh An",
+      "slug": "thanh-an-25807"
+    },
+    "code": {
+      "id": "25807",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.505",
+      "lon": "107.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27676",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh An",
+      "en": "Thanh An",
+      "slug": "thanh-an-27676"
+    },
+    "code": {
+      "id": "27676",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.505",
+      "lon": "107.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26956",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thạnh Mỹ Tây",
+      "en": "Thanh My Tay",
+      "slug": "thanh-my-tay-26956"
+    },
+    "code": {
+      "id": "26956",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.799",
+      "lon": "106.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26773",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới An",
+      "en": "Thoi An",
+      "slug": "thoi-an-26773"
+    },
+    "code": {
+      "id": "26773",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.879",
+      "lon": "106.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25846",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thới Hòa",
+      "en": "Thoi Hoa",
+      "slug": "thoi-hoa-25846"
+    },
+    "code": {
+      "id": "25846",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.83",
+      "lon": "106.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26898",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thông Tây Hội",
+      "en": "Thong Tay Hoi",
+      "slug": "thong-tay-hoi-26898"
+    },
+    "code": {
+      "id": "26898",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.842",
+      "lon": "106.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25747",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thủ Dầu Một",
+      "en": "Thu Dau Mot",
+      "slug": "thu-dau-mot-25747"
+    },
+    "code": {
+      "id": "25747",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.981",
+      "lon": "106.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26824",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thủ Đức",
+      "en": "Thu Duc",
+      "slug": "thu-duc-26824"
+    },
+    "code": {
+      "id": "26824",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.851",
+      "lon": "106.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25978",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận An",
+      "en": "Thuan An",
+      "slug": "thuan-an-25978"
+    },
+    "code": {
+      "id": "25978",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.943",
+      "lon": "106.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25969",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thuận Giao",
+      "en": "Thuan Giao",
+      "slug": "thuan-giao-25969"
+    },
+    "code": {
+      "id": "25969",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.961",
+      "lon": "106.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25909",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Thường Tân",
+      "en": "Thuong Tan",
+      "slug": "thuong-tan-25909"
+    },
+    "code": {
+      "id": "25909",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.105",
+      "lon": "106.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25819",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trừ Văn Thố",
+      "en": "Tru Van Tho",
+      "slug": "tru-van-tho-25819"
+    },
+    "code": {
+      "id": "25819",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.977",
+      "lon": "106.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26785",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Trung Mỹ Tây",
+      "en": "Trung My Tay",
+      "slug": "trung-my-tay-26785"
+    },
+    "code": {
+      "id": "26785",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.859",
+      "lon": "106.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27286",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Hội",
+      "en": "Vinh Hoi",
+      "slug": "vinh-hoi-27286"
+    },
+    "code": {
+      "id": "27286",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "106.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27601",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Lộc",
+      "en": "Vinh Loc",
+      "slug": "vinh-loc-27601"
+    },
+    "code": {
+      "id": "27601",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.82",
+      "lon": "106.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25912",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vĩnh Tân",
+      "en": "Vinh Tan",
+      "slug": "vinh-tan-25912"
+    },
+    "code": {
+      "id": "25912",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.117",
+      "lon": "106.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26506",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vũng Tàu",
+      "en": "Vung Tau",
+      "slug": "vung-tau-26506"
+    },
+    "code": {
+      "id": "26506",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.348",
+      "lon": "107.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27190",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Vườn Lài",
+      "en": "Vuon Lai",
+      "slug": "vuon-lai-27190"
+    },
+    "code": {
+      "id": "27190",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.767",
+      "lon": "106.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27259",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xóm Chiếu",
+      "en": "Xom Chieu",
+      "slug": "xom-chieu-27259"
+    },
+    "code": {
+      "id": "27259",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.76",
+      "lon": "106.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27139",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Hòa",
+      "en": "Xuan Hoa",
+      "slug": "xuan-hoa-27139"
+    },
+    "code": {
+      "id": "27139",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.782",
+      "lon": "106.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26584",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Sơn",
+      "en": "Xuan Son",
+      "slug": "xuan-son-26584"
+    },
+    "code": {
+      "id": "26584",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.64",
+      "lon": "107.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27577",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuân Thới Sơn",
+      "en": "Xuan Thoi Son",
+      "slug": "xuan-thoi-son-27577"
+    },
+    "code": {
+      "id": "27577",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.871",
+      "lon": "106.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26632",
+    "level": 2,
+    "level_name": {
+      "local": "Xã/Phường",
+      "en": "Commune/Ward"
+    },
+    "name": {
+      "local": "Xuyên Mộc",
+      "en": "Xuyen Moc",
+      "slug": "xuyen-moc-26632"
+    },
+    "code": {
+      "id": "26632",
+      "iso": null
+    },
+    "parent": {
+      "id": "79",
+      "level": 1,
+      "name": {
+        "local": "Hồ Chí Minh",
+        "en": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-79"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "79",
+        "level": 1,
+        "name": {
+          "local": "Hồ Chí Minh",
+          "en": "Ho Chi Minh City",
+          "slug": "ho-chi-minh-79"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.535",
+      "lon": "107.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

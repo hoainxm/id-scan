@@ -1,0 +1,45 @@
+{
+  "id": "21934",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "An Nhơn Đông",
+    "en": "An Nhon Dong",
+    "slug": "an-nhon-dong-21934"
+  },
+  "code": {
+    "id": "21934",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Gia Lai",
+      "en": "Gia Lai",
+      "slug": "gia-lai-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Gia Lai",
+        "en": "Gia Lai",
+        "slug": "gia-lai-52"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.902",
+    "lon": "109.105"
+  },
+  "metadata": {},
+  "source": {}
+}

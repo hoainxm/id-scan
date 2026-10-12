@@ -1,0 +1,45 @@
+{
+  "id": "30253",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Tân Nhuận Đông",
+    "en": "Tan Nhuan Dong",
+    "slug": "tan-nhuan-dong-30253"
+  },
+  "code": {
+    "id": "30253",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Đồng Tháp",
+      "en": "Dong Thap",
+      "slug": "dong-thap-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Đồng Tháp",
+        "en": "Dong Thap",
+        "slug": "dong-thap-82"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.215",
+    "lon": "105.843"
+  },
+  "metadata": {},
+  "source": {}
+}

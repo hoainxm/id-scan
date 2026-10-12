@@ -1,0 +1,18 @@
+{
+  "address": "Xã Vũ Bản, Huyện Bình Lục, Tỉnh Hà Nam",
+  "ellapsedInMs": 21897,
+  "estimatedCost": 0.0045027999999999995,
+  "thought": "**Analysis of Administrative Unit Mapping**\n\nOkay, let's break this down. First, I need to map `Xã Vũ Bản, Huyện Bình Lục, Tỉnh Hà Nam` to its current equivalent, considering the provided resolutions. The crucial starting point is that `Tỉnh Hà Nam` is now part of `Tỉnh Ninh Bình` due to the province merger detailed in resolution `60-NQ/TW`. This significantly narrows the search space.\n\nI'm focusing on finding the new ward *within* `Tỉnh Ninh Bình`. Scanning the resolutions, I'm specifically looking for any mention of \"Vũ Bản.\"  Resolution `1674/NQ-UBTVQH15 (Ninh Bình)` stands out. Line 4 states: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bồ Đề, **Vũ Bản** và An Ninh thành xã mới có tên gọi là **xã Bình Giang**.\" Bingo! This is a direct match, precisely what I was looking for.\n\nI'm also cross-referencing this with the `New Wards Database`. `Xã Bình Giang` (with code 13531) *does* exist in `Tỉnh Ninh Bình`, confirming the mapping. The resolution is for the correct province, and the wording is very clear - this seems highly reliable.\n\nI've also scanned the other resolutions, like `1676/NQ-UBTVQH15 (Phú Thọ)` which mentions \"Vũ Bình,\" but that's a different name entirely and in a different province, so it's irrelevant. There's also Line 25 of `1674/NQ-UBTVQH15 (Ninh Bình)`, where a new `Xã Vụ Bản` is formed.  Although it's tempting, \"Vụ\" and \"Vũ\" are close, but line 4 specifically lists *what* is folded into Bình Giang and `Vũ Bản` is definitely there. So, the old `Xã Vũ Bản` isn't reborn as the new `Xã Vụ Bản`.\n\nThe evidence is clear: the old `Xã Vũ Bản` in `Tỉnh Hà Nam` (now part of `Tỉnh Ninh Bình`) is merged into the new `Xã Bình Giang` in `Tỉnh Ninh Bình`. The confidence in this mapping is very high. I am building a JSON object to contain the final information for the output. I'm noting the province, new ward name, code, confidence level, and citing the specific line from `1674/NQ-UBTVQH15 (Ninh Bình)` for full transparency. This provides a clear, defensible, and accurate mapping.\n",
+  "result": [
+    {
+      "citation": {
+        "header": "1674/NQ-UBTVQH15: Sắp xếp các đơn vị hành chính cấp xã của tỉnh Ninh Bình",
+        "line": "4. Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bồ Đề, Vũ Bản và An Ninh thành xã mới có tên gọi là **xã Bình Giang**."
+      },
+      "confidence": "high",
+      "province_name": "Tỉnh Ninh Bình",
+      "ward_code": "13531",
+      "ward_name": "Xã Bình Giang"
+    }
+  ]
+}

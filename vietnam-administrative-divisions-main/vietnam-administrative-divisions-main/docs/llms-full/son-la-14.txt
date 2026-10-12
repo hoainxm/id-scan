@@ -1,0 +1,384 @@
+# Son La — Vietnam Administrative Divisions
+
+> 75 commune/wards
+> Code: 14
+> Coordinates: 21.195, 104.069
+> Last updated: 2026-09-08. License: CC-BY-4.0.
+
+## Commune/Wards
+
+### Bắc Yên (Bac Yen)
+
+Code: 03856, Coordinates: 21.222, 104.387
+
+
+### Bình Thuận (Binh Thuan)
+
+Code: 03724, Coordinates: 21.555, 103.595
+
+
+### Bó Sinh (Bo Sinh)
+
+Code: 04171, Coordinates: 21.259, 103.469
+
+
+### Chiềng An (Chieng An)
+
+Code: 03664, Coordinates: 21.378, 103.91
+
+
+### Chiềng Cơi (Chieng Coi)
+
+Code: 03670, Coordinates: 21.319, 103.914
+
+
+### Chiềng Hặc (Chieng Hac)
+
+Code: 04078, Coordinates: 20.979, 104.425
+
+
+### Chiềng Hoa (Chieng Hoa)
+
+Code: 03850, Coordinates: 21.464, 104.203
+
+
+### Chiềng Khoong (Chieng Khoong)
+
+Code: 04204, Coordinates: 20.964, 103.754
+
+
+### Chiềng Khương (Chieng Khuong)
+
+Code: 04222, Coordinates: 20.962, 104.003
+
+
+### Chiềng La (Chieng La)
+
+Code: 03754, Coordinates: 21.467, 103.765
+
+
+### Chiềng Lao (Chieng Lao)
+
+Code: 03814, Coordinates: 21.642, 103.946
+
+
+### Chiềng Mai (Chieng Mai)
+
+Code: 04132, Coordinates: 21.19, 103.981
+
+
+### Chiềng Mung (Chieng Mung)
+
+Code: 04123, Coordinates: 21.278, 104.047
+
+
+### Chiềng Sại (Chieng Sai)
+
+Code: 03892, Coordinates: 21.071, 104.459
+
+
+### Chiềng Sinh (Chieng Sinh)
+
+Code: 03679, Coordinates: 21.288, 103.965
+
+
+### Chiềng Sơ (Chieng So)
+
+Code: 04195, Coordinates: 21.132, 103.603
+
+
+### Chiềng Sơn (Chieng Son)
+
+Code: 03985, Coordinates: 20.741, 104.664
+
+
+### Chiềng Sung (Chieng Sung)
+
+Code: 04108, Coordinates: 21.309, 104.131
+
+
+### Co Mạ (Co Ma)
+
+Code: 03781, Coordinates: 21.383, 103.511
+
+
+### Đoàn Kết (Doan Ket)
+
+Code: 04000, Coordinates: 20.966, 104.724
+
+
+### Gia Phù (Gia Phu)
+
+Code: 03922, Coordinates: 21.179, 104.557
+
+
+### Huổi Một (Huoi Mot)
+
+Code: 04210, Coordinates: 21.033, 103.646
+
+
+### Kim Bon
+
+Code: 03961, Coordinates: 21.11, 104.584
+
+
+### Long Hẹ (Long He)
+
+Code: 03763, Coordinates: 21.447, 103.506
+
+
+### Lóng Phiêng (Long Phieng)
+
+Code: 04096, Coordinates: 20.883, 104.387
+
+
+### Lóng Sập (Long Sap)
+
+Code: 04045, Coordinates: 20.792, 104.508
+
+
+### Mai Sơn (Mai Son)
+
+Code: 04105, Coordinates: 21.169, 103.971
+
+
+### Mộc Châu (Moc Chau)
+
+Code: 03980, Coordinates: 20.871, 104.629
+
+
+### Mộc Sơn (Moc Son)
+
+Code: 03979, Coordinates: 20.843, 104.643
+
+
+### Muổi Nọi (Muoi Noi)
+
+Code: 03799, Coordinates: 21.3, 103.796
+
+
+### Mường Bám (Muong Bam)
+
+Code: 03760, Coordinates: 21.376, 103.388
+
+
+### Mường Bang (Muong Bang)
+
+Code: 03943, Coordinates: 21.167, 104.792
+
+
+### Mường Bú (Muong Bu)
+
+Code: 03847, Coordinates: 21.402, 104.037
+
+
+### Mường Chanh (Muong Chanh)
+
+Code: 04117, Coordinates: 21.22, 103.875
+
+
+### Mường Chiên (Muong Chien)
+
+Code: 03688, Coordinates: 21.919, 103.586
+
+
+### Mường Cơi (Muong Coi)
+
+Code: 03907, Coordinates: 21.306, 104.764
+
+
+### Mường É (Muong E)
+
+Code: 03727, Coordinates: 21.499, 103.557
+
+
+### Mường Giôn (Muong Gion)
+
+Code: 03694, Coordinates: 21.749, 103.681
+
+
+### Mường Hung (Muong Hung)
+
+Code: 04219, Coordinates: 20.961, 103.876
+
+
+### Mường Khiêng (Muong Khieng)
+
+Code: 03757, Coordinates: 21.49, 103.89
+
+
+### Mường La (Muong La)
+
+Code: 03808, Coordinates: 21.527, 104.112
+
+
+### Mường Lầm (Muong Lam)
+
+Code: 04183, Coordinates: 21.14, 103.465
+
+
+### Mường Lạn (Muong Lan)
+
+Code: 04246, Coordinates: 20.768, 103.708
+
+
+### Mường Lèo (Muong Leo)
+
+Code: 04240, Coordinates: 20.899, 103.358
+
+
+### Mường Sại (Muong Sai)
+
+Code: 03712, Coordinates: 21.598, 103.735
+
+
+### Nậm Lầu (Nam Lau)
+
+Code: 03784, Coordinates: 21.325, 103.737
+
+
+### Nậm Ty (Nam Ty)
+
+Code: 04186, Coordinates: 21.223, 103.661
+
+
+### Ngọc Chiến (Ngoc Chien)
+
+Code: 03820, Coordinates: 21.611, 104.202
+
+
+### Pắc Ngà (Pac Nga)
+
+Code: 03871, Coordinates: 21.3, 104.23
+
+
+### Phiêng Cằm (Phieng Cam)
+
+Code: 04144, Coordinates: 21.152, 103.835
+
+
+### Phiêng Khoài (Phieng Khoai)
+
+Code: 04099, Coordinates: 20.957, 104.293
+
+
+### Phiêng Pằn (Phieng Pan)
+
+Code: 04159, Coordinates: 21.054, 104.042
+
+
+### Phù Yên (Phu Yen)
+
+Code: 03910, Coordinates: 21.225, 104.67
+
+
+### Púng Bánh (Pung Banh)
+
+Code: 04228, Coordinates: 21.004, 103.472
+
+
+### Quỳnh Nhai (Quynh Nhai)
+
+Code: 03703, Coordinates: 21.777, 103.66
+
+
+### Song Khủa (Song Khua)
+
+Code: 04006, Coordinates: 20.922, 104.899
+
+
+### Sông Mã (Song Ma)
+
+Code: 04168, Coordinates: 21.052, 103.749
+
+
+### Sốp Cộp (Sop Cop)
+
+Code: 04231, Coordinates: 20.939, 103.597
+
+
+### Suối Tọ (Suoi To)
+
+Code: 03901, Coordinates: 21.322, 104.599
+
+
+### Tà Hộc (Ta Hoc)
+
+Code: 04136, Coordinates: 21.245, 104.218
+
+
+### Tạ Khoa (Ta Khoa)
+
+Code: 03880, Coordinates: 21.164, 104.331
+
+
+### Tà Xùa (Ta Xua)
+
+Code: 03868, Coordinates: 21.28, 104.433
+
+
+### Tân Phong (Tan Phong)
+
+Code: 03970, Coordinates: 21.077, 104.74
+
+
+### Tân Yên (Tan Yen)
+
+Code: 03997, Coordinates: 20.979, 104.589
+
+
+### Thảo Nguyên (Thao Nguyen)
+
+Code: 03982, Coordinates: 20.838, 104.679
+
+
+### Thuận Châu (Thuan Chau)
+
+Code: 03721, Coordinates: 21.435, 103.693
+
+
+### Tô Hiệu (To Hieu)
+
+Code: 03646, Coordinates: 21.344, 103.909
+
+
+### Tô Múa (To Mua)
+
+Code: 04018, Coordinates: 20.925, 104.816
+
+
+### Tường Hạ (Tuong Ha)
+
+Code: 03958, Coordinates: 21.141, 104.673
+
+
+### Vân Hồ (Van Ho)
+
+Code: 04048, Coordinates: 20.81, 104.873
+
+
+### Vân Sơn (Van Son)
+
+Code: 04033, Coordinates: 20.824, 104.748
+
+
+### Xím Vàng (Xim Vang)
+
+Code: 03862, Coordinates: 21.356, 104.326
+
+
+### Xuân Nha (Xuan Nha)
+
+Code: 04057, Coordinates: 20.667, 104.739
+
+
+### Yên Châu (Yen Chau)
+
+Code: 04075, Coordinates: 20.992, 104.332
+
+
+### Yên Sơn (Yen Son)
+
+Code: 04087, Coordinates: 21.009, 104.186
+
+

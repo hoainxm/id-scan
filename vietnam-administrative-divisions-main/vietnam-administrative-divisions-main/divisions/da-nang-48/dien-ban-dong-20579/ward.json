@@ -1,0 +1,45 @@
+{
+  "id": "20579",
+  "level": 2,
+  "level_name": {
+    "local": "Xã/Phường",
+    "en": "Commune/Ward"
+  },
+  "name": {
+    "local": "Điện Bàn Đông",
+    "en": "Dien Ban Dong",
+    "slug": "dien-ban-dong-20579"
+  },
+  "code": {
+    "id": "20579",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "Đà Nẵng",
+      "en": "Da Nang",
+      "slug": "da-nang-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "Đà Nẵng",
+        "en": "Da Nang",
+        "slug": "da-nang-48"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.932",
+    "lon": "108.27"
+  },
+  "metadata": {},
+  "source": {}
+}
