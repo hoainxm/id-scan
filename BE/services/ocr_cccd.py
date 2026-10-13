@@ -52,7 +52,7 @@ PROVIDERS = {
         "label": "OpenAI",
         "key_env": "OPENAI_API_KEY",
         "model_env": "OPENAI_VISION_MODEL",
-        "default_model": "gpt-4.1-mini",
+        "default_model": "gpt-5.6-luna",
         "sdk": openai,
     },
     "groq": {
@@ -68,6 +68,7 @@ PROVIDERS = {
 OPENAI_IMAGE_DETAIL = os.getenv("OPENAI_IMAGE_DETAIL", "high")
 
 # Model suy luận (gpt-5*, o*) không nhận temperature; mức suy luận thấp để tiết kiệm.
+# gpt-5.6-luna không nhận "minimal" (đã thử, bị từ chối), nên mặc định "low".
 OPENAI_REASONING_EFFORT = os.getenv("OPENAI_REASONING_EFFORT", "low")
 
 _clients = {}

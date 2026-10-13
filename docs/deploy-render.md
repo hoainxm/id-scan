@@ -95,7 +95,7 @@ Thêm **Environment Variables** như bảng ở Bước 2, rồi bấm **Deploy 
 | `OPENAI_API_KEY` | Ít nhất 1 trong 2 key | OpenAI key | Nhà cung cấp đọc ảnh chính |
 | `GROQ_API_KEY` | Ít nhất 1 trong 2 key | Groq key | Dự phòng khi OpenAI lỗi/hết hạn mức. Thiếu cả hai thì `/api/ocr-cccd` trả 503 `OCR_NOT_CONFIGURED`, cắt chân dung vẫn chạy |
 | `OCR_PROVIDERS` | Không | `openai,groq` | Thứ tự thử nhà cung cấp |
-| `OPENAI_VISION_MODEL` | Không | `gpt-4.1-mini` | Model OpenAI đọc ảnh |
+| `OPENAI_VISION_MODEL` | Không | `gpt-5.6-luna` | Model OpenAI đọc ảnh (chọn qua benchmark, xem README) |
 | `OPENAI_IMAGE_DETAIL` | Không | `high` | `low` rẻ hơn nhưng dễ đọc sai chữ nhỏ |
 | `GROQ_VISION_MODEL` | Không | `qwen/qwen3.8-27b` | Model Groq đọc ảnh |
 | `ALLOWED_ORIGINS` | Có | xem Bước 4 | Địa chỉ giao diện được gọi API |

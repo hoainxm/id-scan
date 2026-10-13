@@ -145,8 +145,9 @@ class TestOcrAPI(unittest.TestCase):
         groq_fake.chat.completions.create.assert_not_called()
 
         kwargs = openai_fake.chat.completions.create.call_args.kwargs
-        self.assertEqual(kwargs["model"], "gpt-4.1-mini")
-        self.assertEqual(kwargs["temperature"], 0)
+        self.assertEqual(kwargs["model"], "gpt-5.6-luna")
+        self.assertEqual(kwargs["reasoning_effort"], "low")
+        self.assertNotIn("temperature", kwargs)
         schema = kwargs["response_format"]["json_schema"]["schema"]
         self.assertIn("cardType", schema["required"])
         self.assertIn("mrz", schema["required"])
@@ -198,6 +199,15 @@ class TestOcrAPI(unittest.TestCase):
         ocr_cccd._clients.update(openai=FakeClient(ocr_payload()), groq=FakeClient(ocr_payload()))
         with mock.patch.dict(os.environ, {"OCR_PROVIDERS": "groq,openai"}):
             self.assertEqual(self.ocr().get_json()["engine"]["provider"], "groq")
+
+    def test_non_reasoning_model_uses_temperature_zero(self):
+        fake = FakeClient(ocr_payload())
+        ocr_cccd._clients.update(openai=fake)
+        with mock.patch.dict(os.environ, {"OPENAI_VISION_MODEL": "gpt-4.1-mini"}):
+            self.ocr()
+        kwargs = fake.chat.completions.create.call_args.kwargs
+        self.assertEqual(kwargs["temperature"], 0)
+        self.assertNotIn("reasoning_effort", kwargs)
 
     def test_reasoning_model_has_no_temperature(self):
         fake = FakeClient(ocr_payload())

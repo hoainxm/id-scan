@@ -86,7 +86,7 @@ Mỗi lần chỉ xử lý 1 ảnh để giữ RAM đỉnh dưới ~400MB (đo b
     "warnings": [{ "field": "ngayHetHan", "message": "...", "suggestion": "..." }],
     "needsReview": ["ngayHetHan"]
   },
-  "engine": { "provider": "openai", "model": "gpt-4.1-mini", "fallback": false, "inputTokens": 0, "outputTokens": 0 }
+  "engine": { "provider": "openai", "model": "gpt-5.6-luna", "fallback": false, "inputTokens": 0, "outputTokens": 0 }
 }
 ```
 - Lỗi: 400 (thiếu/sai file), 422, 429 `OCR_RATE_LIMIT`, 502 `OCR_BAD_REQUEST` / `OCR_BAD_RESPONSE`,
@@ -96,7 +96,7 @@ Mỗi lần chỉ xử lý 1 ảnh để giữ RAM đỉnh dưới ~400MB (đo b
 Luồng xử lý:
 1. Đọc QR code trên ảnh gốc (local, `zxing-cpp`).
 2. Thu nhỏ ảnh (cạnh dài ≤ 2000px, JPEG ≤ 1.5MB) rồi gửi model đọc ảnh theo thứ tự
-   `OCR_PROVIDERS` (mặc định OpenAI `gpt-4.1-mini`, dự phòng Groq). Nhà cung cấp lỗi
+   `OCR_PROVIDERS` (mặc định OpenAI `gpt-5.6-luna`, dự phòng Groq). Nhà cung cấp lỗi
    (hết hạn mức, quá tải, sai key, mất mạng, JSON hỏng) thì tự chuyển sang nhà cung cấp kế tiếp.
    Model trả JSON theo schema strict, gồm cả `cardType` và chuỗi `mrz` chép nguyên văn.
 3. Kiểm chứng local (`cccd_verify.py`):
@@ -106,6 +106,24 @@ Luồng xử lý:
    - **Cấu trúc số định danh**: mã tỉnh 001-096, chữ số thứ 4 = giới tính/thế kỷ,
      chữ số 5-6 = 2 số cuối năm sinh.
    - **Logic**: định dạng ngày, ngày cấp sau ngày sinh, hết hạn sau ngày cấp, giới tính Nam/Nữ...
+
+## Chọn model OpenAI (benchmark 13/10/2026)
+
+Chạy `tools/audit_ocr.py` trên 5 thẻ có nhãn đúng, chỉ dùng OpenAI. Giá theo bảng giá
+OpenAI (Standard, USD / 1M token vào / ra); chi phí/thẻ tính từ token đo thật, quy đổi 26.500 VND/USD.
+
+| Model | Giá vào / ra | Trường đúng | Thẻ đúng hết | Token vào + ra / thẻ | VND / thẻ | Thời gian |
+|---|---|---|---|---|---|---|
+| **gpt-5.6-luna** (mặc định) | 0,20 / 1,20 | **150/150** (3 lượt) | **15/15** | 5.025 + ~790 | **~51** | ~9 s |
+| gpt-4.1-mini | 0,40 / 1,60 | 46/50 | 2/5 | 6.183 + 242 | 76 | 2,6 s |
+| gpt-5-mini | 0,25 / 2,00 | 45/50 | 2/5 | 5.149 + 1.467 | 112 | 14 s |
+| gpt-5.4-nano | 0,20 / 1,25 | 43/50 | 1/5 | 5.026 + 1.100 | 63 | 8,5 s |
+| gpt-5-nano | 0,05 / 0,40 | 40/50 | 1/5 | 5.885 + 1.814 | 27 | 16 s |
+| gpt-4.1-nano | 0,10 / 0,40 | 36/50 | 0/5 | 8.250 + 182 | 24 | 2 s |
+| (Groq qwen3.8-27b, đo trước đó) | gói miễn phí | 46/50 sau kiểm chứng | 6/10 | ~5.400 + 340 | 0 | 2-3 s* |
+
+\* Groq gói miễn phí giới hạn 8.000 token/phút, 200.000 token/ngày (~33 thẻ/ngày).
+Bộ thử còn nhỏ (5 thẻ); chạy lại benchmark khi có thêm ảnh có nhãn.
 
 ## Deploy
 
