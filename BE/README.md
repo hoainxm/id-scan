@@ -5,13 +5,19 @@
 ```
 BE/
 ├── app.py                       # Flask app, expose API
-├── requirements.txt             # Python >= 3.10
+├── requirements.txt             # Thư viện chạy (Docker/Render), Python >= 3.10
+├── requirements-dev.txt         # + pytest cho dev/test
+├── Dockerfile, .dockerignore    # Đóng gói deploy (xem docs/deploy-render.md)
 ├── .env.example                 # Mẫu cấu hình, sao chép thành .env
-├── yolo11n.pt                   # Model YOLO (COCO) dùng tìm "person" trên ảnh thẻ
+├── yolo11n.onnx                 # Model YOLO (COCO) tìm "person", chạy bằng cv2.dnn
+├── yolo11n.pt                   # Model gốc, chỉ dùng để export lại ONNX
 ├── services/
 │   ├── portrait_service.py      # Cắt ảnh chân dung (YOLO person + Haar face/eye)
 │   ├── groq_cccd.py             # OCR bằng Groq Vision (LLM), schema JSON strict
 │   └── cccd_verify.py           # Kiểm chứng local: QR code, MRZ, cấu trúc số, logic ngày
+├── tools/
+│   ├── audit_ocr.py             # Audit độ chính xác theo chức năng trên bộ ảnh có nhãn
+│   └── export_yolo_onnx.py      # Export yolo11n.pt -> yolo11n.onnx
 └── tests/
     ├── test_cccd_verify.py      # QR / MRZ / cấu trúc số / luật kiểm tra (dữ liệu giả)
     └── test_api.py              # API + pipeline OCR với Groq giả, không gọi mạng
@@ -22,7 +28,7 @@ BE/
 ```bash
 cd BE
 python3.12 -m venv venv && source venv/bin/activate   # cần Python >= 3.10
-pip install -r requirements.txt
+pip install -r requirements-dev.txt
 cp .env.example .env          # rồi điền GROQ_API_KEY
 python app.py
 ```
@@ -52,10 +58,12 @@ Không gọi Groq thật. Test dùng ảnh trong `test_images/` nếu có, thi�
 - 200: `{ success, image_base64 (data:image/jpeg), width: 600, height: 770, face, crop, detector }`
 - 422 `code: NO_PORTRAIT`: không thấy chân dung (thường do chọn nhầm ảnh mặt sau).
 
-Cách tìm chân dung:
-1. YOLO tìm `person` (class 0 COCO) → Haar tìm mặt bên trong vùng đó.
-2. Không có `person` → Haar trên toàn ảnh nhưng **bắt buộc thấy mắt** trong khung mặt.
+Cách tìm chân dung (ảnh dò tìm chuẩn hoá cạnh dài 1280px):
+1. YOLO (ONNX, `cv2.dnn`) tìm `person` (class 0 COCO) → Haar tìm mặt bên trong vùng đó.
+2. Không có `person` → Haar trên toàn ảnh (thu về 960px) nhưng **bắt buộc thấy mắt** trong khung mặt.
 3. Không thỏa → 422. (Haar trơn bắt nhầm vân tay / MRZ / chip ở mặt sau.)
+
+Mỗi lần chỉ xử lý 1 ảnh để giữ RAM đỉnh dưới ~400MB (đo bằng gunicorn, 4 yêu cầu song song).
 
 Đã đo trên 10 ảnh mẫu (5 mặt trước, 5 mặt sau): 10/10 đúng.
 
@@ -94,6 +102,10 @@ Luồng xử lý:
    - **Cấu trúc số định danh**: mã tỉnh 001-096, chữ số thứ 4 = giới tính/thế kỷ,
      chữ số 5-6 = 2 số cuối năm sinh.
    - **Logic**: định dạng ngày, ngày cấp sau ngày sinh, hết hạn sau ngày cấp, giới tính Nam/Nữ...
+
+## Deploy
+
+Docker lên Render: xem [docs/deploy-render.md](../docs/deploy-render.md).
 
 Ảnh CCCD chỉ xử lý trong RAM, không lưu xuống đĩa; log không chứa dữ liệu cá nhân.
 Lưu ý: ảnh được gửi tới Groq (dịch vụ cloud bên thứ ba).

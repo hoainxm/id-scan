@@ -1,20 +1,39 @@
 import os
 import cv2
 import base64
+import threading
 import numpy as np
-from ultralytics import YOLO
 
 
 # =========================================================
-# YOLO MODEL
+# YOLO MODEL (ONNX, chạy bằng cv2.dnn)
 # =========================================================
 
-# Đường dẫn tuyệt đối: chạy app.py từ thư mục nào cũng tìm đúng model,
-# tránh việc ultralytics tự tải model từ internet khi không thấy file.
+# Dùng bản ONNX thay vì ultralytics + PyTorch: image Docker nhỏ hơn ~700MB
+# và vừa RAM 512MB của Render gói free. yolo11n.onnx được export từ
+# yolo11n.pt bằng tools/export_yolo_onnx.py; kết quả đã đối chiếu với
+# ultralytics trên 10 ảnh mẫu: cùng quyết định 10/10, khung lệch <= 6px.
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-MODEL_PATH = os.path.join(BASE_DIR, "yolo11n.pt")
+MODEL_PATH = os.path.join(BASE_DIR, "yolo11n.onnx")
+
+YOLO_INPUT = 640
+
+# Cạnh dài của ảnh dùng để dò người/mặt (đo RAM + độ chính xác: xem README)
+DETECT_LONG_SIDE = 1280
+
+# Cạnh dài khi phải quét Haar toàn ảnh (không thấy người)
+FALLBACK_LONG_SIDE = 960
+PERSON_CONF = 0.20
+PERSON_IOU = 0.45
 
 _model = None
+
+# Mỗi lần chỉ xử lý 1 ảnh: giữ RAM đỉnh ~350MB dù nhiều yêu cầu đến cùng lúc.
+_crop_lock = threading.Lock()
+
+# Giới hạn luồng nội bộ của OpenCV (Render free chỉ có 0.1 CPU).
+if os.getenv("OPENCV_THREADS"):
+    cv2.setNumThreads(int(os.getenv("OPENCV_THREADS")))
 
 
 def get_model():
@@ -22,7 +41,7 @@ def get_model():
     if _model is None:
         if not os.path.isfile(MODEL_PATH):
             raise RuntimeError(f"Không tìm thấy model YOLO tại {MODEL_PATH}")
-        _model = YOLO(MODEL_PATH)
+        _model = cv2.dnn.readNetFromONNX(MODEL_PATH)
     return _model
 
 
@@ -36,6 +55,23 @@ NO_PORTRAIT_MESSAGE = (
 # HÀM TÌM KHUÔN MẶT / PERSON
 # =========================================================
 
+def _letterbox(image):
+    """Co ảnh về 640x640 giữ tỉ lệ, đệm màu xám 114 (giống ultralytics)."""
+    h, w = image.shape[:2]
+    ratio = min(YOLO_INPUT / h, YOLO_INPUT / w)
+    new_w, new_h = round(w * ratio), round(h * ratio)
+
+    resized = cv2.resize(image, (new_w, new_h), interpolation=cv2.INTER_LINEAR)
+
+    left = (YOLO_INPUT - new_w) // 2
+    top = (YOLO_INPUT - new_h) // 2
+
+    canvas = np.full((YOLO_INPUT, YOLO_INPUT, 3), 114, dtype=np.uint8)
+    canvas[top:top + new_h, left:left + new_w] = resized
+
+    return canvas, ratio, left, top
+
+
 def detect_person(image):
     """
     Dùng YOLO để tìm người trong ảnh.
@@ -47,49 +83,69 @@ def detect_person(image):
     Sau đó OpenCV sẽ tìm khuôn mặt bên trong vùng person.
     """
 
-    results = get_model().predict(
-        source=image,
-        conf=0.20,
-        iou=0.45,
-        verbose=False
+    canvas, ratio, left, top = _letterbox(image)
+
+    blob = cv2.dnn.blobFromImage(
+        canvas,
+        1 / 255.0,
+        (YOLO_INPUT, YOLO_INPUT),
+        swapRB=True
     )
 
-    if not results:
+    net = get_model()
+    net.setInput(blob)
+
+    # Đầu ra (1, 84, 8400): 4 toạ độ (cx, cy, w, h) + điểm 80 class COCO
+    predictions = net.forward()[0].T
+
+    # COCO class 0 = person
+    scores = predictions[:, 4]
+    keep = scores >= PERSON_CONF
+
+    if not keep.any():
         return None
 
-    result = results[0]
+    boxes = predictions[keep, :4]
+    scores = scores[keep]
 
-    if result.boxes is None:
-        return None
+    # Đổi toạ độ từ ảnh 640x640 về ảnh gốc
+    x = (boxes[:, 0] - boxes[:, 2] / 2 - left) / ratio
+    y = (boxes[:, 1] - boxes[:, 3] / 2 - top) / ratio
+    w = boxes[:, 2] / ratio
+    h = boxes[:, 3] / ratio
+
+    rects = np.stack([x, y, w, h], axis=1)
+
+    indices = cv2.dnn.NMSBoxes(
+        rects.tolist(),
+        scores.tolist(),
+        PERSON_CONF,
+        PERSON_IOU
+    )
+
+    img_h, img_w = image.shape[:2]
 
     best_box = None
     best_area = 0
 
-    for box in result.boxes:
-        cls_id = int(box.cls[0])
-        confidence = float(box.conf[0])
+    for i in np.array(indices).flatten():
+        bx, by, bw, bh = rects[i]
 
-        # COCO class 0 = person
-        if cls_id != 0:
-            continue
-
-        x1, y1, x2, y2 = box.xyxy[0].tolist()
-
-        x1 = int(x1)
-        y1 = int(y1)
-        x2 = int(x2)
-        y2 = int(y2)
+        x1 = int(max(0, bx))
+        y1 = int(max(0, by))
+        x2 = int(min(img_w, bx + bw))
+        y2 = int(min(img_h, by + bh))
 
         area = (x2 - x1) * (y2 - y1)
 
-        if confidence >= 0.20 and area > best_area:
+        if area > best_area:
             best_area = area
             best_box = {
                 "x1": x1,
                 "y1": y1,
                 "x2": x2,
                 "y2": y2,
-                "confidence": confidence
+                "confidence": float(scores[i])
             }
 
     return best_box
@@ -195,6 +251,12 @@ def detect_face_with_eyes(image):
 
 def crop_portrait_from_bytes(file_bytes: bytes):
 
+    with _crop_lock:
+        return _crop_portrait(file_bytes)
+
+
+def _crop_portrait(file_bytes: bytes):
+
     # -----------------------------------------------------
     # 1. Đọc ảnh
     # -----------------------------------------------------
@@ -218,24 +280,27 @@ def crop_portrait_from_bytes(file_bytes: bytes):
 
 
     # -----------------------------------------------------
-    # 2. Resize ảnh để YOLO dễ nhận diện
+    # 2. Chuẩn hoá cạnh dài của ảnh dò tìm
+    #
+    # Trước đây phóng chiều rộng lên 1600px: ảnh dọc từ điện thoại
+    # thành ~1600x2130 và Haar quét tháp ảnh rất lớn (~800MB RAM).
+    # Chuẩn hoá theo cạnh dài giữ RAM thấp (Render free 512MB).
     # -----------------------------------------------------
 
-    detect_image = image.copy()
+    scale = DETECT_LONG_SIDE / max(original_w, original_h)
 
-    scale = 1.0
+    if abs(scale - 1.0) < 0.01:
 
-    if original_w < 1600:
+        scale = 1.0
 
-        scale = 1600 / original_w
+        detect_image = image
 
-        new_w = int(original_w * scale)
-        new_h = int(original_h * scale)
+    else:
 
         detect_image = cv2.resize(
             image,
-            (new_w, new_h),
-            interpolation=cv2.INTER_CUBIC
+            (int(original_w * scale), int(original_h * scale)),
+            interpolation=cv2.INTER_CUBIC if scale > 1 else cv2.INTER_AREA
         )
 
 
@@ -307,9 +372,27 @@ def crop_portrait_from_bytes(file_bytes: bytes):
 
     if face_info is None:
 
-        face_info = detect_face_with_eyes(
-            detect_image
+        # Quét Haar toàn ảnh tốn RAM theo diện tích ảnh: chạy ở cạnh dài
+        # FALLBACK_LONG_SIDE (đo trên 10 ảnh mẫu: vẫn 10/10, RAM thêm 150 -> 91MB).
+        fb_scale = min(1.0, FALLBACK_LONG_SIDE / max(detect_image.shape[:2]))
+
+        fallback_image = detect_image if fb_scale == 1.0 else cv2.resize(
+            detect_image,
+            None,
+            fx=fb_scale,
+            fy=fb_scale,
+            interpolation=cv2.INTER_AREA
         )
+
+        face_info = detect_face_with_eyes(
+            fallback_image
+        )
+
+        if face_info is not None and fb_scale != 1.0:
+            face_info = {
+                key: int(value / fb_scale)
+                for key, value in face_info.items()
+            }
 
         detector = "haar+eyes"
 

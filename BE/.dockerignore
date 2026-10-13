@@ -1,0 +1,16 @@
+# Không đưa vào image: môi trường ảo, bí mật, ảnh CCCD thật, file test và công cụ dev
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+test_images/
+tests/
+test_*.py
+tools/
+yolo11n.pt
+services/face_service(del).py
+Dockerfile
+.dockerignore

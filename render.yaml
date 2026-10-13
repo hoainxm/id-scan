@@ -1,0 +1,22 @@
+# Render Blueprint: deploy BE (thư mục BE/) bằng Docker.
+# Hướng dẫn: docs/deploy-render.md
+services:
+  - type: web
+    name: id-scan-api
+    runtime: docker
+    dockerfilePath: ./BE/Dockerfile
+    dockerContext: ./BE
+    region: singapore
+    plan: free
+    healthCheckPath: /api/health
+    autoDeploy: true
+    buildFilter:
+      paths:
+        - BE/**
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_VISION_MODEL
+        value: qwen/qwen3.8-27b
+      - key: ALLOWED_ORIGINS
+        sync: false

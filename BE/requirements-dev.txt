@@ -1,0 +1,8 @@
+# Thư viện cho dev/test: pip install -r requirements-dev.txt
+-r requirements.txt
+pytest==9.1.1
+
+# Chỉ cần khi export lại model (tools/export_yolo_onnx.py):
+# ultralytics==8.4.176
+# onnx==1.17.0
+# onnxslim
