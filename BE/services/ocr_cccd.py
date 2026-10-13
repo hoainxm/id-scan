@@ -1,3 +1,11 @@
+"""
+Đọc thông tin CCCD bằng model đọc ảnh (vision LLM) qua nhiều nhà cung cấp, rồi kiểm chứng local.
+
+Thứ tự dùng nhà cung cấp lấy từ OCR_PROVIDERS (mặc định "openai,groq"); nhà cung cấp
+chưa có API key thì bỏ qua. Khi nhà cung cấp trước lỗi (hết hạn mức, quá tải, sai key,
+mất kết nối, trả kết quả hỏng) thì tự chuyển sang nhà cung cấp kế tiếp trong cùng yêu cầu.
+"""
+
 import os
 import json
 import base64
@@ -5,9 +13,10 @@ import logging
 from typing import Any
 
 import cv2
+import groq
 import numpy as np
+import openai
 from dotenv import load_dotenv
-from groq import Groq
 
 from services.cccd_verify import read_qr, verify_ocr_result
 
@@ -23,30 +32,76 @@ load_dotenv(os.path.join(BASE_DIR, ".env"))
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
 class OCRConfigError(RuntimeError):
-    """Thiếu cấu hình OCR (API key). App trả 503 thay vì sập cả server."""
+    """Chưa cấu hình API key OCR nào. App trả 503 thay vì sập cả server."""
 
 
-_client = None
+class OCRProviderError(RuntimeError):
+    """Lỗi từ nhà cung cấp OCR, đã quy về mã chung để app trả HTTP status phù hợp."""
+
+    def __init__(self, code: str, message: str, provider: str = ""):
+        super().__init__(message)
+        self.code = code
+        self.message = message
+        self.provider = provider
 
 
-def _get_client() -> Groq:
-    """Khởi tạo Groq client khi cần, để API chân dung vẫn chạy khi chưa có key."""
-    global _client
-    if _client is None:
-        api_key = os.getenv("GROQ_API_KEY")
+PROVIDERS = {
+    "openai": {
+        "label": "OpenAI",
+        "key_env": "OPENAI_API_KEY",
+        "model_env": "OPENAI_VISION_MODEL",
+        "default_model": "gpt-4.1-mini",
+        "sdk": openai,
+    },
+    "groq": {
+        "label": "Groq",
+        "key_env": "GROQ_API_KEY",
+        "model_env": "GROQ_VISION_MODEL",
+        "default_model": "qwen/qwen3.8-27b",
+        "sdk": groq,
+    },
+}
+
+# OpenAI tính token ảnh theo độ phân giải; "high" cần để đọc rõ chữ có dấu.
+OPENAI_IMAGE_DETAIL = os.getenv("OPENAI_IMAGE_DETAIL", "high")
+
+# Model suy luận (gpt-5*, o*) không nhận temperature; mức suy luận thấp để tiết kiệm.
+OPENAI_REASONING_EFFORT = os.getenv("OPENAI_REASONING_EFFORT", "low")
+
+_clients = {}
+
+
+def provider_order() -> list:
+    names = os.getenv("OCR_PROVIDERS", "openai,groq").split(",")
+    return [n.strip().lower() for n in names if n.strip().lower() in PROVIDERS]
+
+
+def configured_providers() -> list:
+    return [p for p in provider_order() if os.getenv(PROVIDERS[p]["key_env"])]
+
+
+def model_for(provider: str) -> str:
+    info = PROVIDERS[provider]
+    return os.getenv(info["model_env"]) or info["default_model"]
+
+
+def _get_client(provider: str):
+    """Khởi tạo client khi cần, để API chân dung vẫn chạy khi chưa có key."""
+    if provider not in _clients:
+        info = PROVIDERS[provider]
+        api_key = os.getenv(info["key_env"])
         if not api_key:
-            raise OCRConfigError(
-                "Chưa cấu hình GROQ_API_KEY. Hãy tạo file BE/.env (xem BE/.env.example)."
-            )
-        _client = Groq(api_key=api_key)
-    return _client
+            raise OCRConfigError(f"Chưa cấu hình {info['key_env']}.")
+        # Thử lại 1 lần cho lỗi thoáng qua; lỗi kéo dài thì chuyển nhà cung cấp.
+        client_cls = openai.OpenAI if provider == "openai" else groq.Groq
+        _clients[provider] = client_cls(api_key=api_key, max_retries=1, timeout=90)
+    return _clients[provider]
 
 
-MODEL_NAME = os.getenv(
-    "GROQ_VISION_MODEL",
-    "qwen/qwen3.8-27b"
-)
+def _is_reasoning_model(model: str) -> bool:
+    return model.startswith(("gpt-5", "o1", "o3", "o4"))
 
 
 # ============================================================
@@ -66,7 +121,7 @@ def _detect_mime_type(image_bytes: bytes) -> str:
 
 
 def image_to_data_url(image_bytes: bytes, mime_type: str | None = None) -> str:
-    """Chuyển bytes ảnh thành data URL để gửi đến Groq."""
+    """Chuyển bytes ảnh thành data URL để gửi tới model đọc ảnh."""
     if not image_bytes:
         raise ValueError("Dữ liệu ảnh CCCD đang rỗng.")
 
@@ -75,7 +130,7 @@ def image_to_data_url(image_bytes: bytes, mime_type: str | None = None) -> str:
     return f"data:{detected_mime};base64,{encoded}"
 
 
-# Ảnh điện thoại 3-5MB vượt giới hạn ảnh base64 của Groq và làm OCR chậm.
+# Ảnh điện thoại 3-5MB vượt giới hạn ảnh base64 của nhà cung cấp và làm OCR chậm.
 # 2000px cạnh dài vẫn đủ nét để đọc MRZ khi thẻ chiếm phần nhỏ khung hình.
 LLM_MAX_SIDE = 2000
 LLM_MAX_BYTES = 1_500_000
@@ -411,20 +466,145 @@ def _normalize_result(data: dict) -> dict:
 
 
 # ============================================================
-# GROQ VISION OCR
+# GỌI MODEL ĐỌC ẢNH
 # ============================================================
+
+SYSTEM_PROMPT = (
+    "Bạn là hệ thống OCR tài liệu CCCD Việt Nam. "
+    "Đọc chính xác chữ nhìn thấy trong ảnh. "
+    "Phân biệt mặt trước và mặt sau. "
+    "Không suy đoán hoặc tự điền thông tin còn thiếu. "
+    "Chỉ trả về JSON đúng schema được cung cấp."
+)
+
+
+def _build_messages(provider: str, front_image: str, back_image: str) -> list:
+    def image_part(url):
+        image = {"url": url}
+        if provider == "openai":
+            image["detail"] = OPENAI_IMAGE_DETAIL
+        return {"type": "image_url", "image_url": image}
+
+    return [
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": (
+                        OCR_PROMPT
+                        + "\n\nẢNH 1 là mặt trước CCCD. "
+                        "Hãy đọc các trường xuất hiện trên mặt trước, "
+                        "bao gồm số giấy tờ, họ tên, ngày sinh, "
+                        "giới tính, quốc tịch, quê quán và nơi cư trú "
+                        "nếu những trường đó xuất hiện."
+                    ),
+                },
+                image_part(front_image),
+                {
+                    "type": "text",
+                    "text": (
+                        "ẢNH 2 là mặt sau CCCD. "
+                        "Kiểm tra xem mặt sau có thông tin cần trích xuất "
+                        "hay không. Chỉ sử dụng nội dung thực sự nhìn thấy. "
+                        "Không lấy nội dung của trường này thay cho trường khác."
+                    ),
+                },
+                image_part(back_image),
+            ],
+        },
+    ]
+
+
+def _error_code(sdk, error) -> str:
+    if isinstance(error, sdk.RateLimitError):
+        return "RATE_LIMIT"
+    if isinstance(error, (sdk.AuthenticationError, sdk.PermissionDeniedError)):
+        return "AUTH"
+    if isinstance(error, sdk.APIConnectionError):
+        return "UNREACHABLE"
+    if isinstance(error, sdk.InternalServerError):
+        return "UNAVAILABLE"
+    if isinstance(error, (sdk.BadRequestError, sdk.NotFoundError)):
+        return "BAD_REQUEST"
+    return "UNAVAILABLE"
+
+
+def _error_message(provider: str, code: str) -> str:
+    info = PROVIDERS[provider]
+    label = info["label"]
+    return {
+        "RATE_LIMIT": f"{label} đã hết hạn mức",
+        "AUTH": f"{info['key_env']} không hợp lệ hoặc hết quyền",
+        "UNREACHABLE": f"không kết nối được {label}",
+        "UNAVAILABLE": f"{label} đang quá tải",
+        "BAD_REQUEST": f"{label} từ chối yêu cầu (kiểm tra {info['model_env']})",
+        "BAD_RESPONSE": f"{label} trả kết quả không hợp lệ",
+    }[code]
+
+
+def _call_provider(provider: str, front_image: str, back_image: str):
+    """Gọi 1 nhà cung cấp. Trả (dict kết quả, usage). Lỗi quy về OCRProviderError."""
+    info = PROVIDERS[provider]
+    sdk = info["sdk"]
+    model = model_for(provider)
+
+    kwargs = {
+        "model": model,
+        "messages": _build_messages(provider, front_image, back_image),
+        "response_format": {
+            "type": "json_schema",
+            "json_schema": {"name": "cccd", "strict": True, "schema": CCCD_SCHEMA},
+        },
+    }
+    if provider == "openai" and _is_reasoning_model(model):
+        # Token suy luận cũng tính vào giới hạn này.
+        kwargs["reasoning_effort"] = OPENAI_REASONING_EFFORT
+        kwargs["max_completion_tokens"] = 4000
+    else:
+        kwargs["temperature"] = 0
+        kwargs["max_completion_tokens"] = 1200
+
+    try:
+        response = _get_client(provider).chat.completions.create(**kwargs)
+    except sdk.APIError as error:
+        code = _error_code(sdk, error)
+        logger.warning("OCR %s/%s lỗi %s: %s", provider, model, code, type(error).__name__)
+        raise OCRProviderError(code, _error_message(provider, code), provider) from error
+
+    content = response.choices[0].message.content
+    try:
+        data = json.loads(content or "")
+    except json.JSONDecodeError:
+        data = None
+    if not isinstance(data, dict):
+        logger.warning("OCR %s/%s trả JSON không hợp lệ", provider, model)
+        raise OCRProviderError("BAD_RESPONSE", _error_message(provider, "BAD_RESPONSE"), provider)
+
+    usage = getattr(response, "usage", None)
+    return data, {
+        "inputTokens": getattr(usage, "prompt_tokens", None),
+        "outputTokens": getattr(usage, "completion_tokens", None),
+    }
+
 
 def extract_cccd(front_bytes: bytes, back_bytes: bytes) -> dict:
     """
-    Nhận bytes ảnh CCCD hai mặt, gọi Groq Vision rồi kiểm chứng local.
-    Trả { "data": <các trường form>, "validation": <kết quả kiểm chứng> }.
+    Nhận bytes ảnh CCCD hai mặt, đọc bằng model đọc ảnh rồi kiểm chứng local.
+    Trả { "data", "validation", "engine": nhà cung cấp/model/token đã dùng }.
     """
     if not front_bytes:
         raise ValueError("Chưa có ảnh mặt trước CCCD.")
     if not back_bytes:
         raise ValueError("Chưa có ảnh mặt sau CCCD.")
 
-    client = _get_client()
+    providers = configured_providers()
+    if not providers:
+        raise OCRConfigError(
+            "Chưa cấu hình API key đọc ảnh (OPENAI_API_KEY hoặc GROQ_API_KEY). "
+            "Hãy thêm vào BE/.env (xem BE/.env.example)."
+        )
 
     # QR đọc trên ảnh gốc (độ phân giải cao nhất), trước khi nén gửi đi.
     qr = read_qr([front_bytes, back_bytes])
@@ -432,96 +612,39 @@ def extract_cccd(front_bytes: bytes, back_bytes: bytes) -> dict:
     front_image = image_to_data_url(prepare_image_for_llm(front_bytes))
     back_image = image_to_data_url(prepare_image_for_llm(back_bytes))
 
-    try:
-        response = client.chat.completions.create(
-            model=MODEL_NAME,
-            temperature=0,
-            messages=[
-                {
-                    "role": "system",
-                    "content": (
-                        "Bạn là hệ thống OCR tài liệu CCCD Việt Nam. "
-                        "Đọc chính xác chữ nhìn thấy trong ảnh. "
-                        "Phân biệt mặt trước và mặt sau. "
-                        "Không suy đoán hoặc tự điền thông tin còn thiếu. "
-                        "Chỉ trả về JSON đúng schema được cung cấp."
-                    ),
-                },
-                {
-        "role": "user",
-        "content": [
-            {
-                "type": "text",
-                "text": (
-                    OCR_PROMPT
-                    + "\n\nẢNH 1 là mặt trước CCCD. "
-                    "Hãy đọc các trường xuất hiện trên mặt trước, "
-                    "bao gồm số giấy tờ, họ tên, ngày sinh, "
-                    "giới tính, quốc tịch, quê quán và nơi cư trú "
-                    "nếu những trường đó xuất hiện."
-                ),
-            },
-            {
-                "type": "image_url",
-                "image_url": {
-                    "url": front_image,
-                },
-            },
-            {
-                "type": "text",
-                "text": (
-                    "ẢNH 2 là mặt sau CCCD. "
-                    "Kiểm tra xem mặt sau có thông tin cần trích xuất "
-                    "hay không. Chỉ sử dụng nội dung thực sự nhìn thấy. "
-                    "Không lấy nội dung của trường này thay cho trường khác."
-                ),
-            },
-            {
-                "type": "image_url",
-                "image_url": {
-                    "url": back_image,
-                },
-            },
-        ],
-    },
-],
-            response_format={
-                "type": "json_schema",
-                "json_schema": {
-                    "name": "cccd",
-                    "strict": True,
-                    "schema": CCCD_SCHEMA,
-                },
-            },
-        )
-
-        content = response.choices[0].message.content
-        if not content:
-            raise ValueError("Groq trả về nội dung OCR rỗng.")
-
+    errors = []
+    for provider in providers:
         try:
-            data = json.loads(content)
-        except json.JSONDecodeError as exc:
-            raise ValueError("Groq trả về JSON không hợp lệ.") from exc
-
-        if not isinstance(data, dict):
-            raise ValueError("Kết quả OCR không phải JSON object.")
+            data, usage = _call_provider(provider, front_image, back_image)
+        except OCRProviderError as error:
+            errors.append(error)
+            continue
 
         verified = verify_ocr_result(
             _normalize_result(data),
             qr=qr,
             mrz_text=_as_string(data.get("mrz", "")),
         )
+        verified["engine"] = {
+            "provider": provider,
+            "model": model_for(provider),
+            "fallback": provider != providers[0],
+            **usage,
+        }
 
         # Không ghi log ảnh hoặc thông tin cá nhân, chỉ ghi trạng thái.
         logger.info(
-            "OCR hoàn tất; QR: %s; MRZ: %s; số trường cần kiểm tra: %d",
+            "OCR hoàn tất bằng %s/%s (%s+%s token); QR: %s; MRZ: %s; số trường cần kiểm tra: %d",
+            provider,
+            model_for(provider),
+            usage["inputTokens"],
+            usage["outputTokens"],
             verified["validation"]["sources"]["qr"],
             verified["validation"]["sources"]["mrz"],
             len(verified["validation"]["needsReview"]),
         )
         return verified
 
-    except Exception:
-        logger.exception("Lỗi khi OCR CCCD bằng Groq.")
-        raise
+    # Mọi nhà cung cấp đều lỗi: trả lỗi của nhà cung cấp cuối, kèm lý do từng nơi.
+    detail = "; ".join(e.message for e in errors)
+    raise OCRProviderError(errors[-1].code, f"Không đọc được thông tin CCCD: {detail}.")

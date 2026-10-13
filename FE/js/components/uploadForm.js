@@ -158,7 +158,7 @@ async function postToApi(path, formData) {
 
 function friendlyError(result, fallback) {
   if (result?.code === "OCR_NOT_CONFIGURED") {
-    return "BE chưa cấu hình GROQ_API_KEY (file BE/.env). Bạn vẫn có thể điền tay.";
+    return "BE chưa cấu hình API key đọc ảnh (OPENAI_API_KEY hoặc GROQ_API_KEY). Bạn vẫn có thể điền tay.";
   }
 
   return result?.message || fallback;

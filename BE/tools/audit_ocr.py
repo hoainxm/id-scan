@@ -12,7 +12,7 @@ labels.json (KHÔNG commit, chứa dữ liệu cá nhân) là mảng các object
 Đo theo chức năng:
 1. Cắt chân dung: mặt trước phải ra chân dung, mặt sau phải bị từ chối.
 2. QR: tỉ lệ giải mã được.
-3. OCR Groq: độ chính xác từng trường TRƯỚC và SAU bước kiểm chứng (QR/MRZ/logic).
+3. OCR (OpenAI/Groq theo OCR_PROVIDERS): độ chính xác từng trường TRƯỚC và SAU bước kiểm chứng (QR/MRZ/logic).
 4. MRZ do LLM chép: tỉ lệ qua check digit, tỉ lệ chép đúng nguyên văn.
 5. Cảnh báo: đúng (trường sai được cảnh báo), báo nhầm, bỏ sót.
 """
@@ -25,9 +25,8 @@ import time
 import unicodedata
 from pathlib import Path
 
-from groq import RateLimitError
-
-from services import groq_cccd
+from services import ocr_cccd
+from services.ocr_cccd import OCRProviderError
 from services.cccd_verify import parse_mrz, read_qr
 from services.portrait_service import crop_portrait_from_bytes
 
@@ -64,25 +63,27 @@ def is_correct(field: str, got: str, expected: str) -> bool:
 def run_ocr(front: bytes, back: bytes, retries: int = 3):
     """Gọi pipeline thật, đồng thời giữ lại kết quả OCR thô trước kiểm chứng."""
     captured = {}
-    original = groq_cccd.verify_ocr_result
+    original = ocr_cccd.verify_ocr_result
 
     def spy(data, qr=None, mrz_text=""):
         captured["raw"] = data
         captured["mrz_text"] = mrz_text
         return original(data, qr=qr, mrz_text=mrz_text)
 
-    groq_cccd.verify_ocr_result = spy
+    ocr_cccd.verify_ocr_result = spy
     try:
         for attempt in range(retries):
             try:
                 start = time.time()
-                verified = groq_cccd.extract_cccd(front, back)
+                verified = ocr_cccd.extract_cccd(front, back)
                 return captured, verified, time.time() - start
-            except RateLimitError:
+            except OCRProviderError as error:
+                if error.code != "RATE_LIMIT":
+                    raise
                 time.sleep(20 * (attempt + 1))
-        raise RuntimeError("Hết hạn mức Groq sau nhiều lần thử")
+        raise RuntimeError("Hết hạn mức OCR sau nhiều lần thử")
     finally:
-        groq_cccd.verify_ocr_result = original
+        ocr_cccd.verify_ocr_result = original
 
 
 def audit(labels, runs: int, pause: float):
@@ -143,6 +144,7 @@ def audit(labels, runs: int, pause: float):
                     "exact": mrz_text.replace(" ", "").strip() == expected_mrz,
                 },
                 "data": final,
+                "engine": verified.get("engine"),
                 "sources": validation["sources"],
                 "corrections": validation["corrections"],
                 "warnings": validation["warnings"],
@@ -192,6 +194,9 @@ def summarize(report) -> dict:
         "ocr_cards_all_fields_correct": pct(cards_all_correct, len(ocr)),
         "ocr_stable_across_runs": pct(stable, len(by_id)),
         "ocr_seconds_median": round(statistics.median(r["seconds"] for r in ocr), 2) if ocr else None,
+        "ocr_engines": sorted({f'{r["engine"]["provider"]}/{r["engine"]["model"]}' for r in ocr if r.get("engine")}),
+        "ocr_input_tokens_avg": round(statistics.mean(r["engine"]["inputTokens"] for r in ocr if r.get("engine") and r["engine"].get("inputTokens"))) if ocr else None,
+        "ocr_output_tokens_avg": round(statistics.mean(r["engine"]["outputTokens"] for r in ocr if r.get("engine") and r["engine"].get("outputTokens"))) if ocr else None,
         "mrz": {
             "returned": pct(sum(r["mrz"]["returned"] for r in ocr), len(ocr)),
             "check_digits_ok": pct(sum(r["mrz"]["valid"] for r in ocr), len(ocr)),
@@ -209,7 +214,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--labels", required=True)
     parser.add_argument("--runs", type=int, default=1)
-    parser.add_argument("--pause", type=float, default=3.0, help="nghỉ giữa các lần gọi Groq (giây)")
+    parser.add_argument("--pause", type=float, default=3.0, help="nghỉ giữa các lần gọi OCR (giây)")
     parser.add_argument("--out", help="ghi báo cáo chi tiết JSON (chứa dữ liệu cá nhân, KHÔNG commit)")
     args = parser.parse_args()
 

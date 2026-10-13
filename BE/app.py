@@ -9,18 +9,26 @@ from services.portrait_service import (
 )
 
 # ============================================================
-# GROQ OCR
+# OCR (OpenAI / Groq, tự chuyển khi lỗi)
 # ============================================================
 
-from services.groq_cccd import extract_cccd, OCRConfigError
-
-from groq import (
-    APIConnectionError,
-    AuthenticationError,
-    BadRequestError,
-    InternalServerError,
-    RateLimitError,
+from services.ocr_cccd import (
+    extract_cccd,
+    OCRConfigError,
+    OCRProviderError,
+    configured_providers,
+    model_for,
 )
+
+# Mã lỗi chung của nhà cung cấp OCR -> HTTP status
+OCR_ERROR_STATUS = {
+    "RATE_LIMIT": 429,
+    "AUTH": 503,
+    "UNREACHABLE": 503,
+    "UNAVAILABLE": 503,
+    "BAD_REQUEST": 502,
+    "BAD_RESPONSE": 502,
+}
 
 
 # ============================================================
@@ -122,7 +130,12 @@ def health():
     return jsonify({
         "success": True,
         "status": "ok",
-        "service": "portrait-extraction + groq-ocr"
+        "service": "portrait-extraction + vision-ocr",
+        # Nhà cung cấp OCR đã có key, theo thứ tự sẽ dùng (không lộ key)
+        "ocrProviders": [
+            {"provider": p, "model": model_for(p)}
+            for p in configured_providers()
+        ]
     })
 
 
@@ -250,7 +263,7 @@ def portrait():
 
 
 # ============================================================
-# OCR CCCD - GROQ VISION
+# OCR CCCD - MODEL ĐỌC ẢNH
 # ============================================================
 
 @app.route(
@@ -356,7 +369,7 @@ def ocr_cccd():
             }), 400
 
         # ----------------------------------------------------
-        # GỌI GROQ VISION + KIỂM CHỨNG (QR / MRZ / LOGIC)
+        # ĐỌC ẢNH (OPENAI / GROQ) + KIỂM CHỨNG (QR / MRZ / LOGIC)
         # ----------------------------------------------------
 
         result = extract_cccd(
@@ -378,7 +391,9 @@ def ocr_cccd():
             "data":
                 result["data"],
             "validation":
-                result["validation"]
+                result["validation"],
+            "engine":
+                result["engine"]
         }), 200
 
     except ValueError as e:
@@ -396,56 +411,13 @@ def ocr_cccd():
             "message": str(e)
         }), 503
 
-    except AuthenticationError as e:
-        print("Groq từ chối API key:", repr(e))
+    except OCRProviderError as e:
 
         return jsonify({
             "success": False,
-            "code": "GROQ_AUTH",
-            "message": "GROQ_API_KEY không hợp lệ hoặc đã bị thu hồi."
-        }), 503
-
-    except APIConnectionError as e:
-        print("Không kết nối được Groq:", repr(e))
-
-        return jsonify({
-            "success": False,
-            "code": "GROQ_UNREACHABLE",
-            "message": "Không kết nối được dịch vụ OCR. Kiểm tra mạng và thử lại."
-        }), 503
-
-    except BadRequestError as e:
-        print("Groq từ chối yêu cầu:", repr(e))
-
-        return jsonify({
-            "success": False,
-            "code": "GROQ_BAD_REQUEST",
-            "message": (
-                "Dịch vụ OCR từ chối yêu cầu (ảnh quá lớn hoặc model "
-                "không hỗ trợ). Kiểm tra GROQ_VISION_MODEL."
-            )
-        }), 502
-
-    except InternalServerError as e:
-        print("Groq quá tải:", repr(e))
-
-        return jsonify({
-            "success": False,
-            "code": "GROQ_UNAVAILABLE",
-            "message": "Dịch vụ OCR đang quá tải. Vui lòng thử lại sau ít phút."
-        }), 503
-
-    except RateLimitError as e:
-        print("Groq hết hạn mức OCR:", repr(e))
-
-        return jsonify({
-            "success": False,
-            "code": "GROQ_RATE_LIMIT",
-            "message": (
-                "Groq đã hết hạn mức xử lý OCR. "
-                "Vui lòng thử lại sau."
-            )
-        }), 429
+            "code": "OCR_" + e.code,
+            "message": e.message
+        }), OCR_ERROR_STATUS.get(e.code, 503)
 
     except Exception as e:
         print("Lỗi API OCR CCCD:", repr(e))

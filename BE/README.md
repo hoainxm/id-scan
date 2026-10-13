@@ -13,14 +13,14 @@ BE/
 ├── yolo11n.pt                   # Model gốc, chỉ dùng để export lại ONNX
 ├── services/
 │   ├── portrait_service.py      # Cắt ảnh chân dung (YOLO person + Haar face/eye)
-│   ├── groq_cccd.py             # OCR bằng Groq Vision (LLM), schema JSON strict
+│   ├── ocr_cccd.py              # Đọc CCCD bằng model đọc ảnh: OpenAI chính, Groq dự phòng
 │   └── cccd_verify.py           # Kiểm chứng local: QR code, MRZ, cấu trúc số, logic ngày
 ├── tools/
 │   ├── audit_ocr.py             # Audit độ chính xác theo chức năng trên bộ ảnh có nhãn
 │   └── export_yolo_onnx.py      # Export yolo11n.pt -> yolo11n.onnx
 └── tests/
     ├── test_cccd_verify.py      # QR / MRZ / cấu trúc số / luật kiểm tra (dữ liệu giả)
-    └── test_api.py              # API + pipeline OCR với Groq giả, không gọi mạng
+    └── test_api.py              # API + pipeline OCR với OpenAI/Groq giả, không gọi mạng
 ```
 
 ## Cài đặt & chạy
@@ -29,14 +29,14 @@ BE/
 cd BE
 python3.12 -m venv venv && source venv/bin/activate   # cần Python >= 3.10
 pip install -r requirements-dev.txt
-cp .env.example .env          # rồi điền GROQ_API_KEY
+cp .env.example .env          # rồi điền OPENAI_API_KEY và/hoặc GROQ_API_KEY
 python app.py
 ```
 
 Server chạy ở `http://127.0.0.1:8000`. Mặc định chỉ nghe localhost, tắt debug
 (xem `FLASK_HOST`, `FLASK_DEBUG` trong `.env.example`).
 
-- Thiếu `GROQ_API_KEY`: server vẫn chạy, `/api/portrait` vẫn dùng được,
+- Chưa có API key đọc ảnh nào: server vẫn chạy, `/api/portrait` vẫn dùng được,
   `/api/ocr-cccd` trả `503 OCR_NOT_CONFIGURED`.
 - CORS chỉ cho phép origin trong `ALLOWED_ORIGINS` (mặc định FE ở cổng 5500).
 
@@ -46,7 +46,7 @@ Server chạy ở `http://127.0.0.1:8000`. Mặc định chỉ nghe localhost, t
 cd BE && python -m pytest tests -v
 ```
 
-Không gọi Groq thật. Test dùng ảnh trong `test_images/` nếu có, thiếu thì tự bỏ qua.
+Không gọi OpenAI/Groq thật. Test dùng ảnh trong `test_images/` nếu có, thiếu thì tự bỏ qua.
 
 ## API
 
@@ -85,16 +85,20 @@ Mỗi lần chỉ xử lý 1 ảnh để giữ RAM đỉnh dưới ~400MB (đo b
     "corrections": [{ "field": "hoTen", "ocrValue": "...", "value": "...", "source": "QR" }],
     "warnings": [{ "field": "ngayHetHan", "message": "...", "suggestion": "..." }],
     "needsReview": ["ngayHetHan"]
-  }
+  },
+  "engine": { "provider": "openai", "model": "gpt-4.1-mini", "fallback": false, "inputTokens": 0, "outputTokens": 0 }
 }
 ```
-- Lỗi: 400 (thiếu/sai file), 422, 429 `GROQ_RATE_LIMIT`, 502 `GROQ_BAD_REQUEST`,
-  503 `OCR_NOT_CONFIGURED` / `GROQ_AUTH` / `GROQ_UNREACHABLE`.
+- Lỗi: 400 (thiếu/sai file), 422, 429 `OCR_RATE_LIMIT`, 502 `OCR_BAD_REQUEST` / `OCR_BAD_RESPONSE`,
+  503 `OCR_NOT_CONFIGURED` / `OCR_AUTH` / `OCR_UNREACHABLE` / `OCR_UNAVAILABLE`.
+  Chỉ trả lỗi khi **mọi** nhà cung cấp đều lỗi; `message` nêu lý do từng nơi.
 
 Luồng xử lý:
 1. Đọc QR code trên ảnh gốc (local, `zxing-cpp`).
-2. Thu nhỏ ảnh (cạnh dài ≤ 2000px, JPEG ≤ 1.5MB) rồi gửi Groq Vision. Model trả JSON
-   theo schema strict, gồm cả `cardType` và chuỗi `mrz` chép nguyên văn.
+2. Thu nhỏ ảnh (cạnh dài ≤ 2000px, JPEG ≤ 1.5MB) rồi gửi model đọc ảnh theo thứ tự
+   `OCR_PROVIDERS` (mặc định OpenAI `gpt-4.1-mini`, dự phòng Groq). Nhà cung cấp lỗi
+   (hết hạn mức, quá tải, sai key, mất mạng, JSON hỏng) thì tự chuyển sang nhà cung cấp kế tiếp.
+   Model trả JSON theo schema strict, gồm cả `cardType` và chuỗi `mrz` chép nguyên văn.
 3. Kiểm chứng local (`cccd_verify.py`):
    - **QR** (dữ liệu do cơ quan cấp mã hoá): lệch thì **ghi đè** số CCCD, họ tên,
      ngày sinh, giới tính, ngày cấp; ghi vào `corrections`.
@@ -108,4 +112,6 @@ Luồng xử lý:
 Docker lên Render: xem [docs/deploy-render.md](../docs/deploy-render.md).
 
 Ảnh CCCD chỉ xử lý trong RAM, không lưu xuống đĩa; log không chứa dữ liệu cá nhân.
-Lưu ý: ảnh được gửi tới Groq (dịch vụ cloud bên thứ ba).
+Lưu ý: ảnh được gửi tới OpenAI/Groq (dịch vụ cloud bên thứ ba).
+
+`GET /api/health` liệt kê nhà cung cấp OCR đã có key và model đang dùng (không lộ key).

@@ -56,7 +56,8 @@ Model ONNX đã đối chiếu với ultralytics: cùng quyết định 10/10, k
 1. Dashboard → **New** → **Blueprint**.
 2. Chọn repo `hoainxm/id-scan`, nhánh `main`. Render tự đọc `render.yaml` ở gốc repo.
 3. Render hỏi giá trị cho các biến đánh dấu `sync: false`:
-   - `GROQ_API_KEY`: dán Groq key.
+   - `OPENAI_API_KEY`: dán OpenAI key (nhà cung cấp chính).
+   - `GROQ_API_KEY`: dán Groq key (dự phòng; để trống nếu không dùng).
    - `ALLOWED_ORIGINS`: địa chỉ giao diện, ví dụ `https://<domain-vercel-của-bạn>`.
      Nhiều địa chỉ thì cách nhau bằng dấu phẩy, **không có dấu `/` ở cuối**.
 4. Bấm **Apply**. Render build image (khoảng 3-5 phút lần đầu) rồi chạy.
@@ -91,10 +92,18 @@ Thêm **Environment Variables** như bảng ở Bước 2, rồi bấm **Deploy 
 
 | Biến | Bắt buộc | Giá trị | Ghi chú |
 |---|---|---|---|
-| `GROQ_API_KEY` | Có | Groq key | Thiếu thì `/api/ocr-cccd` trả 503 `OCR_NOT_CONFIGURED`, cắt chân dung vẫn chạy |
-| `ALLOWED_ORIGINS` | Có | `https://<domain-vercel-của-bạn>` | Địa chỉ giao diện được gọi API. Thêm `,http://localhost:5500` nếu muốn thử giao diện chạy trên máy |
-| `GROQ_VISION_MODEL` | Không | `qwen/qwen3.8-27b` | Model đọc ảnh của Groq |
+| `OPENAI_API_KEY` | Ít nhất 1 trong 2 key | OpenAI key | Nhà cung cấp đọc ảnh chính |
+| `GROQ_API_KEY` | Ít nhất 1 trong 2 key | Groq key | Dự phòng khi OpenAI lỗi/hết hạn mức. Thiếu cả hai thì `/api/ocr-cccd` trả 503 `OCR_NOT_CONFIGURED`, cắt chân dung vẫn chạy |
+| `OCR_PROVIDERS` | Không | `openai,groq` | Thứ tự thử nhà cung cấp |
+| `OPENAI_VISION_MODEL` | Không | `gpt-4.1-mini` | Model OpenAI đọc ảnh |
+| `OPENAI_IMAGE_DETAIL` | Không | `high` | `low` rẻ hơn nhưng dễ đọc sai chữ nhỏ |
+| `GROQ_VISION_MODEL` | Không | `qwen/qwen3.8-27b` | Model Groq đọc ảnh |
+| `ALLOWED_ORIGINS` | Có | xem Bước 4 | Địa chỉ giao diện được gọi API |
 | `PORT` | Không | Render tự đặt | Không cần khai báo |
+
+Service tạo bằng Blueprint trước đây chưa có các biến OpenAI: vào **Environment** thêm tay
+`OPENAI_API_KEY`, `OPENAI_VISION_MODEL`, `OCR_PROVIDERS` rồi **Save Changes**.
+Kiểm tra: `GET /api/health` liệt kê `ocrProviders` theo thứ tự sẽ dùng.
 
 Không cần `FLASK_HOST`, `FLASK_DEBUG`: trên Render máy chủ chạy bằng gunicorn, không dùng `app.run()`.
 
@@ -148,7 +157,7 @@ https://id-scan-*-hoainxms-projects.vercel.app,https://<domain-production-của-
 - **512MB RAM**: đỉnh đo được 397MB. Nếu Render báo `Out of memory` (Events → "Instance failed"),
   nâng lên gói Starter hoặc Standard.
 - **750 giờ chạy miễn phí mỗi tháng** cho toàn bộ dịch vụ Free của tài khoản.
-- Hạn mức Groq gói miễn phí vẫn là giới hạn chính: khoảng 1 thẻ/phút, 33 thẻ/ngày.
+- Groq gói miễn phí chỉ đủ khoảng 33 thẻ/ngày, nên dùng làm dự phòng; OpenAI là nhà cung cấp chính.
 
 ## Xử lý sự cố
 
@@ -156,10 +165,11 @@ https://id-scan-*-hoainxms-projects.vercel.app,https://<domain-production-của-
 |---|---|---|
 | Deploy báo "Health check failed" | Máy chủ không nghe đúng cổng | Không đặt cứng `PORT`; Dockerfile đã dùng `$PORT` của Render |
 | Logs có `Out of memory` / instance restart | Ảnh quá lớn hoặc nhiều yêu cầu cùng lúc | Nâng gói; giữ `--workers 1` |
-| `503 OCR_NOT_CONFIGURED` | Thiếu `GROQ_API_KEY` | Thêm biến, lưu, chờ Render khởi động lại |
-| `503 GROQ_AUTH` | Key sai hoặc đã thu hồi | Tạo key mới trên Groq |
-| `429 GROQ_RATE_LIMIT` | Hết hạn mức Groq | Chờ hoặc nâng gói Groq |
-| `503 GROQ_UNAVAILABLE` | Groq quá tải | Thử lại sau ít phút |
+| `503 OCR_NOT_CONFIGURED` | Chưa có `OPENAI_API_KEY` lẫn `GROQ_API_KEY` | Thêm biến, lưu, chờ Render khởi động lại |
+| `503 OCR_AUTH` | Key sai, đã thu hồi, hoặc tài khoản OpenAI chưa nạp tiền | Kiểm tra key và Billing |
+| `429 OCR_RATE_LIMIT` | Mọi nhà cung cấp đều hết hạn mức | Chờ, hoặc nâng hạn mức |
+| `503 OCR_UNAVAILABLE` | Nhà cung cấp quá tải | Thử lại sau ít phút |
+| `502 OCR_BAD_REQUEST` | Tên model sai hoặc model không đọc được ảnh | Kiểm tra `OPENAI_VISION_MODEL` / `GROQ_VISION_MODEL` |
 | "Failed to fetch" / "Không kết nối được máy chủ" | `ALLOWED_ORIGINS` không khớp, hoặc máy chủ đang ngủ | Xem Logs có dòng `CORS từ chối origin`; nếu máy chủ ngủ thì đợi 30-60 giây rồi thử lại |
 | Giao diện báo "Chưa cấu hình địa chỉ BE" | Thiếu `API_BASE` trên Vercel | Xem Bước 4, nhớ Redeploy |
 
