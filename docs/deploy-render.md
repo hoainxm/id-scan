@@ -46,8 +46,8 @@ Model ONNX đã đối chiếu với ultralytics: cùng quyết định 10/10, k
    **Only select repositories** → chọn `id-scan`.
 3. Groq API key (lấy tại https://console.groq.com/keys). **Chỉ dán key vào màn hình Render,
    không ghi vào tệp nào trong repo.**
-4. Địa chỉ giao diện trên Vercel, ví dụ `https://id-scan.vercel.app`
-   (Vercel → Project → Settings → Domains).
+4. Địa chỉ giao diện trên Vercel: Vercel → Project → **Settings** → **Domains**.
+   Lưu ý `id-scan.vercel.app` là trang của người khác, không phải project này.
 
 ## Bước 1. Tạo dịch vụ
 
@@ -57,7 +57,7 @@ Model ONNX đã đối chiếu với ultralytics: cùng quyết định 10/10, k
 2. Chọn repo `hoainxm/id-scan`, nhánh `main`. Render tự đọc `render.yaml` ở gốc repo.
 3. Render hỏi giá trị cho các biến đánh dấu `sync: false`:
    - `GROQ_API_KEY`: dán Groq key.
-   - `ALLOWED_ORIGINS`: địa chỉ giao diện, ví dụ `https://id-scan.vercel.app`.
+   - `ALLOWED_ORIGINS`: địa chỉ giao diện, ví dụ `https://<domain-vercel-của-bạn>`.
      Nhiều địa chỉ thì cách nhau bằng dấu phẩy, **không có dấu `/` ở cuối**.
 4. Bấm **Apply**. Render build image (khoảng 3-5 phút lần đầu) rồi chạy.
 
@@ -92,7 +92,7 @@ Thêm **Environment Variables** như bảng ở Bước 2, rồi bấm **Deploy 
 | Biến | Bắt buộc | Giá trị | Ghi chú |
 |---|---|---|---|
 | `GROQ_API_KEY` | Có | Groq key | Thiếu thì `/api/ocr-cccd` trả 503 `OCR_NOT_CONFIGURED`, cắt chân dung vẫn chạy |
-| `ALLOWED_ORIGINS` | Có | `https://id-scan.vercel.app` | Địa chỉ giao diện được gọi API. Thêm `,http://localhost:5500` nếu muốn thử giao diện chạy trên máy |
+| `ALLOWED_ORIGINS` | Có | `https://<domain-vercel-của-bạn>` | Địa chỉ giao diện được gọi API. Thêm `,http://localhost:5500` nếu muốn thử giao diện chạy trên máy |
 | `GROQ_VISION_MODEL` | Không | `qwen/qwen3.8-27b` | Model đọc ảnh của Groq |
 | `PORT` | Không | Render tự đặt | Không cần khai báo |
 

@@ -1,8 +1,10 @@
-# Không upload lên Vercel: ảnh CCCD thật, BE (chạy riêng), dữ liệu gốc lớn
-images/
-BE/
-20250701-main/
-vietnam-administrative-divisions-main/
-docs/
-*.mhtml
-FE/images/portrait_test.jpg
+# Không upload lên Vercel: ảnh CCCD thật, BE (chạy riêng), dữ liệu gốc lớn.
+# Dấu "/" ở đầu = chỉ khớp ở gốc repo. Thiếu nó thì "images/" khớp cả FE/images/
+# (logo) và làm hỏng scripts/build-fe.sh.
+/images/
+/BE/
+/20250701-main/
+/vietnam-administrative-divisions-main/
+/docs/
+/*.mhtml
+/FE/images/portrait_test.jpg
