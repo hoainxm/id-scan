@@ -50,7 +50,20 @@ let state = {
 // BACKEND
 // ============================================================
 
-const API_BASE = "http://localhost:8000";
+// Lấy từ config.js (window.APP_CONFIG.apiBase). Mở ở localhost thì mặc định BE local.
+const IS_LOCALHOST = ["localhost", "127.0.0.1"].includes(location.hostname);
+
+const API_BASE = (
+  window.APP_CONFIG?.apiBase || (IS_LOCALHOST ? "http://localhost:8000" : "")
+).replace(/\/$/, "");
+
+function requireApiBase() {
+  if (!API_BASE) {
+    throw new Error(
+      "Chưa cấu hình địa chỉ BE (biến API_BASE trên Vercel hoặc FE/config.js). Bạn vẫn có thể điền tay.",
+    );
+  }
+}
 
 // ============================================================
 // REQUEST VERSION
@@ -290,6 +303,8 @@ async function uploadPortraitTest(file, requestId) {
 
     console.log("Đang gửi ảnh CCCD để crop chân dung...");
 
+    requireApiBase();
+
     const formData = new FormData();
 
     formData.append("front", file);
@@ -396,6 +411,8 @@ async function scanCCCD(requestId) {
     // ========================================================
     // FORM DATA
     // ========================================================
+
+    requireApiBase();
 
     const formData = new FormData();
 
