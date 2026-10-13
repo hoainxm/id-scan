@@ -153,6 +153,27 @@ def _mrz_date(yymmdd: str, future: bool):
         return None
 
 
+def _fix_filler(line: str, trailing: bool) -> str:
+    """
+    LLM chép MRZ đúng ký tự dữ liệu nhưng hay đếm sai số ký tự đệm "<".
+    Co/giãn dải "<" dài nhất (dòng 3: dải cuối) cho đủ 30 ký tự.
+    Không tự "sửa" dữ liệu: check digit vẫn quyết định MRZ có hợp lệ hay không.
+    """
+    if len(line) == 30:
+        return line
+    if trailing:
+        return line.rstrip("<").ljust(30, "<")[:30]
+
+    runs = list(re.finditer(r"<{2,}", line))
+    if not runs:
+        return line
+    run = max(runs, key=lambda m: m.end() - m.start())
+    new_len = (run.end() - run.start()) + (30 - len(line))
+    if new_len < 1:
+        return line
+    return line[: run.start()] + "<" * new_len + line[run.end():]
+
+
 def parse_mrz(text: str):
     """
     Trả None nếu không có MRZ, ngược lại dict:
@@ -162,6 +183,13 @@ def parse_mrz(text: str):
     lines = [line for line in re.split(r"[\r\n]+", raw) if line]
     if not lines:
         return None
+
+    if len(lines) == 3:
+        lines = [
+            _fix_filler(lines[0], trailing=False),
+            _fix_filler(lines[1], trailing=False),
+            _fix_filler(lines[2], trailing=True),
+        ]
 
     if len(lines) != 3 or any(len(line) != 30 for line in lines):
         return {"valid": False, "errors": ["MRZ không đủ 3 dòng x 30 ký tự"]}
@@ -266,6 +294,9 @@ def verify_ocr_result(data: dict, qr=None, mrz_text: str = "") -> dict:
         qr_status = "matched"
         for field in ("soGiayTo", "hoTen", "ngaySinh", "gioiTinh", "ngayCap"):
             qr_value = qr.get(field, "")
+            # QR lưu họ tên dạng "Nguyễn Văn A"; thẻ in hoa -> giữ kiểu in hoa như OCR.
+            if field == "hoTen" and data.get(field, "").isupper():
+                qr_value = qr_value.upper()
             if qr_value and not _same_text(qr_value, data.get(field, "")):
                 corrections.append({
                     "field": field,
@@ -315,6 +346,13 @@ def verify_ocr_result(data: dict, qr=None, mrz_text: str = "") -> dict:
             warn("soGiayTo", message)
     else:
         warn("soGiayTo", "Không đọc được số định danh")
+
+    # ---------- Trường bắt buộc bị trống ----------
+    for field in ("hoTen", "ngaySinh", "gioiTinh", "ngayCap", "ngayHetHan"):
+        if not data.get(field):
+            warn(field, "Không đọc được, cần nhập tay")
+    if not data["HKTT"].get("diaChiGoc"):
+        warn("HKTT.diaChiGoc", "Không đọc được địa chỉ, cần nhập tay")
 
     # ---------- Logic ngày tháng / giới tính / họ tên ----------
     today = date.today()

@@ -17,6 +17,7 @@ from groq import (
     APIConnectionError,
     AuthenticationError,
     BadRequestError,
+    InternalServerError,
     RateLimitError,
 )
 
@@ -384,6 +385,15 @@ def ocr_cccd():
                 "không hỗ trợ). Kiểm tra GROQ_VISION_MODEL."
             )
         }), 502
+
+    except InternalServerError as e:
+        print("Groq quá tải:", repr(e))
+
+        return jsonify({
+            "success": False,
+            "code": "GROQ_UNAVAILABLE",
+            "message": "Dịch vụ OCR đang quá tải. Vui lòng thử lại sau ít phút."
+        }), 503
 
     except RateLimitError as e:
         print("Groq hết hạn mức OCR:", repr(e))
