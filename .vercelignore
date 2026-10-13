@@ -1,0 +1,8 @@
+# Không upload lên Vercel: ảnh CCCD thật, BE (chạy riêng), dữ liệu gốc lớn
+images/
+BE/
+20250701-main/
+vietnam-administrative-divisions-main/
+docs/
+*.mhtml
+FE/images/portrait_test.jpg

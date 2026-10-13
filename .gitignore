@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 .env
 node_modules/
+# Bản build FE (scripts/build-fe.sh)
+dist/
+.vercel/
