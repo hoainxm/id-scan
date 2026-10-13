@@ -1,101 +1,99 @@
-# BE - Khâu 1: Quét & cắt chân dung từ ảnh CCCD mặt trước
+# BE - Quét CCCD: cắt chân dung + đọc thông tin (OCR) + kiểm chứng
 
 ## Cấu trúc
 
 ```
 BE/
 ├── app.py                       # Flask app, expose API
-├── requirements.txt
+├── requirements.txt             # Python >= 3.10
+├── .env.example                 # Mẫu cấu hình, sao chép thành .env
+├── yolo11n.pt                   # Model YOLO (COCO) dùng tìm "person" trên ảnh thẻ
 ├── services/
-│   └── face_service.py          # Logic phát hiện khuôn mặt (OpenCV Haar Cascade) + cắt ảnh
+│   ├── portrait_service.py      # Cắt ảnh chân dung (YOLO person + Haar face/eye)
+│   ├── groq_cccd.py             # OCR bằng Groq Vision (LLM), schema JSON strict
+│   └── cccd_verify.py           # Kiểm chứng local: QR code, MRZ, cấu trúc số, logic ngày
 └── tests/
-    └── test_face_service.py     # Unit test riêng phần xử lý ảnh (không cần chạy server)
+    ├── test_cccd_verify.py      # QR / MRZ / cấu trúc số / luật kiểm tra (dữ liệu giả)
+    └── test_api.py              # API + pipeline OCR với Groq giả, không gọi mạng
 ```
-
-## Vì sao dùng Haar Cascade (OpenCV) thay vì YOLO ngay từ đầu?
-
-- Haar Cascade có sẵn trong thư viện `opencv-python`, chạy 100% local, **không cần tải model**
-  qua internet — phù hợp để làm khâu đầu tiên nhanh, test được ngay.
-- Với ảnh CCCD/CMND (khuôn mặt rõ, chính diện, nền đơn giản) thì độ chính xác của Haar Cascade
-  là đủ dùng.
-- Nếu sau này cần chính xác hơn (ảnh nghiêng, mờ, ngược sáng...), chỉ cần thay nội dung hàm
-  `detect_largest_face()` trong `services/face_service.py` bằng model YOLO-face, **không phải
-  sửa gì ở app.py hay FE** — vì API trả ra vẫn giữ nguyên format.
 
 ## Cài đặt & chạy
 
 ```bash
 cd BE
-python3 -m venv venv && source venv/bin/activate   # khuyến khích dùng venv
+python3.12 -m venv venv && source venv/bin/activate   # cần Python >= 3.10
 pip install -r requirements.txt
-python3 app.py
+cp .env.example .env          # rồi điền GROQ_API_KEY
+python app.py
 ```
 
-Server chạy ở: `http://localhost:8000`
+Server chạy ở `http://127.0.0.1:8000`. Mặc định chỉ nghe localhost, tắt debug
+(xem `FLASK_HOST`, `FLASK_DEBUG` trong `.env.example`).
 
-## Đã test (tự động, trước khi gộp)
+- Thiếu `GROQ_API_KEY`: server vẫn chạy, `/api/portrait` vẫn dùng được,
+  `/api/ocr-cccd` trả `503 OCR_NOT_CONFIGURED`.
+- CORS chỉ cho phép origin trong `ALLOWED_ORIGINS` (mặc định FE ở cổng 5500).
 
-Chạy: `python3 -m unittest tests.test_face_service -v` (đã chạy — 10/10 test pass):
-- Đọc ảnh hợp lệ / báo lỗi đúng khi ảnh hỏng.
-- Ảnh dự phòng (khi không thấy mặt) luôn ra đúng kích thước vuông.
-- Mã hoá/giải mã base64 PNG round-trip đúng.
-- Cắt ảnh không vỡ khi khung mặt nằm sát biên ảnh.
-- Luồng `extract_portrait()` không văng lỗi (exception) ra ngoài dù ảnh xấu.
-
-Cũng đã test thủ công qua `curl` với server thật:
-- `GET /api/health` → trả `{"status":"ok"}`
-- `POST /api/portrait/extract` thiếu file → lỗi 400 đúng thông báo.
-- Gửi file không phải ảnh / sai định dạng → lỗi rõ ràng, không crash server.
-- Gửi ảnh hợp lệ nhưng không có khuôn mặt thật (ảnh test tổng hợp) → trả về
-  `face_detected: false` kèm ảnh cắt giữa tạm thời, đúng thiết kế fallback.
-
-## ⚠️ Cần bạn test thêm 1 bước bằng ảnh CCCD thật
-
-Vì mình không có internet để tải ảnh mặt người thật vào môi trường này, Haar Cascade
-chưa được test với ảnh khuôn mặt thật. Bạn chạy lệnh sau với 1 ảnh CCCD mặt trước thật
-để kiểm tra:
+## Test
 
 ```bash
-curl -X POST -F "image=@duong_dan_anh_mat_truoc.jpg" http://localhost:8000/api/portrait/extract
+cd BE && python -m pytest tests -v
 ```
 
-Kết quả mong đợi: `"face_detected": true` và `image_base64` là ảnh đã cắt riêng khuôn mặt.
-
-Nếu `face_detected` ra `false` dù ảnh có mặt rõ ràng (ví dụ ảnh quá tối, mặt bị che,
-ảnh nghiêng nhiều), báo lại mình để mình tinh chỉnh tham số (`scaleFactor`, `minNeighbors`)
-hoặc đổi qua YOLO-face cho chính xác hơn.
+Không gọi Groq thật. Test dùng ảnh trong `test_images/` nếu có, thiếu thì tự bỏ qua.
 
 ## API
 
 ### `GET /api/health`
-Kiểm tra server sống.
 
-### `POST /api/portrait/extract`
-- Body: `multipart/form-data`, field `image` = file ảnh (png/jpg/jpeg, tối đa 10MB)
-- Response 200:
+### `POST /api/portrait`
+- Body `multipart/form-data`, field `front` = ảnh mặt trước (JPG/PNG, kiểm tra theo
+  nội dung file nên tên `blob` không đuôi từ camera vẫn được nhận; tối đa 10MB).
+- 200: `{ success, image_base64 (data:image/jpeg), width: 600, height: 770, face, crop, detector }`
+- 422 `code: NO_PORTRAIT`: không thấy chân dung (thường do chọn nhầm ảnh mặt sau).
+
+Cách tìm chân dung:
+1. YOLO tìm `person` (class 0 COCO) → Haar tìm mặt bên trong vùng đó.
+2. Không có `person` → Haar trên toàn ảnh nhưng **bắt buộc thấy mắt** trong khung mặt.
+3. Không thỏa → 422. (Haar trơn bắt nhầm vân tay / MRZ / chip ở mặt sau.)
+
+Đã đo trên 10 ảnh mẫu (5 mặt trước, 5 mặt sau): 10/10 đúng.
+
+### `POST /api/ocr-cccd`
+- Body `multipart/form-data`, field `front` + `back`.
+- 200:
 ```json
 {
   "success": true,
-  "face_detected": true,
-  "image_base64": "data:image/png;base64,....",
-  "message": "Đã phát hiện và cắt chân dung thành công."
+  "data": {
+    "cardType": "old | new | unknown",
+    "soGiayTo": "", "hoDem": "", "ten": "", "hoTen": "", "ngaySinh": "DD/MM/YYYY",
+    "gioiTinh": "", "quocTich": "", "danToc": "", "nguyenQuan": "", "noiSinh": "",
+    "noiCapGiayTo": "", "ngayCap": "", "ngayHetHan": "",
+    "HKTT": { "quocGia": "", "tinh": "", "quanHuyen": "", "phuongXa": "", "soNha": "", "diaChiGoc": "" }
+  },
+  "validation": {
+    "sources": { "qr": "matched | corrected | absent", "mrz": "valid | invalid | absent" },
+    "corrections": [{ "field": "hoTen", "ocrValue": "...", "value": "...", "source": "QR" }],
+    "warnings": [{ "field": "ngayHetHan", "message": "...", "suggestion": "..." }],
+    "needsReview": ["ngayHetHan"]
+  }
 }
 ```
-- Response lỗi (400/413/422): `success: false`, kèm `message` giải thích lý do.
+- Lỗi: 400 (thiếu/sai file), 422, 429 `GROQ_RATE_LIMIT`, 502 `GROQ_BAD_REQUEST`,
+  503 `OCR_NOT_CONFIGURED` / `GROQ_AUTH` / `GROQ_UNREACHABLE`.
 
-## Đã nối vào FE
+Luồng xử lý:
+1. Đọc QR code trên ảnh gốc (local, `zxing-cpp`).
+2. Thu nhỏ ảnh (cạnh dài ≤ 2000px, JPEG ≤ 1.5MB) rồi gửi Groq Vision. Model trả JSON
+   theo schema strict, gồm cả `cardType` và chuỗi `mrz` chép nguyên văn.
+3. Kiểm chứng local (`cccd_verify.py`):
+   - **QR** (dữ liệu do cơ quan cấp mã hoá): lệch thì **ghi đè** số CCCD, họ tên,
+     ngày sinh, giới tính, ngày cấp; ghi vào `corrections`.
+   - **MRZ** (ICAO 9303 TD1): chỉ dùng khi mọi check digit khớp; lệch thì **cảnh báo + gợi ý**.
+   - **Cấu trúc số định danh**: mã tỉnh 001-096, chữ số thứ 4 = giới tính/thế kỷ,
+     chữ số 5-6 = 2 số cuối năm sinh.
+   - **Logic**: định dạng ngày, ngày cấp sau ngày sinh, hết hạn sau ngày cấp, giới tính Nam/Nữ...
 
-`FE/js/components/uploadForm.js` đã được cập nhật: khi bạn chọn/kéo-thả ảnh **mặt trước**
-vào FE, JS sẽ tự gọi `POST http://localhost:8000/api/portrait/extract`, chờ kết quả rồi
-đưa đúng ảnh khuôn mặt đã cắt (không phải cả ảnh CCCD) vào khung tròn avatar phía trên form.
-
-→ Để test đúng luồng đầu-cuối: chạy BE (`python3 app.py`, port 8000) **và** chạy FE
-(`python3 -m http.server 5500` trong thư mục `FE`) cùng lúc, rồi mở `http://localhost:5500`.
-
-Nếu bạn đổi port BE, sửa biến `BE_BASE_URL` ở đầu file `FE/js/components/uploadForm.js`.
-
-## Bước tiếp theo (chưa làm)
-
-Khâu OCR đọc thông tin (họ tên, số CCCD, ngày sinh...) bằng PaddleOCR + YOLO để tự điền
-form — sẽ làm ở component `services/ocr_service.py` riêng, test độc lập rồi mới gộp vào
-`app.py`, giống cách đã làm với khâu chân dung này.
+Ảnh CCCD chỉ xử lý trong RAM, không lưu xuống đĩa; log không chứa dữ liệu cá nhân.
+Lưu ý: ảnh được gửi tới Groq (dịch vụ cloud bên thứ ba).

@@ -118,13 +118,20 @@
               Tải lên ảnh CMND/CCCD
             </div>
 
+            <div
+              id="scanStatus"
+              class="scan-status hidden"
+              role="status"
+              aria-live="polite"
+            ></div>
+
             <!-- ================= MẶT TRƯỚC ================= -->
 
             <label class="upload-box" for="frontImageInput">
               <input
                 type="file"
                 id="frontImageInput"
-                accept=".png,.jpg,.jpeg"
+                accept="image/jpeg,image/png,.png,.jpg,.jpeg"
                 hidden
               />
 
@@ -148,13 +155,21 @@
               </div>
             </label>
 
+            <button
+              type="button"
+              class="btn btn-outline btn-camera"
+              data-camera-side="front"
+            >
+              📷 Chụp mặt trước bằng camera
+            </button>
+
             <!-- ================= MẶT SAU ================= -->
 
             <label class="upload-box" for="backImageInput">
               <input
                 type="file"
                 id="backImageInput"
-                accept=".png,.jpg,.jpeg"
+                accept="image/jpeg,image/png,.png,.jpg,.jpeg"
                 hidden
               />
 
@@ -177,6 +192,14 @@
                 </div>
               </div>
             </label>
+
+            <button
+              type="button"
+              class="btn btn-outline btn-camera"
+              data-camera-side="back"
+            >
+              📷 Chụp mặt sau bằng camera
+            </button>
           </section>
 
           <!-- =====================================================
@@ -199,6 +222,13 @@
             <!-- =================================================
                  FORM
             ================================================== -->
+
+            <div
+              id="ocrReviewBanner"
+              class="ocr-review hidden"
+              role="status"
+              aria-live="polite"
+            ></div>
 
             <form id="profileForm">
               <!-- =================================================
@@ -1051,6 +1081,34 @@
     <!-- =========================================================
          JAVASCRIPT
     ========================================================== -->
+
+    <!-- =========================================================
+         MODAL CHỤP ẢNH BẰNG CAMERA
+    ========================================================== -->
+
+    <div id="cameraModal" class="modal-overlay camera-overlay hidden">
+      <div class="camera-box">
+        <div class="camera-title" id="cameraTitle">Chụp ảnh CCCD</div>
+
+        <div class="camera-view">
+          <video id="cameraVideo" autoplay playsinline muted></video>
+          <div class="camera-guide" aria-hidden="true"></div>
+        </div>
+
+        <div class="camera-hint">
+          Đặt thẻ nằm gọn trong khung, đủ sáng, không bị lóa và rõ chữ.
+        </div>
+
+        <div class="camera-actions">
+          <button type="button" class="btn btn-outline" id="cameraCancelBtn">
+            Huỷ
+          </button>
+          <button type="button" class="btn btn-primary" id="cameraShotBtn">
+            Chụp
+          </button>
+        </div>
+      </div>
+    </div>
 
     <script type="module" src="js/app.js"></script>
   </body>

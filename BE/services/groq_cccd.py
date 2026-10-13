@@ -4,8 +4,12 @@ import base64
 import logging
 from typing import Any
 
+import cv2
+import numpy as np
 from dotenv import load_dotenv
 from groq import Groq
+
+from services.cccd_verify import read_qr, verify_ocr_result
 
 
 # ============================================================
@@ -19,15 +23,25 @@ load_dotenv(os.path.join(BASE_DIR, ".env"))
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+class OCRConfigError(RuntimeError):
+    """Thiếu cấu hình OCR (API key). App trả 503 thay vì sập cả server."""
 
-if not GROQ_API_KEY:
-    raise RuntimeError(
-        "Không tìm thấy GROQ_API_KEY. "
-        "Hãy kiểm tra file BE/.env."
-    )
 
-client = Groq(api_key=GROQ_API_KEY)
+_client = None
+
+
+def _get_client() -> Groq:
+    """Khởi tạo Groq client khi cần, để API chân dung vẫn chạy khi chưa có key."""
+    global _client
+    if _client is None:
+        api_key = os.getenv("GROQ_API_KEY")
+        if not api_key:
+            raise OCRConfigError(
+                "Chưa cấu hình GROQ_API_KEY. Hãy tạo file BE/.env (xem BE/.env.example)."
+            )
+        _client = Groq(api_key=api_key)
+    return _client
+
 
 MODEL_NAME = os.getenv(
     "GROQ_VISION_MODEL",
@@ -61,6 +75,32 @@ def image_to_data_url(image_bytes: bytes, mime_type: str | None = None) -> str:
     return f"data:{detected_mime};base64,{encoded}"
 
 
+# Ảnh điện thoại 3-5MB vượt giới hạn ảnh base64 của Groq và làm OCR chậm.
+# 2000px cạnh dài vẫn đủ nét để đọc MRZ khi thẻ chiếm phần nhỏ khung hình.
+LLM_MAX_SIDE = 2000
+LLM_MAX_BYTES = 1_500_000
+
+
+def prepare_image_for_llm(image_bytes: bytes) -> bytes:
+    """Giải mã (xoay theo EXIF), thu nhỏ nếu quá lớn, nén lại JPEG."""
+    image = cv2.imdecode(np.frombuffer(image_bytes, dtype=np.uint8), cv2.IMREAD_COLOR)
+    if image is None:
+        raise ValueError("Không đọc được ảnh CCCD. Hãy dùng ảnh JPG hoặc PNG.")
+
+    h, w = image.shape[:2]
+    scale = LLM_MAX_SIDE / max(h, w)
+    if scale < 1:
+        image = cv2.resize(image, (int(w * scale), int(h * scale)), interpolation=cv2.INTER_AREA)
+
+    for quality in (90, 80, 70):
+        ok, encoded = cv2.imencode(".jpg", image, [cv2.IMWRITE_JPEG_QUALITY, quality])
+        if ok and len(encoded) <= LLM_MAX_BYTES:
+            break
+    if not ok:
+        raise ValueError("Không thể nén ảnh CCCD.")
+    return encoded.tobytes()
+
+
 # ============================================================
 # JSON SCHEMA
 # ============================================================
@@ -69,6 +109,8 @@ CCCD_SCHEMA = {
     "type": "object",
     "additionalProperties": False,
     "properties": {
+        "cardType": {"type": "string", "enum": ["old", "new", "unknown"]},
+        "mrz": {"type": "string"},
         "soGiayTo": {"type": "string"},
         "hoDem": {"type": "string"},
         "ten": {"type": "string"},
@@ -104,6 +146,8 @@ CCCD_SCHEMA = {
         },
     },
     "required": [
+        "cardType",
+        "mrz",
         "soGiayTo",
         "hoDem",
         "ten",
@@ -149,6 +193,16 @@ I. NHẬN DIỆN LOẠI THẺ VÀ VỊ TRÍ ĐỊA CHỈ
 8. Không lấy thông tin từ ảnh này để thay thế trường khác
    khi chưa xác định được nhãn tương ứng.
 9. Nếu không đọc được, trả chuỗi rỗng "".
+10. cardType:
+    - "old": thẻ có nhãn "Nơi thường trú / Place of residence"
+      (CCCD mẫu 2016 hoặc CCCD gắn chip 2021, tiêu đề "CĂN CƯỚC CÔNG DÂN").
+    - "new": thẻ có nhãn "Nơi cư trú / Place of residence"
+      (Thẻ căn cước mẫu 2024, tiêu đề "CĂN CƯỚC").
+    - "unknown": không xác định được.
+11. mrz: chép NGUYÊN VĂN 3 dòng mã MRZ ở mặt sau (dòng bắt đầu bằng "IDVNM"),
+    mỗi dòng đúng 30 ký tự gồm chữ in hoa, số và "<",
+    các dòng cách nhau bằng ký tự xuống dòng "\\n".
+    Không sửa, không suy luận; đếm đủ ký tự "<". Không có MRZ thì trả "".
 
 II. NGUYÊN TẮC CHUNG
 
@@ -291,6 +345,9 @@ def _normalize_result(data: dict) -> dict:
         for field in TEXT_FIELDS
     }
 
+    card_type = _as_string(data.get("cardType", "")).lower()
+    result["cardType"] = card_type if card_type in ("old", "new") else "unknown"
+
     hktt = data.get("HKTT", {})
     if not isinstance(hktt, dict):
         hktt = {}
@@ -356,16 +413,21 @@ def _normalize_result(data: dict) -> dict:
 
 def extract_cccd(front_bytes: bytes, back_bytes: bytes) -> dict:
     """
-    Nhận bytes ảnh CCCD hai mặt, gọi Groq Vision và trả dict
-    tương thích với API Flask /api/ocr-cccd.
+    Nhận bytes ảnh CCCD hai mặt, gọi Groq Vision rồi kiểm chứng local.
+    Trả { "data": <các trường form>, "validation": <kết quả kiểm chứng> }.
     """
     if not front_bytes:
         raise ValueError("Chưa có ảnh mặt trước CCCD.")
     if not back_bytes:
         raise ValueError("Chưa có ảnh mặt sau CCCD.")
 
-    front_image = image_to_data_url(front_bytes)
-    back_image = image_to_data_url(back_bytes)
+    client = _get_client()
+
+    # QR đọc trên ảnh gốc (độ phân giải cao nhất), trước khi nén gửi đi.
+    qr = read_qr([front_bytes, back_bytes])
+
+    front_image = image_to_data_url(prepare_image_for_llm(front_bytes))
+    back_image = image_to_data_url(prepare_image_for_llm(back_bytes))
 
     try:
         response = client.chat.completions.create(
@@ -442,15 +504,20 @@ def extract_cccd(front_bytes: bytes, back_bytes: bytes) -> dict:
         if not isinstance(data, dict):
             raise ValueError("Kết quả OCR không phải JSON object.")
 
-        result = _normalize_result(data)
-
-        logger.info(
-            "OCR hoàn tất; có số giấy tờ: %s; có địa chỉ gốc: %s",
-            bool(result["soGiayTo"]),
-            bool(result["HKTT"]["diaChiGoc"]),
+        verified = verify_ocr_result(
+            _normalize_result(data),
+            qr=qr,
+            mrz_text=_as_string(data.get("mrz", "")),
         )
-        # Không ghi log ảnh hoặc toàn bộ thông tin cá nhân.
-        return result
+
+        # Không ghi log ảnh hoặc thông tin cá nhân, chỉ ghi trạng thái.
+        logger.info(
+            "OCR hoàn tất; QR: %s; MRZ: %s; số trường cần kiểm tra: %d",
+            verified["validation"]["sources"]["qr"],
+            verified["validation"]["sources"]["mrz"],
+            len(verified["validation"]["needsReview"]),
+        )
+        return verified
 
     except Exception:
         logger.exception("Lỗi khi OCR CCCD bằng Groq.")
