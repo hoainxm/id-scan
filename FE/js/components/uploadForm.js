@@ -123,6 +123,39 @@ async function runTask(message, task) {
   }
 }
 
+// Gửi form tới BE. Lỗi mạng/CORS trình duyệt chỉ báo "Failed to fetch",
+// nên đổi sang thông báo nói rõ cách kiểm tra.
+async function postToApi(path, formData) {
+  let response;
+
+  try {
+    response = await fetch(`${API_BASE}${path}`, {
+      method: "POST",
+      body: formData,
+    });
+  } catch (error) {
+    console.error("Không gọi được BE:", error);
+
+    throw new Error(
+      `Không kết nối được máy chủ ${API_BASE}. Máy chủ có thể đang khởi động ` +
+        `(đợi 30-60 giây rồi thử lại), hoặc chưa cho phép địa chỉ ${location.origin} ` +
+        `(biến ALLOWED_ORIGINS trên Render).`,
+    );
+  }
+
+  let result;
+
+  try {
+    result = await response.json();
+  } catch {
+    throw new Error(
+      `Máy chủ trả lỗi ${response.status} không đúng định dạng. Thử lại sau ít phút.`,
+    );
+  }
+
+  return { response, result };
+}
+
 function friendlyError(result, fallback) {
   if (result?.code === "OCR_NOT_CONFIGURED") {
     return "BE chưa cấu hình GROQ_API_KEY (file BE/.env). Bạn vẫn có thể điền tay.";
@@ -309,12 +342,7 @@ async function uploadPortraitTest(file, requestId) {
 
     formData.append("front", file);
 
-    const response = await fetch(`${API_BASE}/api/portrait`, {
-      method: "POST",
-      body: formData,
-    });
-
-    const result = await response.json();
+    const { response, result } = await postToApi("/api/portrait", formData);
 
     console.log("Kết quả API chân dung:", {
       success: result.success,
@@ -424,12 +452,7 @@ async function scanCCCD(requestId) {
     // GỌI API
     // ========================================================
 
-    const response = await fetch(`${API_BASE}/api/ocr-cccd`, {
-      method: "POST",
-      body: formData,
-    });
-
-    const result = await response.json();
+    const { response, result } = await postToApi("/api/ocr-cccd", formData);
 
     // Không log toàn bộ dữ liệu cá nhân ra console.
     console.log("Kết quả OCR CCCD:", {

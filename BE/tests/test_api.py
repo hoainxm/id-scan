@@ -123,6 +123,20 @@ class TestOcrAPI(unittest.TestCase):
         self.assertIn("mrz", schema["required"])
 
 
+class TestCorsConfig(unittest.TestCase):
+    def test_messy_values_are_normalized(self):
+        for raw in ('https://a.vercel.app/', '"https://a.vercel.app"', " 'https://a.vercel.app/' "):
+            self.assertEqual(app_module.parse_origin(raw), "https://a.vercel.app")
+
+    def test_wildcard_matches_only_own_project(self):
+        pattern = app_module.parse_origin("https://id-scan-*-hoainxms-projects.vercel.app")
+        with mock.patch.object(app_module, "ALLOWED_ORIGINS", [pattern]):
+            self.assertTrue(app_module.origin_allowed("https://id-scan-ctisy4k6d-hoainxms-projects.vercel.app"))
+            self.assertFalse(app_module.origin_allowed("https://evil-hoainxms-projects.vercel.app"))
+            self.assertFalse(app_module.origin_allowed("https://id-scan-x.evil.com"))
+            self.assertFalse(app_module.origin_allowed("https://id-scan-a.b-hoainxms-projects.vercel.app"))
+
+
 class TestConfigHygiene(unittest.TestCase):
     def test_env_example_has_no_secret(self):
         # .env.example được commit: tuyệt đối không chứa key thật.

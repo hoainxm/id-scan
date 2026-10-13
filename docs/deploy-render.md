@@ -125,8 +125,20 @@ Kết quả đúng: `200`. Gửi ảnh mặt sau phải ra `422`.
 2. **Deployments** → bản mới nhất → **Redeploy**. `scripts/build-fe.sh` sẽ ghi địa chỉ này vào `config.js`.
 3. Mở trang Vercel, tải ảnh mặt trước: khung avatar hiện chân dung là đã nối thành công.
 
-Nếu trình duyệt báo lỗi CORS: kiểm tra `ALLOWED_ORIGINS` trên Render khớp **chính xác**
-địa chỉ đang mở (có `https://`, không có `/` ở cuối), rồi lưu biến để Render khởi động lại.
+### Cấu hình `ALLOWED_ORIGINS` (nguyên nhân số 1 của lỗi "Failed to fetch")
+
+Giá trị là danh sách địa chỉ cách nhau bằng dấu phẩy. Khuyên dùng:
+
+```
+https://id-scan-*-hoainxms-projects.vercel.app,https://<domain-production-của-bạn>,http://localhost:5500
+```
+
+- `*` thay cho phần ngẫu nhiên Vercel tạo mỗi lần deploy, nên mọi URL deploy của project đều được phép.
+  `*` chỉ khớp chữ, số và `-`, không khớp dấu `.` nên domain lạ không lọt qua.
+- Máy chủ tự bỏ khoảng trắng, dấu nháy và `/` cuối nếu lỡ nhập thừa.
+- Khi khởi động, Logs trên Render in dòng `CORS cho phép: [...]`. Mỗi yêu cầu bị chặn in
+  `CORS từ chối origin: <địa chỉ>`: chép đúng địa chỉ đó vào `ALLOWED_ORIGINS`.
+- Đổi biến xong phải lưu (**Save Changes**) để Render khởi động lại.
 
 ## Lưu ý về gói Free
 
@@ -148,7 +160,7 @@ Nếu trình duyệt báo lỗi CORS: kiểm tra `ALLOWED_ORIGINS` trên Render 
 | `503 GROQ_AUTH` | Key sai hoặc đã thu hồi | Tạo key mới trên Groq |
 | `429 GROQ_RATE_LIMIT` | Hết hạn mức Groq | Chờ hoặc nâng gói Groq |
 | `503 GROQ_UNAVAILABLE` | Groq quá tải | Thử lại sau ít phút |
-| Trình duyệt báo CORS | `ALLOWED_ORIGINS` không khớp | Xem Bước 4 |
+| "Failed to fetch" / "Không kết nối được máy chủ" | `ALLOWED_ORIGINS` không khớp, hoặc máy chủ đang ngủ | Xem Logs có dòng `CORS từ chối origin`; nếu máy chủ ngủ thì đợi 30-60 giây rồi thử lại |
 | Giao diện báo "Chưa cấu hình địa chỉ BE" | Thiếu `API_BASE` trên Vercel | Xem Bước 4, nhớ Redeploy |
 
 Xem log: trang dịch vụ → **Logs**. Log không chứa dữ liệu cá nhân, chỉ ghi trạng thái

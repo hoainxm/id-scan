@@ -1,4 +1,5 @@
 import os
+import re
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
@@ -30,16 +31,55 @@ app = Flask(__name__)
 
 # Chỉ cho FE đã biết gọi API (ảnh CCCD là dữ liệu cá nhân).
 # Thêm origin khác qua biến môi trường, phân tách bằng dấu phẩy.
+# Hỗ trợ "*" cho phần thay đổi của domain, ví dụ mỗi lần deploy Vercel có URL riêng:
+#   https://id-scan-*-hoainxms-projects.vercel.app
+def parse_origin(value):
+    """Bỏ khoảng trắng, dấu nháy và "/" cuối mà người cấu hình hay nhập thừa."""
+    origin = value.strip().strip("'\"").strip().rstrip("/")
+    if "*" in origin:
+        return re.compile(
+            "^" + re.escape(origin).replace(r"\*", "[a-z0-9-]+") + "$",
+            re.IGNORECASE
+        )
+    return origin
+
+
+def origin_allowed(origin):
+    for allowed in ALLOWED_ORIGINS:
+        if isinstance(allowed, re.Pattern):
+            if allowed.match(origin):
+                return True
+        elif allowed.lower() == origin.lower():
+            return True
+    return False
+
+
 ALLOWED_ORIGINS = [
-    origin.strip()
+    parse_origin(origin)
     for origin in os.getenv(
         "ALLOWED_ORIGINS",
         "http://localhost:5500,http://127.0.0.1:5500"
     ).split(",")
-    if origin.strip()
+    if parse_origin(origin)
 ]
 
 CORS(app, origins=ALLOWED_ORIGINS)
+
+# Ghi ra log khi khởi động để kiểm tra cấu hình trên Render (không phải bí mật).
+print(
+    "CORS cho phép:",
+    [a.pattern if isinstance(a, re.Pattern) else a for a in ALLOWED_ORIGINS],
+    flush=True
+)
+
+
+@app.after_request
+def log_rejected_origin(response):
+    # Trình duyệt chỉ báo "Failed to fetch"; log này cho biết origin nào bị từ chối.
+    origin = request.headers.get("Origin")
+    if origin and not origin_allowed(origin):
+        print("CORS từ chối origin:", origin, flush=True)
+    return response
 
 
 # ============================================================
