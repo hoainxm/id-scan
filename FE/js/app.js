@@ -16,6 +16,7 @@ import {
   renderProfileList,
 } from "./components/profileList.js";
 import { saveProfile, getProfileById } from "./components/storage.js";
+import { renderOCRReview, clearOCRReview } from "./components/ocrReview.js";
 import {
   initAddressData,
   initAddressCombobox,
@@ -156,6 +157,7 @@ function openProfileForEdit(id) {
   }
 
   editingId = id;
+  clearOCRReview();
   setFormData(profile);
   setAvatarImage(profile.portraitDataUrl || null);
 
@@ -1035,10 +1037,16 @@ async function fillFormFromOCR(data) {
 
   const currentAddress = checkCurrentAddress(hktt);
 
-  // Chỉ CCCD cũ mới được phép chạy mapping.
-  // CCCD mới hoặc chưa xác định loại sẽ không chạy mapping.
+  // Chạy mapping địa giới cũ -> mới khi địa chỉ chưa thuộc hệ thống hiện hành và:
+  // - thẻ cũ (BE trả cardType = "old"), hoặc
+  // - địa chỉ còn cấp quận/huyện (đã bỏ từ 01/07/2025). Thẻ căn cước 2024
+  //   cấp trước thời điểm đó vẫn in địa chỉ 3 cấp.
+  const hasDistrictLevel = Boolean(oldDistrict);
+
   const mapping =
-    cccdType === "old" && !currentAddress ? findMappingForHKTT(hktt) : null;
+    !currentAddress && (cccdType === "old" || hasDistrictLevel)
+      ? findMappingForHKTT(hktt)
+      : null;
 
   const mappedOldDistrict =
     mapping?.status === "matched" && mapping.oldDistrict
@@ -1182,14 +1190,10 @@ async function fillFormFromOCR(data) {
 window.addEventListener("cccdOCRCompleted", async (event) => {
   console.log("Nhận kết quả OCR CCCD.");
 
-  console.log(
-    "===== OCR PAYLOAD GỐC =====",
-    JSON.stringify(event.detail, null, 2),
-  );
-
   try {
     const data = normalizeOCRData(event.detail);
     await fillFormFromOCR(data);
+    renderOCRReview(event.detail?._validation);
   } catch (error) {
     console.error("Lỗi xử lý kết quả OCR:", error);
   }

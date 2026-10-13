@@ -11,7 +11,8 @@ FE/
 │   ├── app.js               # File khởi chạy, kết nối các component
 │   └── components/
 │       ├── sidebar.js       # Xử lý tab danh mục giấy tờ (CMND/CCCD, Hộ chiếu...)
-│       ├── uploadForm.js    # Xử lý tải ảnh mặt trước/sau + cập nhật avatar tròn
+│       ├── uploadForm.js    # Tải/kéo-thả/chụp camera ảnh 2 mặt, gọi BE crop chân dung + OCR
+│       ├── ocrReview.js     # Hiển thị kết quả kiểm chứng OCR, tô vàng trường cần xem lại
 │       ├── profileForm.js   # Đọc/ghi dữ liệu form, tự ghép Họ tên & Địa chỉ
 │       ├── profileList.js   # Danh sách hồ sơ: tìm kiếm, chọn, xóa, xuất Excel
 │       └── storage.js       # Lớp lưu trữ tạm (localStorage) — sẽ thay bằng API khi có BE
@@ -29,26 +30,31 @@ Sau đó mở trình duyệt: http://localhost:5500
 
 Cách 2 — dùng VSCode extension "Live Server".
 
-## Luồng hoạt động hiện tại (FE thuần, chưa nối BE)
+## Luồng hoạt động
 
-1. Bấm "Mở Trích xuất tự động từ giấy tờ" → hiện modal trích xuất (giống ảnh mẫu).
-2. Chọn danh mục bên sidebar trái (CMND/CCCD, Hộ chiếu, Bằng cấp, Chứng chỉ, CV).
-3. Tải ảnh mặt trước / mặt sau → ảnh mặt trước sẽ tự hiển thị vào khung tròn avatar phía trên form (chỉ cập nhật ảnh, không tự điền dữ liệu vì OCR chưa nối BE).
-4. Điền tay các trường thông tin (khi có BE + PaddleOCR/YOLO sẽ tự động điền).
-5. Bấm "Lưu vào hồ sơ" → lưu vào danh sách (hiện tại lưu ở localStorage trình duyệt).
-6. Bấm "Danh sách hồ sơ" (góc dưới trái modal) để xem danh sách đã lưu:
-   - Tìm theo họ tên / số giấy tờ
-   - Chọn tất cả / xóa các hồ sơ đã chọn
-   - Mỗi dòng có nút "Sửa" (mở lại form để chỉnh) và "Xóa"
-   - Nút "Xuất file Excel" ở góc dưới phải → tải file .xlsx với dữ liệu chia cột rõ ràng.
+Cần chạy BE (`http://127.0.0.1:8000`, xem `BE/README.md`) cùng lúc với FE.
+Đổi địa chỉ BE: sửa `API_BASE` đầu file `js/components/uploadForm.js`.
 
-## Điểm nối với BE (OCR local: PaddleOCR + YOLO) sau này
+1. Bấm "Mở Trích xuất tự động từ giấy tờ".
+2. Đưa ảnh mặt trước (chọn file, kéo-thả, hoặc nút "📷 Chụp ... bằng camera"):
+   - FE gọi `POST /api/portrait` → ảnh chân dung vào khung tròn avatar.
+   - Chọn nhầm ảnh mặt sau → báo lỗi ngay dưới tiêu đề, không đổi avatar.
+3. Đưa ảnh mặt sau → khi đủ 2 mặt FE gọi `POST /api/ocr-cccd` (song song với crop
+   chân dung nếu vừa đổi mặt trước) và tự điền form.
+   - Dòng trạng thái hiển thị "Đang đọc..." / "Đã đọc xong" / lỗi.
+   - Khung vàng phía trên form liệt kê trường cần kiểm tra (lệch MRZ, sai cấu trúc số,
+     sai logic ngày...) kèm gợi ý; các ô đó được tô vàng, sửa ô thì hết tô.
+   - Trường đã được tự sửa theo QR code trên thẻ cũng được liệt kê.
+4. Địa chỉ HKTT giữ nguyên như trên thẻ. "Chỗ ở hiện nay" được map sang địa giới
+   hành chính mới (`data/addressMapping.json`) khi thẻ là loại cũ (`cardType: "old"`)
+   hoặc địa chỉ còn cấp quận/huyện.
+5. Bấm "Lưu vào hồ sơ" → lưu localStorage. "Danh sách hồ sơ": tìm kiếm, sửa, xoá,
+   xuất Excel.
 
-Chỉ cần sửa trong `js/components/uploadForm.js`, hàm `handleImageSelected`:
-- Gửi file ảnh lên API BE (ví dụ `POST /api/ocr/cccd`).
-- Nhận JSON kết quả OCR trả về.
-- Gọi `setFormData(result)` (từ `profileForm.js`) để tự động điền form.
+Camera cần trang mở qua `http://localhost` hoặc `https` và người dùng cho phép truy cập.
 
-Và trong `js/components/storage.js`, thay các hàm `getAllProfiles/saveProfile/deleteProfiles`
-bằng các lời gọi `fetch()` tới API BE (ví dụ `/api/profiles`), để dữ liệu lưu vào database
-thay vì localStorage — phần giao diện không cần sửa gì thêm.
+## Việc còn lại
+
+`js/components/storage.js` vẫn lưu localStorage (kèm ảnh base64, dễ đầy bộ nhớ trình
+duyệt). Khi có BE lưu hồ sơ, thay các hàm `getAllProfiles/saveProfile/deleteProfiles`
+bằng `fetch()` tới API.

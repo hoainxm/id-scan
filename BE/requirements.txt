@@ -1,3 +1,12 @@
+# Python >= 3.10
 Flask==3.1.3
+flask-cors==6.0.5
 opencv-python==4.13.0.92
 numpy==2.4.4
+ultralytics==8.4.176
+groq==1.7.0
+python-dotenv==1.2.4
+zxing-cpp==3.1.1
+
+# Chỉ dùng để chạy test
+pytest==9.1.1

@@ -1,3 +1,4 @@
+import os
 import cv2
 import base64
 import numpy as np
@@ -8,9 +9,27 @@ from ultralytics import YOLO
 # YOLO MODEL
 # =========================================================
 
-MODEL_PATH = "yolo11n.pt"
+# Đường dẫn tuyệt đối: chạy app.py từ thư mục nào cũng tìm đúng model,
+# tránh việc ultralytics tự tải model từ internet khi không thấy file.
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+MODEL_PATH = os.path.join(BASE_DIR, "yolo11n.pt")
 
-model = YOLO(MODEL_PATH)
+_model = None
+
+
+def get_model():
+    global _model
+    if _model is None:
+        if not os.path.isfile(MODEL_PATH):
+            raise RuntimeError(f"Không tìm thấy model YOLO tại {MODEL_PATH}")
+        _model = YOLO(MODEL_PATH)
+    return _model
+
+
+NO_PORTRAIT_MESSAGE = (
+    "Không tìm thấy ảnh chân dung. Hãy kiểm tra đã chọn đúng ảnh MẶT TRƯỚC "
+    "của CCCD, ảnh rõ nét, đủ sáng và không bị lóa."
+)
 
 
 # =========================================================
@@ -28,7 +47,7 @@ def detect_person(image):
     Sau đó OpenCV sẽ tìm khuôn mặt bên trong vùng person.
     """
 
-    results = model.predict(
+    results = get_model().predict(
         source=image,
         conf=0.20,
         iou=0.45,
@@ -90,11 +109,18 @@ face_cascade = cv2.CascadeClassifier(
 )
 
 
-def detect_face(image):
-    """
-    Tìm khuôn mặt bằng Haar Cascade.
-    Dùng làm fallback / bước xác nhận.
-    """
+EYE_CASCADE_PATH = (
+    cv2.data.haarcascades
+    + "haarcascade_eye_tree_eyeglasses.xml"
+)
+
+eye_cascade = cv2.CascadeClassifier(
+    EYE_CASCADE_PATH
+)
+
+
+def _find_faces(image):
+    """Danh sách khung mặt Haar, lớn nhất trước."""
 
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
@@ -107,24 +133,60 @@ def detect_face(image):
         minSize=(20, 20)
     )
 
-    if len(faces) == 0:
-        return None
-
-    # Chọn khuôn mặt lớn nhất
-    faces = sorted(
-        faces,
+    return sorted(
+        (tuple(int(v) for v in face) for face in faces),
         key=lambda item: item[2] * item[3],
         reverse=True
     )
 
-    x, y, w, h = faces[0]
 
-    return {
-        "x": int(x),
-        "y": int(y),
-        "width": int(w),
-        "height": int(h)
-    }
+def _to_face_info(face):
+    x, y, w, h = face
+    return {"x": x, "y": y, "width": w, "height": h}
+
+
+def _has_eye(image, face):
+    """
+    Xác nhận khung Haar là mặt người thật: phải thấy ít nhất 1 mắt
+    ở nửa trên khung mặt. Haar trơn (minNeighbors=3) bắt nhầm vân tay,
+    dải MRZ, chip ở mặt sau; các vùng đó không có mắt.
+    """
+    x, y, w, h = face
+    roi = cv2.cvtColor(image[y:y + h, x:x + w], cv2.COLOR_BGR2GRAY)
+    upper = roi[: int(h * 0.65)]
+    min_eye = max(8, w // 10)
+    eyes = eye_cascade.detectMultiScale(
+        upper,
+        scaleFactor=1.1,
+        minNeighbors=3,
+        minSize=(min_eye, min_eye)
+    )
+    return len(eyes) > 0
+
+
+def detect_face(image):
+    """
+    Tìm khuôn mặt lớn nhất bằng Haar Cascade (dùng trong vùng YOLO person).
+    """
+
+    faces = _find_faces(image)
+
+    if not faces:
+        return None
+
+    return _to_face_info(faces[0])
+
+
+def detect_face_with_eyes(image):
+    """
+    Fallback khi YOLO không thấy người: chỉ nhận khung Haar có mắt.
+    """
+
+    for face in _find_faces(image):
+        if _has_eye(image, face):
+            return _to_face_info(face)
+
+    return None
 
 
 # =========================================================
@@ -225,6 +287,8 @@ def crop_portrait_from_bytes(file_bytes: bytes):
                 "height": fh
             }
 
+            detector = "yolo+haar"
+
         else:
             # Nếu YOLO tìm person nhưng Haar
             # không tìm được mặt
@@ -237,14 +301,17 @@ def crop_portrait_from_bytes(file_bytes: bytes):
 
     # -----------------------------------------------------
     # 5. Fallback:
-    #    tìm mặt trên toàn bộ ảnh
+    #    tìm mặt trên toàn bộ ảnh, BẮT BUỘC thấy mắt
+    #    (chặn ảnh mặt sau bị nhận nhầm là chân dung)
     # -----------------------------------------------------
 
     if face_info is None:
 
-        face_info = detect_face(
+        face_info = detect_face_with_eyes(
             detect_image
         )
+
+        detector = "haar+eyes"
 
 
     # -----------------------------------------------------
@@ -253,9 +320,7 @@ def crop_portrait_from_bytes(file_bytes: bytes):
 
     if face_info is None:
 
-        raise ValueError(
-            "Không tìm thấy khuôn mặt trên ảnh CCCD"
-        )
+        raise ValueError(NO_PORTRAIT_MESSAGE)
 
 
     # -----------------------------------------------------
@@ -279,11 +344,13 @@ def crop_portrait_from_bytes(file_bytes: bytes):
     # 8. Mở rộng vùng crop
     # -----------------------------------------------------
 
-    left_expand = int(w * 1.0)
-    right_expand = int(w * 1.0)
+    # Ảnh thẻ trên CCCD rộng ~1.8 lần khung mặt Haar;
+    # mở rộng 1.0w mỗi bên (như trước) bị dính chữ "Số/No." bên phải.
+    left_expand = int(w * 0.38)
+    right_expand = int(w * 0.38)
 
-    top_expand = int(h * 1.2)
-    bottom_expand = int(h * 1.5)
+    top_expand = int(h * 0.6)
+    bottom_expand = int(h * 0.75)
 
     x1 = max(
         0,
@@ -461,5 +528,5 @@ def crop_portrait_from_bytes(file_bytes: bytes):
         },
 
         "detector":
-            "YOLO + Haar fallback"
+            detector
     }
