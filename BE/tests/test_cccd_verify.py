@@ -48,7 +48,7 @@ def sample_ocr(**overrides):
         "noiCapGiayTo": "",
         "ngayCap": "01/01/2021",
         "ngayHetHan": "01/01/2030",
-        "HKTT": {"quocGia": "", "tinh": "", "quanHuyen": "", "phuongXa": "", "soNha": "", "diaChiGoc": ""},
+        "HKTT": {"quocGia": "", "tinh": "", "quanHuyen": "", "phuongXa": "", "soNha": "", "diaChiGoc": "Số 1, Phường A, Tỉnh B"},
     }
     data.update(overrides)
     return data
@@ -75,6 +75,20 @@ class TestMRZ(unittest.TestCase):
         mrz = parse_mrz("\n".join(lines))
         self.assertFalse(mrz["valid"])
         self.assertIn("check digit ngày sinh", mrz["errors"])
+
+    def test_llm_miscounted_filler_is_repaired(self):
+        # Lỗi thật gặp khi audit: LLM chép thiếu ký tự "<" (dòng 2 còn 29, dòng 3 còn 28).
+        lines = build_mrz(id12="001090012345").split("\n")
+        lines[1] = lines[1][:18] + lines[1][19:]
+        lines[2] = lines[2][:-2]
+        mrz = parse_mrz("\n".join(lines))
+        self.assertTrue(mrz["valid"], mrz["errors"])
+        self.assertEqual(mrz["soGiayTo"], "001090012345")
+
+    def test_filler_repair_does_not_hide_wrong_digits(self):
+        lines = build_mrz().split("\n")
+        lines[1] = "910101" + lines[1][6:18] + lines[1][19:]  # sai ngày sinh + thiếu "<"
+        self.assertFalse(parse_mrz("\n".join(lines))["valid"])
 
     def test_wrong_shape(self):
         self.assertFalse(parse_mrz("IDVNM123\nabc")["valid"])
@@ -115,13 +129,25 @@ class TestVerify(unittest.TestCase):
 
     def test_qr_overrides_wrong_ocr(self):
         qr = parse_qr_text("001090012345||NGUYỄN VĂN MẪU|01011990|Nam|Số 1, Phường A|01012021")
-        out = verify_ocr_result(sample_ocr(soGiayTo="001090012346", hoTen="NGUYỄN VĂN MẨU", ten="MẨU"), qr=qr)
+        no_address = {"quocGia": "", "tinh": "", "quanHuyen": "", "phuongXa": "", "soNha": "", "diaChiGoc": ""}
+        out = verify_ocr_result(
+            sample_ocr(soGiayTo="001090012346", hoTen="NGUYỄN VĂN MẨU", ten="MẨU", HKTT=no_address), qr=qr
+        )
         self.assertEqual(out["data"]["soGiayTo"], "001090012345")
         self.assertEqual(out["data"]["ten"], "MẪU")
         self.assertEqual(out["data"]["HKTT"]["diaChiGoc"], "Số 1, Phường A")
         self.assertEqual(out["validation"]["sources"]["qr"], "corrected")
         fields = {c["field"] for c in out["validation"]["corrections"]}
         self.assertTrue({"soGiayTo", "hoTen", "HKTT.diaChiGoc"} <= fields)
+
+    def test_qr_name_keeps_uppercase_like_card(self):
+        qr = parse_qr_text("001090012345||Nguyễn Văn Mẫu|01011990|Nam|addr|01012021")
+        out = verify_ocr_result(sample_ocr(hoTen="NGUYỄN VĂN MẨU", ten="MẨU"), qr=qr)
+        self.assertEqual(out["data"]["hoTen"], "NGUYỄN VĂN MẪU")
+
+    def test_empty_required_field_is_flagged(self):
+        out = verify_ocr_result(sample_ocr(ngayCap=""))
+        self.assertIn("ngayCap", out["validation"]["needsReview"])
 
     def test_mrz_flags_but_does_not_override(self):
         out = verify_ocr_result(
@@ -156,7 +182,7 @@ class TestVerify(unittest.TestCase):
         qr = parse_qr_text("001090012399||X Y|01011990|Nam|addr|01012021")
         verify_ocr_result(data, qr=qr)
         self.assertEqual(data["soGiayTo"], "001090012345")
-        self.assertEqual(data["HKTT"]["diaChiGoc"], "")
+        self.assertEqual(data["HKTT"]["diaChiGoc"], "Số 1, Phường A, Tỉnh B")
 
     def test_strip_accents(self):
         self.assertEqual(strip_accents("Đặng Thị Ánh"), "DANG THI ANH")

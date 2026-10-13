@@ -123,6 +123,14 @@ class TestOcrAPI(unittest.TestCase):
         self.assertIn("mrz", schema["required"])
 
 
+class TestConfigHygiene(unittest.TestCase):
+    def test_env_example_has_no_secret(self):
+        # .env.example được commit: tuyệt đối không chứa key thật.
+        for line in (BE_DIR / ".env.example").read_text(encoding="utf-8").splitlines():
+            if line.startswith("GROQ_API_KEY="):
+                self.assertEqual(line, "GROQ_API_KEY=", "Đừng điền key vào .env.example, hãy dùng BE/.env")
+
+
 class TestPrepareImage(unittest.TestCase):
     def test_downscale_large_image(self):
         out = groq_cccd.prepare_image_for_llm(jpeg_bytes(4000, 3000))

@@ -231,6 +231,9 @@ III. THÔNG TIN CÁ NHÂN
 - noiSinh: chỉ đọc trường nơi sinh nếu có nhãn riêng.
 - noiCapGiayTo: cơ quan/nơi cấp.
 - ngayCap: ngày cấp.
+  + CCCD gắn chip 2021: ở MẶT SAU, nhãn "Ngày, tháng, năm / Date, month, year"
+    (ngay trên dòng "CỤC TRƯỞNG CỤC CẢNH SÁT...").
+  + Thẻ căn cước 2024: ở mặt sau, nhãn "Ngày, tháng, năm cấp / Date of issue".
 - ngayHetHan: ngày hết hạn.
 
 QUAN TRỌNG VỀ NGUYÊN QUÁN:
