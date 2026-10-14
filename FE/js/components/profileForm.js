@@ -4,9 +4,23 @@ const form = () => document.getElementById("profileForm");
 // ĐỒNG BỘ ĐỊA CHỈ ĐẦY ĐỦ
 // ============================================================
 
+// Địa chỉ cũ (trước 01/07/2025) còn cấp quận/huyện; địa chỉ mới thì ô này là "Không áp dụng".
+function districtPart(value) {
+  const district = String(value ?? "").trim();
+  return district.toLowerCase() === "không áp dụng" ? "" : district;
+}
+
+function joinAddress(parts) {
+  return parts
+    .map((value) => String(value ?? "").trim())
+    .filter(Boolean)
+    .join(", ");
+}
+
 function rebuildAddressField(suffix) {
   const soNha = document.querySelector(`[name="soNha${suffix}"]`);
   const phuongXa = document.querySelector(`[name="phuongXa${suffix}"]`);
+  const quanHuyen = document.querySelector(`[name="quanHuyen${suffix}"]`);
   const tinh = document.querySelector(
     `[name="${suffix === "HKTT" ? "HKTT_Tinh" : "tinhHienNay"}"]`,
   );
@@ -15,22 +29,25 @@ function rebuildAddressField(suffix) {
   if (!diaChi) return;
 
   // Luôn tạo lại từ các trường thành phần, không nối vào giá trị cũ.
-  diaChi.value = [soNha?.value, phuongXa?.value, tinh?.value]
-    .map((value) => String(value ?? "").trim())
-    .filter(Boolean)
-    .join(", ");
+  diaChi.value = joinAddress([
+    soNha?.value,
+    phuongXa?.value,
+    districtPart(quanHuyen?.value),
+    tinh?.value,
+  ]);
 }
 
 function syncAddress(suffix) {
   const soNha = document.querySelector(`[name="soNha${suffix}"]`);
   const phuongXa = document.querySelector(`[name="phuongXa${suffix}"]`);
+  const quanHuyen = document.querySelector(`[name="quanHuyen${suffix}"]`);
   const tinh = document.querySelector(
     `[name="${suffix === "HKTT" ? "HKTT_Tinh" : "tinhHienNay"}"]`,
   );
 
   const rebuild = () => rebuildAddressField(suffix);
 
-  [soNha, phuongXa, tinh].forEach((field) => {
+  [soNha, phuongXa, quanHuyen, tinh].forEach((field) => {
     if (!field || field.dataset.addressSyncBound === "true") return;
 
     field.addEventListener("input", rebuild);
@@ -125,10 +142,12 @@ export function getFormData() {
   });
 
   // Luôn lưu địa chỉ đầy đủ được ghép từ ba trường thành phần.
-  data.diaChiHKTT = [data.soNhaHKTT, data.phuongXaHKTT, data.HKTT_Tinh]
-    .map((value) => String(value ?? "").trim())
-    .filter(Boolean)
-    .join(", ");
+  data.diaChiHKTT = joinAddress([
+    data.soNhaHKTT,
+    data.phuongXaHKTT,
+    districtPart(data.quanHuyenHKTT),
+    data.HKTT_Tinh,
+  ]);
 
   data.diaChiHienNay = [
     data.soNhaHienNay,

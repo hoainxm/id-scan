@@ -1446,3 +1446,135 @@ select.ocr-warn {
 
   background: #fffbea;
 }
+
+/* =========================================================
+   ĐỊA GIỚI CŨ / MỚI (addressConvert.js)
+   ========================================================= */
+
+.addr-convert {
+  grid-column: 1 / -1;
+
+  display: grid;
+
+  gap: 8px;
+
+  padding: 12px 14px;
+
+  border: 1px solid var(--border);
+
+  border-radius: var(--radius);
+
+  background: var(--bg-gray);
+
+  font-size: 13px;
+}
+
+.addr-convert-head {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  align-items: center;
+
+  gap: 8px;
+}
+
+.addr-convert-title {
+  font-weight: 600;
+}
+
+.addr-convert .chip {
+  display: inline-flex;
+
+  align-items: center;
+
+  padding: 1px 9px;
+
+  border-radius: 999px;
+
+  font-size: 12px;
+
+  font-weight: 600;
+}
+
+.addr-convert .chip.good {
+  background: #e8f5ec;
+
+  color: #1e7b3c;
+}
+
+.addr-convert .chip.warn {
+  background: #fff3d6;
+
+  color: #8a5a00;
+}
+
+.addr-convert .chip.bad {
+  background: #fdecec;
+
+  color: var(--danger);
+}
+
+.addr-convert .chip.info {
+  background: var(--blue-light);
+
+  color: var(--blue-dark);
+}
+
+.addr-convert-text {
+  margin: 0;
+
+  color: var(--text);
+}
+
+.addr-convert-source {
+  color: var(--text-sub);
+}
+
+.addr-convert-options {
+  display: grid;
+
+  gap: 4px;
+}
+
+.addr-convert-option {
+  display: flex;
+
+  align-items: flex-start;
+
+  gap: 8px;
+
+  cursor: pointer;
+}
+
+.addr-convert-actions {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 8px;
+}
+
+.addr-convert-actions .btn {
+  padding: 6px 12px;
+
+  font-size: 13px;
+}
+
+.addr-convert-actions .btn:disabled {
+  opacity: 0.5;
+
+  cursor: not-allowed;
+}
+
+.addr-convert-pref {
+  display: flex;
+
+  align-items: center;
+
+  gap: 6px;
+
+  color: var(--text-sub);
+
+  cursor: pointer;
+}

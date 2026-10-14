@@ -13,6 +13,7 @@ FE/
 │       ├── sidebar.js       # Xử lý tab danh mục giấy tờ (CMND/CCCD, Hộ chiếu...)
 │       ├── uploadForm.js    # Tải/kéo-thả/chụp camera ảnh 2 mặt, gọi BE crop chân dung + OCR
 │       ├── ocrReview.js     # Hiển thị kết quả kiểm chứng OCR, tô vàng trường cần xem lại
+│       ├── addressConvert.js # Khung "Địa giới hành chính": chuyển địa chỉ cũ -> mới theo tuỳ chọn
 │       ├── profileForm.js   # Đọc/ghi dữ liệu form, tự ghép Họ tên & Địa chỉ
 │       ├── profileList.js   # Danh sách hồ sơ: tìm kiếm, chọn, xóa, xuất Excel
 │       └── storage.js       # Lớp lưu trữ tạm (localStorage) — sẽ thay bằng API khi có BE
@@ -45,9 +46,20 @@ Cần chạy BE (`http://127.0.0.1:8000`, xem `BE/README.md`) cùng lúc với F
    - Khung vàng phía trên form liệt kê trường cần kiểm tra (lệch MRZ, sai cấu trúc số,
      sai logic ngày...) kèm gợi ý; các ô đó được tô vàng, sửa ô thì hết tô.
    - Trường đã được tự sửa theo QR code trên thẻ cũng được liệt kê.
-4. Địa chỉ HKTT giữ nguyên như trên thẻ. "Chỗ ở hiện nay" được map sang địa giới
-   hành chính mới (`data/addressMapping.json`) khi thẻ là loại cũ (`cardType: "old"`)
-   hoặc địa chỉ còn cấp quận/huyện.
+4. Địa chỉ HKTT giữ nguyên như trên thẻ (kể cả quận/huyện của địa chỉ cũ). Khung
+   **"Địa giới hành chính"** trong mục HKTT cho biết địa chỉ theo địa giới cũ
+   (trước 01/07/2025) hay mới và địa chỉ mới tương ứng (`data/addressMapping.json`):
+   - **Chuyển HKTT sang địa chỉ mới** ↔ **Khôi phục địa chỉ trên giấy tờ**
+     (địa chỉ gốc lưu kèm hồ sơ ở `diaChiHKTTTrenGiayTo`, `hkttTrenGiayTo`).
+   - **Điền địa chỉ mới vào Chỗ ở hiện nay**.
+   - Xã/phường cũ bị chia cho nhiều đơn vị mới: người dùng chọn trong danh sách.
+   - Tuỳ chọn **tự động điền Chỗ ở hiện nay sau khi quét**: mặc định tắt, nhớ theo trình duyệt.
+   - Sửa tay tỉnh/quận/xã ở HKTT thì khung tự kiểm tra lại.
+
+   Cách xác định: địa chỉ có quận/huyện ghi rõ là địa chỉ cũ, tra bảng chuyển đổi trước
+   (tránh nhầm xã cũ trùng tên xã mới); không có quận/huyện thì kiểm tra danh mục hiện
+   hành trước. Nhận được viết tắt trên thẻ: `P.`, `X.`, `TT.`, `Q.`, `H.`, `TX.`, `TP.`,
+   tỉnh `BRVT`, `TP.HCM`, `HN`, `TTH`.
 5. Bấm "Lưu vào hồ sơ" → lưu localStorage. "Danh sách hồ sơ": tìm kiếm, sửa, xoá,
    xuất Excel.
 

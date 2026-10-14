@@ -18,6 +18,11 @@ import {
 import { saveProfile, getProfileById } from "./components/storage.js";
 import { renderOCRReview, clearOCRReview } from "./components/ocrReview.js";
 import {
+  initAddressConvert,
+  showAddressConversion,
+  resetAddressConvert,
+} from "./components/addressConvert.js";
+import {
   initAddressData,
   initAddressCombobox,
   initCountryCombobox,
@@ -71,6 +76,41 @@ function sameOldProvinceName(ocrProvince, mappingProvince, fullAddress = "") {
   );
 }
 
+// Tên xã giữ nguyên dấu (chỉ bỏ tiền tố), để phân biệt "Hoằng Đông" với "Hoằng Đồng"
+// cùng huyện, vốn trùng nhau khi so không dấu.
+function wardNameWithTones(value) {
+  return String(value ?? "")
+    .normalize("NFC")
+    .toLowerCase()
+    .replace(/^(phường|xã|thị trấn|p\.|x\.|tt\.)\s*/u, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+// Huyện/thành phố cũ có thật trong tỉnh cũ (VD TP. Tuyên Quang thuộc tỉnh Tuyên Quang).
+function isOldDistrictOfProvince(district, province) {
+  const districtKey = normalizeAdministrativeName(district, "district");
+  const provinceKey = normalizeAdministrativeName(province, "province");
+
+  return addressMappingRecords.some(
+    (item) =>
+      normalizeAdministrativeName(item.oldProvince, "province") === provinceKey &&
+      normalizeAdministrativeName(item.oldDistrict, "district") === districtKey,
+  );
+}
+
+// OCR đôi khi chép tên tỉnh vào ô quận/huyện. Chỉ bỏ khi tên đó không phải huyện/thành phố
+// có thật của tỉnh: 476 bản ghi có thành phố trùng tên tỉnh (TP. Tuyên Quang, TP. Vĩnh Long...).
+function isProvinceCopiedAsDistrict(district, province) {
+  return Boolean(
+    district &&
+      province &&
+      normalizeText(normalizeAdministrativeName(district, "district")) ===
+        normalizeText(normalizeAdministrativeName(province, "province")) &&
+      !isOldDistrictOfProvince(district, province),
+  );
+}
+
 function escapeRegExp(value) {
   return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
@@ -104,6 +144,7 @@ function closeExtractModal() {
   editingId = null;
   resetFormData();
   resetUploadState();
+  resetAddressConvert();
 }
 
 document.getElementById("openModalBtn")?.addEventListener("click", () => {
@@ -140,6 +181,7 @@ document.getElementById("createNewBtn")?.addEventListener("click", () => {
   editingId = null;
   resetFormData();
   resetUploadState();
+  resetAddressConvert();
   profileListModal?.classList.add("hidden");
   extractModal?.classList.remove("hidden");
 });
@@ -160,6 +202,7 @@ function openProfileForEdit(id) {
   clearOCRReview();
   setFormData(profile);
   setAvatarImage(profile.portraitDataUrl || null);
+  showAddressConversion(resolveAddressConversion(readHKTTFromForm()));
 
   profileListModal?.classList.add("hidden");
   extractModal?.classList.remove("hidden");
@@ -542,11 +585,7 @@ function parseOldAddress(hktt) {
 
   // So sánh tên tỉnh/huyện sau khi chuẩn hóa văn bản.
   // Nếu huyện trùng tỉnh thì coi như OCR đã điền nhầm.
-  if (
-    rawDistrict &&
-    rawProvince &&
-    normalizeText(rawDistrict) === normalizeText(rawProvince)
-  ) {
+  if (isProvinceCopiedAsDistrict(rawDistrict, rawProvince)) {
     rawDistrict = "";
   }
 
@@ -760,6 +799,8 @@ function findMappingForHKTT(hktt) {
     normalizeAdministrativeName(value, kind);
 
   const wardKey = normalize(parsed.oldWard, "ward");
+  // Tên xã bắt đầu bằng "Phương" (VD Phương Tú) không có tiền tố bị hiểu nhầm là "P. Tú".
+  const wardKeys = new Set([wardKey, normalizeText(parsed.oldWard)]);
   const provinceKey = normalize(parsed.oldProvince, "province");
   const districtKey = normalize(parsed.oldDistrict, "district");
 
@@ -772,7 +813,7 @@ function findMappingForHKTT(hktt) {
 
   // Lọc theo xã/phường cũ trước.
   const wardRecords = addressMappingRecords.filter(
-    (item) => item?.oldWard && normalize(item.oldWard, "ward") === wardKey,
+    (item) => item?.oldWard && wardKeys.has(normalize(item.oldWard, "ward")),
   );
 
   console.log("Số bản ghi khớp xã/phường:", wardRecords.length);
@@ -827,7 +868,18 @@ function findMappingForHKTT(hktt) {
     }
   }
 
-  const targets = uniqueMappingTargets(candidates);
+  let targets = uniqueMappingTargets(candidates);
+
+  if (targets.length > 1) {
+    const toned = wardNameWithTones(parsed.oldWard);
+    const exact = uniqueMappingTargets(
+      candidates.filter((item) => wardNameWithTones(item.oldWard) === toned),
+    );
+
+    if (exact.length === 1) {
+      targets = exact;
+    }
+  }
 
   if (targets.length !== 1) {
     console.warn("Mapping không có một đích duy nhất; không tự chọn.", targets);
@@ -840,6 +892,7 @@ function findMappingForHKTT(hktt) {
         oldWard: item.oldWard || "",
         currentProvince: item.newProvince || "",
         currentWard: item.newWard || "",
+        source: item.source || "",
       })),
     };
   }
@@ -854,8 +907,9 @@ function findMappingForHKTT(hktt) {
 // BUILD FULL ADDRESS
 // ============================================================
 
-function buildFullAddress({ soNha = "", phuongXa = "", tinh = "" }) {
-  return [soNha, phuongXa, tinh]
+function buildFullAddress({ soNha = "", phuongXa = "", quanHuyen = "", tinh = "" }) {
+  // Địa chỉ cũ còn cấp quận/huyện; địa chỉ mới thì ô này là "Không áp dụng".
+  return [soNha, phuongXa, cleanDistrict(quanHuyen), tinh]
     .map((value) => String(value || "").trim())
     .filter(Boolean)
     .join(", ");
@@ -878,6 +932,7 @@ function syncFullAddressFields() {
     hkttFull.value = buildFullAddress({
       soNha: document.getElementById("soNhaHKTT")?.value,
       phuongXa: document.getElementById("phuongXaHKTT")?.value,
+      quanHuyen: document.getElementById("quanHuyenHKTT")?.value,
       tinh: document.getElementById("HKTT_Tinh")?.value,
     });
   }
@@ -912,80 +967,185 @@ function buildCurrentAddressData({
   };
 }
 
-function detectCCCDType(data) {
-  if (!data || typeof data !== "object") {
-    return "unknown";
+// ============================================================
+// CHUYỂN ĐỊA CHỈ CŨ -> MỚI (sắp xếp đơn vị hành chính 01/07/2025)
+// ============================================================
+
+const NOT_APPLICABLE = "Không áp dụng";
+
+function cleanDistrict(value) {
+  const district = String(value ?? "").trim();
+  return normalizeText(district) === normalizeText(NOT_APPLICABLE) ? "" : district;
+}
+
+// Tách "số nhà, xã/phường, [quận/huyện,] tỉnh" theo tên địa giới CŨ trong bảng mapping,
+// dùng khi OCR/người dùng chỉ có chuỗi địa chỉ. Tách theo danh mục hiện hành trước
+// sẽ nhầm xã cũ trùng tên với xã mới thành "địa chỉ hiện hành".
+function splitOldAddressText(text) {
+  const parts = String(text || "")
+    .split(",")
+    .map((part) => part.trim())
+    .filter(Boolean);
+
+  if (parts.length < 2) return null;
+
+  const province = parts[parts.length - 1];
+  const provinceKey = normalizeAdministrativeName(province, "province");
+
+  const inProvince = addressMappingRecords.filter(
+    (item) => normalizeAdministrativeName(item.oldProvince, "province") === provinceKey,
+  );
+
+  if (!inProvince.length) return null;
+
+  const districtKey = normalizeAdministrativeName(parts[parts.length - 2], "district");
+  const hasDistrict =
+    parts.length >= 3 &&
+    inProvince.some(
+      (item) => normalizeAdministrativeName(item.oldDistrict, "district") === districtKey,
+    );
+
+  if (hasDistrict) {
+    return {
+      tinh: province,
+      quanHuyen: parts[parts.length - 2],
+      phuongXa: parts[parts.length - 3],
+      soNha: parts.slice(0, -3).join(", "),
+    };
   }
 
-  // 1. Ưu tiên trường loại giấy tờ do OCR trả về.
-  const explicitType = String(
-    data.loaiCCCD ??
-      data.cccdType ??
-      data.cardType ??
-      data.loaiGiayTo ??
-      data.documentType ??
-      "",
-  )
-    .normalize("NFC")
-    .toLowerCase()
-    .trim();
+  return {
+    tinh: province,
+    quanHuyen: "",
+    phuongXa: parts[parts.length - 2],
+    soNha: parts.slice(0, -2).join(", "),
+  };
+}
 
-  if (
-    explicitType.includes("cmnd") ||
-    explicitType.includes("chứng minh nhân dân") ||
-    explicitType.includes("9 số") ||
-    explicitType.includes("9 digit") ||
-    explicitType.includes("old")
-  ) {
-    return "old";
+function toCurrentTarget(candidate) {
+  const province = findCurrentProvinceFromName(
+    candidate?.currentProvince || candidate?.newProvince,
+  );
+  const ward = province
+    ? findCurrentWard(province, candidate?.currentWard || candidate?.newWard)
+    : null;
+
+  if (!province || !ward) return null;
+
+  return {
+    province,
+    ward,
+    source: String(candidate?.source || "").split(":")[0].trim(),
+  };
+}
+
+/**
+ * Xác định địa chỉ HKTT thuộc địa giới cũ hay mới và địa chỉ mới tương ứng.
+ * Trả { status: "current" | "matched" | "multiple" | "none" | "insufficient",
+ *       targets: [{ province, ward, source }], house, country }
+ */
+function resolveAddressConversion(source) {
+  let hktt = { ...source, quanHuyen: cleanDistrict(getOCRDistrict(source)) };
+
+  if (!getOCRWard(hktt) && hktt.diaChiGoc) {
+    const split = splitOldAddressText(hktt.diaChiGoc);
+    if (split) {
+      hktt = { ...hktt, ...split, soNha: getOCRHouse({ soNha: hktt.soNha }) || split.soNha };
+    }
   }
 
-  if (explicitType.includes("mới") || explicitType.includes("new")) {
-    return "new";
+  const parsed = parseOldAddress(hktt);
+  const country = getOCRCountry(hktt) || "Việt Nam";
+
+  if (!parsed.oldWard || !parsed.oldProvince) {
+    return { status: "insufficient", targets: [], house: parsed.rawHouse, country };
   }
 
-  // 2. CCCD/thẻ căn cước mới thường dùng nhãn "Nơi cư trú".
-  const newAddressLabels = [
-    "Nơi cư trú",
-    "Nơi cư trú:",
-    "noiCuTru",
-    "noiCưTrú",
-  ];
+  // Địa chỉ còn cấp quận/huyện chắc chắn theo địa giới cũ: tra bảng mapping trước.
+  // Nếu kiểm tra "đã là địa chỉ hiện hành" trước, xã cũ trùng tên một xã mới
+  // trong cùng tỉnh (VD Xã Tân Hiệp, Hóc Môn) bị giữ nguyên, ra kết quả sai.
+  // Chỉ tính quận/huyện ghi rõ (ô quận/huyện hoặc tách đúng tỉnh), không tính tên
+  // tình cờ xuất hiện trong chuỗi (VD "Bình Minh, Nghệ An" trùng Thị xã Bình Minh, Vĩnh Long).
+  if (!parsed.rawDistrict) {
+    const current = checkCurrentAddress(hktt);
 
-  if (
-    newAddressLabels.some(
-      (key) =>
-        data[key] !== undefined &&
-        data[key] !== null &&
-        String(data[key]).trim() !== "",
-    )
-  ) {
-    return "new";
+    if (current) {
+      return {
+        status: "current",
+        targets: [{ province: current.province, ward: current.ward, source: "" }],
+        house: cleanCurrentHouseAddress(parsed.rawHouse, parsed.oldWard, "", parsed.oldProvince),
+        country,
+      };
+    }
   }
 
-  // 3. CCCD cũ thường dùng nhãn "Nơi thường trú".
-  const oldAddressLabels = [
-    "Nơi thường trú",
-    "Nơi thường trú:",
-    "noiThuongTru",
-    "noiThườngTrú",
-    "thuongTru",
-  ];
+  const mapping = findMappingForHKTT(hktt);
 
-  if (
-    oldAddressLabels.some(
-      (key) =>
-        data[key] !== undefined &&
-        data[key] !== null &&
-        String(data[key]).trim() !== "",
-    )
-  ) {
-    return "old";
+  const candidates =
+    mapping?.status === "matched" ? [mapping] : mapping?.candidates || [];
+
+  const targets = candidates.map(toCurrentTarget).filter(Boolean);
+
+  const house = cleanCurrentHouseAddress(
+    parsed.rawHouse,
+    parsed.oldWard,
+    parsed.oldDistrict,
+    parsed.oldProvince,
+    mapping?.status === "matched" ? mapping : null,
+  );
+
+  if (!targets.length) {
+    return { status: "none", targets: [], house, country };
   }
 
-  // 4. Kiểm tra các trường thông tin OCR trả về.
-  // Không tự suy luận loại thẻ chỉ dựa vào địa chỉ HKTT.
-  return "unknown";
+  return {
+    status: targets.length === 1 ? "matched" : "multiple",
+    targets,
+    house,
+    country,
+  };
+}
+
+// Đọc địa chỉ HKTT đang có trên form (sau OCR hoặc người dùng tự nhập/sửa).
+function readHKTTFromForm() {
+  const value = (id) => String(document.getElementById(id)?.value ?? "").trim();
+
+  const hktt = {
+    quocGia: value("quocGiaHKTT") || "Việt Nam",
+    tinh: value("HKTT_Tinh"),
+    quanHuyen: cleanDistrict(value("quanHuyenHKTT")),
+    phuongXa: value("phuongXaHKTT"),
+    soNha: value("soNhaHKTT"),
+  };
+
+  // Chuỗi trên giấy tờ chỉ dùng khi các trường thành phần còn thiếu.
+  hktt.diaChiGoc = hktt.phuongXa
+    ? [hktt.soNha, hktt.phuongXa, hktt.quanHuyen, hktt.tinh].filter(Boolean).join(", ")
+    : value("diaChiHKTTTrenGiayTo");
+
+  return hktt;
+}
+
+function applyTargetToHKTT(target, house) {
+  setFormData({
+    HKTT_Tinh: target.province,
+    quanHuyenHKTT: NOT_APPLICABLE,
+    phuongXaHKTT: target.ward,
+    soNhaHKTT: house,
+  });
+  syncFullAddressFields();
+}
+
+function applyTargetToCurrent(target, house, country) {
+  setFormData(
+    buildCurrentAddressData({
+      quocGia: country,
+      tinh: target.province,
+      phuongXa: target.ward,
+      soNha: house,
+    }),
+  );
+  syncFullAddressFields();
 }
 
 // ============================================================
@@ -1005,87 +1165,25 @@ async function fillFormFromOCR(data) {
   const hktt = getOCRAddressSource(data);
   const addressString = String(hktt?.diaChiGoc || hktt?.diaChi || "").trim();
 
+  // OCR chỉ trả chuỗi địa chỉ: tách theo địa giới cũ trước, rồi mới theo danh mục hiện hành.
   if (addressString && (!getOCRProvince(hktt) || !getOCRWard(hktt))) {
-    const parsedCurrentAddress = parseAddressText(addressString);
+    const parsed = splitOldAddressText(addressString) || parseAddressText(addressString);
 
-    if (parsedCurrentAddress) {
-      Object.assign(hktt, parsedCurrentAddress);
-      console.log(
-        "Địa chỉ chuỗi OCR được tách theo dữ liệu hiện hành:",
-        parsedCurrentAddress,
-      );
+    if (parsed) {
+      Object.assign(hktt, parsed, { diaChiGoc: addressString });
     }
   }
 
   const oldProvince = getOCRProvince(hktt);
   const rawOldDistrict = getOCRDistrict(hktt);
 
-  const oldDistrict =
-    rawOldDistrict &&
-    oldProvince &&
-    sameAdminName(rawOldDistrict, oldProvince, "district")
-      ? ""
-      : rawOldDistrict;
+  const oldDistrict = isProvinceCopiedAsDistrict(rawOldDistrict, oldProvince)
+    ? ""
+    : rawOldDistrict;
 
   const oldWard = normalizeOCRWard(getOCRWard(hktt));
   const oldHouse = getOCRHouse(hktt);
   const country = getOCRCountry(hktt);
-
-  const cccdType = detectCCCDType(data);
-
-  console.log("Loại CCCD nhận diện:", cccdType);
-
-  const currentAddress = checkCurrentAddress(hktt);
-
-  // Chạy mapping địa giới cũ -> mới khi địa chỉ chưa thuộc hệ thống hiện hành và:
-  // - thẻ cũ (BE trả cardType = "old"), hoặc
-  // - địa chỉ còn cấp quận/huyện (đã bỏ từ 01/07/2025). Thẻ căn cước 2024
-  //   cấp trước thời điểm đó vẫn in địa chỉ 3 cấp.
-  const hasDistrictLevel = Boolean(oldDistrict);
-
-  const mapping =
-    !currentAddress && (cccdType === "old" || hasDistrictLevel)
-      ? findMappingForHKTT(hktt)
-      : null;
-
-  const mappedOldDistrict =
-    mapping?.status === "matched" && mapping.oldDistrict
-      ? mapping.oldDistrict
-      : oldDistrict;
-
-  const currentHouse = cleanCurrentHouseAddress(
-    oldHouse,
-    oldWard,
-    mappedOldDistrict,
-    oldProvince,
-    mapping?.status === "matched" ? mapping : null,
-  );
-
-  console.log("===== DEBUG ĐỊA CHỈ =====");
-  console.log({
-    oldHouse,
-    oldWard,
-    oldDistrict,
-    oldProvince,
-    mappedOldDistrict,
-    mappingStatus: mapping?.status,
-    mappingOldDistrict: mapping?.oldDistrict,
-    mappingOldWard: mapping?.oldWard,
-    currentWard: mapping?.currentWard,
-    currentProvince: mapping?.currentProvince,
-    currentHouse,
-  });
-
-  console.log("===== KIỂM TRA OCR ĐỊA CHỈ =====");
-  console.log("HKTT gốc:", hktt);
-  console.log("Tỉnh OCR:", oldProvince);
-  console.log("Huyện OCR:", oldDistrict);
-  console.log("Phường/xã OCR:", oldWard);
-  console.log("Địa chỉ OCR:", oldHouse);
-  console.log("Địa chỉ đầy đủ OCR:", hktt?.diaChiGoc || "");
-  console.log("Huyện cũ theo mapping:", mappedOldDistrict);
-  console.log("Địa chỉ cụ thể sau làm sạch:", currentHouse);
-  console.log("Kết quả mapping:", mapping);
 
   const formData = {
     soGiayTo: data.soGiayTo || "",
@@ -1102,85 +1200,33 @@ async function fillFormFromOCR(data) {
     ngayCap: data.ngayCap || "",
     ngayHetHan: data.ngayHetHan || "",
 
-    // Giữ địa chỉ trên giấy tờ ở phần HKTT.
+    // HKTT giữ đúng như trên giấy tờ; chuyển sang địa giới mới là tuỳ chọn của người dùng.
     quocGiaHKTT: country,
     HKTT_Tinh: oldProvince,
     phuongXaHKTT: oldWard,
     soNhaHKTT: oldHouse,
-    quanHuyenHKTT: oldDistrict || "Không áp dụng",
+    quanHuyenHKTT: oldDistrict || NOT_APPLICABLE,
+    diaChiHKTTTrenGiayTo:
+      addressString ||
+      [oldHouse, oldWard, oldDistrict, oldProvince].filter(Boolean).join(", "),
+    hkttTrenGiayTo: "",
+    hkttDaChuyenDoi: "",
+
+    // Chỗ ở hiện nay để trống; điền khi người dùng bấm nút hoặc bật tự động.
+    ...buildCurrentAddressData({ quocGia: country }),
   };
-
-  let currentAddressData = buildCurrentAddressData({
-    quocGia: country,
-    soNha: currentHouse,
-  });
-
-  if (currentAddress) {
-    currentAddressData = buildCurrentAddressData({
-      quocGia: country,
-      tinh: currentAddress.province,
-      phuongXa: currentAddress.ward,
-      soNha: currentHouse,
-    });
-
-    console.log("Địa chỉ đã thuộc hệ thống hiện hành:", currentAddress);
-  } else if (mapping?.status === "matched") {
-    const province = findCurrentProvinceFromName(
-      mapping.currentProvince || mapping.newProvince,
-    );
-
-    const ward = province
-      ? findCurrentWard(province, mapping.currentWard || mapping.newWard)
-      : null;
-
-    if (province && ward) {
-      currentAddressData = buildCurrentAddressData({
-        quocGia: country,
-        tinh: province,
-        phuongXa: ward,
-        soNha: currentHouse,
-      });
-
-      console.log("Mapping đã xác minh:", {
-        province,
-        ward,
-        source: mapping.source,
-        confidence: mapping.confidence,
-      });
-    } else {
-      console.warn(
-        "Đích mapping không khớp hierarchy.json. Không tự đoán địa chỉ mới.",
-        mapping,
-      );
-    }
-  } else if (mapping?.status === "multiple") {
-    console.warn(
-      "Có nhiều địa chỉ đích; không tự chọn để tránh sai.",
-      mapping.candidates,
-    );
-  } else {
-    console.warn(
-      "Không tìm được mapping duy nhất. Giữ nguyên thông tin đã xác định, không tự đoán.",
-    );
-  }
-
-  Object.assign(formData, currentAddressData);
 
   setFormData(formData);
   syncFullAddressFields();
 
-  console.log("HKTT trên giấy tờ:", {
-    province: formData.HKTT_Tinh,
-    ward: formData.phuongXaHKTT,
-    house: formData.soNhaHKTT,
+  const conversion = resolveAddressConversion(readHKTTFromForm());
+
+  console.log("Kết quả đối chiếu địa giới HKTT:", {
+    status: conversion.status,
+    targets: conversion.targets,
   });
 
-  console.log("Chỗ ở hiện nay:", {
-    province: formData.tinhHienNay,
-    ward: formData.phuongXaHienNay,
-    house: formData.soNhaHienNay,
-    fullAddress: formData.diaChiHienNay,
-  });
+  showAddressConversion(conversion, { fromScan: true });
 }
 
 // ============================================================
@@ -1253,6 +1299,13 @@ initProfileList({
 });
 
 initUploadForm();
+
+initAddressConvert({
+  resolve: () => resolveAddressConversion(readHKTTFromForm()),
+  applyToHKTT: applyTargetToHKTT,
+  applyToCurrent: applyTargetToCurrent,
+  sync: syncFullAddressFields,
+});
 
 // ============================================================
 // INITIALIZE ADDRESS DATA

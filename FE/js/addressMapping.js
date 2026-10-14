@@ -22,6 +22,8 @@ export function normalizeAddressText(value) {
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/đ/g, "d")
+    // Dấu nháy trong tên dân tộc (Ea M'nang, Đạ K' Nàng) hay bị OCR đổi kiểu hoặc bỏ.
+    .replace(/['’`]/g, "")
     .replace(/[.,;:()[\]/\\-]+/g, " ")
     .replace(/\s+/g, " ")
     .trim();
@@ -32,18 +34,36 @@ export function normalizeAdministrativeName(value, kind = "") {
 
   if (!text) return "";
 
+  // Gồm cả dạng viết tắt in trên CCCD: "P.", "X.", "TT.", "Q.", "H.", "TX.", "TP."
   const prefixes = {
     province: /^(tinh|thanh pho|tp|city|province)\s+/,
-    district: /^(quan|huyen|thi xa|thanh pho|tp|thi tran|district)\s+/,
-    ward: /^(phuong|p|xa|x|thi tran|ward|commune)\s+/,
+    district: /^(quan|huyen|thi xa|thanh pho|tp|tx|thi tran|q|h|district)\s+/,
+    ward: /^(phuong|p|xa|x|thi tran|tt|ward|commune)\s+/,
   };
 
   if (prefixes[kind]) {
     text = text.replace(prefixes[kind], "");
   }
 
-  return text.trim();
+  text = text.trim();
+
+  if (kind === "province") {
+    text = PROVINCE_ALIASES[text.replace(/\s+/g, "")] || text;
+  }
+
+  return text;
 }
+
+// Tên tỉnh viết tắt hay gặp trên CCCD (so sau khi bỏ dấu, bỏ khoảng trắng).
+// Không đưa các viết tắt mơ hồ như "DN" (Đà Nẵng / Đồng Nai).
+const PROVINCE_ALIASES = {
+  brvt: "ba ria vung tau",
+  hcm: "ho chi minh",
+  tphcm: "ho chi minh",
+  hn: "ha noi",
+  tth: "thua thien hue",
+  tthue: "thua thien hue",
+};
 
 function sameName(a, b, kind = "") {
   const left = normalizeAdministrativeName(a, kind);

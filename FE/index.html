@@ -658,6 +658,19 @@
                 </div>
 
                 <div class="form-grid" id="secHKTT">
+                  <!-- ========== ĐỊA GIỚI CŨ / MỚI (addressConvert.js) ========== -->
+
+                  <div
+                    id="addressConvertPanel"
+                    class="addr-convert hidden"
+                    aria-live="polite"
+                  ></div>
+
+                  <!-- Địa chỉ như trên giấy tờ, giữ lại khi chuyển sang địa giới mới -->
+                  <input type="hidden" id="diaChiHKTTTrenGiayTo" name="diaChiHKTTTrenGiayTo" />
+                  <input type="hidden" id="hkttTrenGiayTo" name="hkttTrenGiayTo" />
+                  <input type="hidden" id="hkttDaChuyenDoi" name="hkttDaChuyenDoi" />
+
                   <!-- ================= QUỐC GIA ================= -->
 
                   <div class="field">
@@ -772,13 +785,13 @@
                   <div class="field">
                     <label for="quanHuyenHKTT"> Quận / Huyện </label>
 
+                    <!-- Sửa được: địa chỉ cũ trên giấy tờ còn cấp quận/huyện -->
                     <input
                       type="text"
                       id="quanHuyenHKTT"
                       name="quanHuyenHKTT"
                       value="Không áp dụng"
-                      readonly
-                      class="readonly-field"
+                      placeholder="Chỉ có ở địa chỉ cũ"
                     />
                   </div>
 
