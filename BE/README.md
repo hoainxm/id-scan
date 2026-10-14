@@ -121,7 +121,7 @@ OpenAI (Standard, USD / 1M token vào / ra); chi phí/thẻ tính từ token đo
 | gpt-5-nano | 0,05 / 0,40 | 40/50 | 1/5 | 5.885 + 1.814 | 27 | 16 s |
 | gpt-4.1-nano | 0,10 / 0,40 | 36/50 | 0/5 | 8.250 + 182 | 24 | 2 s |
 | gpt-4o-mini | 0,15 / 0,60 | 83/100 (2 lượt) | 0/10 | **64.533** + 256 | 261 | 3,9 s |
-| (Groq qwen3.8-27b, đo trước đó) | gói miễn phí | 46/50 sau kiểm chứng | 6/10 | ~5.400 + 340 | 0 | 2-3 s* |
+| (Groq qwen3.8-27b, đo trước đó) | gói miễn phí | 94/100 sau kiểm chứng (2 lượt) | 6/10 | ~5.400 + 340 | 0 | 2-3 s* |
 
 gpt-4o-mini tính token ảnh rất cao (~64.500 token/thẻ so với ~5.000 của model khác) nên đắt nhất dù giá/token thấp.
 
