@@ -1578,3 +1578,32 @@ select.ocr-warn {
 
   cursor: pointer;
 }
+
+/* =========================================================
+   DANH SÁCH CHỌN (choiceField.js)
+   ========================================================= */
+
+.combobox-option .choice-value {
+  flex: 1;
+
+  min-width: 0;
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}
+
+.combobox-option .choice-hint {
+  flex: none;
+
+  margin-left: 8px;
+
+  font-size: 12px;
+
+  color: var(--text-sub);
+}
+
+.combobox-option:hover .choice-hint,
+.combobox-option.active .choice-hint {
+  color: rgba(255, 255, 255, 0.85);
+}

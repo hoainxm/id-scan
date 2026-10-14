@@ -18,6 +18,18 @@ import {
 import { saveProfile, getProfileById } from "./components/storage.js";
 import { renderOCRReview, clearOCRReview } from "./components/ocrReview.js";
 import {
+  initChoiceField,
+  canonicalizeAll,
+} from "./components/choiceField.js";
+import {
+  GENDERS,
+  ETHNIC_GROUPS,
+  COUNTRIES,
+  DOCUMENT_TYPES,
+  PROVINCE_ALIASES,
+  buildIssuers,
+} from "./data/choices.js";
+import {
   initAddressConvert,
   showAddressConversion,
   resetAddressConvert,
@@ -25,7 +37,6 @@ import {
 import {
   initAddressData,
   initAddressCombobox,
-  initCountryCombobox,
   getProvinces,
 } from "./components/addressForm.js";
 import {
@@ -1217,6 +1228,8 @@ async function fillFormFromOCR(data) {
   };
 
   setFormData(formData);
+  // OCR "KINH", "VIET NAM"... về đúng cách ghi trong danh sách chọn.
+  canonicalizeAll();
   syncFullAddressFields();
 
   const conversion = resolveAddressConversion(readHKTTFromForm());
@@ -1300,6 +1313,48 @@ initProfileList({
 
 initUploadForm();
 
+// ============================================================
+// DANH SÁCH CHỌN (dân tộc, quốc tịch, tỉnh/thành...)
+// ============================================================
+
+initChoiceField("gioiTinh", { options: GENDERS });
+initChoiceField("danToc", { options: ETHNIC_GROUPS });
+initChoiceField("quocTich", { options: COUNTRIES });
+initChoiceField("loaiGiayTo", { options: DOCUMENT_TYPES });
+initChoiceField("quocGiaHKTT", { options: COUNTRIES });
+initChoiceField("quocGiaHienNay", { options: COUNTRIES });
+
+function oldProvinceNames() {
+  return [...new Set(addressMappingRecords.map((item) => item.oldProvince).filter(Boolean))];
+}
+
+// Tỉnh/thành hiện hành (34) + tỉnh/thành trước 01/07/2025 (63): nơi sinh, quê quán trên
+// giấy tờ cũ vẫn ghi theo tên tỉnh cũ.
+function provinceSuggestions() {
+  const current = getProvincesSafely().map((item) => item?.name?.local).filter(Boolean);
+  const currentKeys = new Set(current.map((name) => normalizeAdministrativeName(name, "province")));
+
+  const old = oldProvinceNames()
+    .map((name) => name.replace(/^(Tỉnh|Thành phố)\s+/u, ""))
+    .filter((name) => !currentKeys.has(normalizeAdministrativeName(name, "province")))
+    .sort((a, b) => a.localeCompare(b, "vi"));
+
+  return [
+    ...current.map((name) => ({ value: name, aliases: PROVINCE_ALIASES[name] || [] })),
+    ...old.map((name) => ({
+      value: name,
+      aliases: PROVINCE_ALIASES[name] || [],
+      hint: "trước 07/2025",
+    })),
+  ];
+}
+
+function initPlaceChoiceFields() {
+  initChoiceField("noiSinh", { options: provinceSuggestions, segment: "last" });
+  initChoiceField("nguyenQuan", { options: provinceSuggestions, segment: "last" });
+  initChoiceField("noiCapGiayTo", { options: () => buildIssuers(oldProvinceNames()) });
+}
+
 initAddressConvert({
   resolve: () => resolveAddressConversion(readHKTTFromForm()),
   applyToHKTT: applyTargetToHKTT,
@@ -1334,21 +1389,11 @@ async function initAddress() {
     "bản ghi",
   );
 
-  initCountryCombobox({
-    inputId: "quocGiaHKTT",
-    optionsId: "quocGiaHKTTOptions",
-  });
-
   initAddressCombobox({
     provinceInputId: "HKTT_Tinh",
     provinceOptionsId: "HKTT_TinhOptions",
     wardInputId: "phuongXaHKTT",
     wardOptionsId: "phuongXaHKTTOptions",
-  });
-
-  initCountryCombobox({
-    inputId: "quocGiaHienNay",
-    optionsId: "quocGiaHienNayOptions",
   });
 
   initAddressCombobox({
@@ -1357,6 +1402,8 @@ async function initAddress() {
     wardInputId: "phuongXaHienNay",
     wardOptionsId: "phuongXaHienNayOptions",
   });
+
+  initPlaceChoiceFields();
 
   console.log("Khởi tạo dữ liệu địa chỉ hoàn tất.");
 }

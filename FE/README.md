@@ -9,11 +9,13 @@ FE/
 │   └── style.css           # Toàn bộ style, biến màu theo tông xanh MISA
 ├── js/
 │   ├── app.js               # File khởi chạy, kết nối các component
+│   ├── data/choices.js      # Danh sách chọn: 54 dân tộc, ~200 quốc gia, nơi cấp, loại giấy tờ
 │   └── components/
 │       ├── sidebar.js       # Xử lý tab danh mục giấy tờ (CMND/CCCD, Hộ chiếu...)
 │       ├── uploadForm.js    # Tải/kéo-thả/chụp camera ảnh 2 mặt, gọi BE crop chân dung + OCR
 │       ├── ocrReview.js     # Hiển thị kết quả kiểm chứng OCR, tô vàng trường cần xem lại
 │       ├── addressConvert.js # Khung "Địa giới hành chính": chuyển địa chỉ cũ -> mới theo tuỳ chọn
+│       ├── choiceField.js   # Ô nhập có danh sách chọn dùng chung (tìm không dấu, bàn phím)
 │       ├── profileForm.js   # Đọc/ghi dữ liệu form, tự ghép Họ tên & Địa chỉ
 │       ├── profileList.js   # Danh sách hồ sơ: tìm kiếm, chọn, xóa, xuất Excel
 │       └── storage.js       # Lớp lưu trữ tạm (localStorage) — sẽ thay bằng API khi có BE
@@ -60,7 +62,17 @@ Cần chạy BE (`http://127.0.0.1:8000`, xem `BE/README.md`) cùng lúc với F
    (tránh nhầm xã cũ trùng tên xã mới); không có quận/huyện thì kiểm tra danh mục hiện
    hành trước. Nhận được viết tắt trên thẻ: `P.`, `X.`, `TT.`, `Q.`, `H.`, `TX.`, `TP.`,
    tỉnh `BRVT`, `TP.HCM`, `HN`, `TTH`.
-5. Bấm "Lưu vào hồ sơ" → lưu localStorage. "Danh sách hồ sơ": tìm kiếm, sửa, xoá,
+5. Các trường có nhiều giá trị cố định dùng danh sách chọn (`choiceField.js`):
+   giới tính, dân tộc (54), quốc tịch và quốc gia (~200), loại giấy tờ, nơi cấp
+   (Cục CS QLHC về TTXH, Cục CS ĐKQL cư trú, Bộ Công an, Cục QLXNC, công an 63 tỉnh cũ),
+   nơi sinh và nguyên quán (34 tỉnh hiện hành + 29 tỉnh trước 07/2025; chọn chỉ thay phần
+   sau dấu phẩy cuối, VD "Trực Ninh, Nam Đ" -> "Trực Ninh, Nam Định").
+   - Bấm là mở cả danh sách; gõ để lọc không phân biệt dấu, tìm cả tên khác
+     (H'Mông -> Mông, Mỹ -> Hoa Kỳ, BRVT -> Bà Rịa - Vũng Tàu); ↑ ↓ Enter Esc.
+   - Giá trị ngoài danh sách vẫn được giữ.
+   - Giá trị OCR trùng một lựa chọn (không phân biệt hoa thường, dấu) được đổi về cách ghi
+     chuẩn, VD "KINH" -> "Kinh". Tỉnh/thành, xã/phường dùng combobox địa chỉ (`addressForm.js`).
+6. Bấm "Lưu vào hồ sơ" → lưu localStorage. "Danh sách hồ sơ": tìm kiếm, sửa, xoá,
    xuất Excel.
 
 Camera cần trang mở qua `http://localhost` hoặc `https` và người dùng cho phép truy cập.

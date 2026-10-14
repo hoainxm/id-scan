@@ -276,7 +276,29 @@
                   <div class="field">
                     <label for="nguyenQuan"> Nguyên quán </label>
 
-                    <input type="text" id="nguyenQuan" name="nguyenQuan" />
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="nguyenQuan"
+                          name="nguyenQuan"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách tỉnh/thành cho nguyên quán"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="nguyenQuanOptions"></div>
+                    </div>
                   </div>
 
                   <!-- Họ và tên -->
@@ -319,47 +341,7 @@
                         </button>
                       </div>
 
-                      <div class="combobox-options" id="danTocOptions">
-                        <div class="combobox-option">Kinh</div>
-
-                        <div class="combobox-option">Tày</div>
-
-                        <div class="combobox-option">Mường</div>
-
-                        <div class="combobox-option">Dao</div>
-
-                        <div class="combobox-option">Thái</div>
-
-                        <div class="combobox-option">Nùng</div>
-
-                        <div class="combobox-option">Hmông</div>
-
-                        <div class="combobox-option">Khmer</div>
-
-                        <div class="combobox-option">Hoa</div>
-
-                        <div class="combobox-option">Chăm</div>
-
-                        <div class="combobox-option">Gia Rai</div>
-
-                        <div class="combobox-option">Ê Đê</div>
-
-                        <div class="combobox-option">Ba Na</div>
-
-                        <div class="combobox-option">Xơ Đăng</div>
-
-                        <div class="combobox-option">Sán Dìu</div>
-
-                        <div class="combobox-option">Thổ</div>
-
-                        <div class="combobox-option">Cơ Ho</div>
-
-                        <div class="combobox-option">Mạ</div>
-
-                        <div class="combobox-option">Chơ Ro</div>
-
-                        <div class="combobox-option">Khác</div>
-                      </div>
+                      <div class="combobox-options" id="danTocOptions"></div>
                     </div>
                   </div>
 
@@ -389,15 +371,7 @@
                         </button>
                       </div>
 
-                      <div class="combobox-options" id="gioiTinhOptions">
-                        <div class="combobox-option" data-value="Nam">Nam</div>
-
-                        <div class="combobox-option" data-value="Nữ">Nữ</div>
-
-                        <div class="combobox-option" data-value="Khác">
-                          Khác
-                        </div>
-                      </div>
+                      <div class="combobox-options" id="gioiTinhOptions"></div>
                     </div>
                   </div>
 
@@ -427,45 +401,7 @@
                         </button>
                       </div>
 
-                      <div class="combobox-options" id="quocTichOptions">
-                        <div class="combobox-option">Việt Nam</div>
-
-                        <div class="combobox-option">Lào</div>
-
-                        <div class="combobox-option">Trung Quốc</div>
-
-                        <div class="combobox-option">Campuchia</div>
-
-                        <div class="combobox-option">Thái Lan</div>
-
-                        <div class="combobox-option">Myanmar</div>
-
-                        <div class="combobox-option">Malaysia</div>
-
-                        <div class="combobox-option">Singapore</div>
-
-                        <div class="combobox-option">Indonesia</div>
-
-                        <div class="combobox-option">Philippines</div>
-
-                        <div class="combobox-option">Nhật Bản</div>
-
-                        <div class="combobox-option">Hàn Quốc</div>
-
-                        <div class="combobox-option">Hoa Kỳ</div>
-
-                        <div class="combobox-option">Úc</div>
-
-                        <div class="combobox-option">Canada</div>
-
-                        <div class="combobox-option">Pháp</div>
-
-                        <div class="combobox-option">Đức</div>
-
-                        <div class="combobox-option">Anh</div>
-
-                        <div class="combobox-option">Khác</div>
-                      </div>
+                      <div class="combobox-options" id="quocTichOptions"></div>
                     </div>
                   </div>
 
@@ -474,7 +410,29 @@
                   <div class="field">
                     <label for="noiSinh"> Nơi sinh </label>
 
-                    <input type="text" id="noiSinh" name="noiSinh" />
+                    <div class="combobox">
+                      <div class="combobox-input-wrap">
+                        <span class="combobox-search"> ⌕ </span>
+
+                        <input
+                          type="text"
+                          id="noiSinh"
+                          name="noiSinh"
+                          placeholder="Chọn hoặc nhập..."
+                          autocomplete="off"
+                        />
+
+                        <button
+                          type="button"
+                          class="combobox-arrow"
+                          aria-label="Mở danh sách tỉnh/thành cho nơi sinh"
+                        >
+                          ⌄
+                        </button>
+                      </div>
+
+                      <div class="combobox-options" id="noiSinhOptions"></div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -516,25 +474,7 @@
                         </button>
                       </div>
 
-                      <div class="combobox-options" id="loaiGiayToOptions">
-                        <div class="combobox-option">CCCD</div>
-
-                        <div class="combobox-option">CMND</div>
-
-                        <div class="combobox-option">Căn cước</div>
-
-                        <div class="combobox-option">Hộ chiếu</div>
-
-                        <div class="combobox-option">Giấy khai sinh</div>
-
-                        <div class="combobox-option">
-                          Giấy chứng nhận kết hôn
-                        </div>
-
-                        <div class="combobox-option">Giấy phép lái xe</div>
-
-                        <div class="combobox-option">Khác</div>
-                      </div>
+                      <div class="combobox-options" id="loaiGiayToOptions"></div>
                     </div>
                   </div>
 
@@ -564,13 +504,7 @@
                         </button>
                       </div>
 
-                      <div class="combobox-options" id="noiCapGiayToOptions">
-                        <div class="combobox-option">
-                          Cục trưởng Cục Cảnh sát QLHC về trật tự XH
-                        </div>
-
-                        <div class="combobox-option">Bộ Công An</div>
-                      </div>
+                      <div class="combobox-options" id="noiCapGiayToOptions"></div>
                     </div>
                   </div>
 

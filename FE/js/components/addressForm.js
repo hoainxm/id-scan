@@ -800,6 +800,13 @@ export function initAddressCombobox({
     renderProvinces(provinceInput.value);
   });
 
+  // Đã đóng danh sách mà ô vẫn đang focus: bấm lại thì mở lại.
+  provinceInput.addEventListener("click", () => {
+    if (!provinceOptions.classList.contains("show")) {
+      renderProvinces(provinceInput.value);
+    }
+  });
+
   // ===================================================
   // ENTER TỈNH
   // ===================================================
@@ -842,6 +849,12 @@ export function initAddressCombobox({
 
   wardInput.addEventListener("focus", () => {
     renderWards(provinceInput.value, wardInput.value);
+  });
+
+  wardInput.addEventListener("click", () => {
+    if (!wardOptions.classList.contains("show")) {
+      renderWards(provinceInput.value, wardInput.value);
+    }
   });
 
   // ===================================================

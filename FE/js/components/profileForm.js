@@ -111,20 +111,6 @@ export function initProfileForm() {
   // Đồng bộ hai nhóm địa chỉ.
   syncAddress("HKTT");
   syncAddress("HienNay");
-
-  // Khởi tạo các combobox.
-  [
-    "gioiTinh",
-    "danToc",
-    "quocTich",
-    "loaiGiayTo",
-    "noiCapGiayTo",
-    "quocGiaHKTT",
-    "quocGiaHienNay",
-  ].forEach((name) => {
-    const input = profileForm.querySelector(`[name="${name}"]`);
-    if (input) initCombobox(input);
-  });
 }
 
 // ============================================================
@@ -205,9 +191,10 @@ export function resetFormData() {
 
   profileForm.reset();
 
+  // Đóng danh sách chọn (class "show"); không dùng "hidden" vì sẽ ẩn hẳn danh sách.
   profileForm
     .querySelectorAll(".combobox-options")
-    .forEach((options) => options.classList.add("hidden"));
+    .forEach((options) => options.classList.remove("show", "hidden"));
 
   profileForm.querySelectorAll(".combobox").forEach((combobox) => {
     combobox.classList.remove("active");
@@ -215,98 +202,4 @@ export function resetFormData() {
 
   rebuildAddressField("HKTT");
   rebuildAddressField("HienNay");
-}
-
-// ============================================================
-// COMBOBOX
-// ============================================================
-
-function initCombobox(input) {
-  if (!input || input.dataset.comboboxBound === "true") return;
-
-  const wrapper = input.closest(".combobox");
-  if (!wrapper) return;
-
-  const options = wrapper.querySelector(".combobox-options");
-  if (!options) return;
-
-  const items = () =>
-    Array.from(
-      options.querySelectorAll('[role="option"], .combobox-option, li, button'),
-    ).filter((item) => {
-      return !item.classList.contains("hidden");
-    });
-
-  const closeOptions = () => {
-    options.classList.add("hidden");
-    wrapper.classList.remove("active");
-  };
-
-  const openOptions = () => {
-    options.classList.remove("hidden");
-    wrapper.classList.add("active");
-  };
-
-  const filterOptions = () => {
-    const keyword = input.value.trim().toLocaleLowerCase("vi");
-
-    Array.from(options.children).forEach((item) => {
-      const text = (item.textContent || "").trim().toLocaleLowerCase("vi");
-      item.classList.toggle(
-        "hidden",
-        Boolean(keyword) && !text.includes(keyword),
-      );
-    });
-
-    openOptions();
-  };
-
-  input.addEventListener("focus", openOptions);
-  input.addEventListener("click", openOptions);
-  input.addEventListener("input", filterOptions);
-
-  input.addEventListener("keydown", (event) => {
-    const visibleItems = items();
-
-    if (event.key === "Escape") {
-      closeOptions();
-      return;
-    }
-
-    if (event.key === "ArrowDown") {
-      event.preventDefault();
-      openOptions();
-
-      if (visibleItems.length) {
-        visibleItems[0].focus();
-      }
-    }
-  });
-
-  options.addEventListener("click", (event) => {
-    const item = event.target.closest(
-      '[role="option"], .combobox-option, li, button',
-    );
-
-    if (!item || !options.contains(item)) return;
-
-    const value =
-      item.dataset.value ??
-      item.getAttribute("data-value") ??
-      item.textContent?.trim();
-
-    if (value == null) return;
-
-    input.value = String(value).trim();
-    input.dispatchEvent(new Event("change", { bubbles: true }));
-    closeOptions();
-  });
-
-  document.addEventListener("click", (event) => {
-    if (!wrapper.contains(event.target)) {
-      closeOptions();
-    }
-  });
-
-  input.dataset.comboboxBound = "true";
 }
