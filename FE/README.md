@@ -77,6 +77,18 @@ Cần chạy BE (`http://127.0.0.1:8000`, xem `BE/README.md`) cùng lúc với F
 
 Camera cần trang mở qua `http://localhost` hoặc `https` và người dùng cho phép truy cập.
 
+## Nâng cấp chức năng địa chỉ
+
+Đọc [docs/huong-dan-nang-cap-quet-dia-chi.md](../docs/huong-dan-nang-cap-quet-dia-chi.md): luồng dữ liệu,
+thuật toán, các bẫy đã gặp, danh sách việc nâng cấp. Kiểm tra hồi quy trước khi push (Console trên trang):
+
+```js
+const { runAddressAudit } = await import("/tools/address-audit.js");
+await runAddressAudit();
+```
+
+`FE/tools/` chỉ dùng khi phát triển, không được đưa lên Vercel (`scripts/build-fe.sh` không copy).
+
 ## Việc còn lại
 
 `js/components/storage.js` vẫn lưu localStorage (kèm ảnh base64, dễ đầy bộ nhớ trình
